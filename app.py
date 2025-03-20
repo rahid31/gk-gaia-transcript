@@ -32,7 +32,7 @@ def fetch_summary_content(session_id):
     return [entry for entry in summary_data if entry.get("chat_session_id") == session_id]
 
 # Streamlit Page Configuration
-st.set_page_config(layout="centered", initial_sidebar_state="collapsed")
+st.set_page_config(layout="centered", initial_sidebar_state="collapsed", page_icon="data\image\Logo Gokampus.png")
 
 # Get session_id from URL
 query_params = st.query_params
@@ -57,12 +57,12 @@ if session_id:
 
     #Hide Toolbar
     st.markdown("""
-        <style>
-            header { visibility: hidden; }
-            footer { visibility: hidden; }
-            .st-emotion-cache-z5fcl4 { display: none; }  /* Hides Streamlit toolbar */
-        </style>
-        """, unsafe_allow_html=True)
+    <style>
+        header { visibility: hidden; }
+        footer { visibility: hidden; }
+        .st-emotion-cache-z5fcl4 { display: none; }  /* Hides Streamlit toolbar */
+    </style>
+    """, unsafe_allow_html=True)
 
     st.subheader(chat_topic if chat_topic else "GAIA Transcript")
     
