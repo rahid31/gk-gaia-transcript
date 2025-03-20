@@ -5,7 +5,7 @@ import pandas as pd
 
 # Path to the JSON file
 JSON_FILE_PATH_1 = r"data\avatar-log-chat-20250320.json"
-JSON_FILE_PATH_2 = r"data\gaia_summary_content_20250318.json"
+JSON_FILE_PATH_2 = r"data\gaia-summary-content-20250320.json"
 
 # Avatar Icon
 user_url = r"data\image\user-square-1024.webp"
@@ -34,7 +34,7 @@ def fetch_chat_history(session_id):
 def fetch_summary_content(session_id):
     
     if not os.path.exists(JSON_FILE_PATH_2):
-        st.error("Chat data file not found.")
+        st.error("Summary data file not found.")
         return []
     
     with open(JSON_FILE_PATH_2, "r", encoding="utf-8") as file:
@@ -48,6 +48,12 @@ def fetch_summary_content(session_id):
     summary_content = [entry for entry in summary_data if entry.get("chat_session_id") == session_id]
     
     return summary_content
+
+### Page Configuration
+st.set_page_config(
+    layout="centered", # Pick either centered or wide as default 
+    initial_sidebar_state="collapsed" # Sidebar close default
+)
 
 # Get session_id from URL parameters
 query_params = st.query_params
@@ -72,12 +78,6 @@ if session_id:
             summary = summary_content[0].get("summary_content", "Summary not found.")
         else:
             summary = "Summary not found."
-
-### Page Configuration
-        st.set_page_config(
-            layout="centered", # Pick either centered or wide as default 
-            initial_sidebar_state="collapsed" # Sidebar close default
-        )
 
 ### Page UI
         # Title
