@@ -4,8 +4,8 @@ import os
 import pandas as pd
 
 # Path to the JSON file
-JSON_FILE_PATH_1 = r"data\avatar-log-chat-20250320.json"
-JSON_FILE_PATH_2 = r"data\gaia-summary-content-20250320.json"
+JSON_FILE_PATH_1 = "https://github.com/rahid31/gk-gaia-transcript/blob/master/data/avatar-log-chat-20250320.json"
+JSON_FILE_PATH_2 = "https://github.com/rahid31/gk-gaia-transcript/blob/master/data/gaia_summary_content_20250320.json"
 
 # Avatar Icon
 user_url = r"data\image\user-square-1024.webp"
