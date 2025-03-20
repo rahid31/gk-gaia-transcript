@@ -54,20 +54,26 @@ if session_id:
     summary = summary_content[0].get("summary_content", "Summary not found.") if summary_content else "Summary not found."
 
     # Page UI
+
+    #Hide Toolbar
+    st.markdown("""
+        <style>
+            header { visibility: hidden; }
+            footer { visibility: hidden; }
+            .st-emotion-cache-z5fcl4 { display: none; }  /* Hides Streamlit toolbar */
+        </style>
+        """, unsafe_allow_html=True)
+
     st.subheader(chat_topic if chat_topic else "GAIA Transcript")
     
-    st.sidebar.title("Session Details")
-    st.sidebar.write(f"**Session ID:** {session_id}")
-    st.sidebar.write(f"**User:** {user_email}")
-    st.sidebar.write(f"**Created At:** {created_at}")
-
+    st.write("")
     with st.container():
         cols = st.columns([1, 1])
 
         with cols[0]:
             if chat_history:
                 df = pd.DataFrame(chat_history)
-                
+
                 @st.cache_data
                 def convert_df(df):
                     return df.to_csv(index=False).encode("utf-8")
@@ -76,18 +82,25 @@ if session_id:
                 st.download_button("Download CSV", data=csv, file_name=f"gaia_transcript_{session_id}.csv", mime="text/csv")
 
     # Tabs
-    tabs = st.tabs(["Transcript", "Summary"])
-    with tabs[0]:
+    tabs = st.tabs(["Transcript", "Summary", "Session Details"])
+    with tabs[0]: # Transcript Tab
         for chat in chat_history:
             if "user" in chat:
                 with st.chat_message("user", avatar=user_url):
                     st.write(chat["user"])
+                    st.write("")
             if "avatar" in chat:
                 with st.chat_message("assistant", avatar=avatar_url):
                     st.write(chat["avatar"])
+                    st.write("")
 
-    with tabs[1]:
+    with tabs[1]: # Summary Tab
         st.write(summary)
+
+    with tabs[2]: # Session Details Tab
+        st.write(f"**Session ID:** {session_id}")
+        st.write("**User:** test@gokampus.com")
+        st.write(f"**Created At:** {created_at}")
 
     # Footer
     st.divider()
