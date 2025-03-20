@@ -59,10 +59,19 @@ if session_id:
     summary_content = fetch_summary_content(session_id)
     
     if chat_history:
-        created_at = chat_history[0].get("created_at", "Unknown Date")
-        chat_topic = chat_history[0].get("summary_title", "Topic not found.")
-        user_email = chat_history[0].get("user_email", "Email not found.")
-        summary = summary_content[0].get("summary_content", "Summary not found.")
+        if chat_history and isinstance(chat_history[0], dict):
+            created_at = chat_history[0].get("created_at", "Unknown Date")
+            chat_topic = chat_history[0].get("summary_title", "Topic not found.")
+            user_email = chat_history[0].get("user_email", "Email not found.")
+        else:
+            created_at = "Unknown Date"
+            chat_topic = "Topic not found."
+            user_email = "Email not found."
+
+        if summary_content and isinstance(summary_content[0], dict):
+            summary = summary_content[0].get("summary_content", "Summary not found.")
+        else:
+            summary = "Summary not found."
 
 ### Page Configuration
         st.set_page_config(
