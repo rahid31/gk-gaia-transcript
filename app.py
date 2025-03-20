@@ -33,7 +33,7 @@ def fetch_summary_content(session_id):
     return [entry for entry in summary_data if entry.get("chat_session_id") == session_id]
 
 # Streamlit Page Configuration
-st.set_page_config(layout="centered", initial_sidebar_state="collapsed", page_icon=page_icon)
+st.set_page_config(layout="centered", initial_sidebar_state="collapsed", page_icon=page_icon, page_title="goKampus - GAIA Transcript")
 
 # Get session_id from URL
 query_params = st.query_params
@@ -102,7 +102,7 @@ if session_id:
 
     with tabs[2]: # Session Details Tab
         st.write(f"**Session ID:** {session_id}")
-        st.write("**User:** test@gokampus.com")
+        st.write(f"**User:** {user_email}")
         st.write(f"**Created At:** {created_at}")
 
     # Footer
