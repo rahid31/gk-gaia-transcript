@@ -10,6 +10,7 @@ JSON_FILE_PATH_2 = "https://raw.githubusercontent.com/rahid31/gk-gaia-transcript
 # Avatar Icon
 user_url = "data/image/user-square-1024.webp"
 avatar_url = "data/image/Logo GAIA.png"
+page_icon = "data/image/Logo Gokampus.png"
 
 # Function to fetch JSON from GitHub
 def fetch_json(url):
@@ -32,7 +33,7 @@ def fetch_summary_content(session_id):
     return [entry for entry in summary_data if entry.get("chat_session_id") == session_id]
 
 # Streamlit Page Configuration
-st.set_page_config(layout="centered", initial_sidebar_state="collapsed", page_icon="data\image\Logo Gokampus.png")
+st.set_page_config(layout="centered", initial_sidebar_state="collapsed", page_icon=page_icon)
 
 # Get session_id from URL
 query_params = st.query_params
@@ -55,13 +56,15 @@ if session_id:
 
     # Page UI
 
-    #Hide Toolbar
+    #Hide Toolbar & footer
     st.markdown("""
-    <style>
+        <style>
         header { visibility: hidden; }
         footer { visibility: hidden; }
         .st-emotion-cache-z5fcl4 { display: none; }  /* Hides Streamlit toolbar */
-    </style>
+        .viewerBadge_container__1QSob {display: none !important;} /* Hides 'Created by' and 'Hosted by' */
+        .stDeployButton {display: none !important;} /* Hides deploy/share button */
+        </style>
     """, unsafe_allow_html=True)
 
     st.subheader(chat_topic if chat_topic else "GAIA Transcript")
