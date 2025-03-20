@@ -67,8 +67,7 @@ if session_id:
         with cols[0]:
             if chat_history:
                 df = pd.DataFrame(chat_history)
-                st.write(df)
-
+                
                 @st.cache_data
                 def convert_df(df):
                     return df.to_csv(index=False).encode("utf-8")
