@@ -1,0 +1,9 @@
+.env
+**/.env
+
+main_test.py
+
+venv
+**/venv
+
+**/__pycache__
