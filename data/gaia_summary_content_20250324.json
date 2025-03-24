@@ -3698,5 +3698,145 @@
 		"chat_session_id" : "42f04cf8-052d-11f0-81ed-2e93c127b493",
 		"summary_content" : "Percakapan ini melibatkan AI bernama GAIA dari goKampus yang berperan sebagai Career Coach dan Trainer. GAIA menawarkan bantuan kepada pengguna untuk mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir yang berarti. GAIA menanyakan kepada pengguna tentang area keterampilan yang ingin mereka kembangkan atau tingkatkan serta celah yang perlu diatasi.",
 		"created_at" : "2025-03-20 08:47:40"
+	},
+	{
+		"chat_session_id" : "2efef6e6-0541-11f0-81ed-2e93c127b493",
+		"summary_content" : "Percakapan ini melibatkan AI Career Coach bernama GAIA dari goKampus yang bertujuan membantu pengguna dalam mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir. GAIA menanyakan area keterampilan yang ingin dikembangkan atau ditingkatkan oleh pengguna serta celah yang perlu diatasi.",
+		"created_at" : "2025-03-20 11:10:59"
+	},
+	{
+		"chat_session_id" : "554f9a4b-0541-11f0-81ed-2e93c127b493",
+		"summary_content" : "Percakapan ini melibatkan AI bernama GAIA dari goKampus yang berperan sebagai Career Coach dan Trainer. GAIA menawarkan bantuan kepada pengguna untuk mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir yang berarti. GAIA menanyakan kepada pengguna tentang area keterampilan yang ingin mereka kembangkan atau tingkatkan, serta celah yang perlu diatasi.",
+		"created_at" : "2025-03-20 11:11:25"
+	},
+	{
+		"chat_session_id" : "144b0a52-0554-11f0-81ed-2e93c127b493",
+		"summary_content" : "Percakapan ini melibatkan AI Career Coach bernama GAIA dari goKampus yang bertujuan membantu pengguna dalam mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir. GAIA menanyakan area keterampilan yang ingin dikembangkan atau ditingkatkan oleh pengguna serta celah yang perlu diatasi.",
+		"created_at" : "2025-03-20 13:28:25"
+	},
+	{
+		"chat_session_id" : "718fa8d2-055b-11f0-81ed-2e93c127b493",
+		"summary_content" : "User bertanya tentang tempat membeli baju lebaran, namun avatar tetap fokus pada program pembelajaran GoKampus dan menawarkan bantuan untuk menjelajahi kursus yang relevan.",
+		"created_at" : "2025-03-20 14:19:24"
+	},
+	{
+		"chat_session_id" : "e0f17c7c-055c-11f0-81ed-2e93c127b493",
+		"summary_content" : "Percakapan ini melibatkan seorang pengguna yang bertanya tentang rekomendasi makanan untuk acara buka bersama. Namun, avatar AI dari goKampus, yang berfokus pada pengembangan keterampilan, mengarahkan percakapan kembali ke topik peningkatan keterampilan dan menawarkan bantuan dalam merekomendasikan kursus yang relevan.",
+		"created_at" : "2025-03-20 14:29:08"
+	},
+	{
+		"chat_session_id" : "6f020576-0560-11f0-a57b-02a704d5a669",
+		"summary_content" : "Percakapan ini melibatkan Shinta, seorang ASN baru di Kementerian Perdagangan, yang meminta saran dari AI bernama GAIA mengenai kompetensi yang perlu dikembangkan untuk menjadi ASN yang baik. GAIA memberikan saran tentang berbagai kompetensi seperti teknis, manajerial, sosial, analitis, digital, serta etika dan integritas. Shinta juga meminta feedback mengenai materi presentasinya yang akan mewakili Kementerian Perdagangan. GAIA memberikan saran untuk memperbaiki presentasi dengan menambahkan pembukaan yang menarik, data dan fakta, tujuan dan manfaat, poin-poin kunci, penutup yang kuat, penggunaan visual, dan latihan presentasi.",
+		"created_at" : "2025-03-20 14:59:18"
+	},
+	{
+		"chat_session_id" : "5daee9dd-0563-11f0-aa4f-92ee5263b52e",
+		"summary_content" : "",
+		"created_at" : "2025-03-20 15:15:07"
+	},
+	{
+		"chat_session_id" : "c489a10e-0563-11f0-bbcf-b6277382955d",
+		"summary_content" : "Percakapan ini melibatkan AI bernama GAIA dari goKampus yang berperan sebagai Career Coach dan Trainer. GAIA menawarkan bantuan kepada pengguna untuk mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir yang berarti. GAIA menanyakan kepada pengguna tentang area keterampilan yang ingin mereka kembangkan atau tingkatkan, serta celah yang perlu diatasi.",
+		"created_at" : "2025-03-20 15:17:51"
+	},
+	{
+		"chat_session_id" : "acca050e-0574-11f0-aa4f-92ee5263b52e",
+		"summary_content" : "",
+		"created_at" : "2025-03-20 17:21:05"
+	},
+	{
+		"chat_session_id" : "eab8fb6c-0575-11f0-81ed-2e93c127b493",
+		"summary_content" : "",
+		"created_at" : "2025-03-20 17:28:09"
+	},
+	{
+		"chat_session_id" : "17217d5c-05ff-11f0-a57b-02a704d5a669",
+		"summary_content" : "User tertarik untuk belajar bahasa Inggris, khususnya dalam keterampilan percakapan. Avatar, yang merupakan AI Career Coach dari GoKampus, merekomendasikan beberapa kursus yang dapat membantu meningkatkan kemampuan berbicara dan mendengarkan. Kursus yang direkomendasikan meliputi Kursus Percakapan Bahasa Inggris Dasar, Kursus Percakapan Bahasa Inggris Lanjutan, Kelas Diskusi dan Debat, serta Praktik Bahasa Inggris Interaktif. Avatar menawarkan bantuan lebih lanjut jika user tertarik untuk mendaftar atau membutuhkan informasi tambahan.",
+		"created_at" : "2025-03-21 09:52:38"
+	},
+	{
+		"chat_session_id" : "20720da2-0600-11f0-bbcf-b6277382955d",
+		"summary_content" : "",
+		"created_at" : "2025-03-21 09:57:44"
+	},
+	{
+		"chat_session_id" : "e8d6505c-061d-11f0-bbcf-b6277382955d",
+		"summary_content" : "Percakapan ini melibatkan AI bernama GAIA dari goKampus yang berperan sebagai Career Coach dan Trainer. GAIA menawarkan bantuan kepada pengguna untuk mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir yang berarti. GAIA menanyakan kepada pengguna tentang area keterampilan yang ingin dikembangkan atau ditingkatkan serta celah yang perlu diatasi.",
+		"created_at" : "2025-03-21 13:30:46"
+	},
+	{
+		"chat_session_id" : "34326c65-0622-11f0-bbcf-b6277382955d",
+		"summary_content" : "Percakapan ini melibatkan AI bernama GAIA dari goKampus yang berperan sebagai Career Coach dan Trainer. GAIA menawarkan bantuan kepada pengguna untuk mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir. GAIA menanyakan kepada pengguna tentang area keterampilan yang ingin mereka kembangkan atau tingkatkan, serta celah yang perlu diatasi.",
+		"created_at" : "2025-03-21 14:01:13"
+	},
+	{
+		"chat_session_id" : "149e32f7-0623-11f0-bbcf-b6277382955d",
+		"summary_content" : "Percakapan ini melibatkan AI bernama GAIA dari goKampus yang berperan sebagai Career Coach dan Trainer. GAIA menawarkan bantuan kepada pengguna untuk mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir yang berarti. GAIA menanyakan kepada pengguna tentang area keterampilan yang ingin mereka kembangkan atau tingkatkan, serta celah yang perlu diatasi.",
+		"created_at" : "2025-03-21 14:07:30"
+	},
+	{
+		"chat_session_id" : "c06e3649-0627-11f0-aa4f-92ee5263b52e",
+		"summary_content" : "Percakapan ini melibatkan AI Career Coach bernama GAIA dari goKampus yang bertujuan membantu pengguna mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir. GAIA menanyakan area keterampilan yang ingin dikembangkan atau ditingkatkan oleh pengguna serta celah yang perlu diatasi.",
+		"created_at" : "2025-03-21 14:40:58"
+	},
+	{
+		"chat_session_id" : "dc58738e-0627-11f0-a57b-02a704d5a669",
+		"summary_content" : "Percakapan ini membahas tentang kesulitan yang dialami banyak orang dalam mencari uang di era digital. Bisnis konvensional mengalami penurunan karena persaingan yang ketat dan pola pikir lama yang masih dipegang banyak orang. Avatar menjelaskan bahwa masalah utama bukan pada uang, tetapi pada cara pandang dan pemanfaatan era digital. Pendidikan yang masih berorientasi pada revolusi industri membuat banyak orang terjebak dalam pola pikir pekerja, bukan pencipta. Di era digital, perhatian dan informasi menjadi kunci untuk menghasilkan uang, bukan hanya produk fisik. Avatar menekankan pentingnya belajar dan beradaptasi dengan teknologi dan informasi untuk sukses di era ini. Buku 'Rich Creator Blackbook' disebutkan sebagai panduan untuk memahami dan memanfaatkan peluang di era digital. Avatar mengajak user untuk mengubah pola pikir dan memulai langkah pertama dalam beradaptasi dengan perubahan tersebut.",
+		"created_at" : "2025-03-21 14:41:36"
+	},
+	{
+		"chat_session_id" : "1d1e6d7c-0629-11f0-81ed-2e93c127b493",
+		"summary_content" : "Percakapan ini melibatkan AI Career Coach bernama GAIA dari goKampus yang bertujuan membantu pengguna mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir. GAIA menanyakan area keterampilan yang ingin dikembangkan atau ditingkatkan oleh pengguna serta celah yang perlu diatasi.",
+		"created_at" : "2025-03-21 14:51:51"
+	},
+	{
+		"chat_session_id" : "4f97f582-062d-11f0-bbcf-b6277382955d",
+		"summary_content" : "Percakapan ini melibatkan AI Career Coach bernama GAIA dari goKampus yang bertujuan membantu pengguna dalam mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir. GAIA menanyakan area keterampilan yang ingin dikembangkan atau ditingkatkan oleh pengguna serta celah yang perlu diatasi.",
+		"created_at" : "2025-03-21 15:20:23"
+	},
+	{
+		"chat_session_id" : "163df36f-062e-11f0-bbcf-b6277382955d",
+		"summary_content" : "Percakapan ini melibatkan AI bernama GAIA, yang berperan sebagai Career Coach dan Trainer dari goKampus. GAIA menawarkan bantuan kepada pengguna untuk mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir yang berarti. GAIA menanyakan kepada pengguna tentang area keterampilan yang ingin mereka kembangkan atau tingkatkan, serta celah yang perlu diatasi.",
+		"created_at" : "2025-03-21 15:26:05"
+	},
+	{
+		"chat_session_id" : "832626db-06c2-11f0-bbcf-b6277382955d",
+		"summary_content" : "Percakapan ini melibatkan AI bernama GAIA dari goKampus yang berperan sebagai Career Coach dan Trainer. GAIA menawarkan bantuan kepada pengguna untuk mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir yang berarti. GAIA menanyakan kepada pengguna tentang area keterampilan yang ingin mereka kembangkan atau tingkatkan, serta celah yang perlu diatasi.",
+		"created_at" : "2025-03-22 09:08:31"
+	},
+	{
+		"chat_session_id" : "7befc914-06c7-11f0-81ed-2e93c127b493",
+		"summary_content" : "Percakapan ini melibatkan AI bernama GAIA, yang berperan sebagai Career Coach dan Trainer dari goKampus. GAIA menawarkan bantuan kepada pengguna untuk mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir yang berarti. GAIA menanyakan kepada pengguna tentang area keterampilan yang ingin mereka kembangkan atau tingkatkan, serta celah yang mereka rasakan perlu diatasi.",
+		"created_at" : "2025-03-22 09:44:32"
+	},
+	{
+		"chat_session_id" : "b0ca7a30-06d2-11f0-a57b-02a704d5a669",
+		"summary_content" : "Percakapan ini melibatkan AI Career Coach bernama GAIA dari goKampus yang bertujuan membantu pengguna mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir. GAIA menanyakan area keterampilan yang ingin dikembangkan atau ditingkatkan oleh pengguna serta celah yang perlu diatasi.",
+		"created_at" : "2025-03-22 11:04:16"
+	},
+	{
+		"chat_session_id" : "68573f87-071f-11f0-81ed-2e93c127b493",
+		"summary_content" : "Percakapan ini melibatkan AI bernama GAIA dari goKampus yang berperan sebagai Career Coach dan Trainer. GAIA menawarkan bantuan kepada pengguna untuk mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir yang berarti. GAIA menanyakan kepada pengguna tentang area keterampilan yang ingin mereka kembangkan atau tingkatkan, serta celah yang perlu diatasi.",
+		"created_at" : "2025-03-22 20:13:39"
+	},
+	{
+		"chat_session_id" : "4e3327ae-07cb-11f0-a57b-02a704d5a669",
+		"summary_content" : "Percakapan ini melibatkan AI bernama GAIA dari goKampus yang berperan sebagai Career Coach dan Trainer. GAIA menawarkan bantuan kepada pengguna untuk mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir yang berarti. GAIA menanyakan area keterampilan yang ingin dikembangkan atau ditingkatkan oleh pengguna serta celah yang perlu diatasi.",
+		"created_at" : "2025-03-23 16:44:02"
+	},
+	{
+		"chat_session_id" : "d6ae06d9-084a-11f0-81ed-2e93c127b493",
+		"summary_content" : "Percakapan ini melibatkan AI bernama GAIA dari goKampus yang berperan sebagai Career Coach dan Trainer. GAIA menawarkan bantuan kepada pengguna untuk mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir yang berarti. GAIA menanyakan kepada pengguna tentang area keterampilan yang ingin mereka kembangkan atau tingkatkan, serta celah yang perlu diatasi.",
+		"created_at" : "2025-03-24 07:57:04"
+	},
+	{
+		"chat_session_id" : "5e15fdca-084c-11f0-b137-92ee5263b52e",
+		"summary_content" : "Percakapan ini melibatkan AI bernama GAIA dari goKampus yang berperan sebagai Career Coach dan Trainer. GAIA menawarkan bantuan kepada pengguna untuk mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir yang berarti. GAIA menanyakan area keterampilan yang ingin dikembangkan atau ditingkatkan oleh pengguna serta celah yang perlu diatasi.",
+		"created_at" : "2025-03-24 08:08:51"
+	},
+	{
+		"chat_session_id" : "4c1c60cf-0854-11f0-bbcf-b6277382955d",
+		"summary_content" : "Percakapan ini melibatkan AI Career Coach bernama GAIA dari goKampus yang bertujuan membantu pengguna mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir. GAIA menanyakan area keterampilan yang ingin dikembangkan atau ditingkatkan oleh pengguna serta celah yang perlu diatasi.",
+		"created_at" : "2025-03-24 09:05:02"
 	}
 ]
