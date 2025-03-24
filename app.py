@@ -47,12 +47,12 @@ if session_id:
     # Handle missing data
     if chat_history:
         created_at = chat_history[0].get("created_at", "Unknown Date")
-        chat_topic = chat_history[0].get("summary_title", "Topic not found.")
         user_email = chat_history[0].get("user_email", "Email not found.")
     else:
-        created_at, chat_topic, user_email = "Unknown Date", "Topic not found.", "Email not found."
+        created_at, user_email = "Unknown Date", "Email not found."
 
     summary = summary_content[0].get("summary_content", "Summary not found.") if summary_content else "Summary not found."
+    chat_topic = summary_content[0].get("summary_title", "Topic not found.") if summary_content else "Topic not found."
 
     # Page UI
 
