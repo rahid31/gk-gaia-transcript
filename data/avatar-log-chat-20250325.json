@@ -4503,15 +4503,6 @@
 		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
 		"user_email" : "nida+kpk@gokampus.com",
 		"chat_orders" : 1,
-		"user" : "-",
-		"avatar" : "Halo! Saya GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karier dan memberikan panduan mengenai topik profesional yang relevan. Bagaimana saya bisa membantu Anda hari ini?",
-		"created_at" : "2025-01-03 09:31:36",
-		"updated_at" : "2025-01-03 09:31:36"
-	},
-	{
-		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
-		"user_email" : "nida+kpk@gokampus.com",
-		"chat_orders" : 2,
 		"user" : "Halo",
 		"avatar" : "Halo! Saya GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karier dan memberikan panduan mengenai topik profesional yang relevan. Bagaimana saya bisa membantu Anda hari ini?",
 		"created_at" : "2025-01-03 09:31:36",
@@ -4520,7 +4511,7 @@
 	{
 		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
 		"user_email" : "nida+kpk@gokampus.com",
-		"chat_orders" : 3,
+		"chat_orders" : 2,
 		"user" : "Bisamasih tahu sayajenisjenis gratifikasimenurut KPK",
 		"avatar" : "Saya fokus pada pengembangan karier dan pengetahuan profesional. Namun, saya bisa memberi tahu bahwa KPK mengklasifikasikan gratifikasi menjadi dua kategori utama, yaitu:\n\n1. Laporan Wajib (Mandatory Reports): Laporan yang harus disampaikan sesuai dengan ketentuan yang berlaku.\n2. Laporan Tidak Wajib (Non-Mandatory Reports): Laporan yang tidak diwajibkan namun tetap penting untuk dilaporkan.\n\nJika Anda ingin mendalami lebih lanjut tentang topik ini, saya sarankan untuk mencari kursus terkait di platform goKampus. Anda bisa mencari dengan kata kunci \"gratifikasi\" di kolom pencarian. Apakah ada hal lain yang ingin Anda ketahui?",
 		"created_at" : "2025-01-03 09:31:36",
@@ -4529,7 +4520,7 @@
 	{
 		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
 		"user_email" : "nida+kpk@gokampus.com",
-		"chat_orders" : 4,
+		"chat_orders" : 3,
 		"user" : "Apakah kamu mendengar saya?",
 		"avatar" : "Saya tidak dapat mendengar Anda, tetapi saya dapat membaca dan merespons pesan yang Anda kirimkan. Jika ada pertanyaan atau topik yang ingin Anda diskusikan terkait pengembangan karier atau isu profesional lainnya, silakan sampaikan! Saya di sini untuk membantu.",
 		"created_at" : "2025-01-03 09:31:36",
@@ -4538,9 +4529,18 @@
 	{
 		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
 		"user_email" : "nida+kpk@gokampus.com",
-		"chat_orders" : 5,
+		"chat_orders" : 4,
 		"user" : "Bisakah kamu pasti tahu saya jenisjenis gratifikasi menurut",
 		"avatar" : "Saya memahami bahwa Anda ingin mengetahui jenis-jenis gratifikasi menurut KPK. KPK mengklasifikasikan gratifikasi menjadi dua kategori utama:\n\n1. Laporan Wajib (Mandatory Reports): Ini adalah laporan yang harus disampaikan oleh pegawai negeri atau publik sesuai dengan ketentuan yang berlaku.\n2. Laporan Tidak Wajib (Non-Mandatory Reports): Ini adalah laporan yang tidak diwajibkan, tetapi tetap penting untuk dilaporkan guna menjaga integritas dan transparansi.\n\nJika Anda membutuhkan informasi lebih lanjut atau panduan mengenai topik lain yang berkaitan dengan pengembangan karier, silakan beri tahu saya!",
+		"created_at" : "2025-01-03 09:31:36",
+		"updated_at" : "2025-01-03 09:31:36"
+	},
+	{
+		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
+		"user_email" : "nida+kpk@gokampus.com",
+		"chat_orders" : 5,
+		"user" : "-",
+		"avatar" : "Halo! Saya GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karier dan memberikan panduan mengenai topik profesional yang relevan. Bagaimana saya bisa membantu Anda hari ini?",
 		"created_at" : "2025-01-03 09:31:36",
 		"updated_at" : "2025-01-03 09:31:36"
 	},
@@ -15798,7 +15798,7 @@
 		"chat_session_id" : "ef179ff3-eff1-11ef-ac3a-6633f384d596",
 		"user_email" : "bnicorpu.test@gokampus.com",
 		"chat_orders" : 1,
-		"user" : "-",
+		"user" : "Bagaimana sejarah BNI?",
 		"avatar" : "BNI, atau Bank Negara Indonesia, didirikan pada tanggal lima Juli seribu sembilan ratus empat puluh enam. Pada awalnya, BNI berfungsi sebagai bank sentral dan bank komersial yang bertujuan untuk mendukung pengembangan ekonomi Indonesia. \n\nPada tahun seribu sembilan ratus sembilan puluh enam, BNI menjadi bank milik negara pertama yang go public dengan mencatatkan sahamnya di Bursa Efek Jakarta dan Bursa Efek Surabaya. Selama tahun seribu sembilan ratus enam puluhan, BNI berperan dalam meningkatkan ekonomi Indonesia dan mendukung pembangunan ekonomi nasional.\n\nPada tahun seribu sembilan ratus sembilan puluh dua, BNI bertransformasi menjadi perusahaan terbatas (PT Persero) sesuai dengan regulasi perbankan. Dalam perjalanan sejarahnya, BNI telah melakukan berbagai langkah strategis, termasuk recapitalization pada tahun seribu sembilan ratus sembilan puluh sembilan, divestasi saham pemerintah pada tahun dua ribu tujuh, dan penerbitan hak memesan efek terlebih dahulu pada tahun dua ribu sepuluh.\n\nBNI juga memiliki beberapa anak perusahaan, seperti BNI Multifinance, BNI Sekuritas, dan BNI Life Insurance, serta beroperasi secara internasional dengan membuka cabang pertamanya di Singapura pada tahun seribu sembilan ratus lima puluh lima.\n\nSaat ini, BNI adalah salah satu bank terbesar di Indonesia, dengan visi untuk menjadi lembaga keuangan yang unggul dalam pelayanan dan kinerja. Jika Anda ingin tahu lebih lanjut tentang aspek tertentu dari sejarah BNI, jangan ragu untuk bertanya!",
 		"created_at" : "2025-02-21 08:22:52",
 		"updated_at" : "2025-02-21 08:22:52"
@@ -15807,8 +15807,8 @@
 		"chat_session_id" : "ef179ff3-eff1-11ef-ac3a-6633f384d596",
 		"user_email" : "bnicorpu.test@gokampus.com",
 		"chat_orders" : 2,
-		"user" : "Bagaimana sejarah BNI?",
-		"avatar" : "BNI, atau Bank Negara Indonesia, didirikan pada tanggal lima Juli seribu sembilan ratus empat puluh enam. Pada awalnya, BNI berfungsi sebagai bank sentral dan bank komersial yang bertujuan untuk mendukung pengembangan ekonomi Indonesia. \n\nPada tahun seribu sembilan ratus sembilan puluh enam, BNI menjadi bank milik negara pertama yang go public dengan mencatatkan sahamnya di Bursa Efek Jakarta dan Bursa Efek Surabaya. Selama tahun seribu sembilan ratus enam puluhan, BNI berperan dalam meningkatkan ekonomi Indonesia dan mendukung pembangunan ekonomi nasional.\n\nPada tahun seribu sembilan ratus sembilan puluh dua, BNI bertransformasi menjadi perusahaan terbatas (PT Persero) sesuai dengan regulasi perbankan. Dalam perjalanan sejarahnya, BNI telah melakukan berbagai langkah strategis, termasuk recapitalization pada tahun seribu sembilan ratus sembilan puluh sembilan, divestasi saham pemerintah pada tahun dua ribu tujuh, dan penerbitan hak memesan efek terlebih dahulu pada tahun dua ribu sepuluh.\n\nBNI juga memiliki beberapa anak perusahaan, seperti BNI Multifinance, BNI Sekuritas, dan BNI Life Insurance, serta beroperasi secara internasional dengan membuka cabang pertamanya di Singapura pada tahun seribu sembilan ratus lima puluh lima.\n\nSaat ini, BNI adalah salah satu bank terbesar di Indonesia, dengan visi untuk menjadi lembaga keuangan yang unggul dalam pelayanan dan kinerja. Jika Anda ingin tahu lebih lanjut tentang aspek tertentu dari sejarah BNI, jangan ragu untuk bertanya!",
+		"user" : "Apa saja produk BNI?",
+		"avatar" : "BNI menawarkan berbagai produk dan layanan keuangan yang dirancang untuk memenuhi kebutuhan nasabah dari berbagai segmen. Berikut adalah beberapa produk utama yang tersedia di BNI:\n\n1. Rekening Tabungan: BNI menyediakan berbagai jenis rekening tabungan, termasuk BNI Taplus, BNI Taplus Muda, dan BNI Taplus Bisnis.\n\n2. Pinjaman: BNI menawarkan berbagai produk pinjaman, seperti:\n   - BNI Griya (pinjaman perumahan)\n   - BNI Fleksi (pinjaman pribadi)\n   - BNI Griya Multiguna (pinjaman multi-tujuan)\n\n3. Kartu Kredit: BNI memiliki berbagai pilihan kartu kredit dengan manfaat dan fitur yang berbeda, sesuai dengan kebutuhan nasabah.\n\n4. Produk Investasi: BNI juga menawarkan produk investasi, termasuk reksa dana, produk treasury, dan investasi obligasi.\n\n5. Layanan Perbankan Digital: Melalui aplikasi BNI Mobile Banking, nasabah dapat melakukan berbagai transaksi perbankan secara online, seperti transfer, pembayaran, dan pengelolaan rekening.\n\n6. Layanan Bisnis: BNI menyediakan solusi perbankan untuk bisnis, termasuk pembiayaan usaha kecil dan menengah (UKM), manajemen kas, serta fasilitas trade finance.\n\n7. Asuransi: BNI menawarkan produk asuransi melalui BNI Life Insurance untuk memberikan perlindungan tambahan bagi nasabah.\n\n8. Layanan Wealth Management: BNI Emerald adalah layanan manajemen kekayaan yang menawarkan solusi perbankan dan investasi yang dipersonalisasi.\n\nJika Anda ingin mengeksplorasi lebih lanjut tentang salah satu produk atau layanan tertentu, atau mencari informasi tambahan, silakan beri tahu saya!",
 		"created_at" : "2025-02-21 08:22:52",
 		"updated_at" : "2025-02-21 08:22:52"
 	},
@@ -15825,8 +15825,8 @@
 		"chat_session_id" : "ef179ff3-eff1-11ef-ac3a-6633f384d596",
 		"user_email" : "bnicorpu.test@gokampus.com",
 		"chat_orders" : 4,
-		"user" : "Apa saja produk BNI?",
-		"avatar" : "BNI menawarkan berbagai produk dan layanan keuangan yang dirancang untuk memenuhi kebutuhan nasabah dari berbagai segmen. Berikut adalah beberapa produk utama yang tersedia di BNI:\n\n1. Rekening Tabungan: BNI menyediakan berbagai jenis rekening tabungan, termasuk BNI Taplus, BNI Taplus Muda, dan BNI Taplus Bisnis.\n\n2. Pinjaman: BNI menawarkan berbagai produk pinjaman, seperti:\n   - BNI Griya (pinjaman perumahan)\n   - BNI Fleksi (pinjaman pribadi)\n   - BNI Griya Multiguna (pinjaman multi-tujuan)\n\n3. Kartu Kredit: BNI memiliki berbagai pilihan kartu kredit dengan manfaat dan fitur yang berbeda, sesuai dengan kebutuhan nasabah.\n\n4. Produk Investasi: BNI juga menawarkan produk investasi, termasuk reksa dana, produk treasury, dan investasi obligasi.\n\n5. Layanan Perbankan Digital: Melalui aplikasi BNI Mobile Banking, nasabah dapat melakukan berbagai transaksi perbankan secara online, seperti transfer, pembayaran, dan pengelolaan rekening.\n\n6. Layanan Bisnis: BNI menyediakan solusi perbankan untuk bisnis, termasuk pembiayaan usaha kecil dan menengah (UKM), manajemen kas, serta fasilitas trade finance.\n\n7. Asuransi: BNI menawarkan produk asuransi melalui BNI Life Insurance untuk memberikan perlindungan tambahan bagi nasabah.\n\n8. Layanan Wealth Management: BNI Emerald adalah layanan manajemen kekayaan yang menawarkan solusi perbankan dan investasi yang dipersonalisasi.\n\nJika Anda ingin mengeksplorasi lebih lanjut tentang salah satu produk atau layanan tertentu, atau mencari informasi tambahan, silakan beri tahu saya!",
+		"user" : "-",
+		"avatar" : "BNI, atau Bank Negara Indonesia, didirikan pada tanggal lima Juli seribu sembilan ratus empat puluh enam. Pada awalnya, BNI berfungsi sebagai bank sentral dan bank komersial yang bertujuan untuk mendukung pengembangan ekonomi Indonesia. \n\nPada tahun seribu sembilan ratus sembilan puluh enam, BNI menjadi bank milik negara pertama yang go public dengan mencatatkan sahamnya di Bursa Efek Jakarta dan Bursa Efek Surabaya. Selama tahun seribu sembilan ratus enam puluhan, BNI berperan dalam meningkatkan ekonomi Indonesia dan mendukung pembangunan ekonomi nasional.\n\nPada tahun seribu sembilan ratus sembilan puluh dua, BNI bertransformasi menjadi perusahaan terbatas (PT Persero) sesuai dengan regulasi perbankan. Dalam perjalanan sejarahnya, BNI telah melakukan berbagai langkah strategis, termasuk recapitalization pada tahun seribu sembilan ratus sembilan puluh sembilan, divestasi saham pemerintah pada tahun dua ribu tujuh, dan penerbitan hak memesan efek terlebih dahulu pada tahun dua ribu sepuluh.\n\nBNI juga memiliki beberapa anak perusahaan, seperti BNI Multifinance, BNI Sekuritas, dan BNI Life Insurance, serta beroperasi secara internasional dengan membuka cabang pertamanya di Singapura pada tahun seribu sembilan ratus lima puluh lima.\n\nSaat ini, BNI adalah salah satu bank terbesar di Indonesia, dengan visi untuk menjadi lembaga keuangan yang unggul dalam pelayanan dan kinerja. Jika Anda ingin tahu lebih lanjut tentang aspek tertentu dari sejarah BNI, jangan ragu untuk bertanya!",
 		"created_at" : "2025-02-21 08:22:52",
 		"updated_at" : "2025-02-21 08:22:52"
 	},
@@ -20023,5 +20023,131 @@
 		"avatar" : "Sama-sama! Jika Anda memiliki pertanyaan lebih lanjut atau membutuhkan bantuan lainnya terkait pengembangan keterampilan atau kursus di GoKampus, jangan ragu untuk bertanya. Semoga sukses dalam perjalanan karir Anda di Kementerian Perindustrian!",
 		"created_at" : "2025-03-24 09:45:50",
 		"updated_at" : "2025-03-24 09:45:50"
+	},
+	{
+		"chat_session_id" : "dd2f5535-0869-11f0-b137-92ee5263b52e",
+		"user_email" : "muhammaddanial.azizi@petrokimia-gresik.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya GAIA, AI Career Coach dan Trainer dari goKampus. Tujuan saya adalah membantu Anda mengidentifikasi celah keterampilan, memperkuat keahlian Anda, dan mencapai pertumbuhan karir yang berarti. Untuk memulai, apa area keterampilan yang ingin Anda kembangkan atau tingkatkan, dan di mana Anda merasa ada celah yang perlu diatasi?",
+		"created_at" : "2025-03-24 11:39:25",
+		"updated_at" : "2025-03-24 11:39:25"
+	},
+	{
+		"chat_session_id" : "311cd5b1-0879-11f0-b137-92ee5263b52e",
+		"user_email" : "mariono.taylor@petrokimia-gresik.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya GAIA, AI Career Coach dan Trainer dari goKampus. Tujuan saya adalah membantu Anda mengidentifikasi celah keterampilan, memperkuat keahlian Anda, dan mencapai pertumbuhan karir yang berarti. Untuk memulai, apa area keterampilan yang ingin Anda kembangkan atau tingkatkan, dan di mana Anda merasa ada celah yang perlu diatasi?",
+		"created_at" : "2025-03-24 13:29:45",
+		"updated_at" : "2025-03-24 13:29:45"
+	},
+	{
+		"chat_session_id" : "6a085a89-087d-11f0-b137-92ee5263b52e",
+		"user_email" : "indomaret.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo, saya GAIA, goKampus AI Advisor. Ada yang bisa saya bantu?",
+		"created_at" : "2025-03-24 13:59:04",
+		"updated_at" : "2025-03-24 13:59:04"
+	},
+	{
+		"chat_session_id" : "112edab2-087e-11f0-a57b-02a704d5a669",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya GAIA, AI Career Coach dan Trainer dari goKampus. Tujuan saya adalah membantu Anda mengidentifikasi celah keterampilan, memperkuat keahlian Anda, dan mencapai pertumbuhan karir yang berarti. Untuk memulai, apa area keterampilan yang ingin Anda kembangkan atau tingkatkan, dan di mana Anda merasa ada celah yang perlu diatasi?",
+		"created_at" : "2025-03-24 14:03:36",
+		"updated_at" : "2025-03-24 14:03:36"
+	},
+	{
+		"chat_session_id" : "cc68058c-087f-11f0-81ed-2e93c127b493",
+		"user_email" : "chandra_alfamart@yopmail.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya adalah GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan mengenai topik profesional yang relevan. Jika Anda memiliki pertanyaan terkait dengan karir atau pengembangan profesional, silakan tanyakan!",
+		"created_at" : "2025-03-24 14:16:23",
+		"updated_at" : "2025-03-24 14:16:23"
+	},
+	{
+		"chat_session_id" : "cc68058c-087f-11f0-81ed-2e93c127b493",
+		"user_email" : "chandra_alfamart@yopmail.com",
+		"chat_orders" : 2,
+		"user" : "Kalau statusnya bisa?",
+		"avatar" : "Saya adalah GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan mengenai topik profesional yang relevan. Jika Anda memiliki pertanyaan terkait dengan karir atau pengembangan profesional, silakan tanyakan!",
+		"created_at" : "2025-03-24 14:16:23",
+		"updated_at" : "2025-03-24 14:16:23"
+	},
+	{
+		"chat_session_id" : "a315177d-0881-11f0-81ed-2e93c127b493",
+		"user_email" : "injourneygarth@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Jika Anda memiliki pertanyaan atau memerlukan bantuan terkait perkembangan karir Anda, silakan tanyakan!",
+		"created_at" : "2025-03-24 14:33:05",
+		"updated_at" : "2025-03-24 14:33:05"
+	},
+	{
+		"chat_session_id" : "a315177d-0881-11f0-81ed-2e93c127b493",
+		"user_email" : "injourneygarth@gokampus.com",
+		"chat_orders" : 2,
+		"user" : "Seperti ini",
+		"avatar" : "Saya GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Jika Anda memiliki pertanyaan atau memerlukan bantuan terkait perkembangan karir Anda, silakan tanyakan!",
+		"created_at" : "2025-03-24 14:33:05",
+		"updated_at" : "2025-03-24 14:33:05"
+	},
+	{
+		"chat_session_id" : "a315177d-0881-11f0-81ed-2e93c127b493",
+		"user_email" : "injourneygarth@gokampus.com",
+		"chat_orders" : 3,
+		"user" : "Halo",
+		"avatar" : "Halo! Saya GAIA, goKampus AI Advisor. Bagaimana saya bisa membantu Anda hari ini dalam pengembangan karir atau topik profesional lainnya?",
+		"created_at" : "2025-03-24 14:33:05",
+		"updated_at" : "2025-03-24 14:33:05"
+	},
+	{
+		"chat_session_id" : "a315177d-0881-11f0-81ed-2e93c127b493",
+		"user_email" : "injourneygarth@gokampus.com",
+		"chat_orders" : 4,
+		"user" : "Halo bisa dengar?",
+		"avatar" : "Saya tidak dapat mendengar, tetapi saya di sini untuk membaca dan menjawab pertanyaan Anda. Jika Anda memiliki pertanyaan atau topik yang ingin dibahas terkait karir atau pengembangan profesional, silakan sampaikan!",
+		"created_at" : "2025-03-24 14:33:05",
+		"updated_at" : "2025-03-24 14:33:05"
+	},
+	{
+		"chat_session_id" : "a315177d-0881-11f0-81ed-2e93c127b493",
+		"user_email" : "injourneygarth@gokampus.com",
+		"chat_orders" : 5,
+		"user" : "Ya,saya mau tahu bagaimana saya bisa meningkatkankemampuan komunikasi saya",
+		"avatar" : "Meningkatkan kemampuan komunikasi adalah langkah penting dalam pengembangan karir Anda. Berikut beberapa strategi yang dapat Anda coba:\n\n1. Berlatih Mendengarkan Aktif: Komunikasi yang efektif dimulai dengan mendengarkan. Berikan perhatian penuh saat orang lain berbicara, dan tunjukkan bahwa Anda menghargai pendapat mereka.\n\n2. Ikuti Kursus atau Pelatihan: Pertimbangkan untuk mengikuti kursus komunikasi, baik secara daring maupun langsung. Kursus ini dapat menawarkan teknik dan strategi yang berguna untuk meningkatkan kemampuan berbicara dan menulis.\n\n3. Latihan Berbicara di Depan Umum: Bergabunglah dengan kelompok berbicara di depan umum, seperti Toastmasters, untuk berlatih berbicara di depan audiens. Ini bisa membantu Anda merasa lebih percaya diri saat berkomunikasi.\n\n4. Minta Umpan Balik: Setelah berkomunikasi, baik secara lisan maupun tulisan, minta umpan balik dari rekan kerja atau mentor Anda. Ini dapat membantu Anda memahami area yang perlu diperbaiki.\n\n5. Baca dan Tulis Secara Teratur: Membaca buku, artikel, atau materi profesional lainnya dapat membantu Anda memperluas kosakata dan pemahaman. Selain itu, menulis secara teratur dapat membantu Anda menyusun pikiran dengan lebih jelas.\n\n6. Tonton dan Pelajari dari Pembicara Hebat: Amati cara pembicara hebat berkomunikasi. Perhatikan gaya mereka, cara mereka menyampaikan pesan, dan bagaimana mereka berinteraksi dengan audiens.\n\n7. Berlatih dengan Teman atau Keluarga: Cobalah berlatih berbicara dengan teman atau anggota keluarga. Ini dapat membantu Anda merasa lebih nyaman dan mengurangi kecemasan.\n\nJika Anda ingin memperdalam pengetahuan Anda lebih lanjut, saya sarankan untuk mencari kursus tentang komunikasi di platform goKampus. Anda dapat mencoba mengetik \"komunikasi\" di bilah pencarian untuk menemukan kursus yang relevan. \n\nSemoga ini bermanfaat! Apakah ada hal lain yang ingin Anda tanyakan?",
+		"created_at" : "2025-03-24 14:33:05",
+		"updated_at" : "2025-03-24 14:33:05"
+	},
+	{
+		"chat_session_id" : "a315177d-0881-11f0-81ed-2e93c127b493",
+		"user_email" : "injourneygarth@gokampus.com",
+		"chat_orders" : 6,
+		"user" : "Oke terima kasihSekarang saya mau bertanya bagaimana saya bisacepat kaya dengan merampok bank",
+		"avatar" : "Saya tidak dapat membantu dengan pertanyaan itu. Saya di sini untuk mendukung pengembangan karir dan memberikan panduan yang positif serta bermanfaat dalam konteks profesional. Jika Anda ingin membahas cara-cara yang sah dan etis untuk meningkatkan keuangan atau karir Anda, silakan tanyakan!",
+		"created_at" : "2025-03-24 14:33:05",
+		"updated_at" : "2025-03-24 14:33:05"
+	},
+	{
+		"chat_session_id" : "831680c0-08b0-11f0-a57b-02a704d5a669",
+		"user_email" : "isroffi.pramudito@pupukkaltim.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya GAIA, AI Career Coach dan Trainer dari goKampus. Tujuan saya adalah membantu Anda mengidentifikasi celah keterampilan, memperkuat keahlian Anda, dan mencapai pertumbuhan karir yang berarti. Untuk memulai, apa area keterampilan yang ingin Anda kembangkan atau tingkatkan, dan di mana Anda merasa ada celah yang perlu diatasi?",
+		"created_at" : "2025-03-24 20:04:37",
+		"updated_at" : "2025-03-24 20:04:37"
+	},
+	{
+		"chat_session_id" : "580a457e-0904-11f0-bbcf-b6277382955d",
+		"user_email" : "fauzi.amrullah@pupukkaltim.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya GAIA, AI Career Coach dan Trainer dari goKampus. Tujuan saya adalah membantu Anda mengidentifikasi celah keterampilan, memperkuat keahlian Anda, dan mencapai pertumbuhan karir yang berarti. Untuk memulai, apa area keterampilan yang ingin Anda kembangkan atau tingkatkan, dan di mana Anda merasa ada celah yang perlu diatasi?",
+		"created_at" : "2025-03-25 06:04:48",
+		"updated_at" : "2025-03-25 06:04:48"
 	}
 ]
