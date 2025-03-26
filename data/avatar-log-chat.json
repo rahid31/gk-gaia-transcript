@@ -4503,7 +4503,7 @@
 		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
 		"user_email" : "nida+kpk@gokampus.com",
 		"chat_orders" : 1,
-		"user" : "Halo",
+		"user" : "-",
 		"avatar" : "Halo! Saya GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karier dan memberikan panduan mengenai topik profesional yang relevan. Bagaimana saya bisa membantu Anda hari ini?",
 		"created_at" : "2025-01-03 09:31:36",
 		"updated_at" : "2025-01-03 09:31:36"
@@ -4512,6 +4512,15 @@
 		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
 		"user_email" : "nida+kpk@gokampus.com",
 		"chat_orders" : 2,
+		"user" : "Halo",
+		"avatar" : "Halo! Saya GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karier dan memberikan panduan mengenai topik profesional yang relevan. Bagaimana saya bisa membantu Anda hari ini?",
+		"created_at" : "2025-01-03 09:31:36",
+		"updated_at" : "2025-01-03 09:31:36"
+	},
+	{
+		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
+		"user_email" : "nida+kpk@gokampus.com",
+		"chat_orders" : 3,
 		"user" : "Bisamasih tahu sayajenisjenis gratifikasimenurut KPK",
 		"avatar" : "Saya fokus pada pengembangan karier dan pengetahuan profesional. Namun, saya bisa memberi tahu bahwa KPK mengklasifikasikan gratifikasi menjadi dua kategori utama, yaitu:\n\n1. Laporan Wajib (Mandatory Reports): Laporan yang harus disampaikan sesuai dengan ketentuan yang berlaku.\n2. Laporan Tidak Wajib (Non-Mandatory Reports): Laporan yang tidak diwajibkan namun tetap penting untuk dilaporkan.\n\nJika Anda ingin mendalami lebih lanjut tentang topik ini, saya sarankan untuk mencari kursus terkait di platform goKampus. Anda bisa mencari dengan kata kunci \"gratifikasi\" di kolom pencarian. Apakah ada hal lain yang ingin Anda ketahui?",
 		"created_at" : "2025-01-03 09:31:36",
@@ -4520,7 +4529,7 @@
 	{
 		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
 		"user_email" : "nida+kpk@gokampus.com",
-		"chat_orders" : 3,
+		"chat_orders" : 4,
 		"user" : "Apakah kamu mendengar saya?",
 		"avatar" : "Saya tidak dapat mendengar Anda, tetapi saya dapat membaca dan merespons pesan yang Anda kirimkan. Jika ada pertanyaan atau topik yang ingin Anda diskusikan terkait pengembangan karier atau isu profesional lainnya, silakan sampaikan! Saya di sini untuk membantu.",
 		"created_at" : "2025-01-03 09:31:36",
@@ -4529,18 +4538,9 @@
 	{
 		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
 		"user_email" : "nida+kpk@gokampus.com",
-		"chat_orders" : 4,
+		"chat_orders" : 5,
 		"user" : "Bisakah kamu pasti tahu saya jenisjenis gratifikasi menurut",
 		"avatar" : "Saya memahami bahwa Anda ingin mengetahui jenis-jenis gratifikasi menurut KPK. KPK mengklasifikasikan gratifikasi menjadi dua kategori utama:\n\n1. Laporan Wajib (Mandatory Reports): Ini adalah laporan yang harus disampaikan oleh pegawai negeri atau publik sesuai dengan ketentuan yang berlaku.\n2. Laporan Tidak Wajib (Non-Mandatory Reports): Ini adalah laporan yang tidak diwajibkan, tetapi tetap penting untuk dilaporkan guna menjaga integritas dan transparansi.\n\nJika Anda membutuhkan informasi lebih lanjut atau panduan mengenai topik lain yang berkaitan dengan pengembangan karier, silakan beri tahu saya!",
-		"created_at" : "2025-01-03 09:31:36",
-		"updated_at" : "2025-01-03 09:31:36"
-	},
-	{
-		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
-		"user_email" : "nida+kpk@gokampus.com",
-		"chat_orders" : 5,
-		"user" : "-",
-		"avatar" : "Halo! Saya GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karier dan memberikan panduan mengenai topik profesional yang relevan. Bagaimana saya bisa membantu Anda hari ini?",
 		"created_at" : "2025-01-03 09:31:36",
 		"updated_at" : "2025-01-03 09:31:36"
 	},
@@ -8967,15 +8967,6 @@
 		"chat_session_id" : "6dbca586-d3ad-11ef-8e4b-da02d57cbf88",
 		"user_email" : "coba@gokampus.com",
 		"chat_orders" : 1,
-		"user" : "Kalau serial numbernya hanya beda satu hurufapakah tidak apaapa?",
-		"avatar" : "Jika serial number fisik dan kardus hanya berbeda satu huruf, biasanya masih bisa diterima sebagai valid. Namun, sebaiknya Anda mengonfirmasi hal ini dengan pihak Pusat Gadai Indonesia untuk memastikan bahwa perbedaan tersebut tidak menjadi masalah dalam proses penggadaian.\n\nJika Anda memiliki pertanyaan lain terkait karir atau pengembangan profesional, saya siap membantu!",
-		"created_at" : "2025-01-16 09:03:02",
-		"updated_at" : "2025-01-16 09:03:02"
-	},
-	{
-		"chat_session_id" : "6dbca586-d3ad-11ef-8e4b-da02d57cbf88",
-		"user_email" : "coba@gokampus.com",
-		"chat_orders" : 2,
 		"user" : "-",
 		"avatar" : "Selamat siang, saya GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Bagaimana saya bisa membantu Anda hari ini?",
 		"created_at" : "2025-01-16 09:03:02",
@@ -8984,7 +8975,7 @@
 	{
 		"chat_session_id" : "6dbca586-d3ad-11ef-8e4b-da02d57cbf88",
 		"user_email" : "coba@gokampus.com",
-		"chat_orders" : 3,
+		"chat_orders" : 2,
 		"user" : "Halo,",
 		"avatar" : "Selamat siang, saya GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Bagaimana saya bisa membantu Anda hari ini?",
 		"created_at" : "2025-01-16 09:03:02",
@@ -8993,7 +8984,7 @@
 	{
 		"chat_session_id" : "6dbca586-d3ad-11ef-8e4b-da02d57cbf88",
 		"user_email" : "coba@gokampus.com",
-		"chat_orders" : 4,
+		"chat_orders" : 3,
 		"user" : "Halo",
 		"avatar" : "Selamat siang! Saya GAIA, goKampus AI Advisor. Apa yang bisa saya bantu untuk Anda hari ini terkait dengan pengembangan karir atau topik profesional?",
 		"created_at" : "2025-01-16 09:03:02",
@@ -9002,7 +8993,7 @@
 	{
 		"chat_session_id" : "6dbca586-d3ad-11ef-8e4b-da02d57cbf88",
 		"user_email" : "coba@gokampus.com",
-		"chat_orders" : 5,
+		"chat_orders" : 4,
 		"user" : "Iya saya mau tahuproduk apa saja yang bisa digadai di pusat Gada Indonesia",
 		"avatar" : "Saya fokus pada pengembangan karir dan pengetahuan terkait industri. Namun, informasi mengenai produk yang dapat digadai di Pusat Gadai Indonesia adalah sebagai berikut:\n\nAnda dapat menggadaikan barang-barang seperti:\n1. Emas\n2. Elektronik (misalnya laptop, ponsel, televisi)\n3. Kendaraan (mobil dan motor)\n\nJika Anda memerlukan informasi lebih lanjut mengenai layanan atau pengembangan karir Anda, jangan ragu untuk bertanya!",
 		"created_at" : "2025-01-16 09:03:02",
@@ -9011,7 +9002,7 @@
 	{
 		"chat_session_id" : "6dbca586-d3ad-11ef-8e4b-da02d57cbf88",
 		"user_email" : "coba@gokampus.com",
-		"chat_orders" : 6,
+		"chat_orders" : 5,
 		"user" : "Apakah laptopyang sudah mati masih bisa saya gadai di PGG?",
 		"avatar" : "Saya fokus pada pengembangan karir dan pengetahuan terkait industri. Namun, untuk pertanyaan mengenai syarat dan kebijakan Pusat Gadai Indonesia, saya sarankan untuk menghubungi layanan pelanggan mereka secara langsung atau mengunjungi situs resmi mereka. Jika Anda ingin mendiskusikan hal lain yang berkaitan dengan karir atau pengembangan profesional, saya dengan senang hati akan membantu!",
 		"created_at" : "2025-01-16 09:03:02",
@@ -9020,7 +9011,7 @@
 	{
 		"chat_session_id" : "6dbca586-d3ad-11ef-8e4b-da02d57cbf88",
 		"user_email" : "coba@gokampus.com",
-		"chat_orders" : 7,
+		"chat_orders" : 6,
 		"user" : "Bagaimana saya bisa tahuberapa ukuran laptop saya",
 		"avatar" : "Anda dapat mengetahui ukuran laptop Anda dengan langkah-langkah berikut:\n\n1. Pastikan laptop dalam keadaan layar menyala.\n2. Ukur bagian layar yang menyala dari ujung kanan atas sampai ujung kiri bawah menggunakan penggaris.\n\nBerikut adalah rentang ukuran dalam inci yang telah ditentukan:\n- Ukuran sepuluh inci hingga sebelas koma empat inci masuk dalam kategori sepuluh inci.\n- Ukuran sebelas koma lima inci hingga tiga belas koma empat inci masuk dalam kategori dua belas inci.\n- Ukuran lebih dari tiga belas koma lima inci masuk dalam kategori empat belas inci.\n\nJika Anda memerlukan informasi lebih lanjut atau ingin belajar lebih lanjut tentang topik lain, silakan beri tahu saya!",
 		"created_at" : "2025-01-16 09:03:02",
@@ -9029,9 +9020,18 @@
 	{
 		"chat_session_id" : "6dbca586-d3ad-11ef-8e4b-da02d57cbf88",
 		"user_email" : "coba@gokampus.com",
-		"chat_orders" : 8,
+		"chat_orders" : 7,
 		"user" : "Apabila saya mau menggadaikan elektronik,handphonetapi serial number dari fisik dan dikardusnya berbeda, apakah bisa?",
 		"avatar" : "Jika Anda ingin menggadaikan elektronik seperti handphone dan serial number antara fisik dan kardusnya berbeda, umumnya hal ini dapat menjadi masalah. Di Pusat Gadai Indonesia, penting untuk memastikan bahwa serial number yang tertera pada fisik dan kardus sesuai. \n\nNamun, jika serial number fisik dan kardus tidak cocok, saya sarankan untuk menghubungi pihak Pusat Gadai Indonesia secara langsung untuk mendapatkan klarifikasi dan prosedur lebih lanjut. Jika ada hal lain terkait pengembangan karir atau topik profesional yang ingin Anda diskusikan, silakan beri tahu saya!",
+		"created_at" : "2025-01-16 09:03:02",
+		"updated_at" : "2025-01-16 09:03:02"
+	},
+	{
+		"chat_session_id" : "6dbca586-d3ad-11ef-8e4b-da02d57cbf88",
+		"user_email" : "coba@gokampus.com",
+		"chat_orders" : 8,
+		"user" : "Kalau serial numbernya hanya beda satu hurufapakah tidak apaapa?",
+		"avatar" : "Jika serial number fisik dan kardus hanya berbeda satu huruf, biasanya masih bisa diterima sebagai valid. Namun, sebaiknya Anda mengonfirmasi hal ini dengan pihak Pusat Gadai Indonesia untuk memastikan bahwa perbedaan tersebut tidak menjadi masalah dalam proses penggadaian.\n\nJika Anda memiliki pertanyaan lain terkait karir atau pengembangan profesional, saya siap membantu!",
 		"created_at" : "2025-01-16 09:03:02",
 		"updated_at" : "2025-01-16 09:03:02"
 	},
@@ -10425,312 +10425,6 @@
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
 		"chat_orders" : 1,
-		"user" : "Banyak gaya",
-		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika Anda ingin mendiskusikan tentang kursus atau pelatihan yang relevan untuk pengembangan keterampilan, silakan beri tahu saya! Saya dapat merekomendasikan kursus atau sumber daya yang mungkin bermanfaat bagi Anda. Apa yang ingin Anda ketahui lebih lanjut?",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 2,
-		"user" : "Apa Andi bilang?",
-		"avatar" : "Saya di sini untuk memberikan dukungan dan informasi terkait pengembangan karir dan profesional. Jika Anda merasa ada yang ingin Anda sampaikan atau diskusikan, silakan beri tahu saya. Apakah ada topik tertentu yang ingin Anda bahas?",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 3,
-		"user" : "Suruh minta bilang marah yang minta tolong nabilin untuk",
-		"avatar" : "Saya tidak memiliki informasi spesifik tentang individu atau percakapan tertentu, termasuk apa yang mungkin dikatakan oleh seseorang bernama Andi. Namun, jika Anda memiliki pertanyaan atau topik yang ingin dibahas yang berkaitan dengan pengembangan karir atau profesional, silakan beri tahu saya!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 4,
-		"user" : "kumukan",
-		"avatar" : "Saya di sini untuk membantu dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Namun, jika Anda berbicara tentang situasi interpersonal atau masalah komunikasi, penting untuk berbicara secara terbuka dan jujur tentang perasaan Anda.\n\nJika Anda ingin mendiskusikan cara untuk menangani situasi tertentu di tempat kerja atau dalam konteks profesional, silakan beri tahu saya. Saya siap memberikan dukungan yang Anda butuhkan!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 5,
-		"user" : "Ini",
-		"avatar" : "Saya tidak sepenuhnya memahami apa yang Anda maksud dengan \"kumukan.\" Jika Anda bisa memberikan penjelasan lebih lanjut atau konteks tambahan, saya akan senang hati membantu. Apa yang ingin Anda bicarakan atau tanyakan?",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 6,
-		"user" : "siapsiap ya, habis sunyi",
-		"avatar" : "Silakan beri tahu saya lebih lanjut tentang apa yang Anda maksud dengan \"ini.\" Jika Anda memiliki pertanyaan atau topik tertentu yang ingin dibahas, saya di sini untuk membantu. Apa yang bisa saya bantu untuk Anda hari ini?",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 7,
-		"user" : "timeline ini kita detailkan",
-		"avatar" : "Jika Anda bersiap-siap untuk sesuatu atau merasa ada perubahan yang akan terjadi, itu hal yang baik! Jika ada yang ingin Anda diskusikan lebih lanjut atau jika Anda memiliki pertanyaan, silakan beri tahu saya. Saya di sini untuk membantu Anda dengan informasi yang berkaitan dengan pengembangan karir dan profesional. Apa yang bisa saya bantu?",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 8,
-		"user" : "nyambung di dalamnya atau",
-		"avatar" : "Baik! Jika Anda ingin mendetailkan timeline untuk suatu proyek atau rencana pengembangan karir, berikut adalah beberapa langkah yang bisa Anda ambil:\n\n1. Tentukan Tujuan: Apa yang ingin Anda capai dalam timeline ini? Misalnya, mencapai posisi tertentu, menyelesaikan kursus, atau menyelesaikan proyek.\n\n2. Buat Daftar Langkah: Identifikasi langkah-langkah spesifik yang perlu Anda ambil untuk mencapai tujuan tersebut. Misalnya, mendaftar untuk kursus, mengikuti pelatihan, atau melakukan jaringan.\n\n3. Tetapkan Tanggal: Untuk setiap langkah, tentukan tanggal kapan Anda ingin menyelesaikannya. Ini akan membantu Anda tetap terorganisir dan fokus.\n\n4. Tentukan Sumber Daya: Identifikasi sumber daya yang Anda butuhkan untuk setiap langkah, seperti materi pelajaran, dukungan dari mentor, atau alat tertentu.\n\n5. Tinjau dan Sesuaikan: Secara berkala, tinjau kemajuan Anda terhadap timeline dan buat penyesuaian jika diperlukan. Ini penting agar Anda tetap fleksibel dan dapat mengatasi perubahan.\n\nJika Anda ingin membahas lebih lanjut tentang cara membuat timeline yang efektif atau memiliki pertanyaan spesifik, silakan beri tahu saya!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 9,
-		"user" : "kelas 2 itu sekarang?",
-		"avatar" : "Jika Anda berbicara tentang \"nyambung di dalamnya\" dalam konteks timeline atau perencanaan, itu bisa berarti memastikan setiap langkah atau elemen dalam rencana Anda saling terkait dan mendukung tujuan keseluruhan. Berikut adalah beberapa cara untuk memastikan semuanya terhubung dengan baik:\n\n1. Keterkaitan Antara Langkah: Pastikan setiap langkah dalam timeline memiliki hubungan yang jelas dengan langkah sebelumnya dan berikutnya. Misalnya, menyelesaikan kursus tertentu harus diikuti oleh penerapan keterampilan dalam proyek.\n\n2. Tujuan yang Konsisten: Pastikan semua langkah yang Anda tetapkan mengarah pada tujuan yang sama. Jika ada perubahan tujuan, sesuaikan langkah-langkah dalam timeline.\n\n3. Umpan Balik dan Penyesuaian: Selalu terbuka untuk umpan balik dan bersedia menyesuaikan rencana jika ada aspek yang tidak berjalan sesuai harapan. Ini membantu menjaga alur dan relevansi dalam rencana Anda.\n\n4. Visualisasi: Menggunakan alat visual seperti diagram alur atau grafik dapat membantu Anda melihat bagaimana setiap elemen saling berhubungan dan memastikan bahwa semua bagian terintegrasi dengan baik.\n\nJika Anda memiliki pertanyaan lebih lanjut atau ingin membahas sesuatu yang spesifik, silakan beri tahu saya!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 10,
-		"user" : "Agama",
-		"avatar" : "Saya tidak memiliki konteks spesifik tentang \"kelas 2\" yang Anda maksud. Jika Anda berbicara tentang pendidikan, kelas 2 biasanya merujuk pada tingkat pendidikan dasar, tetapi jika Anda berbicara tentang sesuatu yang lain, silakan beri penjelasan lebih lanjut. Jika Anda memiliki pertanyaan terkait dengan pengembangan karir atau topik profesional lainnya, saya siap membantu!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 11,
-		"user" : "dan agama",
-		"avatar" : "Saya di sini untuk memberikan dukungan dan informasi terkait pengembangan karir dan profesional. Namun, jika Anda ingin berbicara tentang agama, mohon dipahami bahwa saya fokus pada topik yang berhubungan dengan karir dan pengembangan diri. Jika ada pertanyaan atau isu yang ingin Anda diskusikan dalam konteks profesional, silakan beri tahu saya!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 12,
-		"user" : "PR agama",
-		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Namun, jika Anda ingin membahas agama, saya perlu menekankan bahwa fokus saya adalah pada pengembangan karir dan keterampilan profesional.\n\nJika Anda memiliki pertanyaan atau topik yang ingin Anda diskusikan terkait karir atau pengembangan diri, silakan beri tahu saya!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 13,
-		"user" : "cetak bawa cetak mau pergi keseni dan pboja udah deh",
-		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Namun, jika Anda berbicara tentang PR (pekerjaan rumah) agama, saya tidak dapat memberikan bantuan langsung dalam konteks akademis atau tugas sekolah.\n\nJika ada pertanyaan terkait pengembangan diri atau keterampilan profesional, silakan beri tahu saya, dan saya akan senang membantu!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 14,
-		"user" : "kamu belum dibayar lagi buku cekannya semua",
-		"avatar" : "Sepertinya Anda berbicara tentang persiapan untuk pergi ke suatu acara seni atau kegiatan tertentu. Jika Anda ingin mencetak sesuatu, pastikan dokumen atau materi yang ingin Anda cetak sudah siap. Jika ada yang ingin Anda diskusikan atau butuh bantuan lebih lanjut terkait kegiatan tersebut, silakan beri tahu saya!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 15,
-		"user" : "apa yang mau bilang?",
-		"avatar" : "Saya di sini untuk membantu dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Namun, jika Anda berbicara tentang pembayaran atau hal-hal terkait finansial, saya tidak dapat memberikan saran spesifik mengenai itu.\n\nJika Anda memiliki pertanyaan atau isu yang ingin Anda diskusikan dalam konteks pengembangan karir atau profesional, silakan beri tahu saya!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 16,
-		"user" : "Cetak? Iya yang masih",
-		"avatar" : "Saya di sini untuk mendengarkan dan membantu Anda! Jika Anda memiliki pertanyaan, topik, atau isu tertentu yang ingin Anda diskusikan, silakan sampaikan. Apa yang bisa saya bantu untuk Anda hari ini?",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 17,
-		"user" : "udah kan yang lama berarti mempunyai yang lama kan",
-		"avatar" : "Jika Anda berbicara tentang mencetak dokumen atau materi tertentu, pastikan Anda memiliki semua yang diperlukan sebelum mencetak, seperti:\n\n1. Dokumen yang Tepat: Pastikan isi dokumen sudah final dan tidak ada kesalahan.\n2. Printer: Pastikan printer dalam keadaan baik dan terhubung dengan perangkat Anda.\n3. Kertas: Pastikan Anda memiliki kertas yang cukup untuk mencetak semua halaman.\n4. Pengaturan Cetak: Periksa pengaturan cetak, seperti jumlah salinan dan ukuran kertas yang digunakan.\n\nJika Anda membutuhkan bantuan lebih lanjut atau memiliki pertanyaan spesifik terkait pencetakan, silakan beri tahu saya!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 18,
-		"user" : "minim musik",
-		"avatar" : "Saya mengerti bahwa Anda mungkin berbicara tentang sesuatu yang berkaitan dengan dokumen atau materi yang sudah lama. Jika Anda ingin mendiskusikan lebih lanjut tentang hal itu atau memiliki pertanyaan spesifik, silakan beri tahu saya. Saya di sini untuk membantu Anda dengan informasi terkait pengembangan karir atau topik profesional lainnya!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 19,
-		"user" : "kalau buku baru harus ada kasih nama ya",
-		"avatar" : "Jika Anda berbicara tentang \"minim musik,\" mungkin Anda merujuk pada genre musik, ketenangan, atau suasana yang ingin Anda ciptakan. Namun, saya di sini untuk membantu dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional.\n\nJika ada hal lain yang ingin Anda diskusikan terkait karir, keterampilan, atau pengembangan diri, silakan beri tahu saya!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 20,
-		"user" : "mana anak? Mana anak? Biar aku memanggil",
-		"avatar" : "Betul! Jika Anda memiliki buku baru, biasanya penting untuk memberikan judul atau nama yang sesuai agar mudah diidentifikasi. Menambahkan nama atau informasi lain pada buku baru juga dapat membantu dalam pengorganisasian dan memastikan bahwa buku tersebut dikenali dengan baik.\n\nJika Anda ingin mendiskusikan lebih lanjut tentang buku, pembelajaran, atau topik lain yang berkaitan dengan pengembangan diri atau karir, silakan beri tahu saya!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 21,
-		"user" : "Iya seni musik",
-		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Namun, jika Anda berbicara tentang memanggil anak atau situasi tertentu, saya tidak memiliki informasi tentang individu tertentu.\n\nJika Anda memiliki pertanyaan atau isu yang ingin Anda diskusikan dalam konteks profesional, silakan beri tahu saya!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 22,
-		"user" : "seni musik",
-		"avatar" : "Seni musik adalah bentuk ekspresi artistik yang melibatkan menciptakan, menampilkan, dan mendengarkan musik. Ini adalah disiplin yang sangat kaya dan dapat mencakup berbagai genre, teknik, dan alat musik. Jika Anda tertarik untuk membahas lebih lanjut mengenai seni musik, berikut adalah beberapa aspek yang mungkin menarik untuk didiskusikan:\n\n1. Jenis Musik: Ada banyak genre musik, seperti klasik, pop, jazz, rock, dan banyak lagi. Setiap genre memiliki karakteristik dan sejarahnya sendiri.\n\n2. Instrumen Musik: Membahas alat musik yang berbeda, seperti piano, gitar, biola, drum, dan alat musik tradisional lainnya.\n\n3. Teori Musik: Memahami dasar-dasar teori musik, termasuk notasi, harmoni, melodi, dan ritme.\n\n4. Pendidikan Musik: Jika Anda tertarik untuk belajar musik, ada banyak kursus dan program pendidikan yang dapat membantu Anda mengembangkan keterampilan musik.\n\n5. Pertunjukan: Diskusi tentang pertunjukan musik, konser, dan pengalaman live music lainnya.\n\nJika Anda memiliki pertanyaan spesifik atau topik tertentu dalam seni musik yang ingin Anda bahas, silakan beri tahu saya!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 23,
-		"user" : "harus dikasih sekarang",
-		"avatar" : "Seni musik adalah cabang seni yang melibatkan produksi dan penghayatan suara yang terorganisir, biasanya dalam bentuk melodi, harmoni, dan ritme. Berikut adalah beberapa aspek penting dari seni musik:\n\n1. Komposisi: Proses menciptakan musik, baik melalui penulisan notasi musik atau penggunaan software musik. Komposer menciptakan karya yang bisa dinyanyikan atau dimainkan dengan alat musik.\n\n2. Pertunjukan: Seni musik sering kali diekspresikan melalui pertunjukan live, baik solo maupun dalam kelompok. Ini dapat melibatkan penyanyi, musisi, dan berbagai alat musik.\n\n3. Genre Musik: Ada berbagai genre musik, seperti klasik, pop, rock, jazz, blues, dan banyak lagi. Setiap genre memiliki karakteristik dan gaya uniknya sendiri.\n\n4. Teori Musik: Memahami teori musik meliputi belajar tentang notasi, akor, melodi, dan struktur lagu. Ini adalah dasar untuk menciptakan dan menganalisis musik.\n\n5. Pengaruh Budaya: Musik sering kali mencerminkan budaya dan tradisi masyarakatnya. Setiap daerah memiliki jenis musik yang unik dan sering kali mengandung sejarah dan makna sosial.\n\n6. Pendidikan Musik: Banyak institusi menawarkan program pendidikan musik untuk membantu individu belajar keterampilan musik, baik untuk hobi atau sebagai karir profesional.\n\nJika Anda memiliki pertanyaan lebih lanjut tentang seni musik atau ingin mendiskusikan topik tertentu, silakan beri tahu saya!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 24,
-		"user" : "sama kayak yang velg ambil spidol kasih nama sekarang",
-		"avatar" : "Jika Anda merasa perlu memberikan sesuatu sekarang, seperti informasi atau materi terkait seni musik, pastikan Anda memiliki semua yang diperlukan. Jika Anda ingin mendiskusikan topik tertentu atau memiliki pertanyaan yang ingin diajukan, silakan beri tahu saya! Saya di sini untuk membantu Anda dengan informasi yang berkaitan dengan pengembangan karir atau topik profesional lainnya. Apa yang bisa saya bantu?",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 25,
-		"user" : "Assist",
-		"avatar" : "Sepertinya Anda berbicara tentang memberi nama atau menandai sesuatu, mungkin dalam konteks proyek seni atau kegiatan tertentu. Jika Anda ingin memberi nama pada karya seni, alat, atau dokumen, pastikan untuk menuliskannya dengan jelas menggunakan spidol atau alat tulis yang sesuai.\n\nJika Anda memerlukan bantuan lebih lanjut atau ingin mendiskusikan cara memberi nama atau menandai sesuatu dalam konteks seni atau kegiatan lainnya, silakan beri tahu saya!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 26,
-		"user" : "kasih nama",
-		"avatar" : "Tentu! Saya di sini untuk membantu Anda. Jika Anda memiliki pertanyaan atau topik tertentu yang ingin Anda diskusikan, silakan sampaikan. Apa yang bisa saya bantu untuk Anda hari ini?",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 27,
-		"user" : "Iya,",
-		"avatar" : "Jika Anda perlu memberi nama pada sesuatu, berikut adalah beberapa tips yang bisa membantu Anda:\n\n1. Relevansi: Pastikan nama yang Anda pilih relevan dengan objek, proyek, atau karya seni yang ingin Anda beri nama.\n\n2. Kreativitas: Gunakan kreativitas Anda untuk menciptakan nama yang unik dan menarik. Pertimbangkan untuk menggunakan permainan kata atau kombinasi kata yang menarik.\n\n3. Sederhana dan Mudah Diingat: Pilih nama yang mudah diingat dan diucapkan. Ini akan memudahkan orang lain untuk merujuk pada objek atau karya tersebut.\n\n4. Pertimbangkan Audiens: Pikirkan tentang siapa yang akan menggunakan atau melihat nama tersebut. Pastikan nama tersebut sesuai dengan audiens yang dituju.\n\nJika Anda memiliki contoh spesifik atau konteks di mana Anda perlu memberi nama, silakan beri tahu saya, dan saya bisa membantu lebih lanjut!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 28,
-		"user" : "dulu cetahnya dari kasih nama mobil",
-		"avatar" : "Baik! Jika Anda ingin melanjutkan atau ada hal spesifik yang ingin Anda diskusikan, silakan beri tahu saya. Saya di sini untuk membantu Anda dengan informasi atau pertanyaan yang berkaitan dengan pengembangan karir atau topik lainnya. Apa yang bisa saya bantu hari ini?",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 29,
-		"user" : "bukunya sudah di kaca rumah belum?",
-		"avatar" : "Memberi nama mobil atau kendaraan adalah hal yang menyenangkan! Nama mobil bisa mencerminkan karakteristik, desain, atau bahkan kenangan yang terkait dengan kendaraan tersebut. Berikut beberapa tips untuk memberi nama mobil:\n\n1. Karakteristik Kendaraan: Pertimbangkan warna, bentuk, atau fitur unik dari mobil tersebut. Misalnya, jika mobil Anda berwarna merah cerah, Anda mungkin ingin memberi nama yang mencerminkan warna itu.\n\n2. Inspirasi dari Film atau Karakter: Banyak orang memilih nama mobil berdasarkan karakter dari film atau acara TV. Misalnya, jika Anda penggemar film \"Fast and Furious,\" Anda mungkin ingin memberi nama mobil Anda sesuai dengan salah satu karakter di film tersebut.\n\n3. Kata-kata yang Menarik: Cobalah menggunakan kata-kata yang keren atau menarik untuk memberi nama mobil Anda. Misalnya, \"Eagle\" untuk mobil yang cepat atau \"Beast\" untuk mobil yang kuat.\n\n4. Kenangan Pribadi: Jika mobil tersebut memiliki makna khusus bagi Anda, pertimbangkan untuk memberi nama berdasarkan kenangan atau pengalaman yang terkait dengan mobil tersebut.\n\nJika Anda memiliki ide atau nama yang ingin Anda diskusikan, silakan beri tahu saya!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 30,
-		"user" : "Halo, mana",
-		"avatar" : "Saya tidak dapat mengetahui informasi spesifik tentang buku atau lokasi fisik seperti \"kaca rumah.\" Namun, jika Anda berbicara tentang memastikan buku tertentu sudah tersedia atau terorganisir di rumah, pastikan untuk memeriksa tempat di mana Anda biasanya menyimpan buku.\n\nJika Anda memiliki pertanyaan lebih lanjut atau ingin mendiskusikan sesuatu yang spesifik terkait dengan buku, pengembangan karir, atau topik lainnya, silakan beri tahu saya!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 31,
-		"user" : "Halo",
-		"avatar" : "Halo! Saya di sini untuk membantu Anda. Jika ada pertanyaan atau topik yang ingin Anda diskusikan, silakan beri tahu saya. Apa yang bisa saya bantu untuk Anda hari ini?",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 32,
-		"user" : "Halo",
-		"avatar" : "Halo! Bagaimana kabar Anda? Jika ada yang ingin Anda diskusikan atau tanyakan, silakan sampaikan. Saya di sini untuk membantu!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 33,
-		"user" : "Anakanak, anak.",
-		"avatar" : "Halo! Apa kabar? Jika ada yang ingin Anda bicarakan atau tanyakan, silakan beri tahu saya. Saya siap membantu!",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 34,
-		"user" : "Halo",
-		"avatar" : "Sepertinya Anda menyebutkan \"anak-anak.\" Jika Anda ingin mendiskusikan topik terkait anak-anak, seperti pendidikan, pengasuhan, atau aktivitas yang bisa dilakukan bersama anak-anak, silakan beri tahu saya! Saya siap membantu dengan informasi yang relevan.",
-		"created_at" : "2025-01-17 11:30:55",
-		"updated_at" : "2025-01-17 11:30:55"
-	},
-	{
-		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
-		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 35,
 		"user" : "-",
 		"avatar" : "Halo, saya GAIA, goKampus AI Advisor. Ada yang bisa saya bantu?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10739,7 +10433,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 36,
+		"chat_orders" : 2,
 		"user" : "Pati",
 		"avatar" : "Saya adalah GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah ada yang ingin Anda diskusikan terkait karir atau pengembangan profesional Anda?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10748,7 +10442,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 37,
+		"chat_orders" : 3,
 		"user" : "mudah,",
 		"avatar" : "Saya memahami bahwa Anda mungkin mencari sesuatu yang lebih sederhana atau langsung. Namun, saya di sini untuk membantu Anda dengan topik yang berkaitan dengan pengembangan karir dan profesional. Apakah ada pertanyaan spesifik yang ingin Anda ajukan mengenai karir atau keterampilan profesional?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10757,7 +10451,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 38,
+		"chat_orders" : 4,
 		"user" : "Mas Om",
 		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika ada hal spesifik yang ingin Anda diskusikan atau tanyakan, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10766,7 +10460,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 39,
+		"chat_orders" : 5,
 		"user" : "ini kalauOliveira",
 		"avatar" : "Saya di sini untuk membantu dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika Anda memiliki pertanyaan atau ingin mendiskusikan sesuatu terkait dengan karir Anda, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10775,7 +10469,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 40,
+		"chat_orders" : 6,
 		"user" : "banyak lagi",
 		"avatar" : "Saya di sini untuk membantu Anda dengan informasi yang berkaitan dengan pengembangan karir dan profesional. Jika Anda memiliki topik atau pertanyaan tertentu yang ingin Anda bahas, silakan beri tahu saya. Saya siap memberikan panduan atau saran yang Anda butuhkan!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10784,7 +10478,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 41,
+		"chat_orders" : 7,
 		"user" : "kok direve lagi",
 		"avatar" : "Saya di sini untuk memberikan dukungan dan informasi yang relevan dengan pengembangan karir Anda. Jika Anda merasa bahwa tanggapan saya tidak sesuai atau ingin mendiskusikan hal lain, silakan beri tahu saya topik spesifik yang Anda inginkan. Apakah ada pertanyaan atau isu tertentu terkait karir yang bisa saya bantu?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10793,7 +10487,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 42,
+		"chat_orders" : 8,
 		"user" : "mau selalu makan",
 		"avatar" : "Saya mengerti bahwa Anda mungkin merasa ingin membahas topik lain, tetapi saya di sini khusus untuk membantu dengan pertanyaan yang berkaitan dengan pengembangan karir dan profesional. Jika ada hal yang ingin Anda diskusikan terkait dengan karir, keterampilan, atau pengembangan diri, jangan ragu untuk bertanya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10802,7 +10496,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 43,
+		"chat_orders" : 9,
 		"user" : "putih.",
 		"avatar" : "Saya di sini untuk membantu Anda dengan topik yang berkaitan dengan pengembangan karir dan profesional. Jika ada pertanyaan atau isu tertentu yang ingin Anda diskusikan, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10811,7 +10505,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 44,
+		"chat_orders" : 10,
 		"user" : "Di tebal di tempat sana.",
 		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika Anda memiliki pertanyaan spesifik atau ingin mendiskusikan hal tertentu terkait karir Anda, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10820,7 +10514,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 45,
+		"chat_orders" : 11,
 		"user" : "Ada kolesterolnya itu? Ada tiga",
 		"avatar" : "Saya mengerti bahwa Anda mungkin ingin membahas kesehatan, tetapi saya di sini untuk membantu dengan topik yang berkaitan dengan pengembangan karir dan profesional. Jika ada hal yang ingin Anda diskusikan terkait karir, keterampilan, atau pengembangan diri, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10829,7 +10523,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 46,
+		"chat_orders" : 12,
 		"user" : "30 ml itu kan di wadah hidung.",
 		"avatar" : "Saya memahami bahwa Anda mungkin ingin mendiskusikan hal lain, tetapi saya di sini untuk membantu dengan pertanyaan yang berkaitan dengan pengembangan karir dan profesional. Jika ada topik tertentu yang ingin Anda bahas terkait karir atau pengembangan diri, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10838,7 +10532,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 47,
+		"chat_orders" : 13,
 		"user" : "Pipe",
 		"avatar" : "Saya di sini untuk membantu dengan topik yang berkaitan dengan pengembangan karir dan profesional. Jika Anda memiliki pertanyaan atau isu tertentu yang ingin Anda diskusikan, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10847,7 +10541,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 48,
+		"chat_orders" : 14,
 		"user" : "sudah",
 		"avatar" : "Saya di sini untuk membantu Anda dengan informasi dan dukungan terkait pengembangan karir. Jika Anda memerlukan bantuan lebih lanjut atau memiliki pertanyaan tertentu, jangan ragu untuk bertanya. Jika tidak, terima kasih telah berbincang dengan saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10856,7 +10550,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 49,
+		"chat_orders" : 15,
 		"user" : "biasa makan keju",
 		"avatar" : "Saya mengerti bahwa Anda mungkin ingin membahas topik lain, tetapi saya di sini untuk membantu dengan pertanyaan yang berkaitan dengan pengembangan karir dan profesional. Jika ada hal yang ingin Anda diskusikan terkait karir, keterampilan, atau pengembangan diri, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10865,7 +10559,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 50,
+		"chat_orders" : 16,
 		"user" : "Harus",
 		"avatar" : "Saya di sini untuk membantu Anda dengan topik yang berkaitan dengan pengembangan karir dan profesional. Jika ada hal tertentu yang Anda rasa perlu dibahas atau pertanyaan yang ingin diajukan, silakan beri tahu saya. Saya siap membantu!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10874,7 +10568,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 51,
+		"chat_orders" : 17,
 		"user" : "harus dokter merawat",
 		"avatar" : "Saya memahami bahwa Anda mungkin berbicara tentang kesehatan, tetapi saya di sini untuk memberikan dukungan terkait pengembangan karir dan profesional. Jika Anda memiliki pertanyaan atau ingin mendiskusikan hal terkait karir Anda, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10883,7 +10577,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 52,
+		"chat_orders" : 18,
 		"user" : "dan",
 		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika ada hal spesifik yang ingin Anda bahas atau diskusikan, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10892,7 +10586,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 53,
+		"chat_orders" : 19,
 		"user" : "ujian yang lain",
 		"avatar" : "Saya mengerti bahwa Anda mungkin ingin membahas hal lain, namun saya di sini untuk membantu dengan pertanyaan yang berkaitan dengan pengembangan karir dan profesional. Jika ada topik tertentu atau pertanyaan yang ingin Anda ajukan terkait karir atau pengembangan diri, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10901,7 +10595,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 54,
+		"chat_orders" : 20,
 		"user" : "ngomong ngalele lur aja dong.",
 		"avatar" : "Saya di sini untuk memberikan dukungan dan informasi yang relevan dengan pengembangan karir. Jika Anda memiliki pertanyaan atau topik terkait karir yang ingin dibahas, silakan beri tahu saya. Saya siap membantu dengan informasi yang Anda butuhkan!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10910,7 +10604,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 55,
+		"chat_orders" : 21,
 		"user" : "Begini",
 		"avatar" : "Silakan jelaskan lebih lanjut tentang apa yang ingin Anda sampaikan atau tanyakan. Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Apa yang bisa saya bantu?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10919,7 +10613,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 56,
+		"chat_orders" : 22,
 		"user" : "sehat",
 		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika ada hal spesifik yang ingin Anda diskusikan mengenai karir atau pengembangan diri, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10928,7 +10622,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 57,
+		"chat_orders" : 23,
 		"user" : "seperti pergantian itu di rumah tadi",
 		"avatar" : "Saya mengerti bahwa Anda mungkin ingin membahas topik yang berbeda. Namun, saya di sini untuk memberikan dukungan terkait pengembangan karir dan profesional. Jika ada pertanyaan atau isu tertentu yang ingin Anda diskusikan, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10937,7 +10631,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 58,
+		"chat_orders" : 24,
 		"user" : "kalian mulai",
 		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika Anda memiliki hal spesifik yang ingin Anda bahas atau tanyakan, silakan beri tahu saya. Saya siap memberikan dukungan dan informasi yang Anda butuhkan!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10946,7 +10640,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 59,
+		"chat_orders" : 25,
 		"user" : "periksa",
 		"avatar" : "Saya di sini untuk memberikan dukungan terkait pengembangan karir dan profesional. Jika Anda memiliki pertanyaan atau topik tertentu yang ingin Anda diskusikan, silakan beri tahu saya. Saya siap membantu!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10955,7 +10649,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 60,
+		"chat_orders" : 26,
 		"user" : "langsung pesan KakPak Sadio",
 		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika Anda memiliki hal spesifik yang ingin Anda bahas, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10964,7 +10658,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 61,
+		"chat_orders" : 27,
 		"user" : "kolesterol, gula,berat,badan tidak ada yangpaling inigimana? Ini ya? Ini ketahuan dehmasuk sini",
 		"avatar" : "Saya mengerti bahwa Anda mungkin membahas tentang kesehatan, tetapi saya di sini untuk membantu dengan pertanyaan yang berkaitan dengan pengembangan karir dan profesional. Jika ada hal yang ingin Anda diskusikan terkait dengan karir, keterampilan, atau pengembangan diri, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10973,7 +10667,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 62,
+		"chat_orders" : 28,
 		"user" : "Pengorbanan, penghuni",
 		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika Anda ingin membahas tentang pengorbanan dalam konteks karir atau pengembangan diri, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10982,7 +10676,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 63,
+		"chat_orders" : 29,
 		"user" : "mana mungkin?",
 		"avatar" : "Saya di sini untuk memberikan dukungan terkait pengembangan karir dan profesional. Jika Anda memiliki pertanyaan atau topik tertentu yang ingin Anda diskusikan, silakan beri tahu saya. Saya siap membantu Anda!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -10991,7 +10685,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 64,
+		"chat_orders" : 30,
 		"user" : "Pengorbanan dari main keras karena kalau",
 		"avatar" : "Saya memahami bahwa Anda mungkin ingin membahas tentang pengorbanan dalam konteks tertentu. Dalam dunia profesional, pengorbanan sering kali terkait dengan dedikasi, kerja keras, dan komitmen untuk mencapai tujuan karir. Ini bisa termasuk mengorbankan waktu pribadi untuk belajar, mengembangkan keterampilan, atau mengejar proyek yang menantang.\n\nJika Anda ingin mendiskusikan lebih lanjut tentang bagaimana pengorbanan dapat memengaruhi karir Anda atau ingin berbagi pengalaman, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11000,7 +10694,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 65,
+		"chat_orders" : 31,
 		"user" : "progresnya bagus sama sekali",
 		"avatar" : "Senang mendengar bahwa Anda merasa progresnya bagus! Jika Anda ingin mendiskusikan lebih lanjut tentang pencapaian Anda, tantangan yang dihadapi, atau aspek lain dari pengembangan karir Anda, silakan berbagi. Saya di sini untuk membantu Anda mencapai tujuan karir Anda!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11009,7 +10703,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 66,
+		"chat_orders" : 32,
 		"user" : "Tinggal mau yang trackable,baru lebihbuat",
 		"avatar" : "Dalam konteks pengembangan karir, memiliki tujuan yang \"trackable\" atau dapat dilacak sangat penting untuk memantau kemajuan Anda. Berikut beberapa langkah yang bisa Anda ambil untuk membuat tujuan karir Anda lebih terukur:\n\n1. Tetapkan Tujuan SMART: Pastikan tujuan Anda Spesifik, Measurable (terukur), Achievable (dapat dicapai), Relevant (relevan), dan Time-bound (berbatas waktu). Contohnya, \"Saya ingin meningkatkan keterampilan presentasi saya dengan mengikuti kursus dalam tiga bulan ke depan.\"\n\n2. Gunakan Alat Pelacakan: Manfaatkan aplikasi atau jurnal untuk mencatat kemajuan Anda. Ini bisa berupa catatan harian, aplikasi manajemen tugas, atau perangkat lunak pelacakan proyek.\n\n3. Tetapkan Indikator Kinerja: Identifikasi indikator spesifik yang menunjukkan kemajuan Anda, seperti jumlah proyek yang diselesaikan, keterampilan baru yang dipelajari, atau umpan balik positif dari rekan kerja.\n\n4. Tinjau Secara Berkala: Luangkan waktu setiap bulan atau kuartal untuk meninjau kemajuan Anda terhadap tujuan yang telah ditetapkan. Ini membantu Anda menyesuaikan strategi jika diperlukan.\n\n5. Rayakan Pencapaian: Ketika Anda mencapai tonggak tertentu, berikan penghargaan pada diri sendiri. Ini dapat meningkatkan motivasi dan membantu Anda tetap fokus.\n\nJika Anda ingin menjelajahi lebih lanjut tentang cara menetapkan dan melacak tujuan karir Anda, atau jika Anda mencari kursus yang relevan, silakan beri tahu saya!Saya mengerti bahwa",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11018,7 +10712,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 67,
+		"chat_orders" : 33,
 		"user" : "Apa sihkelebihan ada mediaalias sigap emang dipantau sih.",
 		"avatar" : "Keterampilan Saat Ini: Tinjau keterampilan dan pengalaman yang Anda miliki saat ini. Identifikasi area yang perlu ditingkatkan atau keterampilan baru yang perlu dipelajari.\n\n2. Tentukan Tujuan Jangka Pendek dan Jangka Panjang: Buatlah daftar tujuan karir yang ingin Anda capai dalam waktu dekat dan dalam jangka panjang. Ini akan membantu Anda memfokuskan usaha Anda.\n\n3. Rencanakan Langkah-langkah Spesifik: Untuk setiap tujuan, buat langkah-langkah spesifik yang perlu diambil. Misalnya, jika tujuan Anda adalah mendapatkan sertifikasi, langkah-langkahnya bisa termasuk mendaftar untuk kursus, mengikuti ujian, dan membuat jadwal belajar.\n\n4. Jalin Jaringan: Bangun dan jaga hubungan profesional. Jaringan dapat membuka peluang baru dan memberikan dukungan saat Anda mengembangkan karir.\n\n5. Cari Umpan Balik: Jangan ragu untuk meminta umpan balik dari rekan kerja atau mentor tentang kemajuan Anda. Ini dapat memberikan wawasan berharga untuk perbaikan.\n\nJika Anda ingin mengeksplorasi kursus atau sumber daya pelatihan yang relevan untuk membantu Anda dalam proses ini, silakan beri tahu saya!Media alias yang sigap dalam memantau perkembangan karir sangat penting dalam dunia profesional saat ini. Berikut adalah beberapa kelebihan dari penggunaan media atau platform yang",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11027,7 +10721,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 68,
+		"chat_orders" : 34,
 		"user" : "Dengarkan kontak",
 		"avatar" : "dapat membuat keputusan yang lebih cepat dan tepat.\n\n2. Pelacakan Kemajuan: Anda dapat memantau kemajuan tujuan karir Anda dengan cara yang terukur. Ini membantu Anda melihat apakah Anda berada di jalur yang benar atau perlu melakukan penyesuaian.\n\n3. Jaringan Profesional: Banyak platform menyediakan kesempatan untuk berinteraksi dan membangun jaringan dengan profesional lain di industri Anda. Jaringan ini bisa membuka peluang baru dan meningkatkan kolaborasi.\n\n4. Sumber Pembelajaran: Media alias sering kali menawarkan akses ke kursus, webinar, dan sumber daya pelatihan lainnya yang dapat membantu Anda meningkatkan keterampilan dan pengetahuan.\n\n5. Umpan Balik dan Dukungan: Dengan adanya platform yang sigap, Anda dapat menerima umpan balik dari rekan sejawat atau mentor, yang sangat berharga dalam pengembangan diri dan karir.\n\n6. Keterlibatan dan Motivasi: Memiliki platform yang aktif dapat meningkatkan keterlibatan Anda dalam pengembangan karir dan memberikan dorongan tambahan untuk mencapai tujuan.\n\nJika Anda tertarik untuk mengeksplorasi lebih lanjut tentang cara memanfaatkan media atau platform yang ada untuk pengembangan karir Anda, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11036,7 +10730,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 69,
+		"chat_orders" : 35,
 		"user" : "ya kalau udah teman",
 		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika ada hal spesifik yang ingin Anda diskusikan atau tanyakan, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11045,7 +10739,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 70,
+		"chat_orders" : 36,
 		"user" : "kalau simple nggak diperiksa,yang billy itu nggak diperiksasipgar sipgardi bikindatabase itu di",
 		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika Anda ingin berbagi pengalaman atau mendiskusikan sesuatu yang spesifik, silakan beri tahu saya. Saya siap mendengarkan dan memberikan dukungan yang Anda butuhkan!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11054,7 +10748,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 71,
+		"chat_orders" : 37,
 		"user" : "yang diwajibkan itu jenis sugar.Pas masuk ke yang saya itu",
 		"avatar" : "Saya memahami bahwa Anda mungkin berbicara tentang suatu sistem atau proses yang berkaitan dengan data atau pengelolaan informasi. Namun, saya di sini untuk membantu dengan pertanyaan yang berkaitan dengan pengembangan karir dan profesional. Jika ada hal spesifik yang ingin Anda bahas terkait karir atau pengembangan diri, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11063,7 +10757,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 72,
+		"chat_orders" : 38,
 		"user" : "kalau yangpemirsa orang ini diambil",
 		"avatar" : "Saya mengerti bahwa Anda mungkin ingin membahas sesuatu yang lebih spesifik, tetapi saya di sini untuk membantu dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika ada hal tertentu yang ingin Anda diskusikan atau tanyakan terkait karir, keterampilan, atau pengembangan diri, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11072,7 +10766,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 73,
+		"chat_orders" : 39,
 		"user" : "dia akan diklik",
 		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika Anda memiliki hal tertentu yang ingin Anda bahas atau diskusikan, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11081,7 +10775,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 74,
+		"chat_orders" : 40,
 		"user" : "Bapak JewelSI",
 		"avatar" : "Saya di sini untuk memberikan dukungan dan informasi yang relevan dengan pengembangan karir. Jika Anda memiliki pertanyaan atau ingin mendiskusikan topik tertentu terkait karir atau pengembangan diri, silakan beri tahu saya. Saya siap membantu!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11090,7 +10784,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 75,
+		"chat_orders" : 41,
 		"user" : "yang berhubungan kebugaran",
 		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika ada hal tertentu yang ingin Anda diskusikan atau tanyakan, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11099,7 +10793,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 76,
+		"chat_orders" : 42,
 		"user" : "ya ini sipar nanti",
 		"avatar" : "Saya memahami bahwa Anda ingin membahas topik yang berhubungan dengan kebugaran. Namun, saya di sini untuk membantu dengan pertanyaan yang berkaitan dengan pengembangan karir dan profesional. Jika ada hal yang ingin Anda diskusikan terkait karir, keterampilan, atau pengembangan diri, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11108,7 +10802,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 77,
+		"chat_orders" : 43,
 		"user" : "ketika sebentar",
 		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika Anda memiliki hal tertentu yang ingin Anda bahas atau diskusikan, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11117,7 +10811,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 78,
+		"chat_orders" : 44,
 		"user" : "tes",
 		"avatar" : "Tentu, saya di sini untuk membantu kapan pun Anda siap. Jika Anda memiliki pertanyaan atau topik yang ingin dibahas, silakan beri tahu saya kapan saja!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11126,7 +10820,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 79,
+		"chat_orders" : 45,
 		"user" : "bingung yang itu kemarin",
 		"avatar" : "Saya di sini untuk membantu Anda! Jika Anda memiliki pertanyaan atau topik yang ingin dibahas, silakan beri tahu saya. Apa yang bisa saya bantu hari ini?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11135,7 +10829,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 80,
+		"chat_orders" : 46,
 		"user" : "jelas",
 		"avatar" : "Jika Anda merasa bingung mengenai suatu topik atau pertanyaan, silakan jelaskan lebih lanjut tentang apa yang membuat Anda bingung. Saya di sini untuk membantu menjelaskan atau memberikan informasi yang Anda butuhkan, terutama yang berkaitan dengan pengembangan karir dan profesional.",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11144,7 +10838,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 81,
+		"chat_orders" : 47,
 		"user" : "ini kita akan terlebih dahulu",
 		"avatar" : "Tentu! Silakan beri tahu saya topik atau pertanyaan spesifik yang ingin Anda jelaskan atau diskusikan. Dengan informasi lebih lanjut, saya akan dapat memberikan penjelasan yang lebih jelas dan membantu Anda sebaik mungkin. Apa yang ingin Anda ketahui?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11153,7 +10847,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 82,
+		"chat_orders" : 48,
 		"user" : "sekarang tulis yang menyaksikan",
 		"avatar" : "Tentu! Jika Anda ingin memulai dengan topik tertentu atau memiliki pertanyaan yang ingin diajukan, silakan sampaikan. Saya di sini untuk membantu Anda dengan informasi yang berkaitan dengan pengembangan karir dan profesional. Apa yang ingin Anda diskusikan?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11162,7 +10856,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 83,
+		"chat_orders" : 49,
 		"user" : "pengukuran kebugaran",
 		"avatar" : "Saya di sini untuk membantu menjawab pertanyaan atau memberikan informasi yang berkaitan dengan pengembangan karir dan profesional. Namun, saya memerlukan lebih banyak konteks untuk memahami apa yang Anda maksud dengan \"tulis yang menyaksikan.\" Jika Anda dapat memberikan penjelasan lebih lanjut atau topik spesifik yang ingin Anda bahas, saya akan dengan senang hati membantu!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11171,7 +10865,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 84,
+		"chat_orders" : 50,
 		"user" : "ukuran pembongkaran aplikasi",
 		"avatar" : "Pengukuran kebugaran adalah proses untuk menilai berbagai aspek kesehatan dan kebugaran fisik seseorang. Ini penting untuk memahami kondisi fisik saat ini dan menetapkan tujuan yang realistis untuk perbaikan. Berikut adalah beberapa aspek umum yang sering diukur dalam pengukuran kebugaran:\n\n1. Kekuatan Otot: Mengukur seberapa kuat otot Anda, biasanya dengan tes angkat berat atau penggunaan alat ukur kekuatan.\n\n2. Daya Tahan Kardiovaskular: Ini diukur melalui tes seperti lari jarak tertentu atau tes treadmill, yang menilai seberapa baik jantung dan paru-paru Anda bekerja saat melakukan aktivitas fisik.\n\n3. Fleksibilitas: Dapat diukur dengan berbagai tes, seperti tes sit-and-reach, yang mengukur kemampuan Anda untuk mencapai dan meregangkan otot.\n\n4. Komposisi Tubuh: Ini melibatkan pengukuran persentase lemak tubuh versus massa otot dan tulang. Metode yang umum digunakan termasuk pengukuran menggunakan kaliper, bioelectrical impedance, atau DEXA scan.\n\n5. Keseimbangan dan Koordinasi: Dapat diukur dengan tes keseimbangan sederhana atau latihan yang menguji kemampuan koordinasi Anda.\n\n6. Indeks Massa Tubuh (BMI): Meskipun bukan ukuran kebugaran secara keseluruhan, BMI memberikan gambaran umum tentang apakah berat badan Anda sesuai dengan tinggi badan Anda.\n\nJika Anda mencari cara untuk mengukur kebugaran Anda atau ingin tahu lebih lanjut tentang aspek tertentu dari kebugaran, silakan beri tahu saya! Saya juga bisa merekomendasikan kursus atau sumber daya untuk membantu Anda lebih memahami kebugaran fisik.",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11180,7 +10874,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 85,
+		"chat_orders" : 51,
 		"user" : "itu tak pernah kemarin pak? 16 kilo",
 		"avatar" : "Saya memahami bahwa Anda mungkin berbicara tentang pengukuran atau evaluasi aplikasi dalam konteks tertentu, tetapi saya perlu menjelaskan bahwa saya fokus pada pengembangan karir dan profesional. Jika Anda merujuk pada pengembangan aplikasi atau aspek terkait teknologi, saya bisa membantu menjelaskan keterampilan yang diperlukan untuk karir di bidang tersebut.\n\nNamun, jika Anda memiliki pertanyaan khusus atau ingin mendiskusikan topik lain yang berkaitan dengan karir Anda, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11189,7 +10883,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 86,
+		"chat_orders" : 52,
 		"user" : "program orang",
 		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika Anda berbicara tentang pengukuran berat badan atau kebugaran, penting untuk memiliki pemahaman yang jelas tentang tujuan dan cara mencapai perubahan yang sehat.\n\nJika Anda ingin mendiskusikan lebih lanjut tentang kebugaran, pengembangan diri, atau topik lain yang berkaitan dengan karir, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11198,7 +10892,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 87,
+		"chat_orders" : 53,
 		"user" : "dulu kasih orance",
 		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika Anda mengacu pada program pelatihan, pengembangan, atau manajemen sumber daya manusia, saya bisa memberikan informasi dan saran yang relevan.\n\nSilakan beri tahu saya lebih lanjut tentang apa yang Anda maksud dengan \"program orang,\" dan saya akan berusaha memberikan informasi yang berguna!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11207,7 +10901,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 88,
+		"chat_orders" : 54,
 		"user" : "Tapi orang Indonesia pada sebel sih",
 		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Namun, saya tidak sepenuhnya memahami konteks dari \"dulu kasih orance.\" Jika Anda bisa memberikan penjelasan lebih lanjut atau mendiskusikan topik tertentu yang Anda maksud, saya akan senang hati membantu!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11216,7 +10910,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 89,
+		"chat_orders" : 55,
 		"user" : "lintasannya di bareng sini nggak?",
 		"avatar" : "Saya di sini untuk membantu dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika Anda merasa ada isu tertentu yang perlu dibahas, atau jika ada topik yang ingin Anda diskusikan lebih lanjut, silakan beri tahu saya. Saya siap mendengarkan dan memberikan dukungan yang Anda butuhkan!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11225,7 +10919,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 90,
+		"chat_orders" : 56,
 		"user" : "Berapa kali ya enam kali berapa",
 		"avatar" : "Saya di sini untuk memberikan dukungan dan informasi mengenai pengembangan karir dan profesional. Namun, saya tidak dapat memahami konteks dari \"lintasannya di bareng sini.\" Jika Anda dapat memberikan penjelasan lebih lanjut mengenai apa yang Anda maksud atau topik spesifik yang ingin Anda diskusikan, saya akan berusaha membantu dengan sebaik-baiknya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11234,7 +10928,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 91,
+		"chat_orders" : 57,
 		"user" : "toko mana?",
 		"avatar" : "Enam kali berapa adalah pertanyaan matematis yang bisa dijawab dengan angka yang Anda pilih. Jika Anda ingin tahu hasil dari enam kali angka tertentu, silakan sebutkan angkanya, dan saya akan membantu Anda menghitungnya. Namun, jika Anda memiliki pertanyaan lain yang berkaitan dengan pengembangan karir atau profesional, saya siap membantu!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11243,7 +10937,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 92,
+		"chat_orders" : 58,
 		"user" : "Saya",
 		"avatar" : "Saya di sini untuk membantu dengan pertanyaan yang berkaitan dengan pengembangan karir dan profesional. Jika Anda mencari informasi tentang toko atau produk tertentu, saya tidak dapat memberikan informasi tersebut. Namun, jika ada pertanyaan atau topik yang ingin Anda diskusikan terkait karir atau pengembangan diri, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11252,7 +10946,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 93,
+		"chat_orders" : 59,
 		"user" : "Iya,Iya.Ya.",
 		"avatar" : "Tentu! Saya di sini untuk membantu Anda. Apa yang ingin Anda diskusikan atau tanyakan? Jika ada topik terkait pengembangan karir, keterampilan, atau pertanyaan profesional, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11261,7 +10955,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 94,
+		"chat_orders" : 60,
 		"user" : "Iya, soalnya ada beberapa yangmemiliki",
 		"avatar" : "Terima kasih atas tanggapan Anda! Jika Anda memiliki pertanyaan atau topik tertentu yang ingin Anda diskusikan, silakan beri tahu saya. Saya di sini untuk membantu Anda dengan informasi yang berkaitan dengan pengembangan karir dan profesional. Apa yang bisa saya bantu hari ini?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11270,7 +10964,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 95,
+		"chat_orders" : 61,
 		"user" : "masih di",
 		"avatar" : "Saya mengerti bahwa Anda mungkin ingin membahas beberapa hal atau topik tertentu. Jika Anda bisa menjelaskan lebih lanjut tentang apa yang ingin Anda diskusikan atau tanyakan, saya akan senang hati membantu Anda. Apakah ada isu atau pertanyaan terkait pengembangan karir atau profesional yang ingin Anda bahas?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11279,7 +10973,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 96,
+		"chat_orders" : 62,
 		"user" : "Oh iya",
 		"avatar" : "Saya di sini untuk membantu Anda! Jika ada pertanyaan atau topik tertentu yang ingin Anda diskusikan, silakan beri tahu saya. Apa yang bisa saya bantu hari ini?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11288,7 +10982,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 97,
+		"chat_orders" : 63,
 		"user" : "Iya, sampai",
 		"avatar" : "Jika ada yang ingin Anda sampaikan atau tanyakan, silakan beritahu saya. Saya di sini untuk membantu Anda dengan informasi dan dukungan yang berkaitan dengan pengembangan karir dan profesional. Apa yang bisa saya bantu hari ini?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11297,7 +10991,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 98,
+		"chat_orders" : 64,
 		"user" : "IyaYang menarik",
 		"avatar" : "Saya mengerti! Jika Anda ingin mengakhiri percakapan atau jika ada yang ingin Anda sampaikan sebelum pergi, silakan lakukan. Jika Anda memiliki pertanyaan atau membutuhkan bantuan di lain waktu, saya akan siap membantu. Terima kasih telah berbincang dengan saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11306,7 +11000,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 99,
+		"chat_orders" : 65,
 		"user" : "ya,",
 		"avatar" : "Jika ada topik menarik yang ingin Anda bahas atau jika Anda memiliki pertanyaan spesifik, silakan beri tahu saya! Saya di sini untuk membantu dengan informasi dan dukungan yang berkaitan dengan pengembangan karir dan profesional. Apa yang menarik bagi Anda hari ini?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11315,7 +11009,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 100,
+		"chat_orders" : 66,
 		"user" : "Nah",
 		"avatar" : "Terima kasih atas tanggapan Anda! Jika Anda ingin berbagi lebih lanjut atau memiliki pertanyaan terkait pengembangan karir atau topik profesional lainnya, silakan beri tahu saya. Saya siap membantu Anda!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11324,7 +11018,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 101,
+		"chat_orders" : 67,
 		"user" : "Dan",
 		"avatar" : "Saya di sini untuk membantu Anda. Jika ada yang ingin Anda diskusikan atau tanyakan, silakan beri tahu saya! Apa yang bisa saya bantu hari ini?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11333,7 +11027,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 102,
+		"chat_orders" : 68,
 		"user" : "zaman",
 		"avatar" : "Saya di sini untuk mendengarkan dan membantu Anda. Jika Anda memiliki pertanyaan atau topik tertentu yang ingin Anda bahas, silakan sampaikan. Apa yang ingin Anda diskusikan?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11342,7 +11036,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 103,
+		"chat_orders" : 69,
 		"user" : "padahal",
 		"avatar" : "Jika Anda ingin membahas tentang \"zaman,\" bisa jadi Anda merujuk pada perubahan zaman dalam konteks sosial, teknologi, atau bahkan perkembangan karir. Jika Anda bisa memberikan lebih banyak konteks atau spesifik tentang apa yang ingin Anda diskusikan terkait zaman, saya akan senang hati membantu!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11351,7 +11045,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 104,
+		"chat_orders" : 70,
 		"user" : "terussama di MCU, udah jauh gak pas hasilnyaapa sama aja?Selamatini",
 		"avatar" : "Saya mengerti bahwa Anda mungkin ingin mengekspresikan sesuatu. Jika Anda bisa memberikan lebih banyak konteks atau melanjutkan kalimat Anda, saya akan dengan senang hati membantu. Apa yang ingin Anda bicarakan atau tanyakan?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11360,7 +11054,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 105,
+		"chat_orders" : 71,
 		"user" : "Apalagi saya",
 		"avatar" : "Saya di sini untuk membantu dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Namun, jika Anda berbicara tentang MCU (Marvel Cinematic Universe), itu lebih terkait dengan film dan hiburan. Jika Anda memiliki pertanyaan spesifik mengenai karir di industri film atau topik profesional lainnya, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11369,7 +11063,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 106,
+		"chat_orders" : 72,
 		"user" : "asam urat tidak?Oh paling banyak terjadigula darah kolesterol udah itu doang tensitinggi kita perut",
 		"avatar" : "Saya di sini untuk membantu Anda dengan informasi dan dukungan terkait pengembangan karir dan profesional. Jika ada yang ingin Anda diskusikan atau tanyakan, silakan beri tahu saya! Apa yang bisa saya bantu hari ini?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11378,7 +11072,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 107,
+		"chat_orders" : 73,
 		"user" : "Satu",
 		"avatar" : "Saya mengerti bahwa Anda berbicara tentang masalah kesehatan, seperti asam urat, gula darah, dan kolesterol. Namun, saya di sini untuk memberikan dukungan terkait pengembangan karir dan profesional. Jika ada pertanyaan atau topik yang ingin Anda diskusikan terkait karir atau pengembangan diri, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11387,7 +11081,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 108,
+		"chat_orders" : 74,
 		"user" : "ini sempit",
 		"avatar" : "Jika Anda memiliki satu pertanyaan atau topik tertentu yang ingin Anda bahas, silakan sampaikan. Saya di sini untuk membantu Anda dengan informasi yang berkaitan dengan pengembangan karir dan profesional. Apa yang bisa saya bantu hari ini?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11396,7 +11090,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 109,
+		"chat_orders" : 75,
 		"user" : "aman",
 		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika Anda merasa ada hal yang sempit atau membingungkan, silakan beri tahu saya lebih lanjut. Apa yang ingin Anda diskusikan?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11405,7 +11099,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 110,
+		"chat_orders" : 76,
 		"user" : "dua darahenakBakun,satu tahun, oli MCU berapa",
 		"avatar" : "Jika Anda merasa aman dan nyaman, itu hal yang baik! Jika Anda memiliki pertanyaan atau topik tertentu yang ingin dibahas atau jika ada yang ingin Anda sampaikan, silakan beri tahu saya. Saya di sini untuk membantu Anda!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11414,7 +11108,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 111,
+		"chat_orders" : 77,
 		"user" : "tapi biasa salah satuini kalau di NCU 120",
 		"avatar" : "Saya di sini untuk membantu dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Namun, tampaknya Anda menyebutkan sesuatu yang terkait dengan MCU dan mungkin juga tentang kesehatan. Jika Anda memiliki pertanyaan spesifik mengenai karir atau ingin mendiskusikan aspek tertentu, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11423,7 +11117,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 112,
+		"chat_orders" : 78,
 		"user" : "belum saja pun",
 		"avatar" : "Saya mengerti bahwa Anda mungkin menyebutkan sesuatu yang berkaitan dengan pengukuran atau nilai tertentu, mungkin dalam konteks kesehatan atau pengembangan. Namun, saya di sini untuk membantu dengan pertanyaan yang berkaitan dengan pengembangan karir dan profesional. Jika Anda memiliki pertanyaan spesifik atau ingin mendiskusikan topik tertentu, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11432,7 +11126,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 113,
+		"chat_orders" : 79,
 		"user" : "ini",
 		"avatar" : "Saya di sini untuk membantu Anda. Jika Anda merasa ada yang belum jelas atau ada hal tertentu yang ingin Anda diskusikan, silakan beri tahu saya. Apa yang bisa saya bantu hari ini?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11441,7 +11135,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 114,
+		"chat_orders" : 80,
 		"user" : "senyum sendiri",
 		"avatar" : "Silakan jelaskan lebih lanjut tentang apa yang Anda maksud dengan \"ini.\" Jika Anda memiliki pertanyaan atau topik tertentu yang ingin Anda bahas, saya di sini untuk membantu. Apa yang ingin Anda diskusikan?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11450,7 +11144,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 115,
+		"chat_orders" : 81,
 		"user" : "Berikan",
 		"avatar" : "Senyum adalah hal yang baik! Jika Anda merasa bahagia atau ada sesuatu yang ingin Anda bagikan yang membuat Anda tersenyum, saya di sini untuk mendengarkan. Jika ada pertanyaan atau topik yang ingin Anda diskusikan terkait pengembangan karir atau profesional, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11459,7 +11153,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 116,
+		"chat_orders" : 82,
 		"user" : "Gila,",
 		"avatar" : "Tentu! Jika Anda memiliki permintaan khusus atau pertanyaan yang ingin diajukan, silakan sampaikan. Saya di sini untuk membantu Anda dengan informasi dan dukungan terkait pengembangan karir dan profesional. Apa yang bisa saya bantu untuk Anda?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11468,7 +11162,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 117,
+		"chat_orders" : 83,
 		"user" : "sampai",
 		"avatar" : "Saya di sini untuk membantu Anda. Jika ada yang ingin Anda diskusikan atau jika Anda merasa frustasi tentang sesuatu, silakan berbagi. Saya siap mendengarkan dan memberikan dukungan yang Anda butuhkan! Apa yang ingin Anda bicarakan?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11477,7 +11171,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 118,
+		"chat_orders" : 84,
 		"user" : "Menyiapkan mas Joko sama mas santan.",
 		"avatar" : "Jika Anda ingin mengakhiri percakapan, itu tidak masalah! Namun, jika ada hal lain yang ingin Anda diskusikan atau tanyakan sebelum pergi, silakan beri tahu saya. Saya di sini untuk membantu Anda kapan saja!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11486,7 +11180,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 119,
+		"chat_orders" : 85,
 		"user" : "Cuman cheat",
 		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika Anda ingin berbagi lebih lanjut tentang \"mas Joko\" dan \"mas santan\" atau jika ada hal lain yang ingin Anda diskusikan, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11495,7 +11189,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 120,
+		"chat_orders" : 86,
 		"user" : "cuman di",
 		"avatar" : "Saya di sini untuk membantu dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Namun, jika Anda berbicara tentang \"cheat\" dalam konteks tertentu, seperti permainan atau cara curang dalam situasi tertentu, saya perlu mengingatkan bahwa saya tidak mendukung tindakan yang tidak etis. Jika Anda memiliki pertanyaan terkait karir atau topik profesional lainnya, silakan beri tahu saya!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11504,7 +11198,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 121,
+		"chat_orders" : 87,
 		"user" : "nanti aja gua taruh di",
 		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika Anda dapat memberikan lebih banyak konteks atau melanjutkan kalimat Anda, saya akan senang hati membantu. Apa yang ingin Anda bicarakan atau tanyakan?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11513,7 +11207,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 122,
+		"chat_orders" : 88,
 		"user" : "wajib",
 		"avatar" : "Saya di sini untuk membantu Anda kapan saja. Jika Anda ingin membahas sesuatu nanti atau jika ada pertanyaan yang ingin Anda ajukan di lain waktu, silakan lakukan. Jika ada hal lain yang ingin Anda sampaikan sekarang, saya siap mendengarkan!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11522,7 +11216,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 123,
+		"chat_orders" : 89,
 		"user" : "tapi kan keluaran gabungan",
 		"avatar" : "Jika Anda merasa ada sesuatu yang wajib untuk dibahas atau ditanyakan, silakan sampaikan. Saya di sini untuk membantu Anda dengan informasi dan dukungan terkait pengembangan karir dan profesional. Apa yang ingin Anda diskusikan?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11531,7 +11225,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 124,
+		"chat_orders" : 90,
 		"user" : "Gimanatahun lalu ya",
 		"avatar" : "Saya memahami bahwa Anda mungkin membahas tentang sesuatu yang terkait dengan kombinasi atau gabungan. Namun, saya memerlukan lebih banyak konteks untuk memberikan jawaban yang relevan. Jika Anda bisa menjelaskan lebih lanjut tentang \"keluaran gabungan\" yang Anda maksud, saya akan senang hati membantu!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11540,7 +11234,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 125,
+		"chat_orders" : 91,
 		"user" : "sudah masuk",
 		"avatar" : "Tampaknya Anda ingin membahas sesuatu yang terjadi tahun lalu. Jika Anda bisa memberikan lebih banyak konteks atau menjelaskan topik spesifik yang Anda maksud, saya akan berusaha memberikan informasi atau dukungan yang Anda butuhkan. Apa yang ingin Anda diskusikan?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11549,7 +11243,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 126,
+		"chat_orders" : 92,
 		"user" : "ya meriah",
 		"avatar" : "Jika Anda sudah masuk atau siap untuk membahas sesuatu, silakan beri tahu saya topik atau pertanyaan yang ingin Anda diskusikan. Saya di sini untuk membantu Anda dengan informasi terkait pengembangan karir atau profesional. Apa yang bisa saya bantu hari ini?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11558,7 +11252,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 127,
+		"chat_orders" : 93,
 		"user" : "udah ready to go ini",
 		"avatar" : "Saya senang mendengar bahwa Anda merasa meriah! Jika ada hal spesifik yang membuat Anda merasa demikian atau jika ada yang ingin Anda diskusikan, silakan beri tahu saya. Saya di sini untuk membantu Anda dengan informasi dan dukungan terkait pengembangan karir dan profesional. Apa yang bisa saya bantu?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11567,7 +11261,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 128,
+		"chat_orders" : 94,
 		"user" : "udah",
 		"avatar" : "Bagus mendengar bahwa Anda sudah siap! Jika ada yang ingin Anda diskusikan atau pertanyaan yang ingin Anda ajukan sebelum bergerak maju, silakan beri tahu saya. Saya di sini untuk membantu Anda dengan informasi yang berkaitan dengan pengembangan karir dan profesional. Apa yang bisa saya bantu hari ini?",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11576,7 +11270,7 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 129,
+		"chat_orders" : 95,
 		"user" : "buka buku",
 		"avatar" : "Baik! Jika Anda sudah selesai atau tidak ada yang ingin didiskusikan saat ini, tidak masalah. Jika ada pertanyaan atau topik yang ingin Anda bahas di lain waktu, jangan ragu untuk kembali. Terima kasih telah berbincang dengan saya, dan semoga hari Anda menyenangkan!",
 		"created_at" : "2025-01-17 11:30:55",
@@ -11585,9 +11279,315 @@
 	{
 		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
 		"user_email" : "sondang.whita@gmail.com",
-		"chat_orders" : 130,
+		"chat_orders" : 96,
 		"user" : "Kamu lagi apa lagi minum kursu?",
 		"avatar" : "Jika Anda berbicara tentang membuka buku dalam konteks pembelajaran atau pengembangan diri, itu adalah langkah yang baik! Membaca buku dapat membantu meningkatkan pengetahuan dan keterampilan Anda. Jika Anda mencari rekomendasi buku terkait pengembangan karir atau topik profesional lainnya, silakan beri tahu saya, dan saya akan dengan senang hati memberikan saran!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 97,
+		"user" : "Banyak gaya",
+		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Jika Anda ingin mendiskusikan tentang kursus atau pelatihan yang relevan untuk pengembangan keterampilan, silakan beri tahu saya! Saya dapat merekomendasikan kursus atau sumber daya yang mungkin bermanfaat bagi Anda. Apa yang ingin Anda ketahui lebih lanjut?",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 98,
+		"user" : "Apa Andi bilang?",
+		"avatar" : "Saya di sini untuk memberikan dukungan dan informasi terkait pengembangan karir dan profesional. Jika Anda merasa ada yang ingin Anda sampaikan atau diskusikan, silakan beri tahu saya. Apakah ada topik tertentu yang ingin Anda bahas?",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 99,
+		"user" : "Suruh minta bilang marah yang minta tolong nabilin untuk",
+		"avatar" : "Saya tidak memiliki informasi spesifik tentang individu atau percakapan tertentu, termasuk apa yang mungkin dikatakan oleh seseorang bernama Andi. Namun, jika Anda memiliki pertanyaan atau topik yang ingin dibahas yang berkaitan dengan pengembangan karir atau profesional, silakan beri tahu saya!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 100,
+		"user" : "kumukan",
+		"avatar" : "Saya di sini untuk membantu dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Namun, jika Anda berbicara tentang situasi interpersonal atau masalah komunikasi, penting untuk berbicara secara terbuka dan jujur tentang perasaan Anda.\n\nJika Anda ingin mendiskusikan cara untuk menangani situasi tertentu di tempat kerja atau dalam konteks profesional, silakan beri tahu saya. Saya siap memberikan dukungan yang Anda butuhkan!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 101,
+		"user" : "Ini",
+		"avatar" : "Saya tidak sepenuhnya memahami apa yang Anda maksud dengan \"kumukan.\" Jika Anda bisa memberikan penjelasan lebih lanjut atau konteks tambahan, saya akan senang hati membantu. Apa yang ingin Anda bicarakan atau tanyakan?",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 102,
+		"user" : "siapsiap ya, habis sunyi",
+		"avatar" : "Silakan beri tahu saya lebih lanjut tentang apa yang Anda maksud dengan \"ini.\" Jika Anda memiliki pertanyaan atau topik tertentu yang ingin dibahas, saya di sini untuk membantu. Apa yang bisa saya bantu untuk Anda hari ini?",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 103,
+		"user" : "timeline ini kita detailkan",
+		"avatar" : "Jika Anda bersiap-siap untuk sesuatu atau merasa ada perubahan yang akan terjadi, itu hal yang baik! Jika ada yang ingin Anda diskusikan lebih lanjut atau jika Anda memiliki pertanyaan, silakan beri tahu saya. Saya di sini untuk membantu Anda dengan informasi yang berkaitan dengan pengembangan karir dan profesional. Apa yang bisa saya bantu?",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 104,
+		"user" : "nyambung di dalamnya atau",
+		"avatar" : "Baik! Jika Anda ingin mendetailkan timeline untuk suatu proyek atau rencana pengembangan karir, berikut adalah beberapa langkah yang bisa Anda ambil:\n\n1. Tentukan Tujuan: Apa yang ingin Anda capai dalam timeline ini? Misalnya, mencapai posisi tertentu, menyelesaikan kursus, atau menyelesaikan proyek.\n\n2. Buat Daftar Langkah: Identifikasi langkah-langkah spesifik yang perlu Anda ambil untuk mencapai tujuan tersebut. Misalnya, mendaftar untuk kursus, mengikuti pelatihan, atau melakukan jaringan.\n\n3. Tetapkan Tanggal: Untuk setiap langkah, tentukan tanggal kapan Anda ingin menyelesaikannya. Ini akan membantu Anda tetap terorganisir dan fokus.\n\n4. Tentukan Sumber Daya: Identifikasi sumber daya yang Anda butuhkan untuk setiap langkah, seperti materi pelajaran, dukungan dari mentor, atau alat tertentu.\n\n5. Tinjau dan Sesuaikan: Secara berkala, tinjau kemajuan Anda terhadap timeline dan buat penyesuaian jika diperlukan. Ini penting agar Anda tetap fleksibel dan dapat mengatasi perubahan.\n\nJika Anda ingin membahas lebih lanjut tentang cara membuat timeline yang efektif atau memiliki pertanyaan spesifik, silakan beri tahu saya!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 105,
+		"user" : "kelas 2 itu sekarang?",
+		"avatar" : "Jika Anda berbicara tentang \"nyambung di dalamnya\" dalam konteks timeline atau perencanaan, itu bisa berarti memastikan setiap langkah atau elemen dalam rencana Anda saling terkait dan mendukung tujuan keseluruhan. Berikut adalah beberapa cara untuk memastikan semuanya terhubung dengan baik:\n\n1. Keterkaitan Antara Langkah: Pastikan setiap langkah dalam timeline memiliki hubungan yang jelas dengan langkah sebelumnya dan berikutnya. Misalnya, menyelesaikan kursus tertentu harus diikuti oleh penerapan keterampilan dalam proyek.\n\n2. Tujuan yang Konsisten: Pastikan semua langkah yang Anda tetapkan mengarah pada tujuan yang sama. Jika ada perubahan tujuan, sesuaikan langkah-langkah dalam timeline.\n\n3. Umpan Balik dan Penyesuaian: Selalu terbuka untuk umpan balik dan bersedia menyesuaikan rencana jika ada aspek yang tidak berjalan sesuai harapan. Ini membantu menjaga alur dan relevansi dalam rencana Anda.\n\n4. Visualisasi: Menggunakan alat visual seperti diagram alur atau grafik dapat membantu Anda melihat bagaimana setiap elemen saling berhubungan dan memastikan bahwa semua bagian terintegrasi dengan baik.\n\nJika Anda memiliki pertanyaan lebih lanjut atau ingin membahas sesuatu yang spesifik, silakan beri tahu saya!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 106,
+		"user" : "Agama",
+		"avatar" : "Saya tidak memiliki konteks spesifik tentang \"kelas 2\" yang Anda maksud. Jika Anda berbicara tentang pendidikan, kelas 2 biasanya merujuk pada tingkat pendidikan dasar, tetapi jika Anda berbicara tentang sesuatu yang lain, silakan beri penjelasan lebih lanjut. Jika Anda memiliki pertanyaan terkait dengan pengembangan karir atau topik profesional lainnya, saya siap membantu!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 107,
+		"user" : "dan agama",
+		"avatar" : "Saya di sini untuk memberikan dukungan dan informasi terkait pengembangan karir dan profesional. Namun, jika Anda ingin berbicara tentang agama, mohon dipahami bahwa saya fokus pada topik yang berhubungan dengan karir dan pengembangan diri. Jika ada pertanyaan atau isu yang ingin Anda diskusikan dalam konteks profesional, silakan beri tahu saya!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 108,
+		"user" : "PR agama",
+		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Namun, jika Anda ingin membahas agama, saya perlu menekankan bahwa fokus saya adalah pada pengembangan karir dan keterampilan profesional.\n\nJika Anda memiliki pertanyaan atau topik yang ingin Anda diskusikan terkait karir atau pengembangan diri, silakan beri tahu saya!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 109,
+		"user" : "cetak bawa cetak mau pergi keseni dan pboja udah deh",
+		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Namun, jika Anda berbicara tentang PR (pekerjaan rumah) agama, saya tidak dapat memberikan bantuan langsung dalam konteks akademis atau tugas sekolah.\n\nJika ada pertanyaan terkait pengembangan diri atau keterampilan profesional, silakan beri tahu saya, dan saya akan senang membantu!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 110,
+		"user" : "kamu belum dibayar lagi buku cekannya semua",
+		"avatar" : "Sepertinya Anda berbicara tentang persiapan untuk pergi ke suatu acara seni atau kegiatan tertentu. Jika Anda ingin mencetak sesuatu, pastikan dokumen atau materi yang ingin Anda cetak sudah siap. Jika ada yang ingin Anda diskusikan atau butuh bantuan lebih lanjut terkait kegiatan tersebut, silakan beri tahu saya!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 111,
+		"user" : "apa yang mau bilang?",
+		"avatar" : "Saya di sini untuk membantu dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Namun, jika Anda berbicara tentang pembayaran atau hal-hal terkait finansial, saya tidak dapat memberikan saran spesifik mengenai itu.\n\nJika Anda memiliki pertanyaan atau isu yang ingin Anda diskusikan dalam konteks pengembangan karir atau profesional, silakan beri tahu saya!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 112,
+		"user" : "Cetak? Iya yang masih",
+		"avatar" : "Saya di sini untuk mendengarkan dan membantu Anda! Jika Anda memiliki pertanyaan, topik, atau isu tertentu yang ingin Anda diskusikan, silakan sampaikan. Apa yang bisa saya bantu untuk Anda hari ini?",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 113,
+		"user" : "udah kan yang lama berarti mempunyai yang lama kan",
+		"avatar" : "Jika Anda berbicara tentang mencetak dokumen atau materi tertentu, pastikan Anda memiliki semua yang diperlukan sebelum mencetak, seperti:\n\n1. Dokumen yang Tepat: Pastikan isi dokumen sudah final dan tidak ada kesalahan.\n2. Printer: Pastikan printer dalam keadaan baik dan terhubung dengan perangkat Anda.\n3. Kertas: Pastikan Anda memiliki kertas yang cukup untuk mencetak semua halaman.\n4. Pengaturan Cetak: Periksa pengaturan cetak, seperti jumlah salinan dan ukuran kertas yang digunakan.\n\nJika Anda membutuhkan bantuan lebih lanjut atau memiliki pertanyaan spesifik terkait pencetakan, silakan beri tahu saya!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 114,
+		"user" : "minim musik",
+		"avatar" : "Saya mengerti bahwa Anda mungkin berbicara tentang sesuatu yang berkaitan dengan dokumen atau materi yang sudah lama. Jika Anda ingin mendiskusikan lebih lanjut tentang hal itu atau memiliki pertanyaan spesifik, silakan beri tahu saya. Saya di sini untuk membantu Anda dengan informasi terkait pengembangan karir atau topik profesional lainnya!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 115,
+		"user" : "kalau buku baru harus ada kasih nama ya",
+		"avatar" : "Jika Anda berbicara tentang \"minim musik,\" mungkin Anda merujuk pada genre musik, ketenangan, atau suasana yang ingin Anda ciptakan. Namun, saya di sini untuk membantu dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional.\n\nJika ada hal lain yang ingin Anda diskusikan terkait karir, keterampilan, atau pengembangan diri, silakan beri tahu saya!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 116,
+		"user" : "mana anak? Mana anak? Biar aku memanggil",
+		"avatar" : "Betul! Jika Anda memiliki buku baru, biasanya penting untuk memberikan judul atau nama yang sesuai agar mudah diidentifikasi. Menambahkan nama atau informasi lain pada buku baru juga dapat membantu dalam pengorganisasian dan memastikan bahwa buku tersebut dikenali dengan baik.\n\nJika Anda ingin mendiskusikan lebih lanjut tentang buku, pembelajaran, atau topik lain yang berkaitan dengan pengembangan diri atau karir, silakan beri tahu saya!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 117,
+		"user" : "Iya seni musik",
+		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau topik yang berkaitan dengan pengembangan karir dan profesional. Namun, jika Anda berbicara tentang memanggil anak atau situasi tertentu, saya tidak memiliki informasi tentang individu tertentu.\n\nJika Anda memiliki pertanyaan atau isu yang ingin Anda diskusikan dalam konteks profesional, silakan beri tahu saya!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 118,
+		"user" : "seni musik",
+		"avatar" : "Seni musik adalah bentuk ekspresi artistik yang melibatkan menciptakan, menampilkan, dan mendengarkan musik. Ini adalah disiplin yang sangat kaya dan dapat mencakup berbagai genre, teknik, dan alat musik. Jika Anda tertarik untuk membahas lebih lanjut mengenai seni musik, berikut adalah beberapa aspek yang mungkin menarik untuk didiskusikan:\n\n1. Jenis Musik: Ada banyak genre musik, seperti klasik, pop, jazz, rock, dan banyak lagi. Setiap genre memiliki karakteristik dan sejarahnya sendiri.\n\n2. Instrumen Musik: Membahas alat musik yang berbeda, seperti piano, gitar, biola, drum, dan alat musik tradisional lainnya.\n\n3. Teori Musik: Memahami dasar-dasar teori musik, termasuk notasi, harmoni, melodi, dan ritme.\n\n4. Pendidikan Musik: Jika Anda tertarik untuk belajar musik, ada banyak kursus dan program pendidikan yang dapat membantu Anda mengembangkan keterampilan musik.\n\n5. Pertunjukan: Diskusi tentang pertunjukan musik, konser, dan pengalaman live music lainnya.\n\nJika Anda memiliki pertanyaan spesifik atau topik tertentu dalam seni musik yang ingin Anda bahas, silakan beri tahu saya!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 119,
+		"user" : "harus dikasih sekarang",
+		"avatar" : "Seni musik adalah cabang seni yang melibatkan produksi dan penghayatan suara yang terorganisir, biasanya dalam bentuk melodi, harmoni, dan ritme. Berikut adalah beberapa aspek penting dari seni musik:\n\n1. Komposisi: Proses menciptakan musik, baik melalui penulisan notasi musik atau penggunaan software musik. Komposer menciptakan karya yang bisa dinyanyikan atau dimainkan dengan alat musik.\n\n2. Pertunjukan: Seni musik sering kali diekspresikan melalui pertunjukan live, baik solo maupun dalam kelompok. Ini dapat melibatkan penyanyi, musisi, dan berbagai alat musik.\n\n3. Genre Musik: Ada berbagai genre musik, seperti klasik, pop, rock, jazz, blues, dan banyak lagi. Setiap genre memiliki karakteristik dan gaya uniknya sendiri.\n\n4. Teori Musik: Memahami teori musik meliputi belajar tentang notasi, akor, melodi, dan struktur lagu. Ini adalah dasar untuk menciptakan dan menganalisis musik.\n\n5. Pengaruh Budaya: Musik sering kali mencerminkan budaya dan tradisi masyarakatnya. Setiap daerah memiliki jenis musik yang unik dan sering kali mengandung sejarah dan makna sosial.\n\n6. Pendidikan Musik: Banyak institusi menawarkan program pendidikan musik untuk membantu individu belajar keterampilan musik, baik untuk hobi atau sebagai karir profesional.\n\nJika Anda memiliki pertanyaan lebih lanjut tentang seni musik atau ingin mendiskusikan topik tertentu, silakan beri tahu saya!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 120,
+		"user" : "sama kayak yang velg ambil spidol kasih nama sekarang",
+		"avatar" : "Jika Anda merasa perlu memberikan sesuatu sekarang, seperti informasi atau materi terkait seni musik, pastikan Anda memiliki semua yang diperlukan. Jika Anda ingin mendiskusikan topik tertentu atau memiliki pertanyaan yang ingin diajukan, silakan beri tahu saya! Saya di sini untuk membantu Anda dengan informasi yang berkaitan dengan pengembangan karir atau topik profesional lainnya. Apa yang bisa saya bantu?",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 121,
+		"user" : "Assist",
+		"avatar" : "Sepertinya Anda berbicara tentang memberi nama atau menandai sesuatu, mungkin dalam konteks proyek seni atau kegiatan tertentu. Jika Anda ingin memberi nama pada karya seni, alat, atau dokumen, pastikan untuk menuliskannya dengan jelas menggunakan spidol atau alat tulis yang sesuai.\n\nJika Anda memerlukan bantuan lebih lanjut atau ingin mendiskusikan cara memberi nama atau menandai sesuatu dalam konteks seni atau kegiatan lainnya, silakan beri tahu saya!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 122,
+		"user" : "kasih nama",
+		"avatar" : "Tentu! Saya di sini untuk membantu Anda. Jika Anda memiliki pertanyaan atau topik tertentu yang ingin Anda diskusikan, silakan sampaikan. Apa yang bisa saya bantu untuk Anda hari ini?",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 123,
+		"user" : "Iya,",
+		"avatar" : "Jika Anda perlu memberi nama pada sesuatu, berikut adalah beberapa tips yang bisa membantu Anda:\n\n1. Relevansi: Pastikan nama yang Anda pilih relevan dengan objek, proyek, atau karya seni yang ingin Anda beri nama.\n\n2. Kreativitas: Gunakan kreativitas Anda untuk menciptakan nama yang unik dan menarik. Pertimbangkan untuk menggunakan permainan kata atau kombinasi kata yang menarik.\n\n3. Sederhana dan Mudah Diingat: Pilih nama yang mudah diingat dan diucapkan. Ini akan memudahkan orang lain untuk merujuk pada objek atau karya tersebut.\n\n4. Pertimbangkan Audiens: Pikirkan tentang siapa yang akan menggunakan atau melihat nama tersebut. Pastikan nama tersebut sesuai dengan audiens yang dituju.\n\nJika Anda memiliki contoh spesifik atau konteks di mana Anda perlu memberi nama, silakan beri tahu saya, dan saya bisa membantu lebih lanjut!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 124,
+		"user" : "dulu cetahnya dari kasih nama mobil",
+		"avatar" : "Baik! Jika Anda ingin melanjutkan atau ada hal spesifik yang ingin Anda diskusikan, silakan beri tahu saya. Saya di sini untuk membantu Anda dengan informasi atau pertanyaan yang berkaitan dengan pengembangan karir atau topik lainnya. Apa yang bisa saya bantu hari ini?",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 125,
+		"user" : "bukunya sudah di kaca rumah belum?",
+		"avatar" : "Memberi nama mobil atau kendaraan adalah hal yang menyenangkan! Nama mobil bisa mencerminkan karakteristik, desain, atau bahkan kenangan yang terkait dengan kendaraan tersebut. Berikut beberapa tips untuk memberi nama mobil:\n\n1. Karakteristik Kendaraan: Pertimbangkan warna, bentuk, atau fitur unik dari mobil tersebut. Misalnya, jika mobil Anda berwarna merah cerah, Anda mungkin ingin memberi nama yang mencerminkan warna itu.\n\n2. Inspirasi dari Film atau Karakter: Banyak orang memilih nama mobil berdasarkan karakter dari film atau acara TV. Misalnya, jika Anda penggemar film \"Fast and Furious,\" Anda mungkin ingin memberi nama mobil Anda sesuai dengan salah satu karakter di film tersebut.\n\n3. Kata-kata yang Menarik: Cobalah menggunakan kata-kata yang keren atau menarik untuk memberi nama mobil Anda. Misalnya, \"Eagle\" untuk mobil yang cepat atau \"Beast\" untuk mobil yang kuat.\n\n4. Kenangan Pribadi: Jika mobil tersebut memiliki makna khusus bagi Anda, pertimbangkan untuk memberi nama berdasarkan kenangan atau pengalaman yang terkait dengan mobil tersebut.\n\nJika Anda memiliki ide atau nama yang ingin Anda diskusikan, silakan beri tahu saya!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 126,
+		"user" : "Halo, mana",
+		"avatar" : "Saya tidak dapat mengetahui informasi spesifik tentang buku atau lokasi fisik seperti \"kaca rumah.\" Namun, jika Anda berbicara tentang memastikan buku tertentu sudah tersedia atau terorganisir di rumah, pastikan untuk memeriksa tempat di mana Anda biasanya menyimpan buku.\n\nJika Anda memiliki pertanyaan lebih lanjut atau ingin mendiskusikan sesuatu yang spesifik terkait dengan buku, pengembangan karir, atau topik lainnya, silakan beri tahu saya!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 127,
+		"user" : "Halo",
+		"avatar" : "Halo! Saya di sini untuk membantu Anda. Jika ada pertanyaan atau topik yang ingin Anda diskusikan, silakan beri tahu saya. Apa yang bisa saya bantu untuk Anda hari ini?",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 128,
+		"user" : "Halo",
+		"avatar" : "Halo! Bagaimana kabar Anda? Jika ada yang ingin Anda diskusikan atau tanyakan, silakan sampaikan. Saya di sini untuk membantu!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 129,
+		"user" : "Anakanak, anak.",
+		"avatar" : "Halo! Apa kabar? Jika ada yang ingin Anda bicarakan atau tanyakan, silakan beri tahu saya. Saya siap membantu!",
+		"created_at" : "2025-01-17 11:30:55",
+		"updated_at" : "2025-01-17 11:30:55"
+	},
+	{
+		"chat_session_id" : "87a12908-d478-11ef-88fc-1a2ea6b40ad3",
+		"user_email" : "sondang.whita@gmail.com",
+		"chat_orders" : 130,
+		"user" : "Halo",
+		"avatar" : "Sepertinya Anda menyebutkan \"anak-anak.\" Jika Anda ingin mendiskusikan topik terkait anak-anak, seperti pendidikan, pengasuhan, atau aktivitas yang bisa dilakukan bersama anak-anak, silakan beri tahu saya! Saya siap membantu dengan informasi yang relevan.",
 		"created_at" : "2025-01-17 11:30:55",
 		"updated_at" : "2025-01-17 11:30:55"
 	},
@@ -15798,7 +15798,7 @@
 		"chat_session_id" : "ef179ff3-eff1-11ef-ac3a-6633f384d596",
 		"user_email" : "bnicorpu.test@gokampus.com",
 		"chat_orders" : 1,
-		"user" : "Bagaimana sejarah BNI?",
+		"user" : "-",
 		"avatar" : "BNI, atau Bank Negara Indonesia, didirikan pada tanggal lima Juli seribu sembilan ratus empat puluh enam. Pada awalnya, BNI berfungsi sebagai bank sentral dan bank komersial yang bertujuan untuk mendukung pengembangan ekonomi Indonesia. \n\nPada tahun seribu sembilan ratus sembilan puluh enam, BNI menjadi bank milik negara pertama yang go public dengan mencatatkan sahamnya di Bursa Efek Jakarta dan Bursa Efek Surabaya. Selama tahun seribu sembilan ratus enam puluhan, BNI berperan dalam meningkatkan ekonomi Indonesia dan mendukung pembangunan ekonomi nasional.\n\nPada tahun seribu sembilan ratus sembilan puluh dua, BNI bertransformasi menjadi perusahaan terbatas (PT Persero) sesuai dengan regulasi perbankan. Dalam perjalanan sejarahnya, BNI telah melakukan berbagai langkah strategis, termasuk recapitalization pada tahun seribu sembilan ratus sembilan puluh sembilan, divestasi saham pemerintah pada tahun dua ribu tujuh, dan penerbitan hak memesan efek terlebih dahulu pada tahun dua ribu sepuluh.\n\nBNI juga memiliki beberapa anak perusahaan, seperti BNI Multifinance, BNI Sekuritas, dan BNI Life Insurance, serta beroperasi secara internasional dengan membuka cabang pertamanya di Singapura pada tahun seribu sembilan ratus lima puluh lima.\n\nSaat ini, BNI adalah salah satu bank terbesar di Indonesia, dengan visi untuk menjadi lembaga keuangan yang unggul dalam pelayanan dan kinerja. Jika Anda ingin tahu lebih lanjut tentang aspek tertentu dari sejarah BNI, jangan ragu untuk bertanya!",
 		"created_at" : "2025-02-21 08:22:52",
 		"updated_at" : "2025-02-21 08:22:52"
@@ -15807,8 +15807,8 @@
 		"chat_session_id" : "ef179ff3-eff1-11ef-ac3a-6633f384d596",
 		"user_email" : "bnicorpu.test@gokampus.com",
 		"chat_orders" : 2,
-		"user" : "Apa saja produk BNI?",
-		"avatar" : "BNI menawarkan berbagai produk dan layanan keuangan yang dirancang untuk memenuhi kebutuhan nasabah dari berbagai segmen. Berikut adalah beberapa produk utama yang tersedia di BNI:\n\n1. Rekening Tabungan: BNI menyediakan berbagai jenis rekening tabungan, termasuk BNI Taplus, BNI Taplus Muda, dan BNI Taplus Bisnis.\n\n2. Pinjaman: BNI menawarkan berbagai produk pinjaman, seperti:\n   - BNI Griya (pinjaman perumahan)\n   - BNI Fleksi (pinjaman pribadi)\n   - BNI Griya Multiguna (pinjaman multi-tujuan)\n\n3. Kartu Kredit: BNI memiliki berbagai pilihan kartu kredit dengan manfaat dan fitur yang berbeda, sesuai dengan kebutuhan nasabah.\n\n4. Produk Investasi: BNI juga menawarkan produk investasi, termasuk reksa dana, produk treasury, dan investasi obligasi.\n\n5. Layanan Perbankan Digital: Melalui aplikasi BNI Mobile Banking, nasabah dapat melakukan berbagai transaksi perbankan secara online, seperti transfer, pembayaran, dan pengelolaan rekening.\n\n6. Layanan Bisnis: BNI menyediakan solusi perbankan untuk bisnis, termasuk pembiayaan usaha kecil dan menengah (UKM), manajemen kas, serta fasilitas trade finance.\n\n7. Asuransi: BNI menawarkan produk asuransi melalui BNI Life Insurance untuk memberikan perlindungan tambahan bagi nasabah.\n\n8. Layanan Wealth Management: BNI Emerald adalah layanan manajemen kekayaan yang menawarkan solusi perbankan dan investasi yang dipersonalisasi.\n\nJika Anda ingin mengeksplorasi lebih lanjut tentang salah satu produk atau layanan tertentu, atau mencari informasi tambahan, silakan beri tahu saya!",
+		"user" : "Bagaimana sejarah BNI?",
+		"avatar" : "BNI, atau Bank Negara Indonesia, didirikan pada tanggal lima Juli seribu sembilan ratus empat puluh enam. Pada awalnya, BNI berfungsi sebagai bank sentral dan bank komersial yang bertujuan untuk mendukung pengembangan ekonomi Indonesia. \n\nPada tahun seribu sembilan ratus sembilan puluh enam, BNI menjadi bank milik negara pertama yang go public dengan mencatatkan sahamnya di Bursa Efek Jakarta dan Bursa Efek Surabaya. Selama tahun seribu sembilan ratus enam puluhan, BNI berperan dalam meningkatkan ekonomi Indonesia dan mendukung pembangunan ekonomi nasional.\n\nPada tahun seribu sembilan ratus sembilan puluh dua, BNI bertransformasi menjadi perusahaan terbatas (PT Persero) sesuai dengan regulasi perbankan. Dalam perjalanan sejarahnya, BNI telah melakukan berbagai langkah strategis, termasuk recapitalization pada tahun seribu sembilan ratus sembilan puluh sembilan, divestasi saham pemerintah pada tahun dua ribu tujuh, dan penerbitan hak memesan efek terlebih dahulu pada tahun dua ribu sepuluh.\n\nBNI juga memiliki beberapa anak perusahaan, seperti BNI Multifinance, BNI Sekuritas, dan BNI Life Insurance, serta beroperasi secara internasional dengan membuka cabang pertamanya di Singapura pada tahun seribu sembilan ratus lima puluh lima.\n\nSaat ini, BNI adalah salah satu bank terbesar di Indonesia, dengan visi untuk menjadi lembaga keuangan yang unggul dalam pelayanan dan kinerja. Jika Anda ingin tahu lebih lanjut tentang aspek tertentu dari sejarah BNI, jangan ragu untuk bertanya!",
 		"created_at" : "2025-02-21 08:22:52",
 		"updated_at" : "2025-02-21 08:22:52"
 	},
@@ -15825,8 +15825,8 @@
 		"chat_session_id" : "ef179ff3-eff1-11ef-ac3a-6633f384d596",
 		"user_email" : "bnicorpu.test@gokampus.com",
 		"chat_orders" : 4,
-		"user" : "-",
-		"avatar" : "BNI, atau Bank Negara Indonesia, didirikan pada tanggal lima Juli seribu sembilan ratus empat puluh enam. Pada awalnya, BNI berfungsi sebagai bank sentral dan bank komersial yang bertujuan untuk mendukung pengembangan ekonomi Indonesia. \n\nPada tahun seribu sembilan ratus sembilan puluh enam, BNI menjadi bank milik negara pertama yang go public dengan mencatatkan sahamnya di Bursa Efek Jakarta dan Bursa Efek Surabaya. Selama tahun seribu sembilan ratus enam puluhan, BNI berperan dalam meningkatkan ekonomi Indonesia dan mendukung pembangunan ekonomi nasional.\n\nPada tahun seribu sembilan ratus sembilan puluh dua, BNI bertransformasi menjadi perusahaan terbatas (PT Persero) sesuai dengan regulasi perbankan. Dalam perjalanan sejarahnya, BNI telah melakukan berbagai langkah strategis, termasuk recapitalization pada tahun seribu sembilan ratus sembilan puluh sembilan, divestasi saham pemerintah pada tahun dua ribu tujuh, dan penerbitan hak memesan efek terlebih dahulu pada tahun dua ribu sepuluh.\n\nBNI juga memiliki beberapa anak perusahaan, seperti BNI Multifinance, BNI Sekuritas, dan BNI Life Insurance, serta beroperasi secara internasional dengan membuka cabang pertamanya di Singapura pada tahun seribu sembilan ratus lima puluh lima.\n\nSaat ini, BNI adalah salah satu bank terbesar di Indonesia, dengan visi untuk menjadi lembaga keuangan yang unggul dalam pelayanan dan kinerja. Jika Anda ingin tahu lebih lanjut tentang aspek tertentu dari sejarah BNI, jangan ragu untuk bertanya!",
+		"user" : "Apa saja produk BNI?",
+		"avatar" : "BNI menawarkan berbagai produk dan layanan keuangan yang dirancang untuk memenuhi kebutuhan nasabah dari berbagai segmen. Berikut adalah beberapa produk utama yang tersedia di BNI:\n\n1. Rekening Tabungan: BNI menyediakan berbagai jenis rekening tabungan, termasuk BNI Taplus, BNI Taplus Muda, dan BNI Taplus Bisnis.\n\n2. Pinjaman: BNI menawarkan berbagai produk pinjaman, seperti:\n   - BNI Griya (pinjaman perumahan)\n   - BNI Fleksi (pinjaman pribadi)\n   - BNI Griya Multiguna (pinjaman multi-tujuan)\n\n3. Kartu Kredit: BNI memiliki berbagai pilihan kartu kredit dengan manfaat dan fitur yang berbeda, sesuai dengan kebutuhan nasabah.\n\n4. Produk Investasi: BNI juga menawarkan produk investasi, termasuk reksa dana, produk treasury, dan investasi obligasi.\n\n5. Layanan Perbankan Digital: Melalui aplikasi BNI Mobile Banking, nasabah dapat melakukan berbagai transaksi perbankan secara online, seperti transfer, pembayaran, dan pengelolaan rekening.\n\n6. Layanan Bisnis: BNI menyediakan solusi perbankan untuk bisnis, termasuk pembiayaan usaha kecil dan menengah (UKM), manajemen kas, serta fasilitas trade finance.\n\n7. Asuransi: BNI menawarkan produk asuransi melalui BNI Life Insurance untuk memberikan perlindungan tambahan bagi nasabah.\n\n8. Layanan Wealth Management: BNI Emerald adalah layanan manajemen kekayaan yang menawarkan solusi perbankan dan investasi yang dipersonalisasi.\n\nJika Anda ingin mengeksplorasi lebih lanjut tentang salah satu produk atau layanan tertentu, atau mencari informasi tambahan, silakan beri tahu saya!",
 		"created_at" : "2025-02-21 08:22:52",
 		"updated_at" : "2025-02-21 08:22:52"
 	},
@@ -20149,5 +20149,383 @@
 		"avatar" : "Saya GAIA, AI Career Coach dan Trainer dari goKampus. Tujuan saya adalah membantu Anda mengidentifikasi celah keterampilan, memperkuat keahlian Anda, dan mencapai pertumbuhan karir yang berarti. Untuk memulai, apa area keterampilan yang ingin Anda kembangkan atau tingkatkan, dan di mana Anda merasa ada celah yang perlu diatasi?",
 		"created_at" : "2025-03-25 06:04:48",
 		"updated_at" : "2025-03-25 06:04:48"
+	},
+	{
+		"chat_session_id" : "ece16498-091e-11f0-b137-92ee5263b52e",
+		"user_email" : "gaia.test@yopmail.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya GAIA, AI Career Coach dan Trainer dari goKampus. Tujuan saya adalah membantu Anda mengidentifikasi celah keterampilan, memperkuat keahlian Anda, dan mencapai pertumbuhan karir yang berarti. Untuk memulai, apa area keterampilan yang ingin Anda kembangkan atau tingkatkan, dan di mana Anda merasa ada celah yang perlu diatasi?",
+		"created_at" : "2025-03-25 09:14:59",
+		"updated_at" : "2025-03-25 09:14:59"
+	},
+	{
+		"chat_session_id" : "5d01dcb8-0937-11f0-bbcf-b6277382955d",
+		"user_email" : "fauzi.amrullah@pupukkaltim.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya GAIA, AI Career Coach dan Trainer dari goKampus. Tujuan saya adalah membantu Anda mengidentifikasi celah keterampilan, memperkuat keahlian Anda, dan mencapai pertumbuhan karir yang berarti. Untuk memulai, apa area keterampilan yang ingin Anda kembangkan atau tingkatkan, dan di mana Anda merasa ada celah yang perlu diatasi?",
+		"created_at" : "2025-03-25 12:12:11",
+		"updated_at" : "2025-03-25 12:12:11"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya adalah GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 2,
+		"user" : "Cek,Inicek",
+		"avatar" : "Saya adalah GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 3,
+		"user" : "tolong carikanarti",
+		"avatar" : "Saya GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah ada pertanyaan atau topik tertentu yang ingin Anda diskusikan terkait karir atau pengembangan profesional Anda?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 4,
+		"user" : "tolong carikanarti",
+		"avatar" : "Saya mengSaya mengkhususkhususkan dirikan diri dalam membantu dalam membantu profesional dengan profesional dengan pengetahuan terkait kar pengetahuanir dan terkait kar industri.ier dan Apakah industri. Apakah ada hal ada yang spesifik yang ingin bisa saya bantu terkait Anda ket dengan pengahui atauembangan kar diskusir Andaikan terkait atau karir topik profesional atau pengembangan profesional lainnya?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 5,
+		"user" : "apa yang di bahas",
+		"avatar" : "Anda?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 6,
+		"user" : "dan bisnis ritel",
+		"avatar" : "Saya dapat membantu Anda dengan berbagai topik terkait pengembangan karir, termasuk strategi pengembangan karir, keterampilan industri tertentu (seperti keuangan, teknologi, dan pemasaranDalam konteks bisnis), keter ritelampilan lun, terdapatak ( beberapa aspekseperti penting yang komunikasi dan perlu diper manajemenhatikan untuk waktu), pengembangan serta kesehatan mental di dan pert tempat kerjaumbuhan karir Anda. Ap. Berikut adalah beberapaakah ada poin yang topik dapat membantu:\n\n1 tertentu yang ingin Anda bahas. Pengetahuan lebih lanjut?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 7,
+		"user" : "dimasukkan Bisnis ritel",
+		"avatar" : "Produk: Memahami berbagai produk yang dijual dalam ritel sangat penting. Ini termasuk mengetahui spesifikasi, manfaat, dan kebutuhan pelanggan.\n\n2. Keterampilan Layanan Pelanggan: Kemampuan untuk memberikan layanan pelanggan yang luar biasa akan membedakan Anda dari pesaing. Ini meliputiBisnis ritel adalah sektor yang sangat penting dalam ekonomi, terutama dalam menyediakan barang dan layanan kepada konsumen. Dalam konteks pengembangan karir di bisnis ritel, beberapa area yang bisa Anda fokuskan meliputi:\n\n1. Manajemen Ritel: Mempelajari keterampilan manajerial yang efisien untuk mengelola toko ritel, termasuk pengelolaan inventaris, penjualan, dan layanan pelanggan.\n\n2. Pemasaran Ritel: Mengembangkan strategi pemasaran yang efektif untuk menarik pelanggan, termasuk penggunaan media sosial dan promosi.\n\n3. Pengalaman Pelanggan: Memahami pentingnya menciptakan pengalaman berbelanja yang positif bagi pelanggan, yang dapat meningkatkan loyalitas dan penjualan.\n\n4. Analisis Data: Belajar bagaimana menggunakan data untuk memahami tren konsumen dan meningkatkan kinerja bisnis.\n\n5. E-commerce: Memahami bagaimana bisnis ritel bertransisi ke platform online dan strategi yang diperlukan untuk berhasil dalam lingkungan digital.\n\nJika Anda ingin mendalami topik ini lebih lanjut, goKampus menawarkan berbagai kursus yang dapat membantu Anda. Anda bisa mencari kata kunci seperti \"manajemen ritel\" atau \"pemasaran ritel\" di platform goKampus untuk menemukan kursus yang relevan. Apakah ada aspek tertentu dari bisnis ritel yang ingin Anda bahas lebih lanjut?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 8,
+		"user" : "di restasinya",
+		"avatar" : "komunikasi yang efektif, kemampuan untuk menangani keluhan, dan menjalin hubungan baik dengan pelanggan.\n\n3. Strategi Pemasaran: Pengetahuan tentang strategi pemasaran yang efektif untuk menarik pelanggan ke toko atau platform online Anda sangat berharga. Ini mencakup promosi, diskon, dan penggunaan media sosial untuk pemasaran.\n\n4. Manajemen Inventaris: Memahami bagaimana mengelola inventaris dengan efisien dapat membantu mengurangi biaya dan meningkatkan kepuasan pelanggan. Ini termasuk pengendalian stok dan penggunaan perangkat lunak manajemen inventaris.\n\n5. Analisis Data: Kemampuan untuk menganalisis data penjualan dan perilaku pelanggan dapat memberikan wawasan berharga untuk pengambilan keputusan strategis.\n\nJika Anda ingin memperdalam pengetahuan Anda dalam salah satu area ini atau topik terkait lainnya, saya dapat merekomendasikan kursus di goKampus. Anda bisa mencari dengan kata kunci seperti \"bisnis ritel\" atau \"manajemen layanan pelanggan\" di platform goKampus untuk menemukan materi yang relevan. Apakah ada aspek tertentu yang ingin Anda bahas lebih lanjut?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 9,
+		"user" : "ya? Satu miliar",
+		"avatar" : "Dalam konteks restoran, ada beberapa aspek penting yang perlu diperhatikan untuk kesuksesan bisnis dan pengembangan karir. Berikut adalah beberapa poin yang relevan:\n\n1. Pengelolaan Operasional: Memahami bagaimana mengelola operasional restoran dengan efisien, termasuk manajemen dapur, layanan meja, dan pengelolaan stok bahan makanan.\n\n2. Layanan Pelanggan: Memberikan pengalaman pelanggan yang luar biasa adalah kunci dalam industri restoran. Keterampilan komunikasi, penyelesaian masalah, dan kemampuan untuk memahami kebutuhan pelanggan sangat penting.\n\n3. Kreativitas Menu: Mengembangkan menu yang menarik dan sesuai dengan tren pasar. Ini juga mencakup pemahaman tentang makanan sehat dan keberlanjutan.\n\n4. Pemasaran dan Promosi: Mampu mempromosikan restoran Anda melalui media sosial, kampanye email, dan acara khusus dapat membantu menarik pelanggan baru.\n\n5. Manajemen Keuangan: Memahami aspek keuangan dari restoran, termasuk penganggaran, pengendalian biaya, dan analisis profitabilitas.\n\nJika Anda ingin mendalami salah satu topik ini atau topik lain yang terkait dengan restoran, saya dapat merekomendasikan kursus di goKampus. Anda bisa mencari dengan kata kunci seperti \"manajemen restoran\" atau \"layanan pelanggan di restoran\" di platform goKampus untuk menemukan materi yang relevan. Apakah ada topik khusus yang ingin Anda bahas lebih lanjut?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 10,
+		"user" : "investasinya1 miliar",
+		"avatar" : "Saya mengkhususkan diri dalam membantu profesional dengan pengetahuan terkait karDalam konteier dan industri.ks investasi Apakah di bisnis ada yang ritel bisa saya, investasi bantu terkait sebesar satu dengan peng miliarembangan karir Anda atau topik profesional rupiah dapat digunakan untuk berbagai hal. Berikut adalah beberapa area investasi yang mungkin relevan:\n\n lainnya1. Pemb? Jikaukaan Toko Ritel: Invest Anda menyebutkan satu miliar, apakah itu terkait dengan pendanaan, investasi, atau aspekasi ini lain dalam dapat digunakan bisnis? Moh untuk membukaon jelaskan toko fis lebih lanjutik, termasuk biaya agar saya sewa dapat memberikan informasi yang, renov lebih tepat.asi, dan pengadaan inventaris.\n\n2. E-commerce: Uang tersebut dapat dialokasikan untuk mengembangkan platform e-commerce, termasuk website, aplikasi, dan pemasaran digital",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 11,
+		"user" : "karena",
+		"avatar" : ".\n\n3. Pemasaran dan Promosi: Investasi dalam kampanye pemasaran untuk meningkatkan visibilitas merek dan menarik pelanggan baru, baik melalui media sosial, iklan online, atau promosi lokal.\n\n4. Teknologi dan Sistem Manajemen: Menerapkan sistem manajemen ritel dan teknologi yang dapat membantu dalam pengelolaan inventaris, analisis data penjualan, dan pengalaman pelanggan.\n\n5. Pelatihan Karyawan: Menginvestasikan dalam pelatihan dan pengembangan karyawan untuk meningkatkan layanan pelanggan dan keterampilan penjualan.\n\nJika Anda ingin mengeksplorasi lebih jauh tentang investasi di bidang ritel atau membutuhkan panduan lebih lanjut, saya dapat merekomendasikan kursus terkait di goKampus. Anda bisa mencari kata kunci seperti \"investasi ritel\" untuk menemukan materi yang relevan. Apakah ada hal lain yang ingin Anda diskusikan?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 12,
+		"user" : "ini lebih gampang",
+		"avatar" : "Sepertinya Anda ingin menjelaskan lebih lanjut atau memberikan konteks tambahan terkait investasi di bisnis ritel. Jika ada pertanyaan spesifik atau informasi tambahan yang ingin Anda bahas, silakan beri tahu saya. Saya di sini untuk membantu Anda dengan semua yang berkaitan dengan pengembangan karir dan profesional. Apakah ada hal tertentu yang ingin Anda sampaikan?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 13,
+		"user" : "bisa diterangkan terkait dengan Sosek",
+		"avatar" : "Saya memahami bahwa Anda mungkin mencari informasi yang lebih sederhana atau langsung mengenai topik tertentu. Jika Anda memiliki pertanyaan spesifik atau ingin mendiskusikan sesuatu yang lebih mudah dipahami terkait investasi di bisnis ritel atau topik profesional lainnya, silakan beri tahu saya. Saya di sini untuk membantu Anda!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 14,
+		"user" : "bisa diterangkan terkait dengan Sosech",
+		"avatar" : "\"Sosek\" biasanya merujuk pada istilah \"Sosial dan Ekonomi,\" yang mencakup berbagai aspek terkait interaksi sosial dan kondisi ekonomi dalam masyarakat. Dalam konteks bisnis ritel, berikut adalah beberapa poin yang dapat diterangkan:\n\n1. PengaruhSaya meng Sosialkhusus:kan diri Bisnis dalam membantu ritel profesional dengan pengetahuan sangat dip terkait karengaruhiier dan oleh tren sosial, industri. Namun, seperti perubahan saya tidak preferensi memiliki informasi spesifik tentang \"Sose konsumen, gaya hidup, dan perilch\".aku bel Jika \"anja. MemSosech\" adalah istilah yangahami faktor-faktor sosial ini penting untuk meng terkait dengan industri tertentuembangkan strategi pemasaran atau konsep yang efektif profesional, mohon.\n\n2.  berikanKond konteksisi Ek atau detail lebih lanjutonomi.\n\nAp: Kakah Anda ingin membinerja bisnisahas topik lain ritel yang relevan dengan pengembangan juga dip karirengaruhi oleh kondisi ekonomi, Anda atau seperti inflasi, tingkat pengangguran industri tertentu, dan? Saya di sini daya beli masyarakat. untuk membantu!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 15,
+		"user" : "yang",
+		"avatar" : "Dalam situasi ekonomi yang baik, konsumen cenderung lebih banyak berbelanja, sementara dalam kondisi buruk, mereka mungkin lebih berhati-hati dalam pengeluaran.\n\n3. Tanggung Jawab Sosial Perusahaan: Banyak perusahaan ritel kini berfokus pada tanggung jawab sosial, yang berarti mereka berusaha untuk memberikan dampak positif pada masyarakat. Ini bisa berupa praktik berkelanjutan, penyediaan lapangan kerja, atau kontribusi pada proyek komunitas.\n\n4. Tren Pemasaran Sosial: Pemasaran yang berfokus pada nilai-nilai sosial dan lingkungan semakin populer. Perusahaan ritel dapat menarik pelanggan dengan menunjukkan komitmen mereka terhadap isu-isu sosial, seperti keberlanjutan atau dukungan terhadap komunitas lokal.\n\nJika Anda ingin mendalami lebih lanjut tentang aspek tertentu dari sosial dan ekonomi dalam bisnis ritel, saya dapat merekomendasikan kursus yang relevan di goKampus. Silakan beri tahu saya jika ada topik spesifik yang ingin Anda eksplorasi lebih dalam!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 16,
+		"user" : "besok ini jam itu",
+		"avatar" : "Sepertinya Anda ingin memberikan penjelasan lebih lanjut atau menanyakan sesuatu yang lebih spesifik terkait \"Sosek\". Jika Anda dapat memberikan detail lebih lanjut tentang apa yang Anda maksud dengan \"yang,\" saya akan lebih mudah membantu Anda. Apakah Anda ingin menjelaskan lebih lanjut tentang aspek sosial dan ekonomi tertentu, atau ada topik lain yang ingin Anda diskusikan? Silakan beri tahu saya!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 17,
+		"user" : "ya ini klien kalau dari siapa ini tuh",
+		"avatar" : "Saya mengkhususkan diri dalam membantu profesional dengan pengetahuan terkait karir dan industri. Jika Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda, silakan beri tahu saya. Apakah ada hal spesifik yang ingin Anda bahas?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 18,
+		"user" : "1MSatuN",
+		"avatar" : "TerkSaya senait denganang mend investasi,engar bahwa terdapat beberapa Anda melihat potensi yang baik aspek yang perlu dipertimb dalam investasiangkan untuk, terutama memastikan bahwa di bidang bisnis r keputusan investasi Anda baikitel. dan ber Investasikelanj yang tepatutan. dapat membawa banyak manfaat Berikut adalah, seperti beberapa poin penting:\n\n peningkatan pendapatan1. Anal, pertumbuhan bisnis, danisis Pas peluang untuk memperluas jaringan.\n\nJika Anda tertar: Memahami trenarik untuk mengeksplorasi lebih jauh tentang pasar, permintaan, dan kondisi ekonomi strategi investasi dapat membantu Anda membuat yang efektif keputusan investasi yang lebih baik., tren pasar, Lakukan riset atau keter mengenai sektor atau industriampilan yang diperlukan untuk sukses di yang ingin Anda masuki.\n\n industri ritel,2. saya Divers dapat memberikanifikasi Portofolio informasi lebih lanjut atau merekomendas: Investasi yang baik harus mencikan kursus terkaitakup diversifikasi di goKampus untuk meng. Apurangi risiko. Janganakah ada area spesifik dalam investasi ritel yang ingin Anda ketahui lebih lanjut? mengandalkan satu jenis investasi; pertimbangkan untuk berinvestasi di berbagai aset seperti saham, obligasi, dan properti.\n\n3. Manajemen Risiko: Identifikasi risiko yang terkait dengan investasi Anda dan cari cara untuk mengelolanya. Ini bisa termasuk penggunaan instrumen hedging atau asuransi.\n\n4. Konsultasi dengan Ahli: Jika Anda tidak yakin tentang investasi tertentu, pertimbangkan untuk berkonsultasi dengan penasihat keuangan atau profesional investasi.\n\n5. Pendidikan Berkelanjutan: Mengikuti kursus atau pelatihan tentang investasi dapat membantu Anda meningkatkan pengetahuan dan keterampilan dalam membuat keputusan investasi yang lebih baik.\n\nJika Anda tertarik untuk mendalami lebih lanjut tentang investasi, saya dapat merekomendasikan kursus di goKampus yang relevan dengan topik ini. Anda bisa mencari dengan kata kunci seperti \"investasi\" atau \"manajemen keuangan",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 19,
+		"user" : "bisa di bisa di join ini",
+		"avatar" : "Sepertinya Anda berbicara tentang bergabung dalam suatu program atau kegiatan tertentuSepert. Namuninya Anda meruj, sayauk pada memerlukan sebuah program atau kesempatan sedikit lebih banyak konte yang mungkin melibatkanks untuk kolabor memahami denganasi atau jelas apa keanggotaan yang Anda maksud dalam suatu organisasi atau proyek.. \n\n Namun,Jika Anda berbicara tentang saya mem bergabungerlukan lebih banyak informasi dalam program untuk memberikan jawaban investasi, yang tepat bisnis r.\n\nJikaitel, Anda bisa memberikan konteks lebih atau kursus peng lanjut tentangembangan profesional \"join, saya dapat memberikan ini\" informasi lebih dan apa lanjut atau yang Anda maksud membantu Anda menemukan sumber, saya daya yang akan ber tepat.usaha memberikan \n\nSil informasi yang relevanakan beri. Ap tahu sayaakah ini terkait dengan lebih lanjut peluang kerja tentang apa yang ingin, investasi Anda ikuti atau, atau bergabung, dan kolaborasi dalam bisnis? Saya di sini untuk membantu Anda! saya akan dengan senang hati membantu!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 20,
+		"user" : "bisa di bisa di join ini sudah apa",
+		"avatar" : "Sepertinya Anda mengacu pada istilah \"1MSatuN.\" Namun, saya tidak memiliki informasi spesifik tentang istilah tersebut dalam konteks bisnis atau investasi. Jika Anda dapat memberikan sedikit lebih banyak konteks atau menjelaskan apa yang Anda maksud, saya akan lebih mampuSaya meng membantu.\n\nApakahkhusus Anda mengacu pada suatu programkan diri dalam membantu investasi, profesional dengan pengetahuan terkait kar produk,ier dan industri. Namun, atau konsep saya perlu klarifikasi lebih lanjut mengenai istil tertentu?ah \"1M1M\". Ap Silakanakah Anda merujuk pada investasi satu beri tahu miliar atau topik lainnya yang spes saya,ifik?\n\nMohon berikan lebih banyak konteks dan saya agar saya dapat memberikan informasi yang relevan akan ber dan bermanfaat bagi Anda. Apakah adausaha memberikan topik profesional lain yang ingin Anda diskusikan? informasi yang lebih relevan!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 21,
+		"user" : "1M1M",
+		"avatar" : "\" di platform goKampus. Apakah ada aspek khusus dari investasi yang ingin Anda diskusikan lebih lanjut?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 22,
+		"user" : "bagus sih tapi investasinya bagus,bagus sih investasinya bagus",
+		"avatar" : "Sepertinya Anda merujuk kepada klien atau perusahaan tertentu yang mungkin terkait dengan bisnis atau industri profesional. Namun, saya tidak memiliki informasi spesifik mengenai \"Sosech\" sebagai klien atau perusahaan.\n\nJika Anda dapat memberikan lebih banyak konteks atau detail tentang \"Sosech\" dan apa yang Anda ingin ketahui, saya akan berusaha membantu Anda dengan informasi yang relevan untuk pengembangan karir atau industri yang bersangkutan. Apakah ada aspek tertentu yang ingin Anda diskusikan?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "99e5afd7-0947-11f0-b137-92ee5263b52e",
+		"user_email" : "muhammaddanial.azizi@petrokimia-gresik.com",
+		"chat_orders" : 1,
+		"user" : "Jelaskan secara singkat mengenai :\n\n                            \"Bayangkan gaptek itu bisa dipelajari. Anak kecil yang baru lahir pun awalnya gaptek, tapi lama-kelamaan bisa belajar sendiri. Masa kita yang sudah dewasa, dengan otak yang lebih matang, kalah sama anak kecil? Saya baru saja menyelesaikan batch ketiga dari program Thirty Days Challenge bersama Kang Afif, di mana kita membahas cara membuat kursus online. Ada hal-hal menarik yang saya pelajari. Misalnya, di batch pertama, seribu orang ikut, batch kedua juga seribu, dan batch ketiga sekitar lima ratusan. Banyak orang ingin naik level secara finansial, punya produk sendiri, brand sendiri, margin besar, dan kebebasan waktu. Tapi, masalahnya bukan pada peluang atau nasib, melainkan pada diri sendiri. Banyak orang gagal karena mereka menghalangi diri sendiri. Saya ingin menyampaikan bahwa peluang di dunia digital, seperti affiliate marketing dan kursus online, sedang naik daun. Statistik global menunjukkan pertumbuhan yang signifikan, bahkan mencapai miliaran dolar. Jadi, kalau ada yang bertanya apakah ini masih prospek 10 tahun ke depan, jawabannya adalah ya. Peluangnya besar, mentornya ada, dan modalnya kecil. Bahkan, Anda bisa memulai hanya dengan handphone. Tapi, banyak orang masih punya alasan seperti, “Saya gaptek,” “Saya tidak punya keahlian,” atau “Saya tidak punya followers.” Padahal, semua itu bisa dipelajari. Anak kecil saja bisa belajar, masa kita tidak? Masalah terbesar sebenarnya adalah mental block. Banyak orang tidak sadar bahwa mereka punya trauma atau pengalaman masa lalu yang menghambat kemajuan mereka. Misalnya, ada peserta di kelas saya yang takut public speaking karena pernah dipermalukan di sekolah saat kecil. Pengalaman itu membekas dan membuatnya takut salah lagi. Padahal, sebagai sales, public speaking adalah hal yang penting. Mental block seperti ini seringkali muncul dari kejadian masa kecil yang kita lupa, tapi dampaknya masih terasa sampai sekarang. Jadi, intinya, kesuksesan bukan hanya tentang peluang di luar, tapi juga tentang kesiapan diri. Jika ada peluang di depan mata, tapi Anda masih merasa takut, ragu, atau tidak percaya diri, coba tanyakan pada diri sendiri: apa yang menghambat saya? Apakah ada cerita masa lalu yang masih membekas? Dengan menyadari dan berdamai dengan pengalaman itu, Anda bisa membuka jalan untuk maju. Saya mengajak Anda untuk mulai introspeksi dan mengambil langkah kecil. Ikuti program pelatihan, belajar hal baru, dan jangan biarkan mental block menghalangi Anda. Peluang sudah ada, tinggal bagaimana Anda menyikapinya. Jika Anda tertarik, jangan ragu untuk menghubungi saya. Terima kasih sudah menonton, dan sampai jumpa di video berikutnya!\"\n                            \n                            Jangan gunakan kata ganti orang ketiga seperti \"penulis\", tapi buat seolah-olah Anda yang menyampaikan pesan tersebut secara langsung dan berikan pertanyaan sesuai konten itu untuk memulai diskusi.",
+		"avatar" : "Bayangkan jika ketidakmampuan teknologi (gaptek) itu bisa dipelajari. Setiap dari kita, bahkan anak kecil yang baru lahir, awalnya juga gaptek. Namun, seiring waktu, mereka belajar dan beradaptasi. Mengapa kita yang sudah dewasa, dengan pemikiran yang lebih matang, harus kalah dengan anak kecil dalam hal belajar? Baru-baru ini, saya menyelesaikan batch ketiga dari program Thirty Days Challenge bersama Kang Afif, di mana kami membahas cara membuat kursus online. Ada banyak hal menarik yang saya pelajari.\n\nMisalnya, pada batch pertama, seribu orang mendaftar, batch kedua juga seribu, dan batch ketiga sekitar lima ratusan. Banyak orang ingin meningkatkan level finansial mereka, memiliki produk dan brand sendiri, mendapatkan margin yang besar, serta kebebasan waktu. Namun, masalahnya bukan pada peluang atau nasib, melainkan pada diri sendiri. Banyak orang gagal karena mereka menghalangi diri mereka sendiri.\n\nPeluang di dunia digital, seperti affiliate marketing dan kursus online, sedang meningkat. Statistik global menunjukkan pertumbuhan yang signifikan, bahkan mencapai miliaran dolar. Jika ada yang bertanya apakah ini masih prospektif dalam 10 tahun ke depan, jawabannya adalah ya. Peluangnya besar, ada mentor yang siap membantu, dan modal yang dibutuhkan kecil. Anda bahkan bisa memulai hanya dengan handphone.\n\nNamun, banyak yang masih memiliki alasan seperti, “Saya gaptek,” “Saya tidak punya keahlian,” atau “Saya tidak punya followers.” Padahal, semua itu bisa dipelajari. Bahkan anak kecil bisa belajar, lalu mengapa kita tidak? Masalah terbesar sebenarnya adalah mental block. Banyak dari kita tidak sadar bahwa trauma atau pengalaman masa lalu menghambat kemajuan kita. Contohnya, ada peserta di kelas saya yang takut berbicara di depan umum karena pernah dipermalukan di sekolah. Pengalaman itu membekas dan membuatnya takut untuk salah lagi, padahal public speaking adalah keterampilan penting dalam dunia sales.\n\nMental block seperti ini sering kali muncul dari kejadian masa kecil yang mungkin kita lupakan, tetapi dampaknya masih terasa hingga kini. Intinya, kesuksesan bukan hanya tentang peluang di luar, tetapi juga tentang kesiapan diri. Jika ada peluang di depan mata, tetapi masih merasa takut atau ragu, coba tanyakan pada diri sendiri: apa yang menghambat saya? Apakah ada cerita masa lalu yang masih membekas?\n\nDengan menyadari dan berdamai dengan pengalaman tersebut, kita bisa membuka jalan untuk maju. Mari kita mulai introspeksi dan ambil langkah kecil. Ikuti program pelatihan, pelajari hal baru, dan jangan biarkan mental block menghalangi. Peluang sudah ada, tinggal bagaimana kita menyikapinya.\n\nSekarang, saya ingin tahu, apa pengalaman Anda yang mungkin menjadi mental block dalam mencapai tujuan Anda? Apakah ada sesuatu yang ingin Anda pelajari tetapi merasa terhambat?",
+		"created_at" : "2025-03-25 14:06:59",
+		"updated_at" : "2025-03-25 14:06:59"
+	},
+	{
+		"chat_session_id" : "99e5afd7-0947-11f0-b137-92ee5263b52e",
+		"user_email" : "muhammaddanial.azizi@petrokimia-gresik.com",
+		"chat_orders" : 2,
+		"user" : "-",
+		"avatar" : "Bayangkan jika ketidakmampuan teknologi (gaptek) itu bisa dipelajari. Setiap dari kita, bahkan anak kecil yang baru lahir, awalnya juga gaptek. Namun, seiring waktu, mereka belajar dan beradaptasi. Mengapa kita yang sudah dewasa, dengan pemikiran yang lebih matang, harus kalah dengan anak kecil dalam hal belajar? Baru-baru ini, saya menyelesaikan batch ketiga dari program Thirty Days Challenge bersama Kang Afif, di mana kami membahas cara membuat kursus online. Ada banyak hal menarik yang saya pelajari.\n\nMisalnya, pada batch pertama, seribu orang mendaftar, batch kedua juga seribu, dan batch ketiga sekitar lima ratusan. Banyak orang ingin meningkatkan level finansial mereka, memiliki produk dan brand sendiri, mendapatkan margin yang besar, serta kebebasan waktu. Namun, masalahnya bukan pada peluang atau nasib, melainkan pada diri sendiri. Banyak orang gagal karena mereka menghalangi diri mereka sendiri.\n\nPeluang di dunia digital, seperti affiliate marketing dan kursus online, sedang meningkat. Statistik global menunjukkan pertumbuhan yang signifikan, bahkan mencapai miliaran dolar. Jika ada yang bertanya apakah ini masih prospektif dalam 10 tahun ke depan, jawabannya adalah ya. Peluangnya besar, ada mentor yang siap membantu, dan modal yang dibutuhkan kecil. Anda bahkan bisa memulai hanya dengan handphone.\n\nNamun, banyak yang masih memiliki alasan seperti, “Saya gaptek,” “Saya tidak punya keahlian,” atau “Saya tidak punya followers.” Padahal, semua itu bisa dipelajari. Bahkan anak kecil bisa belajar, lalu mengapa kita tidak? Masalah terbesar sebenarnya adalah mental block. Banyak dari kita tidak sadar bahwa trauma atau pengalaman masa lalu menghambat kemajuan kita. Contohnya, ada peserta di kelas saya yang takut berbicara di depan umum karena pernah dipermalukan di sekolah. Pengalaman itu membekas dan membuatnya takut untuk salah lagi, padahal public speaking adalah keterampilan penting dalam dunia sales.\n\nMental block seperti ini sering kali muncul dari kejadian masa kecil yang mungkin kita lupakan, tetapi dampaknya masih terasa hingga kini. Intinya, kesuksesan bukan hanya tentang peluang di luar, tetapi juga tentang kesiapan diri. Jika ada peluang di depan mata, tetapi masih merasa takut atau ragu, coba tanyakan pada diri sendiri: apa yang menghambat saya? Apakah ada cerita masa lalu yang masih membekas?\n\nDengan menyadari dan berdamai dengan pengalaman tersebut, kita bisa membuka jalan untuk maju. Mari kita mulai introspeksi dan ambil langkah kecil. Ikuti program pelatihan, pelajari hal baru, dan jangan biarkan mental block menghalangi. Peluang sudah ada, tinggal bagaimana kita menyikapinya.\n\nSekarang, saya ingin tahu, apa pengalaman Anda yang mungkin menjadi mental block dalam mencapai tujuan Anda? Apakah ada sesuatu yang ingin Anda pelajari tetapi merasa terhambat?",
+		"created_at" : "2025-03-25 14:06:59",
+		"updated_at" : "2025-03-25 14:06:59"
+	},
+	{
+		"chat_session_id" : "676f3d7f-097b-11f0-a57b-02a704d5a669",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya GAIA, AI Career Coach dan Trainer dari goKampus. Tujuan saya adalah membantu Anda mengidentifikasi celah keterampilan, memperkuat keahlian Anda, dan mencapai pertumbuhan karir yang berarti. Untuk memulai, apa area keterampilan yang ingin Anda kembangkan atau tingkatkan, dan di mana Anda merasa ada celah yang perlu diatasi?",
+		"created_at" : "2025-03-25 20:16:59",
+		"updated_at" : "2025-03-25 20:16:59"
+	},
+	{
+		"chat_session_id" : "95c045f7-0996-11f0-b137-92ee5263b52e",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya GAIA, AI Career Coach dan Trainer dari goKampus. Tujuan saya adalah membantu Anda mengidentifikasi celah keterampilan, memperkuat keahlian Anda, dan mencapai pertumbuhan karir yang berarti. Untuk memulai, apa area keterampilan yang ingin Anda kembangkan atau tingkatkan, dan di mana Anda merasa ada celah yang perlu diatasi?",
+		"created_at" : "2025-03-25 23:32:30",
+		"updated_at" : "2025-03-25 23:32:30"
+	},
+	{
+		"chat_session_id" : "bf0a62b2-0996-11f0-a57b-02a704d5a669",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya GAIA, AI Career Coach dan Trainer dari goKampus. Tujuan saya adalah membantu Anda mengidentifikasi celah keterampilan, memperkuat keahlian Anda, dan mencapai pertumbuhan karir yang berarti. Untuk memulai, apa area keterampilan yang ingin Anda kembangkan atau tingkatkan, dan di mana Anda merasa ada celah yang perlu diatasi?",
+		"created_at" : "2025-03-25 23:32:52",
+		"updated_at" : "2025-03-25 23:32:52"
+	},
+	{
+		"chat_session_id" : "9cbad48e-09dd-11f0-bbcf-b6277382955d",
+		"user_email" : "jimi@indomaret.co.id",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo, saya GAIA, goKampus AI Advisor. Ada yang bisa saya bantu?",
+		"created_at" : "2025-03-26 08:02:24",
+		"updated_at" : "2025-03-26 08:02:24"
+	},
+	{
+		"chat_session_id" : "81d25a8a-09de-11f0-a57b-02a704d5a669",
+		"user_email" : "agust.setiawan@gmail.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya GAIA, AI Career Coach dan Trainer dari goKampus. Tujuan saya adalah membantu Anda mengidentifikasi celah keterampilan, memperkuat keahlian Anda, dan mencapai pertumbuhan karir yang berarti. Untuk memulai, apa area keterampilan yang ingin Anda kembangkan atau tingkatkan, dan di mana Anda merasa ada celah yang perlu diatasi?",
+		"created_at" : "2025-03-26 08:06:47",
+		"updated_at" : "2025-03-26 08:07:08"
+	},
+	{
+		"chat_session_id" : "3b24eeea-09e0-11f0-81ed-2e93c127b493",
+		"user_email" : "jimi@indomaret.co.id",
+		"chat_orders" : 1,
+		"user" : "Apakah anda bisa memberikan ringkasan singkatterkait pembelajaran untuk pengembangan diridari sisi manajemen waktu",
+		"avatar" : "Tentu! Berikut adalah ringkasan singkat tentang pembelajaran pengembangan diri dari sisi manajemen waktu:\n\n### Manajemen Waktu untuk Pengembangan Diri\n\n1. Pentingnya Manajemen Waktu: Manajemen waktu yang efektif membantu Anda memprioritaskan tugas, meningkatkan produktivitas, dan mengurangi stres. Dengan mengelola waktu dengan baik, Anda bisa mencapai tujuan pribadi dan profesional lebih efisien.\n\n2. Teknik Penjadwalan: Gunakan alat seperti kalender digital atau aplikasi manajemen tugas untuk merencanakan hari Anda. Tentukan waktu untuk setiap tugas dan patuhi jadwal tersebut.\n\n3. Prioritaskan Tugas: Gunakan metode seperti Matriks Eisenhower untuk membedakan antara tugas yang mendesak dan penting. Fokuslah pada tugas-tugas yang memberikan dampak terbesar.\n\n4. Tetapkan Tujuan SMART: Pastikan tujuan yang Anda tetapkan adalah Spesifik, Terukur, Achievable (dapat dicapai), Relevan, dan Terikat waktu. Ini membantu Anda tetap fokus dan termotivasi.\n\n5. Hindari Prokrastinasi: Identifikasi penyebab prokrastinasi Anda dan cari cara untuk mengatasinya, seperti dengan memecah tugas besar menjadi bagian yang lebih kecil dan lebih mudah dikelola.\n\n6. Evaluasi dan Refleksi: Luangkan waktu untuk mengevaluasi bagaimana Anda menggunakan waktu Anda. Identifikasi area yang perlu diperbaiki dan buat rencana untuk meningkatkan manajemen waktu Anda.\n\nDengan menerapkan prinsip-prinsip ini, Anda dapat mengembangkan keterampilan manajemen waktu yang akan membantu Anda dalam mencapai tujuan dan meningkatkan kualitas hidup Anda. Jika Anda ingin mengeksplorasi kursus terkait manajemen waktu di GoKampus, beri tahu saya!",
+		"created_at" : "2025-03-26 08:26:13",
+		"updated_at" : "2025-03-26 08:26:13"
+	},
+	{
+		"chat_session_id" : "3b24eeea-09e0-11f0-81ed-2e93c127b493",
+		"user_email" : "jimi@indomaret.co.id",
+		"chat_orders" : 2,
+		"user" : "Halomungkinsaya butuhuntuktopik kepemimpinan tapijuga berkaitan dengan komunikasi",
+		"avatar" : "Tentu! Jika Anda mencari kursus yang berkaitan dengan kepemimpinan dan komunikasi, berikut adalah beberapa rekomendasi yang mungkin Anda temukan di GoKampus:\n\n1. Kepemimpinan dan Keterampilan Komunikasi: Kursus ini mengajarkan dasar-dasar kepemimpinan bersamaan dengan keterampilan komunikasi yang efektif, sehingga Anda dapat memimpin tim dengan lebih baik.\n\n2. Komunikasi Efektif untuk Pemimpin: Fokus pada teknik komunikasi yang dibutuhkan untuk memengaruhi dan memotivasi anggota tim dalam berbagai situasi.\n\n3. Membangun Hubungan Melalui Komunikasi: Kursus ini mengajarkan pentingnya membangun hubungan yang kuat melalui komunikasi, yang sangat penting dalam peran kepemimpinan.\n\n4. Kepemimpinan Melalui Negosiasi dan Komunikasi: Mengembangkan keterampilan negosiasi dan komunikasi yang diperlukan untuk mencapai kesepakatan dan menyelesaikan konflik di tempat kerja.\n\nSilakan cari kursus-kursus ini di GoKampus untuk menemukan yang paling sesuai dengan kebutuhan Anda. Jika Anda membutuhkan bantuan lebih lanjut, jangan ragu untuk bertanya!",
+		"created_at" : "2025-03-26 08:26:13",
+		"updated_at" : "2025-03-26 08:26:13"
+	},
+	{
+		"chat_session_id" : "3b24eeea-09e0-11f0-81ed-2e93c127b493",
+		"user_email" : "jimi@indomaret.co.id",
+		"chat_orders" : 3,
+		"user" : "Boleh tolong Tunjukkancourse yang tersedia di go kampusuntukdasardasar kepemimpinan yang tadi Anda jelaskan",
+		"avatar" : "Saya tidak dapat mengakses data kursus secara langsung, tetapi Anda dapat menemukan kursus \"Dasar-Dasar Kepemimpinan\" dan program terkait lainnya di platform GoKampus. Langkah-langkah yang bisa Anda ikuti adalah:\n\n1. Kunjungi situs web GoKampus.\n2. Gunakan fitur pencarian untuk mencari \"Dasar-Dasar Kepemimpinan\" atau \"Kepemimpinan\".\n3. Lihat daftar kursus yang tersedia dan pilih yang sesuai dengan kebutuhan Anda.\n\nJika Anda memiliki pertanyaan lebih lanjut tentang kursus tertentu setelah mencarinya, silakan beri tahu saya!",
+		"created_at" : "2025-03-26 08:26:13",
+		"updated_at" : "2025-03-26 08:26:13"
+	},
+	{
+		"chat_session_id" : "3b24eeea-09e0-11f0-81ed-2e93c127b493",
+		"user_email" : "jimi@indomaret.co.id",
+		"chat_orders" : 4,
+		"user" : "Saat",
+		"avatar" : "Tentu, saya di sini untuk membantu! Jika Anda memiliki pertanyaan lebih lanjut atau ingin informasi tambahan tentang kursus atau topik tertentu, silakan beri tahu saya. Apa yang ingin Anda diskusikan lebih lanjut?",
+		"created_at" : "2025-03-26 08:26:13",
+		"updated_at" : "2025-03-26 08:26:13"
+	},
+	{
+		"chat_session_id" : "3b24eeea-09e0-11f0-81ed-2e93c127b493",
+		"user_email" : "jimi@indomaret.co.id",
+		"chat_orders" : 5,
+		"user" : "berikan usulan kirakira kalau saya sebagai leadership pemulalebihcocoktopik yang mana",
+		"avatar" : "Jika Anda seorang pemula dalam bidang kepemimpinan, saya menyarankan Anda untuk memulai dengan kursus berikut yang cocok untuk level pemula:\n\n1. Dasar-Dasar Kepemimpinan: Kursus ini memberikan pemahaman fundamental tentang kepemimpinan, termasuk gaya kepemimpinan, motivasi, dan bagaimana menjadi pemimpin yang efektif.\n\n2. Keterampilan Komunikasi untuk Pemimpin Pemula: Fokus pada pengembangan kemampuan komunikasi dasar yang penting untuk berinteraksi dengan tim dan membangun hubungan yang baik.\n\n3. Membangun Tim yang Sukses: Kursus ini akan membantu Anda memahami cara membentuk dan mengelola tim yang efektif, serta teknik untuk membangun kerjasama yang baik di dalam tim.\n\n4. Pengembangan Diri untuk Pemimpin: Mengenal diri sendiri dan kekuatan Anda sebagai pemimpin, serta cara untuk terus berkembang dalam peran kepemimpinan.\n\nKursus-kursus ini akan memberi Anda dasar yang kuat untuk memulai perjalanan Anda sebagai pemimpin. Jika Anda tertarik dengan salah satu kursus tersebut, silakan beri tahu saya!",
+		"created_at" : "2025-03-26 08:26:13",
+		"updated_at" : "2025-03-26 08:26:13"
+	},
+	{
+		"chat_session_id" : "3b24eeea-09e0-11f0-81ed-2e93c127b493",
+		"user_email" : "jimi@indomaret.co.id",
+		"chat_orders" : 6,
+		"user" : "Oke berikan rekomendasi sayauntukcourse yang berkaitan dengan pengembangan diri khususnya untuk leadership",
+		"avatar" : "Tentu! Saya merekomendasikan beberapa kursus di GoKampus yang berkaitan dengan pengembangan diri, terutama dalam bidang kepemimpinan (leadership):\n\n1. Kepemimpinan yang Efektif: Kursus ini membantu Anda memahami prinsip-prinsip kepemimpinan yang sukses dan cara menerapkannya dalam konteks profesional.\n\n2. Keterampilan Komunikasi untuk Pemimpin: Fokus pada pengembangan keterampilan komunikasi yang diperlukan untuk memimpin tim dan mempengaruhi orang lain.\n\n3. Manajemen Tim dan Kolaborasi: Mempelajari cara membangun tim yang solid, mengelola dinamika kelompok, dan mendorong kolaborasi yang efektif.\n\n4. Pengambilan Keputusan Strategis: Kursus ini memberikan wawasan tentang bagaimana membuat keputusan yang bijaksana dan strategis dalam posisi kepemimpinan.\n\nSilakan pilih salah satu kursus di atas yang sesuai dengan kebutuhan Anda, atau jika Anda ingin informasi lebih lanjut tentang kursus tertentu, beritahu saya!",
+		"created_at" : "2025-03-26 08:26:13",
+		"updated_at" : "2025-03-26 08:26:13"
+	},
+	{
+		"chat_session_id" : "3b24eeea-09e0-11f0-81ed-2e93c127b493",
+		"user_email" : "jimi@indomaret.co.id",
+		"chat_orders" : 7,
+		"user" : "HaloTolong berikan rekomendasi course Yen",
+		"avatar" : "Saya fokus pada program pembelajaran di GoKampus. Dapatkah Anda memberi tahu saya lebih lanjut tentang bidang atau keterampilan yang ingin Anda tingkatkan? Dengan informasi tersebut, saya dapat merekomendasikan kursus yang sesuai untuk Anda.",
+		"created_at" : "2025-03-26 08:26:13",
+		"updated_at" : "2025-03-26 08:26:13"
+	},
+	{
+		"chat_session_id" : "3b24eeea-09e0-11f0-81ed-2e93c127b493",
+		"user_email" : "jimi@indomaret.co.id",
+		"chat_orders" : 8,
+		"user" : "Halo",
+		"avatar" : "Halo! Saya GAIA, AI Career Coach, Trainer, dan Evaluator dari GoKampus. Bagaimana saya dapat membantu Anda hari ini?",
+		"created_at" : "2025-03-26 08:26:13",
+		"updated_at" : "2025-03-26 08:26:13"
+	},
+	{
+		"chat_session_id" : "3b24eeea-09e0-11f0-81ed-2e93c127b493",
+		"user_email" : "jimi@indomaret.co.id",
+		"chat_orders" : 9,
+		"user" : "-",
+		"avatar" : "Halo, saya GAIA, goKampus AI Advisor. Ada yang bisa saya bantu?",
+		"created_at" : "2025-03-26 08:26:13",
+		"updated_at" : "2025-03-26 08:26:13"
+	},
+	{
+		"chat_session_id" : "4fef9efe-09e1-11f0-bbcf-b6277382955d",
+		"user_email" : "jimi@indomaret.co.id",
+		"chat_orders" : 1,
+		"user" : "pengembangan diri khususnya berkaitan denganmanajemen waktu",
+		"avatar" : "Untuk pengembangan diri khususnya dalam manajemen waktu, saya merekomendasikan kursus berikut di GoKampus:\n\n1. \"Manajemen Waktu untuk Profesional\" – Kursus ini akan membantu Anda memahami teknik-teknik manajemen waktu yang efektif, termasuk cara mengatur prioritas dan menghindari prokrastinasi.\n\n2. \"Produktivitas Kerja: Mengelola Waktu Anda dengan Efisien\" – Dalam kursus ini, Anda akan belajar tentang alat dan strategi untuk meningkatkan produktivitas melalui manajemen waktu yang baik.\n\n3. \"Teknik Pomodoro dan Manajemen Waktu\" – Pelajari teknik Pomodoro yang populer untuk meningkatkan fokus dan efisiensi kerja Anda dalam mengelola waktu.\n\nSilakan kunjungi platform GoKampus untuk mendaftar dan mendapatkan informasi lebih lanjut tentang kursus-kursus tersebut. Jika ada yang ingin Anda tanyakan lebih lanjut, silakan beri tahu saya!",
+		"created_at" : "2025-03-26 08:29:37",
+		"updated_at" : "2025-03-26 08:29:37"
+	},
+	{
+		"chat_session_id" : "e6edc7e7-09e8-11f0-bbcf-b6277382955d",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya GAIA, AI Career Coach dan Trainer dari goKampus. Tujuan saya adalah membantu Anda mengidentifikasi celah keterampilan, memperkuat keahlian Anda, dan mencapai pertumbuhan karir yang berarti. Untuk memulai, apa area keterampilan yang ingin Anda kembangkan atau tingkatkan, dan di mana Anda merasa ada celah yang perlu diatasi?",
+		"created_at" : "2025-03-26 09:21:00",
+		"updated_at" : "2025-03-26 09:21:00"
 	}
 ]

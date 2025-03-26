@@ -4,8 +4,8 @@ import requests
 import pandas as pd
 
 # Use RAW GitHub URLs for JSON files
-JSON_FILE_PATH_1 = "https://raw.githubusercontent.com/rahid31/gk-gaia-transcript/master/data/avatar-log-chat-20250325.json"
-JSON_FILE_PATH_2 = "https://raw.githubusercontent.com/rahid31/gk-gaia-transcript/master/data/gaia_summary_content_20250325.json"
+JSON_FILE_PATH_1 = "https://raw.githubusercontent.com/rahid31/gk-gaia-transcript/master/data/avatar-log-chat.json"
+JSON_FILE_PATH_2 = "https://raw.githubusercontent.com/rahid31/gk-gaia-transcript/master/data/gaia_summary_content.json"
 
 # Avatar Icon
 user_url = "data/image/user-square-1024.webp"
