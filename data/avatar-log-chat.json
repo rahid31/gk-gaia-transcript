@@ -4503,15 +4503,6 @@
 		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
 		"user_email" : "nida+kpk@gokampus.com",
 		"chat_orders" : 1,
-		"user" : "-",
-		"avatar" : "Halo! Saya GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karier dan memberikan panduan mengenai topik profesional yang relevan. Bagaimana saya bisa membantu Anda hari ini?",
-		"created_at" : "2025-01-03 09:31:36",
-		"updated_at" : "2025-01-03 09:31:36"
-	},
-	{
-		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
-		"user_email" : "nida+kpk@gokampus.com",
-		"chat_orders" : 2,
 		"user" : "Halo",
 		"avatar" : "Halo! Saya GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karier dan memberikan panduan mengenai topik profesional yang relevan. Bagaimana saya bisa membantu Anda hari ini?",
 		"created_at" : "2025-01-03 09:31:36",
@@ -4520,7 +4511,7 @@
 	{
 		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
 		"user_email" : "nida+kpk@gokampus.com",
-		"chat_orders" : 3,
+		"chat_orders" : 2,
 		"user" : "Bisamasih tahu sayajenisjenis gratifikasimenurut KPK",
 		"avatar" : "Saya fokus pada pengembangan karier dan pengetahuan profesional. Namun, saya bisa memberi tahu bahwa KPK mengklasifikasikan gratifikasi menjadi dua kategori utama, yaitu:\n\n1. Laporan Wajib (Mandatory Reports): Laporan yang harus disampaikan sesuai dengan ketentuan yang berlaku.\n2. Laporan Tidak Wajib (Non-Mandatory Reports): Laporan yang tidak diwajibkan namun tetap penting untuk dilaporkan.\n\nJika Anda ingin mendalami lebih lanjut tentang topik ini, saya sarankan untuk mencari kursus terkait di platform goKampus. Anda bisa mencari dengan kata kunci \"gratifikasi\" di kolom pencarian. Apakah ada hal lain yang ingin Anda ketahui?",
 		"created_at" : "2025-01-03 09:31:36",
@@ -4529,7 +4520,7 @@
 	{
 		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
 		"user_email" : "nida+kpk@gokampus.com",
-		"chat_orders" : 4,
+		"chat_orders" : 3,
 		"user" : "Apakah kamu mendengar saya?",
 		"avatar" : "Saya tidak dapat mendengar Anda, tetapi saya dapat membaca dan merespons pesan yang Anda kirimkan. Jika ada pertanyaan atau topik yang ingin Anda diskusikan terkait pengembangan karier atau isu profesional lainnya, silakan sampaikan! Saya di sini untuk membantu.",
 		"created_at" : "2025-01-03 09:31:36",
@@ -4538,9 +4529,18 @@
 	{
 		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
 		"user_email" : "nida+kpk@gokampus.com",
-		"chat_orders" : 5,
+		"chat_orders" : 4,
 		"user" : "Bisakah kamu pasti tahu saya jenisjenis gratifikasi menurut",
 		"avatar" : "Saya memahami bahwa Anda ingin mengetahui jenis-jenis gratifikasi menurut KPK. KPK mengklasifikasikan gratifikasi menjadi dua kategori utama:\n\n1. Laporan Wajib (Mandatory Reports): Ini adalah laporan yang harus disampaikan oleh pegawai negeri atau publik sesuai dengan ketentuan yang berlaku.\n2. Laporan Tidak Wajib (Non-Mandatory Reports): Ini adalah laporan yang tidak diwajibkan, tetapi tetap penting untuk dilaporkan guna menjaga integritas dan transparansi.\n\nJika Anda membutuhkan informasi lebih lanjut atau panduan mengenai topik lain yang berkaitan dengan pengembangan karier, silakan beri tahu saya!",
+		"created_at" : "2025-01-03 09:31:36",
+		"updated_at" : "2025-01-03 09:31:36"
+	},
+	{
+		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
+		"user_email" : "nida+kpk@gokampus.com",
+		"chat_orders" : 5,
+		"user" : "-",
+		"avatar" : "Halo! Saya GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karier dan memberikan panduan mengenai topik profesional yang relevan. Bagaimana saya bisa membantu Anda hari ini?",
 		"created_at" : "2025-01-03 09:31:36",
 		"updated_at" : "2025-01-03 09:31:36"
 	},
@@ -15798,7 +15798,7 @@
 		"chat_session_id" : "ef179ff3-eff1-11ef-ac3a-6633f384d596",
 		"user_email" : "bnicorpu.test@gokampus.com",
 		"chat_orders" : 1,
-		"user" : "-",
+		"user" : "Bagaimana sejarah BNI?",
 		"avatar" : "BNI, atau Bank Negara Indonesia, didirikan pada tanggal lima Juli seribu sembilan ratus empat puluh enam. Pada awalnya, BNI berfungsi sebagai bank sentral dan bank komersial yang bertujuan untuk mendukung pengembangan ekonomi Indonesia. \n\nPada tahun seribu sembilan ratus sembilan puluh enam, BNI menjadi bank milik negara pertama yang go public dengan mencatatkan sahamnya di Bursa Efek Jakarta dan Bursa Efek Surabaya. Selama tahun seribu sembilan ratus enam puluhan, BNI berperan dalam meningkatkan ekonomi Indonesia dan mendukung pembangunan ekonomi nasional.\n\nPada tahun seribu sembilan ratus sembilan puluh dua, BNI bertransformasi menjadi perusahaan terbatas (PT Persero) sesuai dengan regulasi perbankan. Dalam perjalanan sejarahnya, BNI telah melakukan berbagai langkah strategis, termasuk recapitalization pada tahun seribu sembilan ratus sembilan puluh sembilan, divestasi saham pemerintah pada tahun dua ribu tujuh, dan penerbitan hak memesan efek terlebih dahulu pada tahun dua ribu sepuluh.\n\nBNI juga memiliki beberapa anak perusahaan, seperti BNI Multifinance, BNI Sekuritas, dan BNI Life Insurance, serta beroperasi secara internasional dengan membuka cabang pertamanya di Singapura pada tahun seribu sembilan ratus lima puluh lima.\n\nSaat ini, BNI adalah salah satu bank terbesar di Indonesia, dengan visi untuk menjadi lembaga keuangan yang unggul dalam pelayanan dan kinerja. Jika Anda ingin tahu lebih lanjut tentang aspek tertentu dari sejarah BNI, jangan ragu untuk bertanya!",
 		"created_at" : "2025-02-21 08:22:52",
 		"updated_at" : "2025-02-21 08:22:52"
@@ -15807,8 +15807,8 @@
 		"chat_session_id" : "ef179ff3-eff1-11ef-ac3a-6633f384d596",
 		"user_email" : "bnicorpu.test@gokampus.com",
 		"chat_orders" : 2,
-		"user" : "Bagaimana sejarah BNI?",
-		"avatar" : "BNI, atau Bank Negara Indonesia, didirikan pada tanggal lima Juli seribu sembilan ratus empat puluh enam. Pada awalnya, BNI berfungsi sebagai bank sentral dan bank komersial yang bertujuan untuk mendukung pengembangan ekonomi Indonesia. \n\nPada tahun seribu sembilan ratus sembilan puluh enam, BNI menjadi bank milik negara pertama yang go public dengan mencatatkan sahamnya di Bursa Efek Jakarta dan Bursa Efek Surabaya. Selama tahun seribu sembilan ratus enam puluhan, BNI berperan dalam meningkatkan ekonomi Indonesia dan mendukung pembangunan ekonomi nasional.\n\nPada tahun seribu sembilan ratus sembilan puluh dua, BNI bertransformasi menjadi perusahaan terbatas (PT Persero) sesuai dengan regulasi perbankan. Dalam perjalanan sejarahnya, BNI telah melakukan berbagai langkah strategis, termasuk recapitalization pada tahun seribu sembilan ratus sembilan puluh sembilan, divestasi saham pemerintah pada tahun dua ribu tujuh, dan penerbitan hak memesan efek terlebih dahulu pada tahun dua ribu sepuluh.\n\nBNI juga memiliki beberapa anak perusahaan, seperti BNI Multifinance, BNI Sekuritas, dan BNI Life Insurance, serta beroperasi secara internasional dengan membuka cabang pertamanya di Singapura pada tahun seribu sembilan ratus lima puluh lima.\n\nSaat ini, BNI adalah salah satu bank terbesar di Indonesia, dengan visi untuk menjadi lembaga keuangan yang unggul dalam pelayanan dan kinerja. Jika Anda ingin tahu lebih lanjut tentang aspek tertentu dari sejarah BNI, jangan ragu untuk bertanya!",
+		"user" : "Apa saja produk BNI?",
+		"avatar" : "BNI menawarkan berbagai produk dan layanan keuangan yang dirancang untuk memenuhi kebutuhan nasabah dari berbagai segmen. Berikut adalah beberapa produk utama yang tersedia di BNI:\n\n1. Rekening Tabungan: BNI menyediakan berbagai jenis rekening tabungan, termasuk BNI Taplus, BNI Taplus Muda, dan BNI Taplus Bisnis.\n\n2. Pinjaman: BNI menawarkan berbagai produk pinjaman, seperti:\n   - BNI Griya (pinjaman perumahan)\n   - BNI Fleksi (pinjaman pribadi)\n   - BNI Griya Multiguna (pinjaman multi-tujuan)\n\n3. Kartu Kredit: BNI memiliki berbagai pilihan kartu kredit dengan manfaat dan fitur yang berbeda, sesuai dengan kebutuhan nasabah.\n\n4. Produk Investasi: BNI juga menawarkan produk investasi, termasuk reksa dana, produk treasury, dan investasi obligasi.\n\n5. Layanan Perbankan Digital: Melalui aplikasi BNI Mobile Banking, nasabah dapat melakukan berbagai transaksi perbankan secara online, seperti transfer, pembayaran, dan pengelolaan rekening.\n\n6. Layanan Bisnis: BNI menyediakan solusi perbankan untuk bisnis, termasuk pembiayaan usaha kecil dan menengah (UKM), manajemen kas, serta fasilitas trade finance.\n\n7. Asuransi: BNI menawarkan produk asuransi melalui BNI Life Insurance untuk memberikan perlindungan tambahan bagi nasabah.\n\n8. Layanan Wealth Management: BNI Emerald adalah layanan manajemen kekayaan yang menawarkan solusi perbankan dan investasi yang dipersonalisasi.\n\nJika Anda ingin mengeksplorasi lebih lanjut tentang salah satu produk atau layanan tertentu, atau mencari informasi tambahan, silakan beri tahu saya!",
 		"created_at" : "2025-02-21 08:22:52",
 		"updated_at" : "2025-02-21 08:22:52"
 	},
@@ -15825,8 +15825,8 @@
 		"chat_session_id" : "ef179ff3-eff1-11ef-ac3a-6633f384d596",
 		"user_email" : "bnicorpu.test@gokampus.com",
 		"chat_orders" : 4,
-		"user" : "Apa saja produk BNI?",
-		"avatar" : "BNI menawarkan berbagai produk dan layanan keuangan yang dirancang untuk memenuhi kebutuhan nasabah dari berbagai segmen. Berikut adalah beberapa produk utama yang tersedia di BNI:\n\n1. Rekening Tabungan: BNI menyediakan berbagai jenis rekening tabungan, termasuk BNI Taplus, BNI Taplus Muda, dan BNI Taplus Bisnis.\n\n2. Pinjaman: BNI menawarkan berbagai produk pinjaman, seperti:\n   - BNI Griya (pinjaman perumahan)\n   - BNI Fleksi (pinjaman pribadi)\n   - BNI Griya Multiguna (pinjaman multi-tujuan)\n\n3. Kartu Kredit: BNI memiliki berbagai pilihan kartu kredit dengan manfaat dan fitur yang berbeda, sesuai dengan kebutuhan nasabah.\n\n4. Produk Investasi: BNI juga menawarkan produk investasi, termasuk reksa dana, produk treasury, dan investasi obligasi.\n\n5. Layanan Perbankan Digital: Melalui aplikasi BNI Mobile Banking, nasabah dapat melakukan berbagai transaksi perbankan secara online, seperti transfer, pembayaran, dan pengelolaan rekening.\n\n6. Layanan Bisnis: BNI menyediakan solusi perbankan untuk bisnis, termasuk pembiayaan usaha kecil dan menengah (UKM), manajemen kas, serta fasilitas trade finance.\n\n7. Asuransi: BNI menawarkan produk asuransi melalui BNI Life Insurance untuk memberikan perlindungan tambahan bagi nasabah.\n\n8. Layanan Wealth Management: BNI Emerald adalah layanan manajemen kekayaan yang menawarkan solusi perbankan dan investasi yang dipersonalisasi.\n\nJika Anda ingin mengeksplorasi lebih lanjut tentang salah satu produk atau layanan tertentu, atau mencari informasi tambahan, silakan beri tahu saya!",
+		"user" : "-",
+		"avatar" : "BNI, atau Bank Negara Indonesia, didirikan pada tanggal lima Juli seribu sembilan ratus empat puluh enam. Pada awalnya, BNI berfungsi sebagai bank sentral dan bank komersial yang bertujuan untuk mendukung pengembangan ekonomi Indonesia. \n\nPada tahun seribu sembilan ratus sembilan puluh enam, BNI menjadi bank milik negara pertama yang go public dengan mencatatkan sahamnya di Bursa Efek Jakarta dan Bursa Efek Surabaya. Selama tahun seribu sembilan ratus enam puluhan, BNI berperan dalam meningkatkan ekonomi Indonesia dan mendukung pembangunan ekonomi nasional.\n\nPada tahun seribu sembilan ratus sembilan puluh dua, BNI bertransformasi menjadi perusahaan terbatas (PT Persero) sesuai dengan regulasi perbankan. Dalam perjalanan sejarahnya, BNI telah melakukan berbagai langkah strategis, termasuk recapitalization pada tahun seribu sembilan ratus sembilan puluh sembilan, divestasi saham pemerintah pada tahun dua ribu tujuh, dan penerbitan hak memesan efek terlebih dahulu pada tahun dua ribu sepuluh.\n\nBNI juga memiliki beberapa anak perusahaan, seperti BNI Multifinance, BNI Sekuritas, dan BNI Life Insurance, serta beroperasi secara internasional dengan membuka cabang pertamanya di Singapura pada tahun seribu sembilan ratus lima puluh lima.\n\nSaat ini, BNI adalah salah satu bank terbesar di Indonesia, dengan visi untuk menjadi lembaga keuangan yang unggul dalam pelayanan dan kinerja. Jika Anda ingin tahu lebih lanjut tentang aspek tertentu dari sejarah BNI, jangan ragu untuk bertanya!",
 		"created_at" : "2025-02-21 08:22:52",
 		"updated_at" : "2025-02-21 08:22:52"
 	},
@@ -20172,159 +20172,6 @@
 		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
 		"user_email" : "6281380762004@alfamart.learner",
 		"chat_orders" : 1,
-		"user" : "-",
-		"avatar" : "Saya adalah GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 2,
-		"user" : "Cek,Inicek",
-		"avatar" : "Saya adalah GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 3,
-		"user" : "tolong carikanarti",
-		"avatar" : "Saya GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah ada pertanyaan atau topik tertentu yang ingin Anda diskusikan terkait karir atau pengembangan profesional Anda?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 4,
-		"user" : "tolong carikanarti",
-		"avatar" : "Saya mengSaya mengkhususkhususkan dirikan diri dalam membantu dalam membantu profesional dengan profesional dengan pengetahuan terkait kar pengetahuanir dan terkait kar industri.ier dan Apakah industri. Apakah ada hal ada yang spesifik yang ingin bisa saya bantu terkait Anda ket dengan pengahui atauembangan kar diskusir Andaikan terkait atau karir topik profesional atau pengembangan profesional lainnya?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 5,
-		"user" : "apa yang di bahas",
-		"avatar" : "Anda?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 6,
-		"user" : "dan bisnis ritel",
-		"avatar" : "Saya dapat membantu Anda dengan berbagai topik terkait pengembangan karir, termasuk strategi pengembangan karir, keterampilan industri tertentu (seperti keuangan, teknologi, dan pemasaranDalam konteks bisnis), keter ritelampilan lun, terdapatak ( beberapa aspekseperti penting yang komunikasi dan perlu diper manajemenhatikan untuk waktu), pengembangan serta kesehatan mental di dan pert tempat kerjaumbuhan karir Anda. Ap. Berikut adalah beberapaakah ada poin yang topik dapat membantu:\n\n1 tertentu yang ingin Anda bahas. Pengetahuan lebih lanjut?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 7,
-		"user" : "dimasukkan Bisnis ritel",
-		"avatar" : "Produk: Memahami berbagai produk yang dijual dalam ritel sangat penting. Ini termasuk mengetahui spesifikasi, manfaat, dan kebutuhan pelanggan.\n\n2. Keterampilan Layanan Pelanggan: Kemampuan untuk memberikan layanan pelanggan yang luar biasa akan membedakan Anda dari pesaing. Ini meliputiBisnis ritel adalah sektor yang sangat penting dalam ekonomi, terutama dalam menyediakan barang dan layanan kepada konsumen. Dalam konteks pengembangan karir di bisnis ritel, beberapa area yang bisa Anda fokuskan meliputi:\n\n1. Manajemen Ritel: Mempelajari keterampilan manajerial yang efisien untuk mengelola toko ritel, termasuk pengelolaan inventaris, penjualan, dan layanan pelanggan.\n\n2. Pemasaran Ritel: Mengembangkan strategi pemasaran yang efektif untuk menarik pelanggan, termasuk penggunaan media sosial dan promosi.\n\n3. Pengalaman Pelanggan: Memahami pentingnya menciptakan pengalaman berbelanja yang positif bagi pelanggan, yang dapat meningkatkan loyalitas dan penjualan.\n\n4. Analisis Data: Belajar bagaimana menggunakan data untuk memahami tren konsumen dan meningkatkan kinerja bisnis.\n\n5. E-commerce: Memahami bagaimana bisnis ritel bertransisi ke platform online dan strategi yang diperlukan untuk berhasil dalam lingkungan digital.\n\nJika Anda ingin mendalami topik ini lebih lanjut, goKampus menawarkan berbagai kursus yang dapat membantu Anda. Anda bisa mencari kata kunci seperti \"manajemen ritel\" atau \"pemasaran ritel\" di platform goKampus untuk menemukan kursus yang relevan. Apakah ada aspek tertentu dari bisnis ritel yang ingin Anda bahas lebih lanjut?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 8,
-		"user" : "di restasinya",
-		"avatar" : "komunikasi yang efektif, kemampuan untuk menangani keluhan, dan menjalin hubungan baik dengan pelanggan.\n\n3. Strategi Pemasaran: Pengetahuan tentang strategi pemasaran yang efektif untuk menarik pelanggan ke toko atau platform online Anda sangat berharga. Ini mencakup promosi, diskon, dan penggunaan media sosial untuk pemasaran.\n\n4. Manajemen Inventaris: Memahami bagaimana mengelola inventaris dengan efisien dapat membantu mengurangi biaya dan meningkatkan kepuasan pelanggan. Ini termasuk pengendalian stok dan penggunaan perangkat lunak manajemen inventaris.\n\n5. Analisis Data: Kemampuan untuk menganalisis data penjualan dan perilaku pelanggan dapat memberikan wawasan berharga untuk pengambilan keputusan strategis.\n\nJika Anda ingin memperdalam pengetahuan Anda dalam salah satu area ini atau topik terkait lainnya, saya dapat merekomendasikan kursus di goKampus. Anda bisa mencari dengan kata kunci seperti \"bisnis ritel\" atau \"manajemen layanan pelanggan\" di platform goKampus untuk menemukan materi yang relevan. Apakah ada aspek tertentu yang ingin Anda bahas lebih lanjut?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 9,
-		"user" : "ya? Satu miliar",
-		"avatar" : "Dalam konteks restoran, ada beberapa aspek penting yang perlu diperhatikan untuk kesuksesan bisnis dan pengembangan karir. Berikut adalah beberapa poin yang relevan:\n\n1. Pengelolaan Operasional: Memahami bagaimana mengelola operasional restoran dengan efisien, termasuk manajemen dapur, layanan meja, dan pengelolaan stok bahan makanan.\n\n2. Layanan Pelanggan: Memberikan pengalaman pelanggan yang luar biasa adalah kunci dalam industri restoran. Keterampilan komunikasi, penyelesaian masalah, dan kemampuan untuk memahami kebutuhan pelanggan sangat penting.\n\n3. Kreativitas Menu: Mengembangkan menu yang menarik dan sesuai dengan tren pasar. Ini juga mencakup pemahaman tentang makanan sehat dan keberlanjutan.\n\n4. Pemasaran dan Promosi: Mampu mempromosikan restoran Anda melalui media sosial, kampanye email, dan acara khusus dapat membantu menarik pelanggan baru.\n\n5. Manajemen Keuangan: Memahami aspek keuangan dari restoran, termasuk penganggaran, pengendalian biaya, dan analisis profitabilitas.\n\nJika Anda ingin mendalami salah satu topik ini atau topik lain yang terkait dengan restoran, saya dapat merekomendasikan kursus di goKampus. Anda bisa mencari dengan kata kunci seperti \"manajemen restoran\" atau \"layanan pelanggan di restoran\" di platform goKampus untuk menemukan materi yang relevan. Apakah ada topik khusus yang ingin Anda bahas lebih lanjut?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 10,
-		"user" : "investasinya1 miliar",
-		"avatar" : "Saya mengkhususkan diri dalam membantu profesional dengan pengetahuan terkait karDalam konteier dan industri.ks investasi Apakah di bisnis ada yang ritel bisa saya, investasi bantu terkait sebesar satu dengan peng miliarembangan karir Anda atau topik profesional rupiah dapat digunakan untuk berbagai hal. Berikut adalah beberapa area investasi yang mungkin relevan:\n\n lainnya1. Pemb? Jikaukaan Toko Ritel: Invest Anda menyebutkan satu miliar, apakah itu terkait dengan pendanaan, investasi, atau aspekasi ini lain dalam dapat digunakan bisnis? Moh untuk membukaon jelaskan toko fis lebih lanjutik, termasuk biaya agar saya sewa dapat memberikan informasi yang, renov lebih tepat.asi, dan pengadaan inventaris.\n\n2. E-commerce: Uang tersebut dapat dialokasikan untuk mengembangkan platform e-commerce, termasuk website, aplikasi, dan pemasaran digital",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 11,
-		"user" : "karena",
-		"avatar" : ".\n\n3. Pemasaran dan Promosi: Investasi dalam kampanye pemasaran untuk meningkatkan visibilitas merek dan menarik pelanggan baru, baik melalui media sosial, iklan online, atau promosi lokal.\n\n4. Teknologi dan Sistem Manajemen: Menerapkan sistem manajemen ritel dan teknologi yang dapat membantu dalam pengelolaan inventaris, analisis data penjualan, dan pengalaman pelanggan.\n\n5. Pelatihan Karyawan: Menginvestasikan dalam pelatihan dan pengembangan karyawan untuk meningkatkan layanan pelanggan dan keterampilan penjualan.\n\nJika Anda ingin mengeksplorasi lebih jauh tentang investasi di bidang ritel atau membutuhkan panduan lebih lanjut, saya dapat merekomendasikan kursus terkait di goKampus. Anda bisa mencari kata kunci seperti \"investasi ritel\" untuk menemukan materi yang relevan. Apakah ada hal lain yang ingin Anda diskusikan?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 12,
-		"user" : "ini lebih gampang",
-		"avatar" : "Sepertinya Anda ingin menjelaskan lebih lanjut atau memberikan konteks tambahan terkait investasi di bisnis ritel. Jika ada pertanyaan spesifik atau informasi tambahan yang ingin Anda bahas, silakan beri tahu saya. Saya di sini untuk membantu Anda dengan semua yang berkaitan dengan pengembangan karir dan profesional. Apakah ada hal tertentu yang ingin Anda sampaikan?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 13,
-		"user" : "bisa diterangkan terkait dengan Sosek",
-		"avatar" : "Saya memahami bahwa Anda mungkin mencari informasi yang lebih sederhana atau langsung mengenai topik tertentu. Jika Anda memiliki pertanyaan spesifik atau ingin mendiskusikan sesuatu yang lebih mudah dipahami terkait investasi di bisnis ritel atau topik profesional lainnya, silakan beri tahu saya. Saya di sini untuk membantu Anda!",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 14,
-		"user" : "bisa diterangkan terkait dengan Sosech",
-		"avatar" : "\"Sosek\" biasanya merujuk pada istilah \"Sosial dan Ekonomi,\" yang mencakup berbagai aspek terkait interaksi sosial dan kondisi ekonomi dalam masyarakat. Dalam konteks bisnis ritel, berikut adalah beberapa poin yang dapat diterangkan:\n\n1. PengaruhSaya meng Sosialkhusus:kan diri Bisnis dalam membantu ritel profesional dengan pengetahuan sangat dip terkait karengaruhiier dan oleh tren sosial, industri. Namun, seperti perubahan saya tidak preferensi memiliki informasi spesifik tentang \"Sose konsumen, gaya hidup, dan perilch\".aku bel Jika \"anja. MemSosech\" adalah istilah yangahami faktor-faktor sosial ini penting untuk meng terkait dengan industri tertentuembangkan strategi pemasaran atau konsep yang efektif profesional, mohon.\n\n2.  berikanKond konteksisi Ek atau detail lebih lanjutonomi.\n\nAp: Kakah Anda ingin membinerja bisnisahas topik lain ritel yang relevan dengan pengembangan juga dip karirengaruhi oleh kondisi ekonomi, Anda atau seperti inflasi, tingkat pengangguran industri tertentu, dan? Saya di sini daya beli masyarakat. untuk membantu!",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 15,
-		"user" : "yang",
-		"avatar" : "Dalam situasi ekonomi yang baik, konsumen cenderung lebih banyak berbelanja, sementara dalam kondisi buruk, mereka mungkin lebih berhati-hati dalam pengeluaran.\n\n3. Tanggung Jawab Sosial Perusahaan: Banyak perusahaan ritel kini berfokus pada tanggung jawab sosial, yang berarti mereka berusaha untuk memberikan dampak positif pada masyarakat. Ini bisa berupa praktik berkelanjutan, penyediaan lapangan kerja, atau kontribusi pada proyek komunitas.\n\n4. Tren Pemasaran Sosial: Pemasaran yang berfokus pada nilai-nilai sosial dan lingkungan semakin populer. Perusahaan ritel dapat menarik pelanggan dengan menunjukkan komitmen mereka terhadap isu-isu sosial, seperti keberlanjutan atau dukungan terhadap komunitas lokal.\n\nJika Anda ingin mendalami lebih lanjut tentang aspek tertentu dari sosial dan ekonomi dalam bisnis ritel, saya dapat merekomendasikan kursus yang relevan di goKampus. Silakan beri tahu saya jika ada topik spesifik yang ingin Anda eksplorasi lebih dalam!",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 16,
-		"user" : "besok ini jam itu",
-		"avatar" : "Sepertinya Anda ingin memberikan penjelasan lebih lanjut atau menanyakan sesuatu yang lebih spesifik terkait \"Sosek\". Jika Anda dapat memberikan detail lebih lanjut tentang apa yang Anda maksud dengan \"yang,\" saya akan lebih mudah membantu Anda. Apakah Anda ingin menjelaskan lebih lanjut tentang aspek sosial dan ekonomi tertentu, atau ada topik lain yang ingin Anda diskusikan? Silakan beri tahu saya!",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 17,
-		"user" : "ya ini klien kalau dari siapa ini tuh",
-		"avatar" : "Saya mengkhususkan diri dalam membantu profesional dengan pengetahuan terkait karir dan industri. Jika Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda, silakan beri tahu saya. Apakah ada hal spesifik yang ingin Anda bahas?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 18,
 		"user" : "1MSatuN",
 		"avatar" : "TerkSaya senait denganang mend investasi,engar bahwa terdapat beberapa Anda melihat potensi yang baik aspek yang perlu dipertimb dalam investasiangkan untuk, terutama memastikan bahwa di bidang bisnis r keputusan investasi Anda baikitel. dan ber Investasikelanj yang tepatutan. dapat membawa banyak manfaat Berikut adalah, seperti beberapa poin penting:\n\n peningkatan pendapatan1. Anal, pertumbuhan bisnis, danisis Pas peluang untuk memperluas jaringan.\n\nJika Anda tertar: Memahami trenarik untuk mengeksplorasi lebih jauh tentang pasar, permintaan, dan kondisi ekonomi strategi investasi dapat membantu Anda membuat yang efektif keputusan investasi yang lebih baik., tren pasar, Lakukan riset atau keter mengenai sektor atau industriampilan yang diperlukan untuk sukses di yang ingin Anda masuki.\n\n industri ritel,2. saya Divers dapat memberikanifikasi Portofolio informasi lebih lanjut atau merekomendas: Investasi yang baik harus mencikan kursus terkaitakup diversifikasi di goKampus untuk meng. Apurangi risiko. Janganakah ada area spesifik dalam investasi ritel yang ingin Anda ketahui lebih lanjut? mengandalkan satu jenis investasi; pertimbangkan untuk berinvestasi di berbagai aset seperti saham, obligasi, dan properti.\n\n3. Manajemen Risiko: Identifikasi risiko yang terkait dengan investasi Anda dan cari cara untuk mengelolanya. Ini bisa termasuk penggunaan instrumen hedging atau asuransi.\n\n4. Konsultasi dengan Ahli: Jika Anda tidak yakin tentang investasi tertentu, pertimbangkan untuk berkonsultasi dengan penasihat keuangan atau profesional investasi.\n\n5. Pendidikan Berkelanjutan: Mengikuti kursus atau pelatihan tentang investasi dapat membantu Anda meningkatkan pengetahuan dan keterampilan dalam membuat keputusan investasi yang lebih baik.\n\nJika Anda tertarik untuk mendalami lebih lanjut tentang investasi, saya dapat merekomendasikan kursus di goKampus yang relevan dengan topik ini. Anda bisa mencari dengan kata kunci seperti \"investasi\" atau \"manajemen keuangan",
 		"created_at" : "2025-03-25 13:54:06",
@@ -20333,7 +20180,16 @@
 	{
 		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
 		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 19,
+		"chat_orders" : 2,
+		"user" : "bagus sih tapi investasinya bagus,bagus sih investasinya bagus",
+		"avatar" : "Sepertinya Anda merujuk kepada klien atau perusahaan tertentu yang mungkin terkait dengan bisnis atau industri profesional. Namun, saya tidak memiliki informasi spesifik mengenai \"Sosech\" sebagai klien atau perusahaan.\n\nJika Anda dapat memberikan lebih banyak konteks atau detail tentang \"Sosech\" dan apa yang Anda ingin ketahui, saya akan berusaha membantu Anda dengan informasi yang relevan untuk pengembangan karir atau industri yang bersangkutan. Apakah ada aspek tertentu yang ingin Anda diskusikan?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 3,
 		"user" : "bisa di bisa di join ini",
 		"avatar" : "Sepertinya Anda berbicara tentang bergabung dalam suatu program atau kegiatan tertentuSepert. Namuninya Anda meruj, sayauk pada memerlukan sebuah program atau kesempatan sedikit lebih banyak konte yang mungkin melibatkanks untuk kolabor memahami denganasi atau jelas apa keanggotaan yang Anda maksud dalam suatu organisasi atau proyek.. \n\n Namun,Jika Anda berbicara tentang saya mem bergabungerlukan lebih banyak informasi dalam program untuk memberikan jawaban investasi, yang tepat bisnis r.\n\nJikaitel, Anda bisa memberikan konteks lebih atau kursus peng lanjut tentangembangan profesional \"join, saya dapat memberikan ini\" informasi lebih dan apa lanjut atau yang Anda maksud membantu Anda menemukan sumber, saya daya yang akan ber tepat.usaha memberikan \n\nSil informasi yang relevanakan beri. Ap tahu sayaakah ini terkait dengan lebih lanjut peluang kerja tentang apa yang ingin, investasi Anda ikuti atau, atau bergabung, dan kolaborasi dalam bisnis? Saya di sini untuk membantu Anda! saya akan dengan senang hati membantu!",
 		"created_at" : "2025-03-25 13:54:06",
@@ -20342,7 +20198,7 @@
 	{
 		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
 		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 20,
+		"chat_orders" : 4,
 		"user" : "bisa di bisa di join ini sudah apa",
 		"avatar" : "Sepertinya Anda mengacu pada istilah \"1MSatuN.\" Namun, saya tidak memiliki informasi spesifik tentang istilah tersebut dalam konteks bisnis atau investasi. Jika Anda dapat memberikan sedikit lebih banyak konteks atau menjelaskan apa yang Anda maksud, saya akan lebih mampuSaya meng membantu.\n\nApakahkhusus Anda mengacu pada suatu programkan diri dalam membantu investasi, profesional dengan pengetahuan terkait kar produk,ier dan industri. Namun, atau konsep saya perlu klarifikasi lebih lanjut mengenai istil tertentu?ah \"1M1M\". Ap Silakanakah Anda merujuk pada investasi satu beri tahu miliar atau topik lainnya yang spes saya,ifik?\n\nMohon berikan lebih banyak konteks dan saya agar saya dapat memberikan informasi yang relevan akan ber dan bermanfaat bagi Anda. Apakah adausaha memberikan topik profesional lain yang ingin Anda diskusikan? informasi yang lebih relevan!",
 		"created_at" : "2025-03-25 13:54:06",
@@ -20351,7 +20207,7 @@
 	{
 		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
 		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 21,
+		"chat_orders" : 5,
 		"user" : "1M1M",
 		"avatar" : "\" di platform goKampus. Apakah ada aspek khusus dari investasi yang ingin Anda diskusikan lebih lanjut?",
 		"created_at" : "2025-03-25 13:54:06",
@@ -20360,9 +20216,153 @@
 	{
 		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
 		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 6,
+		"user" : "-",
+		"avatar" : "Saya adalah GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 7,
+		"user" : "Cek,Inicek",
+		"avatar" : "Saya adalah GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 8,
+		"user" : "tolong carikanarti",
+		"avatar" : "Saya GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah ada pertanyaan atau topik tertentu yang ingin Anda diskusikan terkait karir atau pengembangan profesional Anda?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 9,
+		"user" : "tolong carikanarti",
+		"avatar" : "Saya mengSaya mengkhususkhususkan dirikan diri dalam membantu dalam membantu profesional dengan profesional dengan pengetahuan terkait kar pengetahuanir dan terkait kar industri.ier dan Apakah industri. Apakah ada hal ada yang spesifik yang ingin bisa saya bantu terkait Anda ket dengan pengahui atauembangan kar diskusir Andaikan terkait atau karir topik profesional atau pengembangan profesional lainnya?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 10,
+		"user" : "apa yang di bahas",
+		"avatar" : "Anda?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 11,
+		"user" : "dan bisnis ritel",
+		"avatar" : "Saya dapat membantu Anda dengan berbagai topik terkait pengembangan karir, termasuk strategi pengembangan karir, keterampilan industri tertentu (seperti keuangan, teknologi, dan pemasaranDalam konteks bisnis), keter ritelampilan lun, terdapatak ( beberapa aspekseperti penting yang komunikasi dan perlu diper manajemenhatikan untuk waktu), pengembangan serta kesehatan mental di dan pert tempat kerjaumbuhan karir Anda. Ap. Berikut adalah beberapaakah ada poin yang topik dapat membantu:\n\n1 tertentu yang ingin Anda bahas. Pengetahuan lebih lanjut?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 12,
+		"user" : "dimasukkan Bisnis ritel",
+		"avatar" : "Produk: Memahami berbagai produk yang dijual dalam ritel sangat penting. Ini termasuk mengetahui spesifikasi, manfaat, dan kebutuhan pelanggan.\n\n2. Keterampilan Layanan Pelanggan: Kemampuan untuk memberikan layanan pelanggan yang luar biasa akan membedakan Anda dari pesaing. Ini meliputiBisnis ritel adalah sektor yang sangat penting dalam ekonomi, terutama dalam menyediakan barang dan layanan kepada konsumen. Dalam konteks pengembangan karir di bisnis ritel, beberapa area yang bisa Anda fokuskan meliputi:\n\n1. Manajemen Ritel: Mempelajari keterampilan manajerial yang efisien untuk mengelola toko ritel, termasuk pengelolaan inventaris, penjualan, dan layanan pelanggan.\n\n2. Pemasaran Ritel: Mengembangkan strategi pemasaran yang efektif untuk menarik pelanggan, termasuk penggunaan media sosial dan promosi.\n\n3. Pengalaman Pelanggan: Memahami pentingnya menciptakan pengalaman berbelanja yang positif bagi pelanggan, yang dapat meningkatkan loyalitas dan penjualan.\n\n4. Analisis Data: Belajar bagaimana menggunakan data untuk memahami tren konsumen dan meningkatkan kinerja bisnis.\n\n5. E-commerce: Memahami bagaimana bisnis ritel bertransisi ke platform online dan strategi yang diperlukan untuk berhasil dalam lingkungan digital.\n\nJika Anda ingin mendalami topik ini lebih lanjut, goKampus menawarkan berbagai kursus yang dapat membantu Anda. Anda bisa mencari kata kunci seperti \"manajemen ritel\" atau \"pemasaran ritel\" di platform goKampus untuk menemukan kursus yang relevan. Apakah ada aspek tertentu dari bisnis ritel yang ingin Anda bahas lebih lanjut?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 13,
+		"user" : "di restasinya",
+		"avatar" : "komunikasi yang efektif, kemampuan untuk menangani keluhan, dan menjalin hubungan baik dengan pelanggan.\n\n3. Strategi Pemasaran: Pengetahuan tentang strategi pemasaran yang efektif untuk menarik pelanggan ke toko atau platform online Anda sangat berharga. Ini mencakup promosi, diskon, dan penggunaan media sosial untuk pemasaran.\n\n4. Manajemen Inventaris: Memahami bagaimana mengelola inventaris dengan efisien dapat membantu mengurangi biaya dan meningkatkan kepuasan pelanggan. Ini termasuk pengendalian stok dan penggunaan perangkat lunak manajemen inventaris.\n\n5. Analisis Data: Kemampuan untuk menganalisis data penjualan dan perilaku pelanggan dapat memberikan wawasan berharga untuk pengambilan keputusan strategis.\n\nJika Anda ingin memperdalam pengetahuan Anda dalam salah satu area ini atau topik terkait lainnya, saya dapat merekomendasikan kursus di goKampus. Anda bisa mencari dengan kata kunci seperti \"bisnis ritel\" atau \"manajemen layanan pelanggan\" di platform goKampus untuk menemukan materi yang relevan. Apakah ada aspek tertentu yang ingin Anda bahas lebih lanjut?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 14,
+		"user" : "ya? Satu miliar",
+		"avatar" : "Dalam konteks restoran, ada beberapa aspek penting yang perlu diperhatikan untuk kesuksesan bisnis dan pengembangan karir. Berikut adalah beberapa poin yang relevan:\n\n1. Pengelolaan Operasional: Memahami bagaimana mengelola operasional restoran dengan efisien, termasuk manajemen dapur, layanan meja, dan pengelolaan stok bahan makanan.\n\n2. Layanan Pelanggan: Memberikan pengalaman pelanggan yang luar biasa adalah kunci dalam industri restoran. Keterampilan komunikasi, penyelesaian masalah, dan kemampuan untuk memahami kebutuhan pelanggan sangat penting.\n\n3. Kreativitas Menu: Mengembangkan menu yang menarik dan sesuai dengan tren pasar. Ini juga mencakup pemahaman tentang makanan sehat dan keberlanjutan.\n\n4. Pemasaran dan Promosi: Mampu mempromosikan restoran Anda melalui media sosial, kampanye email, dan acara khusus dapat membantu menarik pelanggan baru.\n\n5. Manajemen Keuangan: Memahami aspek keuangan dari restoran, termasuk penganggaran, pengendalian biaya, dan analisis profitabilitas.\n\nJika Anda ingin mendalami salah satu topik ini atau topik lain yang terkait dengan restoran, saya dapat merekomendasikan kursus di goKampus. Anda bisa mencari dengan kata kunci seperti \"manajemen restoran\" atau \"layanan pelanggan di restoran\" di platform goKampus untuk menemukan materi yang relevan. Apakah ada topik khusus yang ingin Anda bahas lebih lanjut?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 15,
+		"user" : "investasinya1 miliar",
+		"avatar" : "Saya mengkhususkan diri dalam membantu profesional dengan pengetahuan terkait karDalam konteier dan industri.ks investasi Apakah di bisnis ada yang ritel bisa saya, investasi bantu terkait sebesar satu dengan peng miliarembangan karir Anda atau topik profesional rupiah dapat digunakan untuk berbagai hal. Berikut adalah beberapa area investasi yang mungkin relevan:\n\n lainnya1. Pemb? Jikaukaan Toko Ritel: Invest Anda menyebutkan satu miliar, apakah itu terkait dengan pendanaan, investasi, atau aspekasi ini lain dalam dapat digunakan bisnis? Moh untuk membukaon jelaskan toko fis lebih lanjutik, termasuk biaya agar saya sewa dapat memberikan informasi yang, renov lebih tepat.asi, dan pengadaan inventaris.\n\n2. E-commerce: Uang tersebut dapat dialokasikan untuk mengembangkan platform e-commerce, termasuk website, aplikasi, dan pemasaran digital",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 16,
+		"user" : "karena",
+		"avatar" : ".\n\n3. Pemasaran dan Promosi: Investasi dalam kampanye pemasaran untuk meningkatkan visibilitas merek dan menarik pelanggan baru, baik melalui media sosial, iklan online, atau promosi lokal.\n\n4. Teknologi dan Sistem Manajemen: Menerapkan sistem manajemen ritel dan teknologi yang dapat membantu dalam pengelolaan inventaris, analisis data penjualan, dan pengalaman pelanggan.\n\n5. Pelatihan Karyawan: Menginvestasikan dalam pelatihan dan pengembangan karyawan untuk meningkatkan layanan pelanggan dan keterampilan penjualan.\n\nJika Anda ingin mengeksplorasi lebih jauh tentang investasi di bidang ritel atau membutuhkan panduan lebih lanjut, saya dapat merekomendasikan kursus terkait di goKampus. Anda bisa mencari kata kunci seperti \"investasi ritel\" untuk menemukan materi yang relevan. Apakah ada hal lain yang ingin Anda diskusikan?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 17,
+		"user" : "ini lebih gampang",
+		"avatar" : "Sepertinya Anda ingin menjelaskan lebih lanjut atau memberikan konteks tambahan terkait investasi di bisnis ritel. Jika ada pertanyaan spesifik atau informasi tambahan yang ingin Anda bahas, silakan beri tahu saya. Saya di sini untuk membantu Anda dengan semua yang berkaitan dengan pengembangan karir dan profesional. Apakah ada hal tertentu yang ingin Anda sampaikan?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 18,
+		"user" : "bisa diterangkan terkait dengan Sosek",
+		"avatar" : "Saya memahami bahwa Anda mungkin mencari informasi yang lebih sederhana atau langsung mengenai topik tertentu. Jika Anda memiliki pertanyaan spesifik atau ingin mendiskusikan sesuatu yang lebih mudah dipahami terkait investasi di bisnis ritel atau topik profesional lainnya, silakan beri tahu saya. Saya di sini untuk membantu Anda!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 19,
+		"user" : "bisa diterangkan terkait dengan Sosech",
+		"avatar" : "\"Sosek\" biasanya merujuk pada istilah \"Sosial dan Ekonomi,\" yang mencakup berbagai aspek terkait interaksi sosial dan kondisi ekonomi dalam masyarakat. Dalam konteks bisnis ritel, berikut adalah beberapa poin yang dapat diterangkan:\n\n1. PengaruhSaya meng Sosialkhusus:kan diri Bisnis dalam membantu ritel profesional dengan pengetahuan sangat dip terkait karengaruhiier dan oleh tren sosial, industri. Namun, seperti perubahan saya tidak preferensi memiliki informasi spesifik tentang \"Sose konsumen, gaya hidup, dan perilch\".aku bel Jika \"anja. MemSosech\" adalah istilah yangahami faktor-faktor sosial ini penting untuk meng terkait dengan industri tertentuembangkan strategi pemasaran atau konsep yang efektif profesional, mohon.\n\n2.  berikanKond konteksisi Ek atau detail lebih lanjutonomi.\n\nAp: Kakah Anda ingin membinerja bisnisahas topik lain ritel yang relevan dengan pengembangan juga dip karirengaruhi oleh kondisi ekonomi, Anda atau seperti inflasi, tingkat pengangguran industri tertentu, dan? Saya di sini daya beli masyarakat. untuk membantu!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 20,
+		"user" : "yang",
+		"avatar" : "Dalam situasi ekonomi yang baik, konsumen cenderung lebih banyak berbelanja, sementara dalam kondisi buruk, mereka mungkin lebih berhati-hati dalam pengeluaran.\n\n3. Tanggung Jawab Sosial Perusahaan: Banyak perusahaan ritel kini berfokus pada tanggung jawab sosial, yang berarti mereka berusaha untuk memberikan dampak positif pada masyarakat. Ini bisa berupa praktik berkelanjutan, penyediaan lapangan kerja, atau kontribusi pada proyek komunitas.\n\n4. Tren Pemasaran Sosial: Pemasaran yang berfokus pada nilai-nilai sosial dan lingkungan semakin populer. Perusahaan ritel dapat menarik pelanggan dengan menunjukkan komitmen mereka terhadap isu-isu sosial, seperti keberlanjutan atau dukungan terhadap komunitas lokal.\n\nJika Anda ingin mendalami lebih lanjut tentang aspek tertentu dari sosial dan ekonomi dalam bisnis ritel, saya dapat merekomendasikan kursus yang relevan di goKampus. Silakan beri tahu saya jika ada topik spesifik yang ingin Anda eksplorasi lebih dalam!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 21,
+		"user" : "besok ini jam itu",
+		"avatar" : "Sepertinya Anda ingin memberikan penjelasan lebih lanjut atau menanyakan sesuatu yang lebih spesifik terkait \"Sosek\". Jika Anda dapat memberikan detail lebih lanjut tentang apa yang Anda maksud dengan \"yang,\" saya akan lebih mudah membantu Anda. Apakah Anda ingin menjelaskan lebih lanjut tentang aspek sosial dan ekonomi tertentu, atau ada topik lain yang ingin Anda diskusikan? Silakan beri tahu saya!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
 		"chat_orders" : 22,
-		"user" : "bagus sih tapi investasinya bagus,bagus sih investasinya bagus",
-		"avatar" : "Sepertinya Anda merujuk kepada klien atau perusahaan tertentu yang mungkin terkait dengan bisnis atau industri profesional. Namun, saya tidak memiliki informasi spesifik mengenai \"Sosech\" sebagai klien atau perusahaan.\n\nJika Anda dapat memberikan lebih banyak konteks atau detail tentang \"Sosech\" dan apa yang Anda ingin ketahui, saya akan berusaha membantu Anda dengan informasi yang relevan untuk pengembangan karir atau industri yang bersangkutan. Apakah ada aspek tertentu yang ingin Anda diskusikan?",
+		"user" : "ya ini klien kalau dari siapa ini tuh",
+		"avatar" : "Saya mengkhususkan diri dalam membantu profesional dengan pengetahuan terkait karir dan industri. Jika Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda, silakan beri tahu saya. Apakah ada hal spesifik yang ingin Anda bahas?",
 		"created_at" : "2025-03-25 13:54:06",
 		"updated_at" : "2025-03-25 13:54:06"
 	},
@@ -20442,15 +20442,6 @@
 		"chat_session_id" : "3b24eeea-09e0-11f0-81ed-2e93c127b493",
 		"user_email" : "jimi@indomaret.co.id",
 		"chat_orders" : 2,
-		"user" : "Halomungkinsaya butuhuntuktopik kepemimpinan tapijuga berkaitan dengan komunikasi",
-		"avatar" : "Tentu! Jika Anda mencari kursus yang berkaitan dengan kepemimpinan dan komunikasi, berikut adalah beberapa rekomendasi yang mungkin Anda temukan di GoKampus:\n\n1. Kepemimpinan dan Keterampilan Komunikasi: Kursus ini mengajarkan dasar-dasar kepemimpinan bersamaan dengan keterampilan komunikasi yang efektif, sehingga Anda dapat memimpin tim dengan lebih baik.\n\n2. Komunikasi Efektif untuk Pemimpin: Fokus pada teknik komunikasi yang dibutuhkan untuk memengaruhi dan memotivasi anggota tim dalam berbagai situasi.\n\n3. Membangun Hubungan Melalui Komunikasi: Kursus ini mengajarkan pentingnya membangun hubungan yang kuat melalui komunikasi, yang sangat penting dalam peran kepemimpinan.\n\n4. Kepemimpinan Melalui Negosiasi dan Komunikasi: Mengembangkan keterampilan negosiasi dan komunikasi yang diperlukan untuk mencapai kesepakatan dan menyelesaikan konflik di tempat kerja.\n\nSilakan cari kursus-kursus ini di GoKampus untuk menemukan yang paling sesuai dengan kebutuhan Anda. Jika Anda membutuhkan bantuan lebih lanjut, jangan ragu untuk bertanya!",
-		"created_at" : "2025-03-26 08:26:13",
-		"updated_at" : "2025-03-26 08:26:13"
-	},
-	{
-		"chat_session_id" : "3b24eeea-09e0-11f0-81ed-2e93c127b493",
-		"user_email" : "jimi@indomaret.co.id",
-		"chat_orders" : 3,
 		"user" : "Boleh tolong Tunjukkancourse yang tersedia di go kampusuntukdasardasar kepemimpinan yang tadi Anda jelaskan",
 		"avatar" : "Saya tidak dapat mengakses data kursus secara langsung, tetapi Anda dapat menemukan kursus \"Dasar-Dasar Kepemimpinan\" dan program terkait lainnya di platform GoKampus. Langkah-langkah yang bisa Anda ikuti adalah:\n\n1. Kunjungi situs web GoKampus.\n2. Gunakan fitur pencarian untuk mencari \"Dasar-Dasar Kepemimpinan\" atau \"Kepemimpinan\".\n3. Lihat daftar kursus yang tersedia dan pilih yang sesuai dengan kebutuhan Anda.\n\nJika Anda memiliki pertanyaan lebih lanjut tentang kursus tertentu setelah mencarinya, silakan beri tahu saya!",
 		"created_at" : "2025-03-26 08:26:13",
@@ -20459,7 +20450,7 @@
 	{
 		"chat_session_id" : "3b24eeea-09e0-11f0-81ed-2e93c127b493",
 		"user_email" : "jimi@indomaret.co.id",
-		"chat_orders" : 4,
+		"chat_orders" : 3,
 		"user" : "Saat",
 		"avatar" : "Tentu, saya di sini untuk membantu! Jika Anda memiliki pertanyaan lebih lanjut atau ingin informasi tambahan tentang kursus atau topik tertentu, silakan beri tahu saya. Apa yang ingin Anda diskusikan lebih lanjut?",
 		"created_at" : "2025-03-26 08:26:13",
@@ -20468,7 +20459,7 @@
 	{
 		"chat_session_id" : "3b24eeea-09e0-11f0-81ed-2e93c127b493",
 		"user_email" : "jimi@indomaret.co.id",
-		"chat_orders" : 5,
+		"chat_orders" : 4,
 		"user" : "berikan usulan kirakira kalau saya sebagai leadership pemulalebihcocoktopik yang mana",
 		"avatar" : "Jika Anda seorang pemula dalam bidang kepemimpinan, saya menyarankan Anda untuk memulai dengan kursus berikut yang cocok untuk level pemula:\n\n1. Dasar-Dasar Kepemimpinan: Kursus ini memberikan pemahaman fundamental tentang kepemimpinan, termasuk gaya kepemimpinan, motivasi, dan bagaimana menjadi pemimpin yang efektif.\n\n2. Keterampilan Komunikasi untuk Pemimpin Pemula: Fokus pada pengembangan kemampuan komunikasi dasar yang penting untuk berinteraksi dengan tim dan membangun hubungan yang baik.\n\n3. Membangun Tim yang Sukses: Kursus ini akan membantu Anda memahami cara membentuk dan mengelola tim yang efektif, serta teknik untuk membangun kerjasama yang baik di dalam tim.\n\n4. Pengembangan Diri untuk Pemimpin: Mengenal diri sendiri dan kekuatan Anda sebagai pemimpin, serta cara untuk terus berkembang dalam peran kepemimpinan.\n\nKursus-kursus ini akan memberi Anda dasar yang kuat untuk memulai perjalanan Anda sebagai pemimpin. Jika Anda tertarik dengan salah satu kursus tersebut, silakan beri tahu saya!",
 		"created_at" : "2025-03-26 08:26:13",
@@ -20477,7 +20468,7 @@
 	{
 		"chat_session_id" : "3b24eeea-09e0-11f0-81ed-2e93c127b493",
 		"user_email" : "jimi@indomaret.co.id",
-		"chat_orders" : 6,
+		"chat_orders" : 5,
 		"user" : "Oke berikan rekomendasi sayauntukcourse yang berkaitan dengan pengembangan diri khususnya untuk leadership",
 		"avatar" : "Tentu! Saya merekomendasikan beberapa kursus di GoKampus yang berkaitan dengan pengembangan diri, terutama dalam bidang kepemimpinan (leadership):\n\n1. Kepemimpinan yang Efektif: Kursus ini membantu Anda memahami prinsip-prinsip kepemimpinan yang sukses dan cara menerapkannya dalam konteks profesional.\n\n2. Keterampilan Komunikasi untuk Pemimpin: Fokus pada pengembangan keterampilan komunikasi yang diperlukan untuk memimpin tim dan mempengaruhi orang lain.\n\n3. Manajemen Tim dan Kolaborasi: Mempelajari cara membangun tim yang solid, mengelola dinamika kelompok, dan mendorong kolaborasi yang efektif.\n\n4. Pengambilan Keputusan Strategis: Kursus ini memberikan wawasan tentang bagaimana membuat keputusan yang bijaksana dan strategis dalam posisi kepemimpinan.\n\nSilakan pilih salah satu kursus di atas yang sesuai dengan kebutuhan Anda, atau jika Anda ingin informasi lebih lanjut tentang kursus tertentu, beritahu saya!",
 		"created_at" : "2025-03-26 08:26:13",
@@ -20486,7 +20477,7 @@
 	{
 		"chat_session_id" : "3b24eeea-09e0-11f0-81ed-2e93c127b493",
 		"user_email" : "jimi@indomaret.co.id",
-		"chat_orders" : 7,
+		"chat_orders" : 6,
 		"user" : "HaloTolong berikan rekomendasi course Yen",
 		"avatar" : "Saya fokus pada program pembelajaran di GoKampus. Dapatkah Anda memberi tahu saya lebih lanjut tentang bidang atau keterampilan yang ingin Anda tingkatkan? Dengan informasi tersebut, saya dapat merekomendasikan kursus yang sesuai untuk Anda.",
 		"created_at" : "2025-03-26 08:26:13",
@@ -20495,7 +20486,7 @@
 	{
 		"chat_session_id" : "3b24eeea-09e0-11f0-81ed-2e93c127b493",
 		"user_email" : "jimi@indomaret.co.id",
-		"chat_orders" : 8,
+		"chat_orders" : 7,
 		"user" : "Halo",
 		"avatar" : "Halo! Saya GAIA, AI Career Coach, Trainer, dan Evaluator dari GoKampus. Bagaimana saya dapat membantu Anda hari ini?",
 		"created_at" : "2025-03-26 08:26:13",
@@ -20504,9 +20495,18 @@
 	{
 		"chat_session_id" : "3b24eeea-09e0-11f0-81ed-2e93c127b493",
 		"user_email" : "jimi@indomaret.co.id",
-		"chat_orders" : 9,
+		"chat_orders" : 8,
 		"user" : "-",
 		"avatar" : "Halo, saya GAIA, goKampus AI Advisor. Ada yang bisa saya bantu?",
+		"created_at" : "2025-03-26 08:26:13",
+		"updated_at" : "2025-03-26 08:26:13"
+	},
+	{
+		"chat_session_id" : "3b24eeea-09e0-11f0-81ed-2e93c127b493",
+		"user_email" : "jimi@indomaret.co.id",
+		"chat_orders" : 9,
+		"user" : "Halomungkinsaya butuhuntuktopik kepemimpinan tapijuga berkaitan dengan komunikasi",
+		"avatar" : "Tentu! Jika Anda mencari kursus yang berkaitan dengan kepemimpinan dan komunikasi, berikut adalah beberapa rekomendasi yang mungkin Anda temukan di GoKampus:\n\n1. Kepemimpinan dan Keterampilan Komunikasi: Kursus ini mengajarkan dasar-dasar kepemimpinan bersamaan dengan keterampilan komunikasi yang efektif, sehingga Anda dapat memimpin tim dengan lebih baik.\n\n2. Komunikasi Efektif untuk Pemimpin: Fokus pada teknik komunikasi yang dibutuhkan untuk memengaruhi dan memotivasi anggota tim dalam berbagai situasi.\n\n3. Membangun Hubungan Melalui Komunikasi: Kursus ini mengajarkan pentingnya membangun hubungan yang kuat melalui komunikasi, yang sangat penting dalam peran kepemimpinan.\n\n4. Kepemimpinan Melalui Negosiasi dan Komunikasi: Mengembangkan keterampilan negosiasi dan komunikasi yang diperlukan untuk mencapai kesepakatan dan menyelesaikan konflik di tempat kerja.\n\nSilakan cari kursus-kursus ini di GoKampus untuk menemukan yang paling sesuai dengan kebutuhan Anda. Jika Anda membutuhkan bantuan lebih lanjut, jangan ragu untuk bertanya!",
 		"created_at" : "2025-03-26 08:26:13",
 		"updated_at" : "2025-03-26 08:26:13"
 	},
@@ -20527,5 +20527,131 @@
 		"avatar" : "Saya GAIA, AI Career Coach dan Trainer dari goKampus. Tujuan saya adalah membantu Anda mengidentifikasi celah keterampilan, memperkuat keahlian Anda, dan mencapai pertumbuhan karir yang berarti. Untuk memulai, apa area keterampilan yang ingin Anda kembangkan atau tingkatkan, dan di mana Anda merasa ada celah yang perlu diatasi?",
 		"created_at" : "2025-03-26 09:21:00",
 		"updated_at" : "2025-03-26 09:21:00"
+	},
+	{
+		"chat_session_id" : "230a0c98-09f0-11f0-b137-92ee5263b52e",
+		"user_email" : "kikin.hermanto@pupukkaltim.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya GAIA, AI Career Coach dan Trainer dari goKampus. Tujuan saya adalah membantu Anda mengidentifikasi celah keterampilan, memperkuat keahlian Anda, dan mencapai pertumbuhan karir yang berarti. Untuk memulai, apa area keterampilan yang ingin Anda kembangkan atau tingkatkan, dan di mana Anda merasa ada celah yang perlu diatasi?",
+		"created_at" : "2025-03-26 10:12:49",
+		"updated_at" : "2025-03-26 10:12:49"
+	},
+	{
+		"chat_session_id" : "b897692f-09f0-11f0-81ed-2e93c127b493",
+		"user_email" : "jimi@indomaret.co.id",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo, saya GAIA, goKampus AI Advisor. Ada yang bisa saya bantu?",
+		"created_at" : "2025-03-26 10:19:22",
+		"updated_at" : "2025-03-26 10:19:22"
+	},
+	{
+		"chat_session_id" : "85917ba4-0a08-11f0-bbcf-b6277382955d",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Sangat menarik untuk membahas tentang alasan-alasan yang sering kita dengar ketika seseorang tidak mengambil peluang. Tadi malam, tim di Travel U meluncurkan mini course Rich Affiliate yang mengajarkan cara menjadi affiliate dan menjual produk digital. Lebih dari dua ribu orang bergabung via Zoom dan YouTube, tetapi ada beberapa orang yang tidak ikut dengan alasan seperti tidak punya laptop.\n\nKetika seseorang mengatakan \"Saya tidak punya laptop\" atau \"Saya tidak punya iPad,\" itu sebenarnya hanya alasan permukaan. Mari kita gali lebih dalam. Di balik alasan tersebut, seringkali ada masalah yang lebih mendasar. Misalnya, ketika mengatakan tidak punya iPad, masalah sebenarnya mungkin adalah kurangnya uang untuk membelinya. Alasan ini sering kali disembunyikan karena tidak nyaman untuk diungkapkan.\n\nSelama lebih dari 30 tahun berkarir di bidang sales, saya sering menemui orang-orang dengan alasan serupa. Ketika seseorang mengatakan mereka tidak punya skill atau uang, itu sering kali hanya permukaan. Jika kita berani menggali lebih dalam, kita bisa menemukan masalah internal seperti rasa malas, trauma, atau mental block. Misalnya, jika seseorang merasa tidak punya skill, kita bisa bertanya, \"Skill apa yang kamu butuhkan?\" Jawabannya mungkin lebih spesifik, seperti \"Saya tidak bisa bikin landing page.\" Dari situ, kita bisa mencari solusi yang tepat.\n\nKita hidup di era abundance, di mana informasi sangat mudah diakses. Jika kamu merasa tidak punya skill, ada banyak sumber belajar di YouTube. Jika tidak punya uang, kamu bisa mencari wifi gratis di tempat umum. Intinya, tidak ada alasan untuk tidak belajar atau mencoba. Bahkan, jika kamu merasa tidak punya waktu tetapi sebenarnya punya banyak waktu luang, itu bisa jadi indikasi rasa malas yang sering disembunyikan.\n\nJadi, bagaimana cara kita menghadapi alasan-alasan ini? Penting untuk memahami bahwa itu hanya permukaan. Masalah sebenarnya ada di dalam diri kita. Jika kita bisa mengubah mindset internal, maka hidup kita akan berubah. Pertanyaannya adalah, apakah kamu pernah menemukan alasan yang kamu buat sendiri untuk tidak mengambil peluang? Bagaimana cara kamu mengatasi mindset yang mungkin menghambat kemajuanmu? Mari kita diskusikan!",
+		"created_at" : "2025-03-26 13:08:19",
+		"updated_at" : "2025-03-26 13:08:19"
+	},
+	{
+		"chat_session_id" : "85917ba4-0a08-11f0-bbcf-b6277382955d",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 2,
+		"user" : "Jelaskan secara singkat mengenai :\n\n                            \"Saya ingin membahas tentang alasan-alasan yang sering kita dengar ketika seseorang tidak mengambil peluang. Misalnya, tadi malam saya dan tim di Travel U meluncurkan mini course Rich Affiliate, yang mengajarkan cara menjadi affiliate dan menjual produk digital. Lebih dari dua ribu orang bergabung via Zoom dan YouTube. Namun, ada beberapa orang yang tidak ikut karena alasan seperti tidak punya laptop. Ini menarik karena saya ingin membahas lebih dalam tentang alasan-alasan seperti ini. Ketika seseorang bilang, \"Saya tidak punya laptop,\" atau \"Saya tidak punya iPad,\" itu sebenarnya hanya alasan permukaan (surface level). Di balik itu, ada alasan yang lebih dalam. Misalnya, ketika seseorang bilang tidak punya iPad, sebenarnya masalahnya bukan iPad, tapi uang. Mereka tidak punya uang untuk membeli iPad. Ini adalah deeper level. Tapi, alasan seperti ini sering disembunyikan karena tidak nyaman untuk diungkapkan. Saya sudah lebih dari 30 tahun menjadi sales, dan saya sering menemui orang-orang dengan alasan seperti ini. Ketika seseorang bilang mereka tidak punya skill atau uang, sebenarnya itu hanya permukaan. Jika kita gali lebih dalam, biasanya ada masalah internal seperti rasa malas, trauma, atau mental block. Misalnya, ketika seseorang bilang tidak punya skill, kita bisa tanya, \"Skill apa yang kamu butuhkan?\" Jawabannya bisa lebih spesifik, seperti \"Saya tidak bisa bikin landing page.\" Nah, dari situ, kita bisa cari solusi. Saya selalu bilang, kita hidup di era abundance, di mana informasi sangat mudah didapat. Jika kamu tidak punya skill, kamu bisa belajar di YouTube. Jika tidak punya uang, kamu bisa cari wifi gratis di stasiun atau tempat umum. Intinya, tidak ada alasan untuk tidak belajar atau mencoba. Jika kamu bilang tidak punya waktu, padahal kamu punya banyak waktu luang, itu artinya kamu malas. Malas adalah deeper level yang sering disembunyikan karena memalukan. Ketika kita menghadapi alasan-alasan seperti ini, kita harus paham bahwa itu hanya permukaan. Masalah sebenarnya ada di internal. Jika kita bisa mengubah mindset internal, maka hidup kita akan berubah. Jadi, jika kamu merasa hidupmu susah, coba lihat kembali mindsetmu. Mungkin ada yang perlu diubah. Semoga penjelasan ini bermanfaat. Terima kasih sudah menonton, dan sampai jumpa di video berikutnya! Bye-bye.\"\n\n                            Jangan gunakan kata ganti orang ketiga seperti \"penulis\", tapi buat seolah-olah Anda yang menyampaikan pesan tersebut secara langsung dan berikan pertanyaan sesuai konten itu untuk memulai diskusi.",
+		"avatar" : "Sangat menarik untuk membahas tentang alasan-alasan yang sering kita dengar ketika seseorang tidak mengambil peluang. Tadi malam, tim di Travel U meluncurkan mini course Rich Affiliate yang mengajarkan cara menjadi affiliate dan menjual produk digital. Lebih dari dua ribu orang bergabung via Zoom dan YouTube, tetapi ada beberapa orang yang tidak ikut dengan alasan seperti tidak punya laptop.\n\nKetika seseorang mengatakan \"Saya tidak punya laptop\" atau \"Saya tidak punya iPad,\" itu sebenarnya hanya alasan permukaan. Mari kita gali lebih dalam. Di balik alasan tersebut, seringkali ada masalah yang lebih mendasar. Misalnya, ketika mengatakan tidak punya iPad, masalah sebenarnya mungkin adalah kurangnya uang untuk membelinya. Alasan ini sering kali disembunyikan karena tidak nyaman untuk diungkapkan.\n\nSelama lebih dari 30 tahun berkarir di bidang sales, saya sering menemui orang-orang dengan alasan serupa. Ketika seseorang mengatakan mereka tidak punya skill atau uang, itu sering kali hanya permukaan. Jika kita berani menggali lebih dalam, kita bisa menemukan masalah internal seperti rasa malas, trauma, atau mental block. Misalnya, jika seseorang merasa tidak punya skill, kita bisa bertanya, \"Skill apa yang kamu butuhkan?\" Jawabannya mungkin lebih spesifik, seperti \"Saya tidak bisa bikin landing page.\" Dari situ, kita bisa mencari solusi yang tepat.\n\nKita hidup di era abundance, di mana informasi sangat mudah diakses. Jika kamu merasa tidak punya skill, ada banyak sumber belajar di YouTube. Jika tidak punya uang, kamu bisa mencari wifi gratis di tempat umum. Intinya, tidak ada alasan untuk tidak belajar atau mencoba. Bahkan, jika kamu merasa tidak punya waktu tetapi sebenarnya punya banyak waktu luang, itu bisa jadi indikasi rasa malas yang sering disembunyikan.\n\nJadi, bagaimana cara kita menghadapi alasan-alasan ini? Penting untuk memahami bahwa itu hanya permukaan. Masalah sebenarnya ada di dalam diri kita. Jika kita bisa mengubah mindset internal, maka hidup kita akan berubah. Pertanyaannya adalah, apakah kamu pernah menemukan alasan yang kamu buat sendiri untuk tidak mengambil peluang? Bagaimana cara kamu mengatasi mindset yang mungkin menghambat kemajuanmu? Mari kita diskusikan!",
+		"created_at" : "2025-03-26 13:08:19",
+		"updated_at" : "2025-03-26 13:08:19"
+	},
+	{
+		"chat_session_id" : "54bac3fa-0a20-11f0-bbcf-b6277382955d",
+		"user_email" : "fendatris.hanafi@petrokimia-gresik.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya GAIA, AI Career Coach dan Trainer dari goKampus. Tujuan saya adalah membantu Anda mengidentifikasi celah keterampilan, memperkuat keahlian Anda, dan mencapai pertumbuhan karir yang berarti. Untuk memulai, apa area keterampilan yang ingin Anda kembangkan atau tingkatkan, dan di mana Anda merasa ada celah yang perlu diatasi?",
+		"created_at" : "2025-03-26 15:57:43",
+		"updated_at" : "2025-03-26 15:57:43"
+	},
+	{
+		"chat_session_id" : "cd8b8dc6-0a24-11f0-bbcf-b6277382955d",
+		"user_email" : "jimi@indomaret.co.id",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Maaf, saya hanya dapat memberikan informasi yang berkaitan dengan pengembangan karir, peningkatan keterampilan, dan layanan GoKampus. Jika Anda memiliki pertanyaan terkait kursus atau pelatihan di GoKampus, silakan beri tahu saya!",
+		"created_at" : "2025-03-26 16:32:17",
+		"updated_at" : "2025-03-26 16:32:17"
+	},
+	{
+		"chat_session_id" : "cd8b8dc6-0a24-11f0-bbcf-b6277382955d",
+		"user_email" : "jimi@indomaret.co.id",
+		"chat_orders" : 2,
+		"user" : "Bisakah anda mengetik teks?",
+		"avatar" : "Saya di sini untuk memberikan informasi dan rekomendasi terkait pengembangan karir dan keterampilan melalui platform GoKampus. Jika Anda memiliki pertanyaan atau ingin mendiskusikan kursus tertentu, silakan beri tahu saya!",
+		"created_at" : "2025-03-26 16:32:17",
+		"updated_at" : "2025-03-26 16:32:17"
+	},
+	{
+		"chat_session_id" : "cd8b8dc6-0a24-11f0-bbcf-b6277382955d",
+		"user_email" : "jimi@indomaret.co.id",
+		"chat_orders" : 3,
+		"user" : "Spuit",
+		"avatar" : "Maaf, saya hanya dapat memberikan informasi yang berkaitan dengan pengembangan karir, peningkatan keterampilan, dan layanan GoKampus. Jika Anda memiliki pertanyaan terkait kursus atau pelatihan di GoKampus, silakan beri tahu saya!",
+		"created_at" : "2025-03-26 16:32:17",
+		"updated_at" : "2025-03-26 16:32:17"
+	},
+	{
+		"chat_session_id" : "47a604a8-0a25-11f0-bbcf-b6277382955d",
+		"user_email" : "jimi@indomaret.co.id",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo, saya GAIA, goKampus AI Advisor. Ada yang bisa saya bantu?",
+		"created_at" : "2025-03-26 16:33:11",
+		"updated_at" : "2025-03-26 16:33:11"
+	},
+	{
+		"chat_session_id" : "47a604a8-0a25-11f0-bbcf-b6277382955d",
+		"user_email" : "jimi@indomaret.co.id",
+		"chat_orders" : 2,
+		"user" : "Ya.",
+		"avatar" : "Saya adalah GAIA, Pelatih Karir AI Anda dari GoKampus. Tujuan saya adalah memberikan Anda pengalaman belajar yang didukung AI, pelatihan yang dipersonalisasi, dan penilaian interaktif untuk melacak pertumbuhan profesional Anda. Mari kita mulai! Apakah ada yang ingin Anda diskusikan atau tanyakan mengenai pengembangan karir atau program pelatihan di GoKampus?",
+		"created_at" : "2025-03-26 16:33:11",
+		"updated_at" : "2025-03-26 16:33:11"
+	},
+	{
+		"chat_session_id" : "ed005c1d-0a96-11f0-bbcf-b6277382955d",
+		"user_email" : "buyungbaskoro@petrokimia-gresik.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya GAIA, AI Career Coach dan Trainer dari goKampus. Tujuan saya adalah membantu Anda mengidentifikasi celah keterampilan, memperkuat keahlian Anda, dan mencapai pertumbuhan karir yang berarti. Untuk memulai, apa area keterampilan yang ingin Anda kembangkan atau tingkatkan, dan di mana Anda merasa ada celah yang perlu diatasi?",
+		"created_at" : "2025-03-27 06:07:53",
+		"updated_at" : "2025-03-27 06:07:53"
+	},
+	{
+		"chat_session_id" : "ed005c1d-0a96-11f0-bbcf-b6277382955d",
+		"user_email" : "buyungbaskoro@petrokimia-gresik.com",
+		"chat_orders" : 2,
+		"user" : "kepemimpinan",
+		"avatar" : "Saya GAIA, AI Career Coach dan Trainer dari GoKampus. Jika Anda tertarik untuk mengembangkan keterampilan kepemimpinan, saya bisa merekomendasikan kursus atau modul pelatihan yang relevan di GoKampus. Apa yang ingin Anda fokuskan dalam pengembangan keterampilan kepemimpinan Anda?",
+		"created_at" : "2025-03-27 06:07:53",
+		"updated_at" : "2025-03-27 06:07:53"
+	},
+	{
+		"chat_session_id" : "ed005c1d-0a96-11f0-bbcf-b6277382955d",
+		"user_email" : "buyungbaskoro@petrokimia-gresik.com",
+		"chat_orders" : 3,
+		"user" : "komunikasi",
+		"avatar" : "Untuk mengembangkan keterampilan komunikasi Anda, saya dapat merekomendasikan beberapa kursus di GoKampus yang berfokus pada peningkatan kemampuan komunikasi, baik dalam konteks profesional maupun personal. Keterampilan komunikasi yang baik sangat penting untuk kesuksesan dalam berbagai aspek karier. \n\nApakah Anda tertarik dengan kursus tertentu, seperti komunikasi interpersonal, presentasi, atau negosiasi? Mari kita cari kursus yang sesuai dengan kebutuhan Anda!",
+		"created_at" : "2025-03-27 06:07:53",
+		"updated_at" : "2025-03-27 06:07:53"
+	},
+	{
+		"chat_session_id" : "ed005c1d-0a96-11f0-bbcf-b6277382955d",
+		"user_email" : "buyungbaskoro@petrokimia-gresik.com",
+		"chat_orders" : 4,
+		"user" : "apa saja",
+		"avatar" : "Berikut beberapa jenis kursus yang dapat membantu Anda mengembangkan keterampilan komunikasi di GoKampus:\n\n1. Kursus Komunikasi Interpersonal: Mempelajari teknik berkomunikasi yang efektif dalam interaksi sehari-hari dan bagaimana membangun hubungan yang baik dengan orang lain.\n\n2. Kursus Public Speaking: Fokus pada keterampilan berbicara di depan umum, termasuk cara menyusun presentasi yang menarik, penggunaan bahasa tubuh, dan teknik mengatasi kecemasan saat berbicara di depan audiens.\n\n3. Kursus Negosiasi: Mengajarkan strategi dan teknik untuk bernegosiasi dengan sukses, baik dalam konteks bisnis maupun pribadi.\n\n4. Kursus Komunikasi Digital: Mempelajari cara berkomunikasi secara efektif melalui platform digital, termasuk email, media sosial, dan aplikasi komunikasi lainnya.\n\n5. Kursus Komunikasi Tim: Fokus pada keterampilan komunikasi yang diperlukan untuk bekerja dalam tim, termasuk kolaborasi, mendengarkan aktif, dan memberikan umpan balik yang konstruktif.\n\nJika ada kursus tertentu yang menarik perhatian Anda, beri tahu saya, dan saya bisa membantu Anda dengan detail lebih lanjut!",
+		"created_at" : "2025-03-27 06:07:53",
+		"updated_at" : "2025-03-27 06:07:53"
 	}
 ]

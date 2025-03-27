@@ -4732,5 +4732,47 @@
 		"summary_title" : "Percakapan dengan AI Career Coach",
 		"summary_content" : "Percakapan ini melibatkan AI bernama GAIA, yang berperan sebagai Career Coach dan Trainer dari goKampus. GAIA menawarkan bantuan kepada pengguna untuk mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir yang berarti. GAIA menanyakan kepada pengguna tentang area keterampilan yang ingin mereka kembangkan atau tingkatkan, serta celah yang perlu diatasi.",
 		"created_at" : "2025-03-26 09:21:00"
+	},
+	{
+		"chat_session_id" : "230a0c98-09f0-11f0-b137-92ee5263b52e",
+		"summary_title" : "Percakapan dengan AI Career Coach",
+		"summary_content" : "Percakapan ini melibatkan AI bernama GAIA, yang berperan sebagai Career Coach dan Trainer dari goKampus. GAIA menawarkan bantuan kepada pengguna untuk mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir yang berarti. GAIA menanyakan area keterampilan yang ingin dikembangkan atau ditingkatkan oleh pengguna, serta celah yang perlu diatasi.",
+		"created_at" : "2025-03-26 10:12:49"
+	},
+	{
+		"chat_session_id" : "b897692f-09f0-11f0-81ed-2e93c127b493",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-03-26 10:19:22"
+	},
+	{
+		"chat_session_id" : "85917ba4-0a08-11f0-bbcf-b6277382955d",
+		"summary_title" : "Mengatasi Alasan untuk Tidak Mengambil Peluang",
+		"summary_content" : "Percakapan ini membahas tentang alasan-alasan yang sering digunakan orang untuk tidak mengambil peluang, seperti tidak memiliki laptop atau iPad. Alasan-alasan ini sering kali hanya alasan permukaan, dengan masalah yang lebih mendasar seperti kurangnya uang, rasa malas, trauma, atau mental block. Diskusi menekankan pentingnya menggali lebih dalam untuk menemukan masalah internal dan mengubah mindset agar dapat memanfaatkan peluang yang ada. Pertanyaan diajukan untuk mendorong refleksi pribadi mengenai alasan yang mungkin menghambat kemajuan seseorang.",
+		"created_at" : "2025-03-26 13:08:19"
+	},
+	{
+		"chat_session_id" : "54bac3fa-0a20-11f0-bbcf-b6277382955d",
+		"summary_title" : "Percakapan dengan AI Career Coach",
+		"summary_content" : "Percakapan ini melibatkan AI bernama GAIA, yang berperan sebagai Career Coach dan Trainer dari goKampus. GAIA bertujuan untuk membantu pengguna dalam mengidentifikasi celah keterampilan, memperkuat keahlian, dan mencapai pertumbuhan karir yang berarti. GAIA menanyakan kepada pengguna tentang area keterampilan yang ingin mereka kembangkan atau tingkatkan, serta celah yang mereka rasakan perlu diatasi.",
+		"created_at" : "2025-03-26 15:57:43"
+	},
+	{
+		"chat_session_id" : "cd8b8dc6-0a24-11f0-bbcf-b6277382955d",
+		"summary_title" : "Diskusi tentang Layanan GoKampus",
+		"summary_content" : "Percakapan ini melibatkan pengguna yang bertanya kepada avatar AI mengenai kemampuannya mengetik teks. Avatar menjelaskan bahwa ia dirancang untuk memberikan informasi dan rekomendasi terkait pengembangan karir dan keterampilan melalui platform GoKampus, serta menjawab pertanyaan terkait kursus atau pelatihan di GoKampus.",
+		"created_at" : "2025-03-26 16:32:17"
+	},
+	{
+		"chat_session_id" : "47a604a8-0a25-11f0-bbcf-b6277382955d",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-03-26 16:33:11"
+	},
+	{
+		"chat_session_id" : "ed005c1d-0a96-11f0-bbcf-b6277382955d",
+		"summary_title" : "Pengembangan Keterampilan dengan GAIA",
+		"summary_content" : "Percakapan ini melibatkan seorang pengguna yang ingin mengembangkan keterampilan kepemimpinan dan komunikasi. GAIA, AI Career Coach dari GoKampus, menawarkan rekomendasi kursus yang relevan untuk membantu pengguna meningkatkan keterampilan tersebut. Untuk komunikasi, GAIA menyarankan beberapa kursus seperti komunikasi interpersonal, public speaking, negosiasi, komunikasi digital, dan komunikasi tim. Pengguna dapat memilih kursus yang sesuai dengan kebutuhan mereka untuk mencapai pertumbuhan karir yang berarti.",
+		"created_at" : "2025-03-27 06:07:53"
 	}
 ]
