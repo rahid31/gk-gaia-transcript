@@ -5170,5 +5170,113 @@
 		"summary_title" : "",
 		"summary_content" : "",
 		"created_at" : "2025-04-09 07:17:45"
+	},
+	{
+		"chat_session_id" : "acd05e96-14e9-11f0-a15c-da00f4d30129",
+		"summary_title" : "Diskusi tentang Materi yang Belum Selesai",
+		"summary_content" : "Pengguna meminta bantuan terkait materi yang belum diselesaikan. Avatar, GAIA, menanyakan lebih lanjut tentang topik atau kursus spesifik yang dimaksud untuk memberikan rekomendasi atau dukungan yang lebih tepat.",
+		"created_at" : "2025-04-09 09:25:32"
+	},
+	{
+		"chat_session_id" : "f3afd3f8-14e9-11f0-b437-56a65e9e65c7",
+		"summary_title" : "Panduan Menyelesaikan Kursus Coding Fundamentals",
+		"summary_content" : "Pengguna meminta bantuan untuk menyelesaikan kursus 'Coding Fundamentals for Beginners (3 JP)' di GoKampus. AI Advisor memberikan langkah-langkah untuk menyelesaikan kursus tersebut, termasuk meninjau materi kursus, mengatur waktu belajar, berlatih coding, bertanya jika ada kesulitan, dan menguji pemahaman dengan evaluasi atau kuis.",
+		"created_at" : "2025-04-09 09:27:19"
+	},
+	{
+		"chat_session_id" : "47a6cf3b-1515-11f0-9d72-beeb2794142f",
+		"summary_title" : "Tips Komunikasi Efektif untuk Karyawan Baru",
+		"summary_content" : "Sinta, seorang karyawan baru di Secure Parking, bertanya kepada GAIA, AI coach, tentang cara berkomunikasi yang baik dengan pelanggan. GAIA memberikan beberapa tips, seperti mendengarkan aktif, menggunakan bahasa yang jelas, menunjukkan empati, dan memperhatikan bahasa tubuh. GAIA juga memberikan umpan balik pada contoh komunikasi Sinta dengan pelanggan, menyarankan untuk menyapa pelanggan dengan ramah, menegaskan nominal parkir dengan jelas, menawarkan opsi pembayaran, dan mengucapkan terima kasih. GAIA juga menawarkan rekomendasi kursus di GoKampus untuk meningkatkan keterampilan komunikasi Sinta.",
+		"created_at" : "2025-04-09 14:41:01"
+	},
+	{
+		"chat_session_id" : "04005ed4-1516-11f0-9b21-46836f93992f",
+		"summary_title" : "Percakapan dengan GAIA tentang Kursus dan Kompetisi",
+		"summary_content" : "Dalam percakapan ini, pengguna bertanya kepada GAIA, AI coach dari GoKampus, mengenai rekomendasi tempat makan nasi goreng di daerah Mangga Dua dan kompetitor dari Secure Parking. Namun, GAIA menjelaskan bahwa fokusnya adalah pada program belajar dan pengembangan keterampilan di GoKampus, dan menawarkan bantuan dalam mengeksplorasi kursus yang dapat meningkatkan kemampuan pengguna.",
+		"created_at" : "2025-04-09 14:44:47"
+	},
+	{
+		"chat_session_id" : "c2546895-1516-11f0-a951-a65f3dc8503c",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-09 14:49:08"
+	},
+	{
+		"chat_session_id" : "e5b45eda-153c-11f0-b437-56a65e9e65c7",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-09 19:20:08"
+	},
+	{
+		"chat_session_id" : "6d97bbfc-1553-11f0-9b21-46836f93992f",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-09 22:01:07"
+	},
+	{
+		"chat_session_id" : "8ce557da-15ba-11f0-9703-c2a8c9d1091d",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-10 10:19:29"
+	},
+	{
+		"chat_session_id" : "3598a2b4-15c0-11f0-b437-56a65e9e65c7",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-10 11:00:00"
+	},
+	{
+		"chat_session_id" : "a75eaaaf-15c0-11f0-b437-56a65e9e65c7",
+		"summary_title" : "Masalah Teknis Saat Mengerjakan Kuis",
+		"summary_content" : "Pengguna mengalami masalah teknis saat mengerjakan kuis di pelatihan audit berbasis risiko karena loading yang terus-menerus. Avatar memberikan beberapa solusi seperti menyegarkan halaman, memeriksa koneksi internet, membersihkan cache dan cookies, menggunakan browser berbeda, dan menghubungi dukungan teknis jika masalah berlanjut. Pengguna berterima kasih atas bantuan yang diberikan.",
+		"created_at" : "2025-04-10 11:05:10"
+	},
+	{
+		"chat_session_id" : "edd3e195-15d4-11f0-a15c-da00f4d30129",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-10 13:28:02"
+	},
+	{
+		"chat_session_id" : "ed63bfba-15d6-11f0-9703-c2a8c9d1091d",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-10 13:42:39"
+	},
+	{
+		"chat_session_id" : "93d13452-15d7-11f0-9b21-46836f93992f",
+		"summary_title" : "Masalah Download Sertifikat di GoKampus",
+		"summary_content" : "User mengalami kesulitan dalam mendownload sertifikat untuk kursus 'Perform at Work 1 - 9' di GoKampus. Avatar memberikan beberapa saran untuk mengatasi masalah tersebut, seperti memastikan semua modul dan tugas telah selesai, mencoba logout dan login kembali, atau menggunakan browser yang berbeda. Jika masalah tetap ada, avatar menyarankan untuk menghubungi tim dukungan GoKampus. Avatar juga memberikan petunjuk tentang cara menemukan informasi kontak tim dukungan di situs atau aplikasi GoKampus.",
+		"created_at" : "2025-04-10 13:49:31"
+	},
+	{
+		"chat_session_id" : "88f80135-15d9-11f0-9b21-46836f93992f",
+		"summary_title" : "Percakapan Awal dengan AI Coach",
+		"summary_content" : "Percakapan ini dimulai dengan AI bernama GAIA yang memperkenalkan diri sebagai AI coach. GAIA menanyakan posisi dan tanggung jawab pengguna di tempat kerja. Pengguna menjawab bahwa mereka adalah seorang Product Manager. GAIA kemudian menyatakan senang bertemu dan menawarkan bantuan dalam pengembangan keterampilan atau pelatihan yang relevan untuk peran pengguna sebagai Product Manager.",
+		"created_at" : "2025-04-10 14:01:42"
+	},
+	{
+		"chat_session_id" : "fba19a3a-1607-11f0-b437-56a65e9e65c7",
+		"summary_title" : "Diskusi tentang Manajemen SDM dan Lingkungan Hidup",
+		"summary_content" : "Percakapan ini dimulai dengan AI yang memperkenalkan diri dan menanyakan posisi serta tanggung jawab pengguna di tempat kerja. Pengguna kemudian menyebutkan 'Manajemen SDM', yang direspon oleh AI dengan penjelasan tentang berbagai fungsi dalam manajemen SDM. Selanjutnya, pengguna menyebutkan 'Lingkungan', dan AI menjelaskan tentang pentingnya lingkungan kerja yang positif serta keberlanjutan dalam konteks manajemen SDM. Ketika pengguna menyebutkan 'Lingkungan Hidup', AI memberikan informasi tentang tanggung jawab sosial perusahaan, kesadaran dan pelatihan karyawan, praktik kerja berkelanjutan, dan kebijakan lingkungan perusahaan.",
+		"created_at" : "2025-04-10 19:35:29"
+	},
+	{
+		"chat_session_id" : "c6fdd0cd-1617-11f0-8470-a64a4eb9a53d",
+		"summary_title" : "Rekomendasi Kursus untuk Divisi Strategic Marketing",
+		"summary_content" : "User menghubungi AI coach bernama GAIA untuk menanyakan masalah error pada kursus. GAIA menyarankan untuk menghubungi tim dukungan teknis GoKampus untuk masalah teknis tersebut. Setelah mengetahui bahwa user bekerja di divisi strategic marketing, GAIA merekomendasikan beberapa kursus yang relevan di GoKampus, seperti Digital Marketing Fundamentals, Market Analysis and Consumer Behavior, Strategic Marketing Management, dan Content Marketing Strategy.",
+		"created_at" : "2025-04-10 21:29:15"
+	},
+	{
+		"chat_session_id" : "f1287777-167a-11f0-8470-a64a4eb9a53d",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-11 09:16:48"
+	},
+	{
+		"chat_session_id" : "8ee87336-167f-11f0-9703-c2a8c9d1091d",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-11 09:49:31"
 	}
 ]
