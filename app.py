@@ -107,7 +107,7 @@ if session_id:
 
     # Footer
     st.divider()
-    st.image(r"data\image\lx_primary_256.png", width=120)
+    st.image("data\image\lx_primary_256.png", width=120)
 
 else:
     st.error("No session_id provided in the URL.")
