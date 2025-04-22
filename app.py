@@ -67,7 +67,7 @@ if session_id:
         </style>
     """, unsafe_allow_html=True)
 
-    st.subheader(chat_topic if chat_topic else "GAIA Transcript")
+    st.subheader(chat_topic if chat_topic else "NEXA Transcript")
     
     st.write("")
     with st.container():

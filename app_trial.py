@@ -10,7 +10,7 @@ JSON_FILE_PATH_2 = "https://raw.githubusercontent.com/rahid31/gk-gaia-transcript
 # Avatar Icon
 user_url = "data/image/user-square-1024.webp"
 avatar_url = "data/image/Logo GAIA.png"
-page_icon = "data/image/Logo Gokampus.png"
+page_icon = "data/image/lx_icon_192.png"
 
 # Function to fetch JSON from GitHub
 def fetch_json(url):
@@ -67,7 +67,7 @@ if session_id:
         </style>
     """, unsafe_allow_html=True)
 
-    st.subheader(chat_topic if chat_topic else "GAIA Transcript")
+    st.subheader(chat_topic if chat_topic else "NEXA Transcript")
     
     st.write("")
     with st.container():
@@ -115,7 +115,7 @@ if session_id:
 
     # Footer
     st.divider()
-    st.image("https://gk-analyst.s3.ap-southeast-1.amazonaws.com/metabase-dashboard/gokampus_logo.svg", width=100)
+    st.image("https://raw.githubusercontent.com/rahid31/gk-gaia-transcript/master/data/image/lx_primary_256.png", width=100)
 
 else:
     st.error("No session_id provided in the URL.")
