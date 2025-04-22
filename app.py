@@ -107,7 +107,7 @@ if session_id:
 
     # Footer
     st.divider()
-    st.image("data\image\lx_primary_256.png", width=120)
+    st.image("https://raw.githubusercontent.com/rahid31/gk-gaia-transcript/master/data/image/lx_primary_256.png", width=120)
 
 else:
     st.error("No session_id provided in the URL.")
