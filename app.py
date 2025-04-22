@@ -10,7 +10,7 @@ JSON_FILE_PATH_2 = "https://raw.githubusercontent.com/rahid31/gk-gaia-transcript
 # Avatar Icon
 user_url = "data/image/user-square-1024.webp"
 avatar_url = "data/image/Logo GAIA.png"
-page_icon = "data/image/Icon Apps - @192.png"
+page_icon = "data/image/lx_icon_192.png"
 
 # Function to fetch JSON from GitHub
 def fetch_json(url):
@@ -107,7 +107,7 @@ if session_id:
 
     # Footer
     st.divider()
-    st.image(r"data\image\LX Primary, Color - @256.png", width=120)
+    st.image(r"data\image\lx_primary_256.png", width=120)
 
 else:
     st.error("No session_id provided in the URL.")
