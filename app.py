@@ -9,7 +9,7 @@ JSON_FILE_PATH_2 = "https://raw.githubusercontent.com/rahid31/gk-gaia-transcript
 
 # Avatar Icon
 user_url = "data/image/user-square-1024.webp"
-avatar_url = "data/image/Logo GAIA.png"
+avatar_url = "data/image/nexa_icon_256.png"
 page_icon = "data/image/lx_icon_192.png"
 
 # Function to fetch JSON from GitHub
