@@ -5914,5 +5914,335 @@
 		"summary_title" : "",
 		"summary_content" : "",
 		"created_at" : "2025-04-24 08:56:14"
+	},
+	{
+		"chat_session_id" : "df1b08c9-20b1-11f0-9e9a-c24f15c624d2",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-24 09:15:02"
+	},
+	{
+		"chat_session_id" : "6075c6b8-20ba-11f0-869e-a6d743bfabe7",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-24 10:15:40"
+	},
+	{
+		"chat_session_id" : "22b97786-20bc-11f0-869e-a6d743bfabe7",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-24 10:29:08"
+	},
+	{
+		"chat_session_id" : "60d5cafe-20bd-11f0-b7e5-32bfca24a905",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-24 10:37:11"
+	},
+	{
+		"chat_session_id" : "aeb11c74-20bd-11f0-b7e5-32bfca24a905",
+		"summary_title" : "Diskusi tentang Tanggung Jawab dan Pengembangan Karir Pelaksana Staff Administrasi",
+		"summary_content" : "Dalam percakapan ini, NEXA, AI coach, menanyakan posisi dan tanggung jawab pengguna di tempat kerja. Pengguna menjawab bahwa ia adalah pelaksana staff administrasi. NEXA kemudian menjelaskan beberapa tanggung jawab umum dari posisi tersebut, seperti pengelolaan dokumen, komunikasi internal, pengaturan jadwal, pencatatan data, dan pelayanan pelanggan. NEXA juga menawarkan untuk merekomendasikan kursus terkait di platform Learnext jika pengguna tertarik untuk meningkatkan keterampilan atau pengetahuan dalam bidang administrasi.",
+		"created_at" : "2025-04-24 10:41:17"
+	},
+	{
+		"chat_session_id" : "c5fa188d-20be-11f0-95b5-d63b0a2cd18b",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-24 10:47:19"
+	},
+	{
+		"chat_session_id" : "236115f8-20c2-11f0-9e9a-c24f15c624d2",
+		"summary_title" : "Masalah Teknis dan Saran Kursus",
+		"summary_content" : "Pengguna mengalami masalah teknis saat mencoba mengisi esai dalam kursus. Masalah ini telah diteruskan ke tim dukungan Learnext untuk ditangani. Sementara menunggu solusi, avatar AI menyarankan pengguna untuk menjelajahi kursus tentang manajemen digital.",
+		"created_at" : "2025-04-24 11:12:31"
+	},
+	{
+		"chat_session_id" : "d7af97a5-20c6-11f0-9e9c-72ad66e0e7d7",
+		"summary_title" : "Strategi Belajar Marketing",
+		"summary_content" : "User bertanya tentang strategi untuk belajar marketing. Avatar merekomendasikan beberapa kursus di Learnext yang dapat membantu, termasuk kursus tentang dasar-dasar pemasaran digital, strategi pemasaran untuk bisnis kecil, dan analisis pasar serta segmentasi. Avatar juga menawarkan bantuan untuk membangun jalur pembelajaran yang lebih terarah berdasarkan kebutuhan dan tujuan user.",
+		"created_at" : "2025-04-24 11:45:31"
+	},
+	{
+		"chat_session_id" : "0c53d188-20d7-11f0-9e9a-c24f15c624d2",
+		"summary_title" : "Percakapan dengan AI Coach NEXA",
+		"summary_content" : "Dalam percakapan ini, seorang pengguna bernama Centaawedding Dending Room bertanya kepada AI coach NEXA tentang kompetensi yang diperlukan untuk menjual eskavator ke perusahaan pertambangan. NEXA menjelaskan beberapa kompetensi penting seperti pengetahuan produk, kompetensi penjualan, pemasaran dan strategi negosiasi, pengetahuan industri, keterampilan komunikasi, dan analisis pasar. NEXA juga menyarankan pengguna untuk mencari kursus terkait di platform Learnext. Selain itu, pengguna mengungkapkan bahwa mereka baru saja putus cinta dan NEXA menyarankan untuk mengambil kursus pengembangan diri atau manajemen emosi. Ketika pengguna meminta bantuan untuk melakukan tindakan ilegal, NEXA menolak dan menawarkan untuk merekomendasikan kursus keamanan siber yang etis.",
+		"created_at" : "2025-04-24 13:46:13"
+	},
+	{
+		"chat_session_id" : "e5441042-20d9-11f0-869e-a6d743bfabe7",
+		"summary_title" : "Saran untuk Meningkatkan Presentasi",
+		"summary_content" : "User, Sinta Widhiani, meminta penilaian atas presentasinya yang akan disampaikan di forum alat berat seluruh Indonesia sebagai wakil dari PT Komatsu. Avatar, NEXA, memberikan saran untuk meningkatkan presentasi, termasuk pembukaan yang menarik, struktur yang jelas, detail yang relevan, interaksi dengan audiens, penutup yang kuat, dan memperhatikan pengucapan serta bahasa tubuh. NEXA juga menawarkan rekomendasi kursus terkait keterampilan presentasi di platform Learnext.",
+		"created_at" : "2025-04-24 14:04:17"
+	},
+	{
+		"chat_session_id" : "cf2e6757-20e3-11f0-b7e5-32bfca24a905",
+		"summary_title" : "Penilaian Presentasi oleh AI Coach",
+		"summary_content" : "User meminta AI Coach, NEXA, untuk memberikan penilaian mengenai presentasinya. NEXA siap memberikan umpan balik mengenai kejelasan, struktur, dan penyampaian presentasi user.",
+		"created_at" : "2025-04-24 15:14:39"
+	},
+	{
+		"chat_session_id" : "4101fffe-20e4-11f0-b7e5-32bfca24a905",
+		"summary_title" : "Penilaian dan Umpan Balik Presentasi BMW Seri 3",
+		"summary_content" : "User meminta penilaian terhadap presentasi tentang BMW Seri 3. Avatar memberikan umpan balik mengenai kejelasan, struktur, dan penyampaian presentasi. Avatar menyarankan untuk memperbaiki struktur presentasi dengan membaginya menjadi bagian yang lebih jelas, menggunakan visual aids, dan meningkatkan interaksi dengan audiens. Avatar juga merekomendasikan kursus public speaking untuk meningkatkan keterampilan presentasi user.",
+		"created_at" : "2025-04-24 15:19:32"
+	},
+	{
+		"chat_session_id" : "43a57f7a-2109-11f0-9e9c-72ad66e0e7d7",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-24 19:41:04"
+	},
+	{
+		"chat_session_id" : "79e54c3d-2175-11f0-95b5-d63b0a2cd18b",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-25 08:35:14"
+	},
+	{
+		"chat_session_id" : "b80ce0b9-2181-11f0-95b5-d63b0a2cd18b",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-25 10:05:21"
+	},
+	{
+		"chat_session_id" : "2f89ea98-2187-11f0-869e-a6d743bfabe7",
+		"summary_title" : "Panduan Belajar Marketing dan Infrastruktur Digital",
+		"summary_content" : "Dalam percakapan ini, pengguna menyatakan minat untuk belajar marketing dan kebingungan dalam mengatur infrastruktur komunikasi dan digital. Avatar, sebagai AI coach, merekomendasikan beberapa kursus di Learnext untuk membantu pengguna. Untuk marketing, disarankan kursus tentang dasar-dasar pemasaran digital, strategi pemasaran konten, dan analisis pasar. Untuk infrastruktur digital, disarankan kursus tentang dasar-dasar teknologi informasi, manajemen proyek TI, dan transformasi digital.",
+		"created_at" : "2025-04-25 10:44:26"
+	},
+	{
+		"chat_session_id" : "a367ebe6-2199-11f0-869e-a6d743bfabe7",
+		"summary_title" : "Pendaftaran Kursus Pelayanan Pelanggan yang Efektif",
+		"summary_content" : "User berinteraksi dengan AI bernama NEXA untuk mendapatkan rekomendasi kursus terkait Manajemen Hubungan Pelanggan (CRM). Setelah beberapa rekomendasi, user memilih kursus 'Pelayanan Pelanggan yang Efektif'. NEXA kemudian memberikan informasi tentang materi kursus dan tujuan pembelajaran, serta panduan langkah-langkah untuk mendaftar di kursus tersebut melalui platform Learnext.",
+		"created_at" : "2025-04-25 13:01:29"
+	},
+	{
+		"chat_session_id" : "c8b3ad59-21a4-11f0-869e-a6d743bfabe7",
+		"summary_title" : "Diskusi tentang Tanda Laik dan Rekomendasi Kursus",
+		"summary_content" : "User bertanya tentang informasi spesifik mengenai tanda laik, namun avatar menyatakan bahwa informasi tersebut tidak tersedia dalam indeks kursus Learnext saat ini. Avatar menawarkan untuk merekomendasikan kursus terkait keselamatan atau regulasi yang lebih luas.",
+		"created_at" : "2025-04-25 14:15:49"
+	},
+	{
+		"chat_session_id" : "1ebbebe2-21a5-11f0-9e9c-72ad66e0e7d7",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-25 14:17:40"
+	},
+	{
+		"chat_session_id" : "5a079105-21a6-11f0-95b5-d63b0a2cd18b",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-25 14:24:50"
+	},
+	{
+		"chat_session_id" : "1c08d9a7-21ae-11f0-9e9a-c24f15c624d2",
+		"summary_title" : "Belajar Pemasaran dengan NEXA",
+		"summary_content" : "Pengguna ingin belajar tentang pemasaran, dan NEXA, AI coach, merekomendasikan beberapa kursus yang ditawarkan oleh Learnext. Kursus yang direkomendasikan meliputi Dasar-Dasar Pemasaran Digital, Pemasaran Konten, dan Pemasaran Media Sosial. NEXA menanyakan apakah pengguna tertarik untuk menjelajahi salah satu kursus tersebut lebih dalam.",
+		"created_at" : "2025-04-25 15:21:24"
+	},
+	{
+		"chat_session_id" : "4f974d75-21ae-11f0-bf4c-7e3a96a570c5",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-25 15:22:23"
+	},
+	{
+		"chat_session_id" : "e8fb1ea3-21b2-11f0-9e9a-c24f15c624d2",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-25 15:55:15"
+	},
+	{
+		"chat_session_id" : "4971f849-21b3-11f0-9e9a-c24f15c624d2",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-25 15:58:13"
+	},
+	{
+		"chat_session_id" : "1d8bec7f-21cc-11f0-869e-a6d743bfabe7",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-25 18:55:10"
+	},
+	{
+		"chat_session_id" : "2fd89c94-21cc-11f0-9e9a-c24f15c624d2",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-25 18:56:38"
+	},
+	{
+		"chat_session_id" : "482ee71a-21cc-11f0-b7e5-32bfca24a905",
+		"summary_title" : "Diskusi Masalah Teknis dan Pelatihan Presentasi",
+		"summary_content" : "Percakapan ini melibatkan pengguna yang berinteraksi dengan NEXA, AI coach. Pengguna pertama kali diperkenalkan dengan NEXA yang menanyakan posisi dan tanggung jawab pengguna di tempat kerja. Kemudian, pengguna tampaknya ingin berlatih presentasi menggunakan mikrofon, dan NEXA menawarkan umpan balik. Selanjutnya, pengguna menyebutkan masalah teknis terkait dengan sesuatu yang seharusnya terbuka tetapi tertutup dan berwarna merah. NEXA mengidentifikasi ini sebagai masalah teknis dan meneruskannya ke tim dukungan Learnext, serta menawarkan kursus terkait masalah teknis atau komunikasi.",
+		"created_at" : "2025-04-25 18:56:55"
+	},
+	{
+		"chat_session_id" : "59c94225-21cc-11f0-b7e5-32bfca24a905",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-25 18:57:09"
+	},
+	{
+		"chat_session_id" : "34d05cae-2240-11f0-bf4c-7e3a96a570c5",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-26 08:46:59"
+	},
+	{
+		"chat_session_id" : "8b9911d5-2255-11f0-bf4c-7e3a96a570c5",
+		"summary_title" : "Diskusi tentang Pengembangan Keterampilan Teknis",
+		"summary_content" : "User berinteraksi dengan AI bernama NEXA untuk mendapatkan rekomendasi kursus yang dapat membantu dalam pengembangan keterampilan teknis. User tertarik pada kursus 'Dasar-Dasar Jaringan Komputer' yang ditawarkan oleh Learnext. AI memberikan informasi tentang isi kursus dan panduan langkah-langkah untuk mendaftar. User merasa cukup dengan informasi yang diberikan dan mengakhiri percakapan.",
+		"created_at" : "2025-04-26 11:22:46"
+	},
+	{
+		"chat_session_id" : "646866c5-231e-11f0-95b5-d63b0a2cd18b",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-27 11:16:55"
+	},
+	{
+		"chat_session_id" : "18cb0031-233b-11f0-b7e5-32bfca24a905",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-27 14:43:12"
+	},
+	{
+		"chat_session_id" : "625abba8-2355-11f0-869e-a6d743bfabe7",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-27 17:50:51"
+	},
+	{
+		"chat_session_id" : "fcebcfc0-236d-11f0-869e-a6d743bfabe7",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-27 20:47:16"
+	},
+	{
+		"chat_session_id" : "40d0418b-2374-11f0-9e9a-c24f15c624d2",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-27 21:31:15"
+	},
+	{
+		"chat_session_id" : "55ac10d8-2374-11f0-869e-a6d743bfabe7",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-27 21:31:50"
+	},
+	{
+		"chat_session_id" : "9679d2aa-239e-11f0-bf4c-7e3a96a570c5",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-28 02:34:32"
+	},
+	{
+		"chat_session_id" : "a4225137-239e-11f0-95b5-d63b0a2cd18b",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-28 02:34:45"
+	},
+	{
+		"chat_session_id" : "374869f8-23c9-11f0-869e-a6d743bfabe7",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-28 07:39:41"
+	},
+	{
+		"chat_session_id" : "a9495e7d-23d2-11f0-b048-0291eb85ff87",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-28 08:47:15"
+	},
+	{
+		"chat_session_id" : "b64bc336-23d2-11f0-8a5c-0291eb85ff87",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-28 08:47:54"
+	},
+	{
+		"chat_session_id" : "c2880c8a-23d4-11f0-bf4c-7e3a96a570c5",
+		"summary_title" : "Masalah Teknis dan Penawaran Kursus",
+		"summary_content" : "Pengguna mengalami masalah teknis yang telah diteruskan ke tim dukungan Learnext. Sementara menunggu, avatar menawarkan untuk menjelajahi kursus tentang manajemen digital atau topik terkait lainnya.",
+		"created_at" : "2025-04-28 09:02:15"
+	},
+	{
+		"chat_session_id" : "912e2b4f-23d9-11f0-87f6-0291eb85ff87",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-28 09:36:53"
+	},
+	{
+		"chat_session_id" : "bdb2d0ba-23e4-11f0-893e-0291eb85ff87",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-28 11:00:03"
+	},
+	{
+		"chat_session_id" : "92c54399-23e5-11f0-a1e0-0291eb85ff87",
+		"summary_title" : "Tips untuk Bekerja sebagai Akuntan",
+		"summary_content" : "Percakapan ini memberikan tips terstruktur bagi seseorang yang ingin bekerja sebagai akuntan. Tips tersebut mencakup memenuhi syarat pendidikan minimal S1 Akuntansi, mengikuti pelatihan terkait seperti perbendaharaan dan sistem akuntansi, membangun pengetahuan kerja tentang standar akuntansi, memperoleh pengalaman praktis, menguasai tugas teknis akuntansi, mengembangkan soft skills, dan menyiapkan fisik serta mental. Selain itu, disarankan untuk mengikuti kursus yang ditawarkan oleh GoKampus untuk mendukung langkah-langkah tersebut.",
+		"created_at" : "2025-04-28 11:07:04"
+	},
+	{
+		"chat_session_id" : "0642819b-23f3-11f0-bfb4-0291eb85ff87",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-28 12:39:13"
+	},
+	{
+		"chat_session_id" : "1f1d78a4-23f3-11f0-a909-0291eb85ff87",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-28 12:39:43"
+	},
+	{
+		"chat_session_id" : "420dbf02-23f3-11f0-a13c-0291eb85ff87",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-28 12:40:57"
+	},
+	{
+		"chat_session_id" : "8cbee995-23f6-11f0-be19-0291eb85ff87",
+		"summary_title" : "Penjelasan tentang ESDM",
+		"summary_content" : "Percakapan ini menjelaskan tentang ESDM, yang merupakan singkatan dari Energi dan Sumber Daya Mineral. Di Indonesia, ESDM merujuk pada Kementerian Energi dan Sumber Daya Mineral (KESDM), yang bertanggung jawab atas pengelolaan sektor energi dan sumber daya mineral. Tugas utama KESDM meliputi pengelolaan dan optimalisasi energi dan mineral, menjamin ketersediaan energi nasional, akselerasi pemanfaatan energi baru dan terbarukan, serta peningkatan pelayanan mitigasi bencana geologi. Visi KESDM adalah menjadi penggerak utama pembangunan nasional melalui pengelolaan ESDM yang optimal. Sasaran strategis KESDM termasuk meningkatkan kemandirian dan ketahanan energi nasional, optimalisasi pengelolaan energi dan mineral berkelanjutan, dan penguatan kapasitas organisasi di sektor ESDM.",
+		"created_at" : "2025-04-28 13:05:49"
+	},
+	{
+		"chat_session_id" : "beb63757-2405-11f0-95b5-d63b0a2cd18b",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-28 14:52:54"
+	},
+	{
+		"chat_session_id" : "3762afbc-2406-11f0-bf4c-7e3a96a570c5",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-28 14:56:15"
+	},
+	{
+		"chat_session_id" : "eac1f08f-2407-11f0-bf4c-7e3a96a570c5",
+		"summary_title" : "Percakapan tentang SEO dan Kursus Kuliner",
+		"summary_content" : "User bertanya kepada AI tentang tips SEO untuk marketing. AI merekomendasikan kursus 'Digital Marketing' di Learnext yang mencakup SEO dan menawarkan bantuan untuk membuat rencana pembelajaran. Kemudian, user bertanya tentang cara memasak nasi goreng, dan AI menawarkan kursus 'Culinary Business Management' di Learnext.",
+		"created_at" : "2025-04-28 15:10:36"
+	},
+	{
+		"chat_session_id" : "cd2f2075-2406-11f0-86a5-0291eb85ff87",
+		"summary_title" : "Tips Menjadi Akuntan dan Programmer",
+		"summary_content" : "Percakapan ini berisi tips untuk seseorang yang ingin menjadi akuntan dan programmer. Untuk menjadi akuntan, disarankan menempuh pendidikan minimal sarjana di bidang Akuntansi atau Manajemen, mengikuti pelatihan dan sertifikasi, menguasai pengetahuan kerja, mendapatkan pengalaman praktis, serta mengembangkan keterampilan teknis dan soft skills. Pembelajaran berkelanjutan juga penting. Untuk menjadi programmer, disarankan menempuh pendidikan minimal sarjana di bidang Teknik Informatika atau Ilmu Komputer, mengikuti pelatihan dan sertifikasi, menguasai pengetahuan kerja, membangun portofolio, serta mengembangkan keterampilan teknis dan soft skills. Pembelajaran berkelanjutan dan etika profesional juga ditekankan.",
+		"created_at" : "2025-04-28 15:14:50"
+	},
+	{
+		"chat_session_id" : "2ef09f99-2409-11f0-b63c-0291eb85ff87",
+		"summary_title" : "Tanggung Jawab Product Manager dan Penyelesaian Konflik di Tempat Kerja",
+		"summary_content" : "Percakapan ini membahas tanggung jawab utama seorang Product Manager, termasuk merumuskan visi dan strategi produk, mengelola siklus hidup produk, berkoordinasi lintas tim, dan memastikan kualitas produk. Selain itu, percakapan juga mencakup langkah-langkah untuk menyelesaikan konflik di lingkungan kerja, seperti mengidentifikasi sumber konflik, berkomunikasi secara terbuka, dan mencari solusi bersama. Avatar menawarkan kursus terkait di Learnext untuk mendalami keterampilan ini.",
+		"created_at" : "2025-04-28 15:18:52"
+	},
+	{
+		"chat_session_id" : "6450a3b6-2422-11f0-b7e5-32bfca24a905",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-04-28 18:17:47"
 	}
 ]

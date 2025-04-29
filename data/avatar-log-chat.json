@@ -4503,15 +4503,6 @@
 		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
 		"user_email" : "nida+kpk@gokampus.com",
 		"chat_orders" : 1,
-		"user" : "-",
-		"avatar" : "Halo! Saya GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karier dan memberikan panduan mengenai topik profesional yang relevan. Bagaimana saya bisa membantu Anda hari ini?",
-		"created_at" : "2025-01-03 09:31:36",
-		"updated_at" : "2025-01-03 09:31:36"
-	},
-	{
-		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
-		"user_email" : "nida+kpk@gokampus.com",
-		"chat_orders" : 2,
 		"user" : "Halo",
 		"avatar" : "Halo! Saya GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karier dan memberikan panduan mengenai topik profesional yang relevan. Bagaimana saya bisa membantu Anda hari ini?",
 		"created_at" : "2025-01-03 09:31:36",
@@ -4520,7 +4511,7 @@
 	{
 		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
 		"user_email" : "nida+kpk@gokampus.com",
-		"chat_orders" : 3,
+		"chat_orders" : 2,
 		"user" : "Bisamasih tahu sayajenisjenis gratifikasimenurut KPK",
 		"avatar" : "Saya fokus pada pengembangan karier dan pengetahuan profesional. Namun, saya bisa memberi tahu bahwa KPK mengklasifikasikan gratifikasi menjadi dua kategori utama, yaitu:\n\n1. Laporan Wajib (Mandatory Reports): Laporan yang harus disampaikan sesuai dengan ketentuan yang berlaku.\n2. Laporan Tidak Wajib (Non-Mandatory Reports): Laporan yang tidak diwajibkan namun tetap penting untuk dilaporkan.\n\nJika Anda ingin mendalami lebih lanjut tentang topik ini, saya sarankan untuk mencari kursus terkait di platform goKampus. Anda bisa mencari dengan kata kunci \"gratifikasi\" di kolom pencarian. Apakah ada hal lain yang ingin Anda ketahui?",
 		"created_at" : "2025-01-03 09:31:36",
@@ -4529,7 +4520,7 @@
 	{
 		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
 		"user_email" : "nida+kpk@gokampus.com",
-		"chat_orders" : 4,
+		"chat_orders" : 3,
 		"user" : "Apakah kamu mendengar saya?",
 		"avatar" : "Saya tidak dapat mendengar Anda, tetapi saya dapat membaca dan merespons pesan yang Anda kirimkan. Jika ada pertanyaan atau topik yang ingin Anda diskusikan terkait pengembangan karier atau isu profesional lainnya, silakan sampaikan! Saya di sini untuk membantu.",
 		"created_at" : "2025-01-03 09:31:36",
@@ -4538,9 +4529,18 @@
 	{
 		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
 		"user_email" : "nida+kpk@gokampus.com",
-		"chat_orders" : 5,
+		"chat_orders" : 4,
 		"user" : "Bisakah kamu pasti tahu saya jenisjenis gratifikasi menurut",
 		"avatar" : "Saya memahami bahwa Anda ingin mengetahui jenis-jenis gratifikasi menurut KPK. KPK mengklasifikasikan gratifikasi menjadi dua kategori utama:\n\n1. Laporan Wajib (Mandatory Reports): Ini adalah laporan yang harus disampaikan oleh pegawai negeri atau publik sesuai dengan ketentuan yang berlaku.\n2. Laporan Tidak Wajib (Non-Mandatory Reports): Ini adalah laporan yang tidak diwajibkan, tetapi tetap penting untuk dilaporkan guna menjaga integritas dan transparansi.\n\nJika Anda membutuhkan informasi lebih lanjut atau panduan mengenai topik lain yang berkaitan dengan pengembangan karier, silakan beri tahu saya!",
+		"created_at" : "2025-01-03 09:31:36",
+		"updated_at" : "2025-01-03 09:31:36"
+	},
+	{
+		"chat_session_id" : "8bef31e8-c979-11ef-930a-f2fdf1baaa8e",
+		"user_email" : "nida+kpk@gokampus.com",
+		"chat_orders" : 5,
+		"user" : "-",
+		"avatar" : "Halo! Saya GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karier dan memberikan panduan mengenai topik profesional yang relevan. Bagaimana saya bisa membantu Anda hari ini?",
 		"created_at" : "2025-01-03 09:31:36",
 		"updated_at" : "2025-01-03 09:31:36"
 	},
@@ -8967,15 +8967,6 @@
 		"chat_session_id" : "6dbca586-d3ad-11ef-8e4b-da02d57cbf88",
 		"user_email" : "coba@gokampus.com",
 		"chat_orders" : 1,
-		"user" : "Kalau serial numbernya hanya beda satu hurufapakah tidak apaapa?",
-		"avatar" : "Jika serial number fisik dan kardus hanya berbeda satu huruf, biasanya masih bisa diterima sebagai valid. Namun, sebaiknya Anda mengonfirmasi hal ini dengan pihak Pusat Gadai Indonesia untuk memastikan bahwa perbedaan tersebut tidak menjadi masalah dalam proses penggadaian.\n\nJika Anda memiliki pertanyaan lain terkait karir atau pengembangan profesional, saya siap membantu!",
-		"created_at" : "2025-01-16 09:03:02",
-		"updated_at" : "2025-01-16 09:03:02"
-	},
-	{
-		"chat_session_id" : "6dbca586-d3ad-11ef-8e4b-da02d57cbf88",
-		"user_email" : "coba@gokampus.com",
-		"chat_orders" : 2,
 		"user" : "-",
 		"avatar" : "Selamat siang, saya GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Bagaimana saya bisa membantu Anda hari ini?",
 		"created_at" : "2025-01-16 09:03:02",
@@ -8984,7 +8975,7 @@
 	{
 		"chat_session_id" : "6dbca586-d3ad-11ef-8e4b-da02d57cbf88",
 		"user_email" : "coba@gokampus.com",
-		"chat_orders" : 3,
+		"chat_orders" : 2,
 		"user" : "Halo,",
 		"avatar" : "Selamat siang, saya GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Bagaimana saya bisa membantu Anda hari ini?",
 		"created_at" : "2025-01-16 09:03:02",
@@ -8993,7 +8984,7 @@
 	{
 		"chat_session_id" : "6dbca586-d3ad-11ef-8e4b-da02d57cbf88",
 		"user_email" : "coba@gokampus.com",
-		"chat_orders" : 4,
+		"chat_orders" : 3,
 		"user" : "Halo",
 		"avatar" : "Selamat siang! Saya GAIA, goKampus AI Advisor. Apa yang bisa saya bantu untuk Anda hari ini terkait dengan pengembangan karir atau topik profesional?",
 		"created_at" : "2025-01-16 09:03:02",
@@ -9002,7 +8993,7 @@
 	{
 		"chat_session_id" : "6dbca586-d3ad-11ef-8e4b-da02d57cbf88",
 		"user_email" : "coba@gokampus.com",
-		"chat_orders" : 5,
+		"chat_orders" : 4,
 		"user" : "Iya saya mau tahuproduk apa saja yang bisa digadai di pusat Gada Indonesia",
 		"avatar" : "Saya fokus pada pengembangan karir dan pengetahuan terkait industri. Namun, informasi mengenai produk yang dapat digadai di Pusat Gadai Indonesia adalah sebagai berikut:\n\nAnda dapat menggadaikan barang-barang seperti:\n1. Emas\n2. Elektronik (misalnya laptop, ponsel, televisi)\n3. Kendaraan (mobil dan motor)\n\nJika Anda memerlukan informasi lebih lanjut mengenai layanan atau pengembangan karir Anda, jangan ragu untuk bertanya!",
 		"created_at" : "2025-01-16 09:03:02",
@@ -9011,7 +9002,7 @@
 	{
 		"chat_session_id" : "6dbca586-d3ad-11ef-8e4b-da02d57cbf88",
 		"user_email" : "coba@gokampus.com",
-		"chat_orders" : 6,
+		"chat_orders" : 5,
 		"user" : "Apakah laptopyang sudah mati masih bisa saya gadai di PGG?",
 		"avatar" : "Saya fokus pada pengembangan karir dan pengetahuan terkait industri. Namun, untuk pertanyaan mengenai syarat dan kebijakan Pusat Gadai Indonesia, saya sarankan untuk menghubungi layanan pelanggan mereka secara langsung atau mengunjungi situs resmi mereka. Jika Anda ingin mendiskusikan hal lain yang berkaitan dengan karir atau pengembangan profesional, saya dengan senang hati akan membantu!",
 		"created_at" : "2025-01-16 09:03:02",
@@ -9020,7 +9011,7 @@
 	{
 		"chat_session_id" : "6dbca586-d3ad-11ef-8e4b-da02d57cbf88",
 		"user_email" : "coba@gokampus.com",
-		"chat_orders" : 7,
+		"chat_orders" : 6,
 		"user" : "Bagaimana saya bisa tahuberapa ukuran laptop saya",
 		"avatar" : "Anda dapat mengetahui ukuran laptop Anda dengan langkah-langkah berikut:\n\n1. Pastikan laptop dalam keadaan layar menyala.\n2. Ukur bagian layar yang menyala dari ujung kanan atas sampai ujung kiri bawah menggunakan penggaris.\n\nBerikut adalah rentang ukuran dalam inci yang telah ditentukan:\n- Ukuran sepuluh inci hingga sebelas koma empat inci masuk dalam kategori sepuluh inci.\n- Ukuran sebelas koma lima inci hingga tiga belas koma empat inci masuk dalam kategori dua belas inci.\n- Ukuran lebih dari tiga belas koma lima inci masuk dalam kategori empat belas inci.\n\nJika Anda memerlukan informasi lebih lanjut atau ingin belajar lebih lanjut tentang topik lain, silakan beri tahu saya!",
 		"created_at" : "2025-01-16 09:03:02",
@@ -9029,9 +9020,18 @@
 	{
 		"chat_session_id" : "6dbca586-d3ad-11ef-8e4b-da02d57cbf88",
 		"user_email" : "coba@gokampus.com",
-		"chat_orders" : 8,
+		"chat_orders" : 7,
 		"user" : "Apabila saya mau menggadaikan elektronik,handphonetapi serial number dari fisik dan dikardusnya berbeda, apakah bisa?",
 		"avatar" : "Jika Anda ingin menggadaikan elektronik seperti handphone dan serial number antara fisik dan kardusnya berbeda, umumnya hal ini dapat menjadi masalah. Di Pusat Gadai Indonesia, penting untuk memastikan bahwa serial number yang tertera pada fisik dan kardus sesuai. \n\nNamun, jika serial number fisik dan kardus tidak cocok, saya sarankan untuk menghubungi pihak Pusat Gadai Indonesia secara langsung untuk mendapatkan klarifikasi dan prosedur lebih lanjut. Jika ada hal lain terkait pengembangan karir atau topik profesional yang ingin Anda diskusikan, silakan beri tahu saya!",
+		"created_at" : "2025-01-16 09:03:02",
+		"updated_at" : "2025-01-16 09:03:02"
+	},
+	{
+		"chat_session_id" : "6dbca586-d3ad-11ef-8e4b-da02d57cbf88",
+		"user_email" : "coba@gokampus.com",
+		"chat_orders" : 8,
+		"user" : "Kalau serial numbernya hanya beda satu hurufapakah tidak apaapa?",
+		"avatar" : "Jika serial number fisik dan kardus hanya berbeda satu huruf, biasanya masih bisa diterima sebagai valid. Namun, sebaiknya Anda mengonfirmasi hal ini dengan pihak Pusat Gadai Indonesia untuk memastikan bahwa perbedaan tersebut tidak menjadi masalah dalam proses penggadaian.\n\nJika Anda memiliki pertanyaan lain terkait karir atau pengembangan profesional, saya siap membantu!",
 		"created_at" : "2025-01-16 09:03:02",
 		"updated_at" : "2025-01-16 09:03:02"
 	},
@@ -15798,7 +15798,7 @@
 		"chat_session_id" : "ef179ff3-eff1-11ef-ac3a-6633f384d596",
 		"user_email" : "bnicorpu.test@gokampus.com",
 		"chat_orders" : 1,
-		"user" : "Bagaimana sejarah BNI?",
+		"user" : "-",
 		"avatar" : "BNI, atau Bank Negara Indonesia, didirikan pada tanggal lima Juli seribu sembilan ratus empat puluh enam. Pada awalnya, BNI berfungsi sebagai bank sentral dan bank komersial yang bertujuan untuk mendukung pengembangan ekonomi Indonesia. \n\nPada tahun seribu sembilan ratus sembilan puluh enam, BNI menjadi bank milik negara pertama yang go public dengan mencatatkan sahamnya di Bursa Efek Jakarta dan Bursa Efek Surabaya. Selama tahun seribu sembilan ratus enam puluhan, BNI berperan dalam meningkatkan ekonomi Indonesia dan mendukung pembangunan ekonomi nasional.\n\nPada tahun seribu sembilan ratus sembilan puluh dua, BNI bertransformasi menjadi perusahaan terbatas (PT Persero) sesuai dengan regulasi perbankan. Dalam perjalanan sejarahnya, BNI telah melakukan berbagai langkah strategis, termasuk recapitalization pada tahun seribu sembilan ratus sembilan puluh sembilan, divestasi saham pemerintah pada tahun dua ribu tujuh, dan penerbitan hak memesan efek terlebih dahulu pada tahun dua ribu sepuluh.\n\nBNI juga memiliki beberapa anak perusahaan, seperti BNI Multifinance, BNI Sekuritas, dan BNI Life Insurance, serta beroperasi secara internasional dengan membuka cabang pertamanya di Singapura pada tahun seribu sembilan ratus lima puluh lima.\n\nSaat ini, BNI adalah salah satu bank terbesar di Indonesia, dengan visi untuk menjadi lembaga keuangan yang unggul dalam pelayanan dan kinerja. Jika Anda ingin tahu lebih lanjut tentang aspek tertentu dari sejarah BNI, jangan ragu untuk bertanya!",
 		"created_at" : "2025-02-21 08:22:52",
 		"updated_at" : "2025-02-21 08:22:52"
@@ -15807,8 +15807,8 @@
 		"chat_session_id" : "ef179ff3-eff1-11ef-ac3a-6633f384d596",
 		"user_email" : "bnicorpu.test@gokampus.com",
 		"chat_orders" : 2,
-		"user" : "Apa saja produk BNI?",
-		"avatar" : "BNI menawarkan berbagai produk dan layanan keuangan yang dirancang untuk memenuhi kebutuhan nasabah dari berbagai segmen. Berikut adalah beberapa produk utama yang tersedia di BNI:\n\n1. Rekening Tabungan: BNI menyediakan berbagai jenis rekening tabungan, termasuk BNI Taplus, BNI Taplus Muda, dan BNI Taplus Bisnis.\n\n2. Pinjaman: BNI menawarkan berbagai produk pinjaman, seperti:\n   - BNI Griya (pinjaman perumahan)\n   - BNI Fleksi (pinjaman pribadi)\n   - BNI Griya Multiguna (pinjaman multi-tujuan)\n\n3. Kartu Kredit: BNI memiliki berbagai pilihan kartu kredit dengan manfaat dan fitur yang berbeda, sesuai dengan kebutuhan nasabah.\n\n4. Produk Investasi: BNI juga menawarkan produk investasi, termasuk reksa dana, produk treasury, dan investasi obligasi.\n\n5. Layanan Perbankan Digital: Melalui aplikasi BNI Mobile Banking, nasabah dapat melakukan berbagai transaksi perbankan secara online, seperti transfer, pembayaran, dan pengelolaan rekening.\n\n6. Layanan Bisnis: BNI menyediakan solusi perbankan untuk bisnis, termasuk pembiayaan usaha kecil dan menengah (UKM), manajemen kas, serta fasilitas trade finance.\n\n7. Asuransi: BNI menawarkan produk asuransi melalui BNI Life Insurance untuk memberikan perlindungan tambahan bagi nasabah.\n\n8. Layanan Wealth Management: BNI Emerald adalah layanan manajemen kekayaan yang menawarkan solusi perbankan dan investasi yang dipersonalisasi.\n\nJika Anda ingin mengeksplorasi lebih lanjut tentang salah satu produk atau layanan tertentu, atau mencari informasi tambahan, silakan beri tahu saya!",
+		"user" : "Bagaimana sejarah BNI?",
+		"avatar" : "BNI, atau Bank Negara Indonesia, didirikan pada tanggal lima Juli seribu sembilan ratus empat puluh enam. Pada awalnya, BNI berfungsi sebagai bank sentral dan bank komersial yang bertujuan untuk mendukung pengembangan ekonomi Indonesia. \n\nPada tahun seribu sembilan ratus sembilan puluh enam, BNI menjadi bank milik negara pertama yang go public dengan mencatatkan sahamnya di Bursa Efek Jakarta dan Bursa Efek Surabaya. Selama tahun seribu sembilan ratus enam puluhan, BNI berperan dalam meningkatkan ekonomi Indonesia dan mendukung pembangunan ekonomi nasional.\n\nPada tahun seribu sembilan ratus sembilan puluh dua, BNI bertransformasi menjadi perusahaan terbatas (PT Persero) sesuai dengan regulasi perbankan. Dalam perjalanan sejarahnya, BNI telah melakukan berbagai langkah strategis, termasuk recapitalization pada tahun seribu sembilan ratus sembilan puluh sembilan, divestasi saham pemerintah pada tahun dua ribu tujuh, dan penerbitan hak memesan efek terlebih dahulu pada tahun dua ribu sepuluh.\n\nBNI juga memiliki beberapa anak perusahaan, seperti BNI Multifinance, BNI Sekuritas, dan BNI Life Insurance, serta beroperasi secara internasional dengan membuka cabang pertamanya di Singapura pada tahun seribu sembilan ratus lima puluh lima.\n\nSaat ini, BNI adalah salah satu bank terbesar di Indonesia, dengan visi untuk menjadi lembaga keuangan yang unggul dalam pelayanan dan kinerja. Jika Anda ingin tahu lebih lanjut tentang aspek tertentu dari sejarah BNI, jangan ragu untuk bertanya!",
 		"created_at" : "2025-02-21 08:22:52",
 		"updated_at" : "2025-02-21 08:22:52"
 	},
@@ -15825,8 +15825,8 @@
 		"chat_session_id" : "ef179ff3-eff1-11ef-ac3a-6633f384d596",
 		"user_email" : "bnicorpu.test@gokampus.com",
 		"chat_orders" : 4,
-		"user" : "-",
-		"avatar" : "BNI, atau Bank Negara Indonesia, didirikan pada tanggal lima Juli seribu sembilan ratus empat puluh enam. Pada awalnya, BNI berfungsi sebagai bank sentral dan bank komersial yang bertujuan untuk mendukung pengembangan ekonomi Indonesia. \n\nPada tahun seribu sembilan ratus sembilan puluh enam, BNI menjadi bank milik negara pertama yang go public dengan mencatatkan sahamnya di Bursa Efek Jakarta dan Bursa Efek Surabaya. Selama tahun seribu sembilan ratus enam puluhan, BNI berperan dalam meningkatkan ekonomi Indonesia dan mendukung pembangunan ekonomi nasional.\n\nPada tahun seribu sembilan ratus sembilan puluh dua, BNI bertransformasi menjadi perusahaan terbatas (PT Persero) sesuai dengan regulasi perbankan. Dalam perjalanan sejarahnya, BNI telah melakukan berbagai langkah strategis, termasuk recapitalization pada tahun seribu sembilan ratus sembilan puluh sembilan, divestasi saham pemerintah pada tahun dua ribu tujuh, dan penerbitan hak memesan efek terlebih dahulu pada tahun dua ribu sepuluh.\n\nBNI juga memiliki beberapa anak perusahaan, seperti BNI Multifinance, BNI Sekuritas, dan BNI Life Insurance, serta beroperasi secara internasional dengan membuka cabang pertamanya di Singapura pada tahun seribu sembilan ratus lima puluh lima.\n\nSaat ini, BNI adalah salah satu bank terbesar di Indonesia, dengan visi untuk menjadi lembaga keuangan yang unggul dalam pelayanan dan kinerja. Jika Anda ingin tahu lebih lanjut tentang aspek tertentu dari sejarah BNI, jangan ragu untuk bertanya!",
+		"user" : "Apa saja produk BNI?",
+		"avatar" : "BNI menawarkan berbagai produk dan layanan keuangan yang dirancang untuk memenuhi kebutuhan nasabah dari berbagai segmen. Berikut adalah beberapa produk utama yang tersedia di BNI:\n\n1. Rekening Tabungan: BNI menyediakan berbagai jenis rekening tabungan, termasuk BNI Taplus, BNI Taplus Muda, dan BNI Taplus Bisnis.\n\n2. Pinjaman: BNI menawarkan berbagai produk pinjaman, seperti:\n   - BNI Griya (pinjaman perumahan)\n   - BNI Fleksi (pinjaman pribadi)\n   - BNI Griya Multiguna (pinjaman multi-tujuan)\n\n3. Kartu Kredit: BNI memiliki berbagai pilihan kartu kredit dengan manfaat dan fitur yang berbeda, sesuai dengan kebutuhan nasabah.\n\n4. Produk Investasi: BNI juga menawarkan produk investasi, termasuk reksa dana, produk treasury, dan investasi obligasi.\n\n5. Layanan Perbankan Digital: Melalui aplikasi BNI Mobile Banking, nasabah dapat melakukan berbagai transaksi perbankan secara online, seperti transfer, pembayaran, dan pengelolaan rekening.\n\n6. Layanan Bisnis: BNI menyediakan solusi perbankan untuk bisnis, termasuk pembiayaan usaha kecil dan menengah (UKM), manajemen kas, serta fasilitas trade finance.\n\n7. Asuransi: BNI menawarkan produk asuransi melalui BNI Life Insurance untuk memberikan perlindungan tambahan bagi nasabah.\n\n8. Layanan Wealth Management: BNI Emerald adalah layanan manajemen kekayaan yang menawarkan solusi perbankan dan investasi yang dipersonalisasi.\n\nJika Anda ingin mengeksplorasi lebih lanjut tentang salah satu produk atau layanan tertentu, atau mencari informasi tambahan, silakan beri tahu saya!",
 		"created_at" : "2025-02-21 08:22:52",
 		"updated_at" : "2025-02-21 08:22:52"
 	},
@@ -20172,159 +20172,6 @@
 		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
 		"user_email" : "6281380762004@alfamart.learner",
 		"chat_orders" : 1,
-		"user" : "-",
-		"avatar" : "Saya adalah GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 2,
-		"user" : "Cek,Inicek",
-		"avatar" : "Saya adalah GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 3,
-		"user" : "tolong carikanarti",
-		"avatar" : "Saya GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah ada pertanyaan atau topik tertentu yang ingin Anda diskusikan terkait karir atau pengembangan profesional Anda?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 4,
-		"user" : "tolong carikanarti",
-		"avatar" : "Saya mengSaya mengkhususkhususkan dirikan diri dalam membantu dalam membantu profesional dengan profesional dengan pengetahuan terkait kar pengetahuanir dan terkait kar industri.ier dan Apakah industri. Apakah ada hal ada yang spesifik yang ingin bisa saya bantu terkait Anda ket dengan pengahui atauembangan kar diskusir Andaikan terkait atau karir topik profesional atau pengembangan profesional lainnya?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 5,
-		"user" : "apa yang di bahas",
-		"avatar" : "Anda?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 6,
-		"user" : "dan bisnis ritel",
-		"avatar" : "Saya dapat membantu Anda dengan berbagai topik terkait pengembangan karir, termasuk strategi pengembangan karir, keterampilan industri tertentu (seperti keuangan, teknologi, dan pemasaranDalam konteks bisnis), keter ritelampilan lun, terdapatak ( beberapa aspekseperti penting yang komunikasi dan perlu diper manajemenhatikan untuk waktu), pengembangan serta kesehatan mental di dan pert tempat kerjaumbuhan karir Anda. Ap. Berikut adalah beberapaakah ada poin yang topik dapat membantu:\n\n1 tertentu yang ingin Anda bahas. Pengetahuan lebih lanjut?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 7,
-		"user" : "dimasukkan Bisnis ritel",
-		"avatar" : "Produk: Memahami berbagai produk yang dijual dalam ritel sangat penting. Ini termasuk mengetahui spesifikasi, manfaat, dan kebutuhan pelanggan.\n\n2. Keterampilan Layanan Pelanggan: Kemampuan untuk memberikan layanan pelanggan yang luar biasa akan membedakan Anda dari pesaing. Ini meliputiBisnis ritel adalah sektor yang sangat penting dalam ekonomi, terutama dalam menyediakan barang dan layanan kepada konsumen. Dalam konteks pengembangan karir di bisnis ritel, beberapa area yang bisa Anda fokuskan meliputi:\n\n1. Manajemen Ritel: Mempelajari keterampilan manajerial yang efisien untuk mengelola toko ritel, termasuk pengelolaan inventaris, penjualan, dan layanan pelanggan.\n\n2. Pemasaran Ritel: Mengembangkan strategi pemasaran yang efektif untuk menarik pelanggan, termasuk penggunaan media sosial dan promosi.\n\n3. Pengalaman Pelanggan: Memahami pentingnya menciptakan pengalaman berbelanja yang positif bagi pelanggan, yang dapat meningkatkan loyalitas dan penjualan.\n\n4. Analisis Data: Belajar bagaimana menggunakan data untuk memahami tren konsumen dan meningkatkan kinerja bisnis.\n\n5. E-commerce: Memahami bagaimana bisnis ritel bertransisi ke platform online dan strategi yang diperlukan untuk berhasil dalam lingkungan digital.\n\nJika Anda ingin mendalami topik ini lebih lanjut, goKampus menawarkan berbagai kursus yang dapat membantu Anda. Anda bisa mencari kata kunci seperti \"manajemen ritel\" atau \"pemasaran ritel\" di platform goKampus untuk menemukan kursus yang relevan. Apakah ada aspek tertentu dari bisnis ritel yang ingin Anda bahas lebih lanjut?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 8,
-		"user" : "di restasinya",
-		"avatar" : "komunikasi yang efektif, kemampuan untuk menangani keluhan, dan menjalin hubungan baik dengan pelanggan.\n\n3. Strategi Pemasaran: Pengetahuan tentang strategi pemasaran yang efektif untuk menarik pelanggan ke toko atau platform online Anda sangat berharga. Ini mencakup promosi, diskon, dan penggunaan media sosial untuk pemasaran.\n\n4. Manajemen Inventaris: Memahami bagaimana mengelola inventaris dengan efisien dapat membantu mengurangi biaya dan meningkatkan kepuasan pelanggan. Ini termasuk pengendalian stok dan penggunaan perangkat lunak manajemen inventaris.\n\n5. Analisis Data: Kemampuan untuk menganalisis data penjualan dan perilaku pelanggan dapat memberikan wawasan berharga untuk pengambilan keputusan strategis.\n\nJika Anda ingin memperdalam pengetahuan Anda dalam salah satu area ini atau topik terkait lainnya, saya dapat merekomendasikan kursus di goKampus. Anda bisa mencari dengan kata kunci seperti \"bisnis ritel\" atau \"manajemen layanan pelanggan\" di platform goKampus untuk menemukan materi yang relevan. Apakah ada aspek tertentu yang ingin Anda bahas lebih lanjut?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 9,
-		"user" : "ya? Satu miliar",
-		"avatar" : "Dalam konteks restoran, ada beberapa aspek penting yang perlu diperhatikan untuk kesuksesan bisnis dan pengembangan karir. Berikut adalah beberapa poin yang relevan:\n\n1. Pengelolaan Operasional: Memahami bagaimana mengelola operasional restoran dengan efisien, termasuk manajemen dapur, layanan meja, dan pengelolaan stok bahan makanan.\n\n2. Layanan Pelanggan: Memberikan pengalaman pelanggan yang luar biasa adalah kunci dalam industri restoran. Keterampilan komunikasi, penyelesaian masalah, dan kemampuan untuk memahami kebutuhan pelanggan sangat penting.\n\n3. Kreativitas Menu: Mengembangkan menu yang menarik dan sesuai dengan tren pasar. Ini juga mencakup pemahaman tentang makanan sehat dan keberlanjutan.\n\n4. Pemasaran dan Promosi: Mampu mempromosikan restoran Anda melalui media sosial, kampanye email, dan acara khusus dapat membantu menarik pelanggan baru.\n\n5. Manajemen Keuangan: Memahami aspek keuangan dari restoran, termasuk penganggaran, pengendalian biaya, dan analisis profitabilitas.\n\nJika Anda ingin mendalami salah satu topik ini atau topik lain yang terkait dengan restoran, saya dapat merekomendasikan kursus di goKampus. Anda bisa mencari dengan kata kunci seperti \"manajemen restoran\" atau \"layanan pelanggan di restoran\" di platform goKampus untuk menemukan materi yang relevan. Apakah ada topik khusus yang ingin Anda bahas lebih lanjut?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 10,
-		"user" : "investasinya1 miliar",
-		"avatar" : "Saya mengkhususkan diri dalam membantu profesional dengan pengetahuan terkait karDalam konteier dan industri.ks investasi Apakah di bisnis ada yang ritel bisa saya, investasi bantu terkait sebesar satu dengan peng miliarembangan karir Anda atau topik profesional rupiah dapat digunakan untuk berbagai hal. Berikut adalah beberapa area investasi yang mungkin relevan:\n\n lainnya1. Pemb? Jikaukaan Toko Ritel: Invest Anda menyebutkan satu miliar, apakah itu terkait dengan pendanaan, investasi, atau aspekasi ini lain dalam dapat digunakan bisnis? Moh untuk membukaon jelaskan toko fis lebih lanjutik, termasuk biaya agar saya sewa dapat memberikan informasi yang, renov lebih tepat.asi, dan pengadaan inventaris.\n\n2. E-commerce: Uang tersebut dapat dialokasikan untuk mengembangkan platform e-commerce, termasuk website, aplikasi, dan pemasaran digital",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 11,
-		"user" : "karena",
-		"avatar" : ".\n\n3. Pemasaran dan Promosi: Investasi dalam kampanye pemasaran untuk meningkatkan visibilitas merek dan menarik pelanggan baru, baik melalui media sosial, iklan online, atau promosi lokal.\n\n4. Teknologi dan Sistem Manajemen: Menerapkan sistem manajemen ritel dan teknologi yang dapat membantu dalam pengelolaan inventaris, analisis data penjualan, dan pengalaman pelanggan.\n\n5. Pelatihan Karyawan: Menginvestasikan dalam pelatihan dan pengembangan karyawan untuk meningkatkan layanan pelanggan dan keterampilan penjualan.\n\nJika Anda ingin mengeksplorasi lebih jauh tentang investasi di bidang ritel atau membutuhkan panduan lebih lanjut, saya dapat merekomendasikan kursus terkait di goKampus. Anda bisa mencari kata kunci seperti \"investasi ritel\" untuk menemukan materi yang relevan. Apakah ada hal lain yang ingin Anda diskusikan?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 12,
-		"user" : "ini lebih gampang",
-		"avatar" : "Sepertinya Anda ingin menjelaskan lebih lanjut atau memberikan konteks tambahan terkait investasi di bisnis ritel. Jika ada pertanyaan spesifik atau informasi tambahan yang ingin Anda bahas, silakan beri tahu saya. Saya di sini untuk membantu Anda dengan semua yang berkaitan dengan pengembangan karir dan profesional. Apakah ada hal tertentu yang ingin Anda sampaikan?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 13,
-		"user" : "bisa diterangkan terkait dengan Sosek",
-		"avatar" : "Saya memahami bahwa Anda mungkin mencari informasi yang lebih sederhana atau langsung mengenai topik tertentu. Jika Anda memiliki pertanyaan spesifik atau ingin mendiskusikan sesuatu yang lebih mudah dipahami terkait investasi di bisnis ritel atau topik profesional lainnya, silakan beri tahu saya. Saya di sini untuk membantu Anda!",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 14,
-		"user" : "bisa diterangkan terkait dengan Sosech",
-		"avatar" : "\"Sosek\" biasanya merujuk pada istilah \"Sosial dan Ekonomi,\" yang mencakup berbagai aspek terkait interaksi sosial dan kondisi ekonomi dalam masyarakat. Dalam konteks bisnis ritel, berikut adalah beberapa poin yang dapat diterangkan:\n\n1. PengaruhSaya meng Sosialkhusus:kan diri Bisnis dalam membantu ritel profesional dengan pengetahuan sangat dip terkait karengaruhiier dan oleh tren sosial, industri. Namun, seperti perubahan saya tidak preferensi memiliki informasi spesifik tentang \"Sose konsumen, gaya hidup, dan perilch\".aku bel Jika \"anja. MemSosech\" adalah istilah yangahami faktor-faktor sosial ini penting untuk meng terkait dengan industri tertentuembangkan strategi pemasaran atau konsep yang efektif profesional, mohon.\n\n2.  berikanKond konteksisi Ek atau detail lebih lanjutonomi.\n\nAp: Kakah Anda ingin membinerja bisnisahas topik lain ritel yang relevan dengan pengembangan juga dip karirengaruhi oleh kondisi ekonomi, Anda atau seperti inflasi, tingkat pengangguran industri tertentu, dan? Saya di sini daya beli masyarakat. untuk membantu!",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 15,
-		"user" : "yang",
-		"avatar" : "Dalam situasi ekonomi yang baik, konsumen cenderung lebih banyak berbelanja, sementara dalam kondisi buruk, mereka mungkin lebih berhati-hati dalam pengeluaran.\n\n3. Tanggung Jawab Sosial Perusahaan: Banyak perusahaan ritel kini berfokus pada tanggung jawab sosial, yang berarti mereka berusaha untuk memberikan dampak positif pada masyarakat. Ini bisa berupa praktik berkelanjutan, penyediaan lapangan kerja, atau kontribusi pada proyek komunitas.\n\n4. Tren Pemasaran Sosial: Pemasaran yang berfokus pada nilai-nilai sosial dan lingkungan semakin populer. Perusahaan ritel dapat menarik pelanggan dengan menunjukkan komitmen mereka terhadap isu-isu sosial, seperti keberlanjutan atau dukungan terhadap komunitas lokal.\n\nJika Anda ingin mendalami lebih lanjut tentang aspek tertentu dari sosial dan ekonomi dalam bisnis ritel, saya dapat merekomendasikan kursus yang relevan di goKampus. Silakan beri tahu saya jika ada topik spesifik yang ingin Anda eksplorasi lebih dalam!",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 16,
-		"user" : "besok ini jam itu",
-		"avatar" : "Sepertinya Anda ingin memberikan penjelasan lebih lanjut atau menanyakan sesuatu yang lebih spesifik terkait \"Sosek\". Jika Anda dapat memberikan detail lebih lanjut tentang apa yang Anda maksud dengan \"yang,\" saya akan lebih mudah membantu Anda. Apakah Anda ingin menjelaskan lebih lanjut tentang aspek sosial dan ekonomi tertentu, atau ada topik lain yang ingin Anda diskusikan? Silakan beri tahu saya!",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 17,
-		"user" : "ya ini klien kalau dari siapa ini tuh",
-		"avatar" : "Saya mengkhususkan diri dalam membantu profesional dengan pengetahuan terkait karir dan industri. Jika Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda, silakan beri tahu saya. Apakah ada hal spesifik yang ingin Anda bahas?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 18,
 		"user" : "bagus sih tapi investasinya bagus,bagus sih investasinya bagus",
 		"avatar" : "Sepertinya Anda merujuk kepada klien atau perusahaan tertentu yang mungkin terkait dengan bisnis atau industri profesional. Namun, saya tidak memiliki informasi spesifik mengenai \"Sosech\" sebagai klien atau perusahaan.\n\nJika Anda dapat memberikan lebih banyak konteks atau detail tentang \"Sosech\" dan apa yang Anda ingin ketahui, saya akan berusaha membantu Anda dengan informasi yang relevan untuk pengembangan karir atau industri yang bersangkutan. Apakah ada aspek tertentu yang ingin Anda diskusikan?",
 		"created_at" : "2025-03-25 13:54:06",
@@ -20333,7 +20180,7 @@
 	{
 		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
 		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 19,
+		"chat_orders" : 2,
 		"user" : "1MSatuN",
 		"avatar" : "TerkSaya senait denganang mend investasi,engar bahwa terdapat beberapa Anda melihat potensi yang baik aspek yang perlu dipertimb dalam investasiangkan untuk, terutama memastikan bahwa di bidang bisnis r keputusan investasi Anda baikitel. dan ber Investasikelanj yang tepatutan. dapat membawa banyak manfaat Berikut adalah, seperti beberapa poin penting:\n\n peningkatan pendapatan1. Anal, pertumbuhan bisnis, danisis Pas peluang untuk memperluas jaringan.\n\nJika Anda tertar: Memahami trenarik untuk mengeksplorasi lebih jauh tentang pasar, permintaan, dan kondisi ekonomi strategi investasi dapat membantu Anda membuat yang efektif keputusan investasi yang lebih baik., tren pasar, Lakukan riset atau keter mengenai sektor atau industriampilan yang diperlukan untuk sukses di yang ingin Anda masuki.\n\n industri ritel,2. saya Divers dapat memberikanifikasi Portofolio informasi lebih lanjut atau merekomendas: Investasi yang baik harus mencikan kursus terkaitakup diversifikasi di goKampus untuk meng. Apurangi risiko. Janganakah ada area spesifik dalam investasi ritel yang ingin Anda ketahui lebih lanjut? mengandalkan satu jenis investasi; pertimbangkan untuk berinvestasi di berbagai aset seperti saham, obligasi, dan properti.\n\n3. Manajemen Risiko: Identifikasi risiko yang terkait dengan investasi Anda dan cari cara untuk mengelolanya. Ini bisa termasuk penggunaan instrumen hedging atau asuransi.\n\n4. Konsultasi dengan Ahli: Jika Anda tidak yakin tentang investasi tertentu, pertimbangkan untuk berkonsultasi dengan penasihat keuangan atau profesional investasi.\n\n5. Pendidikan Berkelanjutan: Mengikuti kursus atau pelatihan tentang investasi dapat membantu Anda meningkatkan pengetahuan dan keterampilan dalam membuat keputusan investasi yang lebih baik.\n\nJika Anda tertarik untuk mendalami lebih lanjut tentang investasi, saya dapat merekomendasikan kursus di goKampus yang relevan dengan topik ini. Anda bisa mencari dengan kata kunci seperti \"investasi\" atau \"manajemen keuangan",
 		"created_at" : "2025-03-25 13:54:06",
@@ -20342,7 +20189,7 @@
 	{
 		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
 		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 20,
+		"chat_orders" : 3,
 		"user" : "1M1M",
 		"avatar" : "\" di platform goKampus. Apakah ada aspek khusus dari investasi yang ingin Anda diskusikan lebih lanjut?",
 		"created_at" : "2025-03-25 13:54:06",
@@ -20351,7 +20198,7 @@
 	{
 		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
 		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 21,
+		"chat_orders" : 4,
 		"user" : "bisa di bisa di join ini sudah apa",
 		"avatar" : "Sepertinya Anda mengacu pada istilah \"1MSatuN.\" Namun, saya tidak memiliki informasi spesifik tentang istilah tersebut dalam konteks bisnis atau investasi. Jika Anda dapat memberikan sedikit lebih banyak konteks atau menjelaskan apa yang Anda maksud, saya akan lebih mampuSaya meng membantu.\n\nApakahkhusus Anda mengacu pada suatu programkan diri dalam membantu investasi, profesional dengan pengetahuan terkait kar produk,ier dan industri. Namun, atau konsep saya perlu klarifikasi lebih lanjut mengenai istil tertentu?ah \"1M1M\". Ap Silakanakah Anda merujuk pada investasi satu beri tahu miliar atau topik lainnya yang spes saya,ifik?\n\nMohon berikan lebih banyak konteks dan saya agar saya dapat memberikan informasi yang relevan akan ber dan bermanfaat bagi Anda. Apakah adausaha memberikan topik profesional lain yang ingin Anda diskusikan? informasi yang lebih relevan!",
 		"created_at" : "2025-03-25 13:54:06",
@@ -20360,9 +20207,162 @@
 	{
 		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
 		"user_email" : "6281380762004@alfamart.learner",
-		"chat_orders" : 22,
+		"chat_orders" : 5,
 		"user" : "bisa di bisa di join ini",
 		"avatar" : "Sepertinya Anda berbicara tentang bergabung dalam suatu program atau kegiatan tertentuSepert. Namuninya Anda meruj, sayauk pada memerlukan sebuah program atau kesempatan sedikit lebih banyak konte yang mungkin melibatkanks untuk kolabor memahami denganasi atau jelas apa keanggotaan yang Anda maksud dalam suatu organisasi atau proyek.. \n\n Namun,Jika Anda berbicara tentang saya mem bergabungerlukan lebih banyak informasi dalam program untuk memberikan jawaban investasi, yang tepat bisnis r.\n\nJikaitel, Anda bisa memberikan konteks lebih atau kursus peng lanjut tentangembangan profesional \"join, saya dapat memberikan ini\" informasi lebih dan apa lanjut atau yang Anda maksud membantu Anda menemukan sumber, saya daya yang akan ber tepat.usaha memberikan \n\nSil informasi yang relevanakan beri. Ap tahu sayaakah ini terkait dengan lebih lanjut peluang kerja tentang apa yang ingin, investasi Anda ikuti atau, atau bergabung, dan kolaborasi dalam bisnis? Saya di sini untuk membantu Anda! saya akan dengan senang hati membantu!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 6,
+		"user" : "-",
+		"avatar" : "Saya adalah GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 7,
+		"user" : "Cek,Inicek",
+		"avatar" : "Saya adalah GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 8,
+		"user" : "tolong carikanarti",
+		"avatar" : "Saya GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah ada pertanyaan atau topik tertentu yang ingin Anda diskusikan terkait karir atau pengembangan profesional Anda?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 9,
+		"user" : "tolong carikanarti",
+		"avatar" : "Saya mengSaya mengkhususkhususkan dirikan diri dalam membantu dalam membantu profesional dengan profesional dengan pengetahuan terkait kar pengetahuanir dan terkait kar industri.ier dan Apakah industri. Apakah ada hal ada yang spesifik yang ingin bisa saya bantu terkait Anda ket dengan pengahui atauembangan kar diskusir Andaikan terkait atau karir topik profesional atau pengembangan profesional lainnya?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 10,
+		"user" : "apa yang di bahas",
+		"avatar" : "Anda?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 11,
+		"user" : "dan bisnis ritel",
+		"avatar" : "Saya dapat membantu Anda dengan berbagai topik terkait pengembangan karir, termasuk strategi pengembangan karir, keterampilan industri tertentu (seperti keuangan, teknologi, dan pemasaranDalam konteks bisnis), keter ritelampilan lun, terdapatak ( beberapa aspekseperti penting yang komunikasi dan perlu diper manajemenhatikan untuk waktu), pengembangan serta kesehatan mental di dan pert tempat kerjaumbuhan karir Anda. Ap. Berikut adalah beberapaakah ada poin yang topik dapat membantu:\n\n1 tertentu yang ingin Anda bahas. Pengetahuan lebih lanjut?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 12,
+		"user" : "dimasukkan Bisnis ritel",
+		"avatar" : "Produk: Memahami berbagai produk yang dijual dalam ritel sangat penting. Ini termasuk mengetahui spesifikasi, manfaat, dan kebutuhan pelanggan.\n\n2. Keterampilan Layanan Pelanggan: Kemampuan untuk memberikan layanan pelanggan yang luar biasa akan membedakan Anda dari pesaing. Ini meliputiBisnis ritel adalah sektor yang sangat penting dalam ekonomi, terutama dalam menyediakan barang dan layanan kepada konsumen. Dalam konteks pengembangan karir di bisnis ritel, beberapa area yang bisa Anda fokuskan meliputi:\n\n1. Manajemen Ritel: Mempelajari keterampilan manajerial yang efisien untuk mengelola toko ritel, termasuk pengelolaan inventaris, penjualan, dan layanan pelanggan.\n\n2. Pemasaran Ritel: Mengembangkan strategi pemasaran yang efektif untuk menarik pelanggan, termasuk penggunaan media sosial dan promosi.\n\n3. Pengalaman Pelanggan: Memahami pentingnya menciptakan pengalaman berbelanja yang positif bagi pelanggan, yang dapat meningkatkan loyalitas dan penjualan.\n\n4. Analisis Data: Belajar bagaimana menggunakan data untuk memahami tren konsumen dan meningkatkan kinerja bisnis.\n\n5. E-commerce: Memahami bagaimana bisnis ritel bertransisi ke platform online dan strategi yang diperlukan untuk berhasil dalam lingkungan digital.\n\nJika Anda ingin mendalami topik ini lebih lanjut, goKampus menawarkan berbagai kursus yang dapat membantu Anda. Anda bisa mencari kata kunci seperti \"manajemen ritel\" atau \"pemasaran ritel\" di platform goKampus untuk menemukan kursus yang relevan. Apakah ada aspek tertentu dari bisnis ritel yang ingin Anda bahas lebih lanjut?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 13,
+		"user" : "di restasinya",
+		"avatar" : "komunikasi yang efektif, kemampuan untuk menangani keluhan, dan menjalin hubungan baik dengan pelanggan.\n\n3. Strategi Pemasaran: Pengetahuan tentang strategi pemasaran yang efektif untuk menarik pelanggan ke toko atau platform online Anda sangat berharga. Ini mencakup promosi, diskon, dan penggunaan media sosial untuk pemasaran.\n\n4. Manajemen Inventaris: Memahami bagaimana mengelola inventaris dengan efisien dapat membantu mengurangi biaya dan meningkatkan kepuasan pelanggan. Ini termasuk pengendalian stok dan penggunaan perangkat lunak manajemen inventaris.\n\n5. Analisis Data: Kemampuan untuk menganalisis data penjualan dan perilaku pelanggan dapat memberikan wawasan berharga untuk pengambilan keputusan strategis.\n\nJika Anda ingin memperdalam pengetahuan Anda dalam salah satu area ini atau topik terkait lainnya, saya dapat merekomendasikan kursus di goKampus. Anda bisa mencari dengan kata kunci seperti \"bisnis ritel\" atau \"manajemen layanan pelanggan\" di platform goKampus untuk menemukan materi yang relevan. Apakah ada aspek tertentu yang ingin Anda bahas lebih lanjut?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 14,
+		"user" : "ya? Satu miliar",
+		"avatar" : "Dalam konteks restoran, ada beberapa aspek penting yang perlu diperhatikan untuk kesuksesan bisnis dan pengembangan karir. Berikut adalah beberapa poin yang relevan:\n\n1. Pengelolaan Operasional: Memahami bagaimana mengelola operasional restoran dengan efisien, termasuk manajemen dapur, layanan meja, dan pengelolaan stok bahan makanan.\n\n2. Layanan Pelanggan: Memberikan pengalaman pelanggan yang luar biasa adalah kunci dalam industri restoran. Keterampilan komunikasi, penyelesaian masalah, dan kemampuan untuk memahami kebutuhan pelanggan sangat penting.\n\n3. Kreativitas Menu: Mengembangkan menu yang menarik dan sesuai dengan tren pasar. Ini juga mencakup pemahaman tentang makanan sehat dan keberlanjutan.\n\n4. Pemasaran dan Promosi: Mampu mempromosikan restoran Anda melalui media sosial, kampanye email, dan acara khusus dapat membantu menarik pelanggan baru.\n\n5. Manajemen Keuangan: Memahami aspek keuangan dari restoran, termasuk penganggaran, pengendalian biaya, dan analisis profitabilitas.\n\nJika Anda ingin mendalami salah satu topik ini atau topik lain yang terkait dengan restoran, saya dapat merekomendasikan kursus di goKampus. Anda bisa mencari dengan kata kunci seperti \"manajemen restoran\" atau \"layanan pelanggan di restoran\" di platform goKampus untuk menemukan materi yang relevan. Apakah ada topik khusus yang ingin Anda bahas lebih lanjut?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 15,
+		"user" : "investasinya1 miliar",
+		"avatar" : "Saya mengkhususkan diri dalam membantu profesional dengan pengetahuan terkait karDalam konteier dan industri.ks investasi Apakah di bisnis ada yang ritel bisa saya, investasi bantu terkait sebesar satu dengan peng miliarembangan karir Anda atau topik profesional rupiah dapat digunakan untuk berbagai hal. Berikut adalah beberapa area investasi yang mungkin relevan:\n\n lainnya1. Pemb? Jikaukaan Toko Ritel: Invest Anda menyebutkan satu miliar, apakah itu terkait dengan pendanaan, investasi, atau aspekasi ini lain dalam dapat digunakan bisnis? Moh untuk membukaon jelaskan toko fis lebih lanjutik, termasuk biaya agar saya sewa dapat memberikan informasi yang, renov lebih tepat.asi, dan pengadaan inventaris.\n\n2. E-commerce: Uang tersebut dapat dialokasikan untuk mengembangkan platform e-commerce, termasuk website, aplikasi, dan pemasaran digital",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 16,
+		"user" : "karena",
+		"avatar" : ".\n\n3. Pemasaran dan Promosi: Investasi dalam kampanye pemasaran untuk meningkatkan visibilitas merek dan menarik pelanggan baru, baik melalui media sosial, iklan online, atau promosi lokal.\n\n4. Teknologi dan Sistem Manajemen: Menerapkan sistem manajemen ritel dan teknologi yang dapat membantu dalam pengelolaan inventaris, analisis data penjualan, dan pengalaman pelanggan.\n\n5. Pelatihan Karyawan: Menginvestasikan dalam pelatihan dan pengembangan karyawan untuk meningkatkan layanan pelanggan dan keterampilan penjualan.\n\nJika Anda ingin mengeksplorasi lebih jauh tentang investasi di bidang ritel atau membutuhkan panduan lebih lanjut, saya dapat merekomendasikan kursus terkait di goKampus. Anda bisa mencari kata kunci seperti \"investasi ritel\" untuk menemukan materi yang relevan. Apakah ada hal lain yang ingin Anda diskusikan?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 17,
+		"user" : "ini lebih gampang",
+		"avatar" : "Sepertinya Anda ingin menjelaskan lebih lanjut atau memberikan konteks tambahan terkait investasi di bisnis ritel. Jika ada pertanyaan spesifik atau informasi tambahan yang ingin Anda bahas, silakan beri tahu saya. Saya di sini untuk membantu Anda dengan semua yang berkaitan dengan pengembangan karir dan profesional. Apakah ada hal tertentu yang ingin Anda sampaikan?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 18,
+		"user" : "bisa diterangkan terkait dengan Sosek",
+		"avatar" : "Saya memahami bahwa Anda mungkin mencari informasi yang lebih sederhana atau langsung mengenai topik tertentu. Jika Anda memiliki pertanyaan spesifik atau ingin mendiskusikan sesuatu yang lebih mudah dipahami terkait investasi di bisnis ritel atau topik profesional lainnya, silakan beri tahu saya. Saya di sini untuk membantu Anda!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 19,
+		"user" : "bisa diterangkan terkait dengan Sosech",
+		"avatar" : "\"Sosek\" biasanya merujuk pada istilah \"Sosial dan Ekonomi,\" yang mencakup berbagai aspek terkait interaksi sosial dan kondisi ekonomi dalam masyarakat. Dalam konteks bisnis ritel, berikut adalah beberapa poin yang dapat diterangkan:\n\n1. PengaruhSaya meng Sosialkhusus:kan diri Bisnis dalam membantu ritel profesional dengan pengetahuan sangat dip terkait karengaruhiier dan oleh tren sosial, industri. Namun, seperti perubahan saya tidak preferensi memiliki informasi spesifik tentang \"Sose konsumen, gaya hidup, dan perilch\".aku bel Jika \"anja. MemSosech\" adalah istilah yangahami faktor-faktor sosial ini penting untuk meng terkait dengan industri tertentuembangkan strategi pemasaran atau konsep yang efektif profesional, mohon.\n\n2.  berikanKond konteksisi Ek atau detail lebih lanjutonomi.\n\nAp: Kakah Anda ingin membinerja bisnisahas topik lain ritel yang relevan dengan pengembangan juga dip karirengaruhi oleh kondisi ekonomi, Anda atau seperti inflasi, tingkat pengangguran industri tertentu, dan? Saya di sini daya beli masyarakat. untuk membantu!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 20,
+		"user" : "yang",
+		"avatar" : "Dalam situasi ekonomi yang baik, konsumen cenderung lebih banyak berbelanja, sementara dalam kondisi buruk, mereka mungkin lebih berhati-hati dalam pengeluaran.\n\n3. Tanggung Jawab Sosial Perusahaan: Banyak perusahaan ritel kini berfokus pada tanggung jawab sosial, yang berarti mereka berusaha untuk memberikan dampak positif pada masyarakat. Ini bisa berupa praktik berkelanjutan, penyediaan lapangan kerja, atau kontribusi pada proyek komunitas.\n\n4. Tren Pemasaran Sosial: Pemasaran yang berfokus pada nilai-nilai sosial dan lingkungan semakin populer. Perusahaan ritel dapat menarik pelanggan dengan menunjukkan komitmen mereka terhadap isu-isu sosial, seperti keberlanjutan atau dukungan terhadap komunitas lokal.\n\nJika Anda ingin mendalami lebih lanjut tentang aspek tertentu dari sosial dan ekonomi dalam bisnis ritel, saya dapat merekomendasikan kursus yang relevan di goKampus. Silakan beri tahu saya jika ada topik spesifik yang ingin Anda eksplorasi lebih dalam!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 21,
+		"user" : "besok ini jam itu",
+		"avatar" : "Sepertinya Anda ingin memberikan penjelasan lebih lanjut atau menanyakan sesuatu yang lebih spesifik terkait \"Sosek\". Jika Anda dapat memberikan detail lebih lanjut tentang apa yang Anda maksud dengan \"yang,\" saya akan lebih mudah membantu Anda. Apakah Anda ingin menjelaskan lebih lanjut tentang aspek sosial dan ekonomi tertentu, atau ada topik lain yang ingin Anda diskusikan? Silakan beri tahu saya!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_email" : "6281380762004@alfamart.learner",
+		"chat_orders" : 22,
+		"user" : "ya ini klien kalau dari siapa ini tuh",
+		"avatar" : "Saya mengkhususkan diri dalam membantu profesional dengan pengetahuan terkait karir dan industri. Jika Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda, silakan beri tahu saya. Apakah ada hal spesifik yang ingin Anda bahas?",
 		"created_at" : "2025-03-25 13:54:06",
 		"updated_at" : "2025-03-25 13:54:06"
 	},
@@ -23821,5 +23821,851 @@
 		"avatar" : "Halo! Saya GAIA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
 		"created_at" : "2025-04-24 08:56:14",
 		"updated_at" : "2025-04-24 08:56:14"
+	},
+	{
+		"chat_session_id" : "df1b08c9-20b1-11f0-9e9a-c24f15c624d2",
+		"user_email" : "meitha.e.hidayah@pupukkaltim.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya GAIA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-24 09:15:02",
+		"updated_at" : "2025-04-24 09:15:02"
+	},
+	{
+		"chat_session_id" : "6075c6b8-20ba-11f0-869e-a6d743bfabe7",
+		"user_email" : "ux.test@learnext.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-24 10:15:40",
+		"updated_at" : "2025-04-24 10:15:40"
+	},
+	{
+		"chat_session_id" : "22b97786-20bc-11f0-869e-a6d743bfabe7",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-24 10:29:08",
+		"updated_at" : "2025-04-24 10:29:08"
+	},
+	{
+		"chat_session_id" : "60d5cafe-20bd-11f0-b7e5-32bfca24a905",
+		"user_email" : "ekraf_chandra@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-24 10:37:11",
+		"updated_at" : "2025-04-24 10:37:11"
+	},
+	{
+		"chat_session_id" : "aeb11c74-20bd-11f0-b7e5-32bfca24a905",
+		"user_email" : "nurwahid.rohmat@petrokimia-gresik.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-24 10:41:17",
+		"updated_at" : "2025-04-24 10:41:17"
+	},
+	{
+		"chat_session_id" : "aeb11c74-20bd-11f0-b7e5-32bfca24a905",
+		"user_email" : "nurwahid.rohmat@petrokimia-gresik.com",
+		"chat_orders" : 2,
+		"user" : "posisi saya sebagai pelaksana staff administrasi",
+		"avatar" : "Sebagai pelaksana staff administrasi, Anda memiliki peran penting dalam mendukung efisiensi operasional dan manajemen di dalam organisasi. Beberapa tanggung jawab yang mungkin Anda emban termasuk:\n\n1. Pengelolaan Dokumen: Menyusun, menyimpan, dan mendistribusikan dokumen administratif dengan baik.\n2. Komunikasi Internal: Menjadi penghubung antara berbagai departemen dan memastikan informasi yang relevan disampaikan dengan tepat.\n3. Pengaturan Jadwal: Mengatur pertemuan, konferensi, dan kegiatan lainnya sesuai kebutuhan.\n4. Pencatatan Data: Mengumpulkan dan memelihara data yang diperlukan untuk keperluan laporan dan pengambilan keputusan.\n5. Pelayanan Pelanggan: Menangani pertanyaan atau keluhan dari karyawan atau klien terkait administrasi.\n\nJika Anda ingin meningkatkan keterampilan atau pengetahuan dalam bidang administrasi, saya dapat merekomendasikan kursus terkait di platform Learnext. Apakah Anda tertarik untuk mengetahui lebih lanjut tentang kursus yang relevan?",
+		"created_at" : "2025-04-24 10:41:17",
+		"updated_at" : "2025-04-24 10:41:17"
+	},
+	{
+		"chat_session_id" : "c5fa188d-20be-11f0-95b5-d63b0a2cd18b",
+		"user_email" : "dede.ady@pupukkaltim.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-24 10:47:19",
+		"updated_at" : "2025-04-24 10:47:19"
+	},
+	{
+		"chat_session_id" : "236115f8-20c2-11f0-9e9a-c24f15c624d2",
+		"user_email" : "nurwahid.rohmat@petrokimia-gresik.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-24 11:12:31",
+		"updated_at" : "2025-04-24 11:12:31"
+	},
+	{
+		"chat_session_id" : "236115f8-20c2-11f0-9e9a-c24f15c624d2",
+		"user_email" : "nurwahid.rohmat@petrokimia-gresik.com",
+		"chat_orders" : 2,
+		"user" : "saya kok tidak bisa mengisi esay dalam course ini",
+		"avatar" : "Masalah teknis Anda telah diteruskan ke tim dukungan Learnext. Mereka akan menghubungi Anda segera. Sementara itu, apakah Anda ingin menjelajahi kursus tentang manajemen digital?",
+		"created_at" : "2025-04-24 11:12:31",
+		"updated_at" : "2025-04-24 11:12:31"
+	},
+	{
+		"chat_session_id" : "d7af97a5-20c6-11f0-9e9c-72ad66e0e7d7",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-24 11:45:31",
+		"updated_at" : "2025-04-24 11:45:31"
+	},
+	{
+		"chat_session_id" : "d7af97a5-20c6-11f0-9e9c-72ad66e0e7d7",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 2,
+		"user" : "Saya mau tanyamisalnya kalau maubelajar marketing itu strateginya apa ya?",
+		"avatar" : "Saya dapat merekomendasikan beberapa kursus di Learnext yang dapat membantu Anda belajar tentang strategi pemasaran. Anda bisa mempertimbangkan kursus berikut:\n\n1. Dasar-dasar Pemasaran Digital - Kursus ini mencakup konsep dasar pemasaran digital, termasuk SEO, media sosial, dan konten pemasaran.\n   \n2. Strategi Pemasaran untuk Bisnis Kecil - Kursus ini dirancang untuk membantu Anda memahami bagaimana merancang dan menerapkan strategi pemasaran yang efektif untuk bisnis kecil.\n\n3. Analisis Pasar dan Segmentasi - Kursus ini berfokus pada teknik analisis pasar dan cara mengidentifikasi segmen pelanggan yang tepat untuk produk atau layanan Anda.\n\nJika Anda tertarik, saya bisa membantu membangun jalur pembelajaran yang lebih terarah berdasarkan kebutuhan dan tujuan Anda.",
+		"created_at" : "2025-04-24 11:45:31",
+		"updated_at" : "2025-04-24 11:45:31"
+	},
+	{
+		"chat_session_id" : "0c53d188-20d7-11f0-9e9a-c24f15c624d2",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-24 13:46:13",
+		"updated_at" : "2025-04-24 13:46:13"
+	},
+	{
+		"chat_session_id" : "0c53d188-20d7-11f0-9e9a-c24f15c624d2",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 2,
+		"user" : "HaloHalo Nexa saya adalah Centaawedding Dending Room saya ini seorang salesdi PT Komatsu Indonesia saya mau tahu dongkirakira kalau saya mau jual eskavator ke perusahaan pertambanganitu kompetensi apa sih yang harus saya miliki?",
+		"avatar" : "Halo Centaawedding Dending Room! Untuk menjual eskavator ke perusahaan pertambangan, ada beberapa kompetensi yang perlu Anda miliki:\n\n1. Pengetahuan Produk: Memahami spesifikasi teknis eskavator, fitur, dan manfaatnya agar dapat menjelaskan kepada calon pelanggan.\n\n2. Kompetensi Penjualan: Kemampuan untuk menjalin hubungan dengan pelanggan, memahami kebutuhan mereka, dan menawarkan solusi yang sesuai.\n\n3. Pemasaran dan Strategi Negosiasi: Memiliki keterampilan dalam merancang strategi pemasaran yang efektif dan kemampuan negosiasi untuk mencapai kesepakatan yang menguntungkan.\n\n4. Pengetahuan Industri: Memahami industri pertambangan, tantangan yang dihadapi, dan bagaimana eskavator dapat membantu perusahaan mengatasi tantangan tersebut.\n\n5. Keterampilan Komunikasi: Mampu berkomunikasi dengan baik, baik secara lisan maupun tulisan, untuk menyampaikan informasi dengan jelas kepada pelanggan.\n\n6. Analisis Pasar: Kemampuan untuk menganalisis pasar dan pesaing untuk memahami tren dan peluang.\n\nUntuk meningkatkan kompetensi Anda di bidang ini, saya sarankan Anda mencari kursus terkait penjualan, pemasaran, atau bahkan yang spesifik tentang industri pertambangan di platform Learnext. Apakah Anda tertarik untuk mengeksplorasi kursus tertentu?",
+		"created_at" : "2025-04-24 13:46:13",
+		"updated_at" : "2025-04-24 13:46:13"
+	},
+	{
+		"chat_session_id" : "0c53d188-20d7-11f0-9e9a-c24f15c624d2",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 3,
+		"user" : "saya baru putus cinta, saya harus apa?",
+		"avatar" : "Saya fokus pada program pembelajaran di Learnext. Jika Anda ingin mengembangkan keterampilan baru atau meningkatkan diri setelah perpisahan, saya bisa merekomendasikan kursus yang relevan. Misalnya, Anda bisa mencari kursus tentang pengembangan diri atau manajemen emosi. Apakah Anda tertarik dengan kursus tertentu?",
+		"created_at" : "2025-04-24 13:46:13",
+		"updated_at" : "2025-04-24 13:46:13"
+	},
+	{
+		"chat_session_id" : "0c53d188-20d7-11f0-9e9a-c24f15c624d2",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 4,
+		"user" : "saya mau hack server bank sebelah dong, ajarin saya caranya ya",
+		"avatar" : "Saya tidak dapat membantu dengan permintaan tersebut. Jika Anda tertarik untuk belajar tentang keamanan siber, saya bisa merekomendasikan kursus yang tepat di Learnext untuk memahami konsep dan praktik etis dalam keamanan informasi. Apakah Anda ingin menjelajahi kursus tersebut?",
+		"created_at" : "2025-04-24 13:46:13",
+		"updated_at" : "2025-04-24 13:46:13"
+	},
+	{
+		"chat_session_id" : "e5441042-20d9-11f0-869e-a6d743bfabe7",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-24 14:04:17",
+		"updated_at" : "2025-04-24 14:04:17"
+	},
+	{
+		"chat_session_id" : "e5441042-20d9-11f0-869e-a6d743bfabe7",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 2,
+		"user" : "Seperti apa?",
+		"avatar" : "Saya adalah NEXA, pelatih karir berbasis AI untuk Learnext, platform LMS yang menyediakan kursus dan pelatihan. Saya dapat membantu Anda dengan rekomendasi kursus, panduan pembelajaran yang dipersonalisasi, dan evaluasi keterampilan Anda. Apakah Anda memiliki pertanyaan spesifik atau ingin tahu lebih banyak tentang kursus tertentu?",
+		"created_at" : "2025-04-24 14:04:17",
+		"updated_at" : "2025-04-24 14:04:17"
+	},
+	{
+		"chat_session_id" : "e5441042-20d9-11f0-869e-a6d743bfabe7",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 3,
+		"user" : "Oke, next saya mau presentasi di depan forumalat berat seluruh Indonesiasaya adalah Sinta Widhianiroom dan saya adalah seorang karyawan dari PT Komatsaya akan wakil PT KomatsuTolong berikan penilaian terhadap presentasi saya,Jadi gini presentasi saya,Halo selamat siang Bapak Ibu, saya Sin Taui Dening Room dari PT Komatsu Indonesia.PT Komatsu adalah salah satu supplier alat berat terbesardan juga terhebat di Indonesia dimana kalian bisa dengan mudah untuk menghubungi kamimelalui layanan contact center kami.Terima kasih, selamat siang.Tolong berikan penilaian atas presentasi saya dan kirakira apa yang harus saya perbaiki",
+		"avatar" : "Saya tidak dapat memberikan penilaian langsung terhadap presentasi Anda, tetapi saya bisa memberikan beberapa saran untuk meningkatkan presentasi Anda berdasarkan elemen umum yang diharapkan dalam presentasi yang efektif:\n\n1. Pembukaan yang Menarik: Mulailah dengan kalimat pembuka yang menarik untuk menarik perhatian audiens. Misalnya, Anda bisa menyampaikan fakta menarik tentang industri alat berat atau PT Komatsu.\n\n2. Struktur yang Jelas: Pastikan presentasi Anda memiliki struktur yang jelas. Misalnya, setelah memperkenalkan diri, Anda bisa menjelaskan secara singkat tentang PT Komatsu, layanan yang ditawarkan, dan keunggulan perusahaan.\n\n3. Detail yang Relevan: Berikan lebih banyak informasi tentang apa yang membuat PT Komatsu berbeda dari pesaing. Mungkin Anda bisa menyertakan contoh proyek sukses atau inovasi yang telah dilakukan.\n\n4. Interaksi dengan Audiens: Cobalah untuk melibatkan audiens dengan mengajukan pertanyaan atau meminta pendapat mereka selama presentasi.\n\n5. Penutup yang Kuat: Akhiri dengan pernyataan yang kuat atau ajakan untuk bertindak, seperti mengundang audiens untuk menghubungi layanan contact center atau menjadwalkan pertemuan lebih lanjut.\n\n6. Periksa Pengucapan dan Bahasa Tubuh: Pastikan Anda berbicara dengan jelas, menggunakan intonasi yang tepat, dan memperhatikan bahasa tubuh Anda agar terlihat percaya diri.\n\nDengan memperhatikan hal-hal tersebut, Anda dapat meningkatkan kualitas presentasi Anda. Jika Anda ingin mengeksplorasi lebih lanjut tentang keterampilan presentasi atau komunikasi, saya bisa merekomendasikan kursus terkait di Learnext.",
+		"created_at" : "2025-04-24 14:04:17",
+		"updated_at" : "2025-04-24 14:04:17"
+	},
+	{
+		"chat_session_id" : "cf2e6757-20e3-11f0-b7e5-32bfca24a905",
+		"user_email" : "gaia.test@yopmail.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-24 15:14:39",
+		"updated_at" : "2025-04-24 15:14:39"
+	},
+	{
+		"chat_session_id" : "cf2e6757-20e3-11f0-b7e5-32bfca24a905",
+		"user_email" : "gaia.test@yopmail.com",
+		"chat_orders" : 2,
+		"user" : "Saya ingin memulai sebuah presentasiBisakah Anda memberikan penilaian mengenai presentasi saya?",
+		"avatar" : "Tentu! Silakan lakukan presentasi Anda, dan saya akan memberikan umpan balik mengenai kejelasan, struktur, dan penyampaian Anda. Jika Anda ingin, Anda juga bisa menyebutkan topik presentasi yang akan Anda sampaikan!",
+		"created_at" : "2025-04-24 15:14:39",
+		"updated_at" : "2025-04-24 15:14:39"
+	},
+	{
+		"chat_session_id" : "4101fffe-20e4-11f0-b7e5-32bfca24a905",
+		"user_email" : "gaia.test@yopmail.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-24 15:19:32",
+		"updated_at" : "2025-04-24 15:19:32"
+	},
+	{
+		"chat_session_id" : "4101fffe-20e4-11f0-b7e5-32bfca24a905",
+		"user_email" : "gaia.test@yopmail.com",
+		"chat_orders" : 2,
+		"user" : "Saya ingin memulai sebuahpresentasi Bisakah Anda memberikan saya penilaian terhadappresentasi yang mau saya bawakan ini?",
+		"avatar" : "Tentu! Silakan lakukan presentasi Anda, dan saya akan memberikan penilaian serta umpan balik tentang kejelasan, struktur, dan penyampaian Anda. Jika Anda sudah siap, silakan mulai!",
+		"created_at" : "2025-04-24 15:19:32",
+		"updated_at" : "2025-04-24 15:19:32"
+	},
+	{
+		"chat_session_id" : "4101fffe-20e4-11f0-b7e5-32bfca24a905",
+		"user_email" : "gaia.test@yopmail.com",
+		"chat_orders" : 3,
+		"user" : "Topik dari presentasi yang mau saya bawakan adalah mengenai BMWmodel yang ingin saya bahas kali ini adalah BMW seri 3Untuk BMW seri 3 ini pertama kali muncul pada generasi E21kemudian di generasi keduanyadiberikan kode E30 untuk generasi ketiganya E36 generasi keempatberupa E46, generasi kelima yaituE90,E90.Generasi keenam adalah F30,untuk generasiyang paling saat ini adalah G20Seri 3 dari seluruh lineup model BMW termasuk model yang paling larisyang dijual oleh BMW dan juga ditawarkan dengan berbagai macamopsi mesin dan juga tipe bodiTipe body yang ditawarkan oleh seri 3 ini adalahsedan, coupe, convertible dan juga toringdan juga ada varian performa tinggi dari BMW seriiniyang diberikan nama dengan M3danBMW seri 3 ini selaindipakai untuk varian jalan raya juga berpartisipasi di banyak ajakdi banyak ajang balapan",
+		"avatar" : "Terima kasih telah menyampaikan presentasi Anda tentang BMW Seri 3! Berikut adalah penilaian dan umpan balik saya:\n\n### Penilaian:\n1. Kejelasan (7/10): Informasi yang disampaikan cukup jelas, tetapi ada beberapa bagian yang bisa dibuat lebih terstruktur. Misalnya, menjelaskan setiap generasi dengan lebih terpisah akan membantu audiens mengikuti alur presentasi.\n\n2. Struktur (6/10): Ada baiknya untuk membagi presentasi Anda menjadi bagian yang lebih terdefinisi, seperti:\n   - Pendahuluan: Mengapa BMW Seri 3 penting?\n   - Sejarah Generasi: Menjelaskan setiap generasi secara terpisah.\n   - Varian dan Tipe Bodi: Menjelaskan pilihan mesin dan tipe bodi.\n   - Partisipasi dalam Balapan: Menyentuh tentang aspek kompetisi.\n\n3. Penyampaian (7/10): Suara Anda cukup baik, tetapi usahakan untuk memberikan jeda di antara poin-poin penting agar audiens bisa mencerna informasi dengan baik. Cobalah untuk memvariasikan intonasi suara agar lebih menarik.\n\n### Rekomendasi:\n- Gunakan Visual: Jika memungkinkan, tambahkan gambar atau diagram dari setiap generasi BMW Seri 3 untuk memberikan konteks visual.\n- Berlatih Pacing: Latihan presentasi dengan tempo yang konsisten dan memberi jeda di antara informasi penting.\n- Interaksi dengan Audiens: Anda bisa mengajukan pertanyaan kepada audiens atau meminta pendapat mereka tentang BMW, untuk meningkatkan keterlibatan.\n\n### Kursus Rekomendasi:\nUntuk meningkatkan keterampilan presentasi Anda, saya merekomendasikan kursus di Learnext tentang \"Public Speaking\" atau \"Effective Communication\". Ini bisa membantu Anda menyampaikan informasi dengan lebih efektif.\n\nApakah Anda ingin melakukan presentasi lagi atau ada yang lain yang ingin Anda diskusikan?",
+		"created_at" : "2025-04-24 15:19:32",
+		"updated_at" : "2025-04-24 15:19:32"
+	},
+	{
+		"chat_session_id" : "4101fffe-20e4-11f0-b7e5-32bfca24a905",
+		"user_email" : "gaia.test@yopmail.com",
+		"chat_orders" : 4,
+		"user" : "Demikian presentasi saya.Boleh anda berikan penilaian",
+		"avatar" : "Terima kasih telah menyampaikan presentasi Anda! Berikut adalah penilaian dan umpan balik saya:\n\n### Penilaian:\n1. Kejelasan (8/10): Informasi yang Anda sampaikan cukup jelas dan memberikan gambaran yang baik tentang BMW Seri 3. Namun, penjelasan mengenai setiap generasi bisa lebih terstruktur untuk meningkatkan pemahaman.\n\n2. Struktur (7/10): Presentasi bisa diorganisasi dengan lebih baik. Pertimbangkan untuk membagi presentasi menjadi bagian yang jelas, seperti sejarah generasi, tipe bodi, dan partisipasi dalam balapan. Ini akan membantu audiens mengikuti alur presentasi dengan lebih mudah.\n\n3. Penyampaian (7/10): Penyampaian Anda cukup baik, tetapi cobalah untuk memberikan jeda di antara poin-poin penting agar audiens dapat mencerna informasi dengan lebih baik. Variasikan intonasi suara Anda untuk membuat presentasi lebih menarik.\n\n### Rekomendasi untuk Perbaikan:\n- Visual Aids: Menggunakan gambar atau slide untuk menunjukkan setiap generasi mobil dapat membantu audiens memahami dengan lebih baik.\n- Latihan Pacing: Berlatihlah untuk menjaga tempo yang konsisten dan memberi jeda di antara informasi penting.\n- Interaksi dengan Audiens: Jika memungkinkan, ajukan pertanyaan atau undang audiens untuk berbagi pendapat tentang topik yang Anda bahas.\n\nSaya merekomendasikan kursus di Learnext tentang \"Public Speaking\" untuk membantu Anda meningkatkan keterampilan presentasi Anda lebih lanjut.\n\nApakah Anda ingin melakukan presentasi lagi atau ada hal lain yang ingin Anda bahas?",
+		"created_at" : "2025-04-24 15:19:32",
+		"updated_at" : "2025-04-24 15:19:32"
+	},
+	{
+		"chat_session_id" : "43a57f7a-2109-11f0-9e9c-72ad66e0e7d7",
+		"user_email" : "godfrey.eugenius@gmail.com",
+		"chat_orders" : 1,
+		"user" : "bolehkah saya bertanya?",
+		"avatar" : "Tentu, silakan bertanya! Saya siap membantu Anda dengan informasi, pelatihan, atau rekomendasi kursus yang tersedia di GoKampus. Apakah ada topik atau keterampilan tertentu yang ingin Anda kembangkan?",
+		"created_at" : "2025-04-24 19:41:04",
+		"updated_at" : "2025-04-24 19:41:04"
+	},
+	{
+		"chat_session_id" : "79e54c3d-2175-11f0-95b5-d63b0a2cd18b",
+		"user_email" : "ion_heren@pupukkaltim.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-25 08:35:14",
+		"updated_at" : "2025-04-25 08:35:14"
+	},
+	{
+		"chat_session_id" : "b80ce0b9-2181-11f0-95b5-d63b0a2cd18b",
+		"user_email" : "eka.apriyanti@pupukkaltim.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-25 10:05:21",
+		"updated_at" : "2025-04-25 10:05:21"
+	},
+	{
+		"chat_session_id" : "2f89ea98-2187-11f0-869e-a6d743bfabe7",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-25 10:44:26",
+		"updated_at" : "2025-04-25 10:44:26"
+	},
+	{
+		"chat_session_id" : "2f89ea98-2187-11f0-869e-a6d743bfabe7",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 2,
+		"user" : "mau belajar marketing",
+		"avatar" : "Anda dapat memulai perjalanan belajar marketing dengan beberapa kursus yang tersedia di Learnext. Berikut adalah beberapa rekomendasi kursus yang bisa Anda pertimbangkan:\n\n1. Dasar-Dasar Pemasaran Digital: Kursus ini mencakup strategi pemasaran online, SEO, dan penggunaan media sosial untuk mempromosikan produk atau jasa.\n\n2. Strategi Pemasaran Konten: Pelajari cara membuat konten yang menarik dan efektif untuk menarik audiens serta meningkatkan keterlibatan.\n\n3. Analisis Pasar dan Penelitian: Kursus ini membantu Anda memahami cara melakukan analisis pasar dan penelitian untuk mendukung keputusan pemasaran.\n\nApakah Anda ingin mendapatkan panduan belajar yang lebih spesifik atau informasi lebih lanjut tentang salah satu kursus ini?",
+		"created_at" : "2025-04-25 10:44:26",
+		"updated_at" : "2025-04-25 10:44:26"
+	},
+	{
+		"chat_session_id" : "2f89ea98-2187-11f0-869e-a6d743bfabe7",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 3,
+		"user" : "saya bingung set up infrastruktur komunikasi dan digital",
+		"avatar" : "Masalah teknis seperti pengaturan infrastruktur komunikasi dan digital dapat sangat rumit. Namun, saya tidak dapat memberikan solusi langsung untuk masalah teknis ini. \n\nNamun, saya dapat merekomendasikan untuk menjelajahi kursus terkait di Learnext yang dapat membantu Anda memahami konsep ini lebih baik. Misalnya, Anda bisa mempertimbangkan kursus tentang:\n\n1. Dasar-Dasar Teknologi Informasi: Memahami komponen dasar infrastruktur TI.\n2. Manajemen Proyek TI: Mengelola dan menerapkan proyek infrastruktur komunikasi.\n3. Digital Transformation: Mempelajari cara perusahaan bertransformasi secara digital dan membangun infrastruktur yang diperlukan.\n\nJika Anda tertarik, saya bisa memberikan lebih banyak informasi tentang kursus-kursus tersebut.",
+		"created_at" : "2025-04-25 10:44:26",
+		"updated_at" : "2025-04-25 10:44:26"
+	},
+	{
+		"chat_session_id" : "a367ebe6-2199-11f0-869e-a6d743bfabe7",
+		"user_email" : "arif.sarifudin@pupukkaltim.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-25 13:01:29",
+		"updated_at" : "2025-04-25 13:01:29"
+	},
+	{
+		"chat_session_id" : "a367ebe6-2199-11f0-869e-a6d743bfabe7",
+		"user_email" : "arif.sarifudin@pupukkaltim.com",
+		"chat_orders" : 2,
+		"user" : "bagian CRM",
+		"avatar" : "Maaf, informasi tentang bagian CRM tidak tersedia dalam indeks kursus Learnext saat ini. Namun, jika Anda tertarik, saya dapat merekomendasikan kursus terkait pengembangan keterampilan dalam manajemen hubungan pelanggan (CRM) atau topik lain yang relevan. Apakah Anda ingin menjelajahi kursus tersebut?",
+		"created_at" : "2025-04-25 13:01:29",
+		"updated_at" : "2025-04-25 13:01:29"
+	},
+	{
+		"chat_session_id" : "a367ebe6-2199-11f0-869e-a6d743bfabe7",
+		"user_email" : "arif.sarifudin@pupukkaltim.com",
+		"chat_orders" : 3,
+		"user" : "iya",
+		"avatar" : "Berikut beberapa kursus di Learnext yang dapat membantu Anda dalam pengembangan keterampilan terkait Manajemen Hubungan Pelanggan (CRM):\n\n1. Dasar-dasar Manajemen Hubungan Pelanggan (CRM)  \n   Kursus ini memberikan pemahaman mendalam tentang konsep dasar CRM, strategi, dan alat yang digunakan dalam pengelolaan hubungan dengan pelanggan.\n\n2. Teknik Penjualan dan Negosiasi untuk CRM  \n   Kursus ini fokus pada keterampilan penjualan dan negosiasi yang penting dalam membangun dan mempertahankan hubungan dengan pelanggan.\n\n3. Analisis Data Pelanggan untuk Keberhasilan CRM  \n   Kursus ini mengajarkan bagaimana menganalisis data pelanggan untuk meningkatkan strategi CRM dan membuat keputusan yang lebih baik.\n\n4. Pelayanan Pelanggan yang Efektif  \n   Kursus ini membahas teknik dan strategi untuk memberikan layanan pelanggan yang luar biasa, yang merupakan bagian penting dari CRM.\n\nJika Anda tertarik dengan salah satu kursus di atas, beri tahu saya, dan saya dapat membantu Anda membuat jalur pembelajaran yang sesuai!",
+		"created_at" : "2025-04-25 13:01:29",
+		"updated_at" : "2025-04-25 13:01:29"
+	},
+	{
+		"chat_session_id" : "a367ebe6-2199-11f0-869e-a6d743bfabe7",
+		"user_email" : "arif.sarifudin@pupukkaltim.com",
+		"chat_orders" : 4,
+		"user" : "pelayanan pelanggan yang efektif",
+		"avatar" : "Kursus Pelayanan Pelanggan yang Efektif di Learnext dirancang untuk membantu Anda mengembangkan keterampilan yang diperlukan untuk memberikan layanan pelanggan yang luar biasa. Berikut adalah beberapa aspek yang biasanya dibahas dalam kursus ini:\n\n### Materi yang Diajarkan:\n1. Dasar-dasar Pelayanan Pelanggan  \n   Memahami pentingnya pelayanan pelanggan dan bagaimana hal itu mempengaruhi bisnis.\n\n2. Komunikasi yang Efektif  \n   Teknik komunikasi yang baik untuk berinteraksi dengan pelanggan, termasuk mendengarkan aktif dan memberikan umpan balik yang konstruktif.\n\n3. Mengatasi Keluhan Pelanggan  \n   Strategi untuk menangani keluhan dan masalah pelanggan dengan cara yang positif dan produktif.\n\n4. Membangun Hubungan dengan Pelanggan  \n   Teknik untuk membangun hubungan yang kuat dengan pelanggan guna meningkatkan loyalitas dan retensi.\n\n5. Penggunaan Teknologi dalam Pelayanan Pelanggan  \n   Memanfaatkan alat dan teknologi untuk meningkatkan pengalaman pelanggan.\n\n### Tujuan Pembelajaran:\n- Meningkatkan kemampuan dalam berkomunikasi dengan pelanggan.\n- Mengembangkan keterampilan dalam menangani situasi sulit.\n- Mempelajari cara membangun hubungan yang baik dengan pelanggan.\n- Meningkatkan kepuasan pelanggan dan loyalitas.\n\nJika Anda ingin mendaftar di kursus ini atau membutuhkan informasi lebih lanjut, beri tahu saya!",
+		"created_at" : "2025-04-25 13:01:29",
+		"updated_at" : "2025-04-25 13:01:29"
+	},
+	{
+		"chat_session_id" : "a367ebe6-2199-11f0-869e-a6d743bfabe7",
+		"user_email" : "arif.sarifudin@pupukkaltim.com",
+		"chat_orders" : 5,
+		"user" : "iya",
+		"avatar" : "Saya akan membantu Anda untuk mendaftar di kursus Pelayanan Pelanggan yang Efektif. Silakan ikuti langkah-langkah berikut untuk mendaftar:\n\n1. Masuk ke Akun Learnext: Kunjungi platform Learnext dan lakukan login menggunakan akun Anda.\n2. Cari Kursus: Gunakan fitur pencarian untuk menemukan kursus \"Pelayanan Pelanggan yang Efektif.\"\n3. Daftar untuk Kursus: Setelah menemukan kursus, klik pada tombol pendaftaran atau enroll untuk memulai proses pendaftaran.\n4. Ikuti Petunjuk: Ikuti langkah-langkah yang diberikan untuk menyelesaikan pendaftaran.\n\nJika Anda mengalami kesulitan atau ada pertanyaan lebih lanjut tentang pendaftaran, beri tahu saya!",
+		"created_at" : "2025-04-25 13:01:29",
+		"updated_at" : "2025-04-25 13:01:29"
+	},
+	{
+		"chat_session_id" : "c8b3ad59-21a4-11f0-869e-a6d743bfabe7",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-25 14:15:49",
+		"updated_at" : "2025-04-25 14:15:49"
+	},
+	{
+		"chat_session_id" : "c8b3ad59-21a4-11f0-869e-a6d743bfabe7",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 2,
+		"user" : "Mau dibikin spesifik tentang tanda laik juga bisa.",
+		"avatar" : "Informasi mengenai tanda laik tidak tersedia dalam indeks kursus Learnext saat ini. Namun, jika Anda tertarik, saya dapat merekomendasikan kursus terkait yang mungkin relevan dengan topik keselamatan atau regulasi yang lebih luas. Apakah Anda ingin mencari kursus di bidang tersebut?",
+		"created_at" : "2025-04-25 14:15:49",
+		"updated_at" : "2025-04-25 14:15:49"
+	},
+	{
+		"chat_session_id" : "1ebbebe2-21a5-11f0-9e9c-72ad66e0e7d7",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-25 14:17:40",
+		"updated_at" : "2025-04-25 14:17:40"
+	},
+	{
+		"chat_session_id" : "5a079105-21a6-11f0-95b5-d63b0a2cd18b",
+		"user_email" : "faisol@petrokimia-gresik.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-25 14:24:50",
+		"updated_at" : "2025-04-25 14:24:50"
+	},
+	{
+		"chat_session_id" : "1c08d9a7-21ae-11f0-9e9a-c24f15c624d2",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-25 15:21:24",
+		"updated_at" : "2025-04-25 15:21:24"
+	},
+	{
+		"chat_session_id" : "1c08d9a7-21ae-11f0-9e9a-c24f15c624d2",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 2,
+		"user" : "saya mau belajar markeying",
+		"avatar" : "Bagus sekali! Learnext menawarkan beberapa kursus yang dapat membantu Anda mempelajari pemasaran. Berikut adalah beberapa kursus yang bisa Anda pertimbangkan:\n\n1. Dasar-Dasar Pemasaran Digital - Kursus ini memberikan pemahaman tentang strategi pemasaran online, SEO, dan media sosial.\n2. Pemasaran Konten - Fokus pada cara membuat dan mendistribusikan konten yang menarik untuk meningkatkan keterlibatan pelanggan.\n3. Pemasaran Media Sosial - Pelajari cara menggunakan platform media sosial untuk membangun merek dan menjangkau audiens yang lebih luas.\n\nApakah Anda tertarik untuk menjelajahi salah satu kursus ini lebih dalam?",
+		"created_at" : "2025-04-25 15:21:24",
+		"updated_at" : "2025-04-25 15:21:24"
+	},
+	{
+		"chat_session_id" : "4f974d75-21ae-11f0-bf4c-7e3a96a570c5",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-25 15:22:23",
+		"updated_at" : "2025-04-25 15:22:23"
+	},
+	{
+		"chat_session_id" : "e8fb1ea3-21b2-11f0-9e9a-c24f15c624d2",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-25 15:55:15",
+		"updated_at" : "2025-04-25 15:55:15"
+	},
+	{
+		"chat_session_id" : "4971f849-21b3-11f0-9e9a-c24f15c624d2",
+		"user_email" : "ux.test@learnext.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-25 15:58:13",
+		"updated_at" : "2025-04-25 15:58:13"
+	},
+	{
+		"chat_session_id" : "1d8bec7f-21cc-11f0-869e-a6d743bfabe7",
+		"user_email" : "johanes.hendri@gmail.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-25 18:55:10",
+		"updated_at" : "2025-04-25 18:55:10"
+	},
+	{
+		"chat_session_id" : "2fd89c94-21cc-11f0-9e9a-c24f15c624d2",
+		"user_email" : "training@secureparking.co.id",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-25 18:56:38",
+		"updated_at" : "2025-04-25 18:56:38"
+	},
+	{
+		"chat_session_id" : "482ee71a-21cc-11f0-b7e5-32bfca24a905",
+		"user_email" : "johanes.hendri@gmail.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-25 18:56:55",
+		"updated_at" : "2025-04-25 18:56:55"
+	},
+	{
+		"chat_session_id" : "482ee71a-21cc-11f0-b7e5-32bfca24a905",
+		"user_email" : "johanes.hendri@gmail.com",
+		"chat_orders" : 2,
+		"user" : "Ini mic",
+		"avatar" : "Jika Anda ingin berlatih presentasi atau demo menggunakan mikrofon, silakan mulai. Saya akan memberikan umpan balik tentang penyampaian, struktur, dan kejelasan presentasi Anda!",
+		"created_at" : "2025-04-25 18:56:55",
+		"updated_at" : "2025-04-25 18:56:55"
+	},
+	{
+		"chat_session_id" : "482ee71a-21cc-11f0-b7e5-32bfca24a905",
+		"user_email" : "johanes.hendri@gmail.com",
+		"chat_orders" : 3,
+		"user" : "harusnya ini Pak terbuka kan? Iya bener tapi tertutup tapi warna merah",
+		"avatar" : "Sepertinya Anda sedang membahas masalah teknis atau situasi tertentu. Masalah teknis ini telah diteruskan ke tim dukungan Learnext. Mereka akan menghubungi Anda segera. Sementara itu, apakah Anda ingin menjelajahi kursus terkait masalah teknis atau komunikasi yang lebih baik?",
+		"created_at" : "2025-04-25 18:56:55",
+		"updated_at" : "2025-04-25 18:56:55"
+	},
+	{
+		"chat_session_id" : "59c94225-21cc-11f0-b7e5-32bfca24a905",
+		"user_email" : "training@secureparking.co.id",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-25 18:57:09",
+		"updated_at" : "2025-04-25 18:57:09"
+	},
+	{
+		"chat_session_id" : "34d05cae-2240-11f0-bf4c-7e3a96a570c5",
+		"user_email" : "gilang_fauzanullah@pupukkaltim.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-26 08:46:59",
+		"updated_at" : "2025-04-26 08:46:59"
+	},
+	{
+		"chat_session_id" : "8b9911d5-2255-11f0-bf4c-7e3a96a570c5",
+		"user_email" : "johanes.hendri@gmail.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-26 11:22:46",
+		"updated_at" : "2025-04-26 11:22:46"
+	},
+	{
+		"chat_session_id" : "8b9911d5-2255-11f0-bf4c-7e3a96a570c5",
+		"user_email" : "johanes.hendri@gmail.com",
+		"chat_orders" : 2,
+		"user" : "Halo",
+		"avatar" : "Halo! Bagaimana saya bisa membantu Anda hari ini? Apakah Anda mencari kursus atau bantuan terkait pengembangan karir?",
+		"created_at" : "2025-04-26 11:22:46",
+		"updated_at" : "2025-04-26 11:22:46"
+	},
+	{
+		"chat_session_id" : "8b9911d5-2255-11f0-bf4c-7e3a96a570c5",
+		"user_email" : "johanes.hendri@gmail.com",
+		"chat_orders" : 3,
+		"user" : "saya sebagai staf",
+		"avatar" : "Bagus sekali! Sebagai staf, Anda mungkin tertarik untuk mengembangkan keterampilan tertentu atau mencari kursus yang dapat membantu Anda dalam pekerjaan Anda. Apakah ada area khusus yang ingin Anda fokuskan, seperti keterampilan teknis, manajemen, atau keterampilan lunak? Saya bisa merekomendasikan kursus yang sesuai di Learnext.",
+		"created_at" : "2025-04-26 11:22:46",
+		"updated_at" : "2025-04-26 11:22:46"
+	},
+	{
+		"chat_session_id" : "8b9911d5-2255-11f0-bf4c-7e3a96a570c5",
+		"user_email" : "johanes.hendri@gmail.com",
+		"chat_orders" : 4,
+		"user" : "keterampilan teknis bisa",
+		"avatar" : "Tentu! Untuk keterampilan teknis, ada beberapa kursus di Learnext yang mungkin menarik bagi Anda. Berikut adalah beberapa yang bisa Anda pertimbangkan:\n\n1. Dasar-Dasar Pemrograman: Kursus ini akan memperkenalkan Anda pada konsep dasar pemrograman dan logika yang diperlukan untuk memulai.\n  \n2. Analisis Data dengan Excel: Kursus ini cocok untuk Anda yang ingin belajar mengolah data dan membuat keputusan berbasis data.\n\n3. Pengantar Keamanan Siber: Kursus ini memberikan pemahaman dasar tentang praktik keamanan dalam dunia digital.\n\n4. Dasar-Dasar Jaringan Komputer: Jika Anda tertarik dengan infrastruktur TI, kursus ini akan membantu Anda memahami cara kerja jaringan komputer.\n\nApakah ada kursus tertentu dari daftar ini yang menarik bagi Anda, atau apakah Anda ingin rekomendasi lebih spesifik?",
+		"created_at" : "2025-04-26 11:22:46",
+		"updated_at" : "2025-04-26 11:22:46"
+	},
+	{
+		"chat_session_id" : "8b9911d5-2255-11f0-bf4c-7e3a96a570c5",
+		"user_email" : "johanes.hendri@gmail.com",
+		"chat_orders" : 5,
+		"user" : "dasardasar jaringan komputer",
+		"avatar" : "Kursus Dasar-Dasar Jaringan Komputer di Learnext dirancang untuk memberikan pemahaman mendalam tentang konsep dan teknologi jaringan. Dalam kursus ini, Anda akan mempelajari:\n\n- Pengantar Jaringan Komputer: Memahami apa itu jaringan dan bagaimana cara kerjanya.\n- Komponen Jaringan: Belajar tentang perangkat keras dan perangkat lunak yang digunakan dalam jaringan, termasuk router, switch, dan firewall.\n- Protokol Jaringan: Memahami protokol yang mendasari komunikasi data seperti TCP/IP dan HTTP.\n- Keamanan Jaringan: Dasar-dasar keamanan dalam jaringan untuk melindungi data dan informasi.\n- Konfigurasi Jaringan: Pengenalan dasar tentang bagaimana mengkonfigurasi perangkat jaringan.\n\nKursus ini sangat bermanfaat bagi Anda yang ingin membangun karir di bidang TI atau memperdalam pengetahuan tentang jaringan komputer. \n\nApakah Anda ingin saya membantu Anda mendaftar kursus ini atau ada pertanyaan lain yang ingin Anda ajukan?",
+		"created_at" : "2025-04-26 11:22:46",
+		"updated_at" : "2025-04-26 11:22:46"
+	},
+	{
+		"chat_session_id" : "8b9911d5-2255-11f0-bf4c-7e3a96a570c5",
+		"user_email" : "johanes.hendri@gmail.com",
+		"chat_orders" : 6,
+		"user" : "Bagaimana cara mendaftar",
+		"avatar" : "Untuk mendaftar kursus Dasar-Dasar Jaringan Komputer di Learnext, Anda dapat mengikuti langkah-langkah berikut:\n\n1. Masuk ke Akun Learnext: Buka platform Learnext dan masuk menggunakan akun Anda.\n\n2. Cari Kursus: Gunakan fitur pencarian di platform dan ketik \"Dasar-Dasar Jaringan Komputer\".\n\n3. Pilih Kursus: Temukan kursus yang sesuai dari hasil pencarian dan klik untuk melihat detailnya.\n\n4. Mendaftar: Di halaman kursus, Anda akan menemukan opsi untuk mendaftar. Klik tombol \"Daftar\" atau \"Enroll\".\n\n5. Ikuti Proses Pendaftaran: Ikuti instruksi yang diberikan untuk menyelesaikan pendaftaran, yang mungkin termasuk memilih metode pembayaran jika diperlukan.\n\nJika Anda mengalami masalah saat mendaftar atau membutuhkan bantuan lebih lanjut, beri tahu saya, dan saya akan mengarahkan Anda ke tim dukungan Learnext. Apakah ada hal lain yang ingin Anda ketahui?",
+		"created_at" : "2025-04-26 11:22:46",
+		"updated_at" : "2025-04-26 11:22:46"
+	},
+	{
+		"chat_session_id" : "8b9911d5-2255-11f0-bf4c-7e3a96a570c5",
+		"user_email" : "johanes.hendri@gmail.com",
+		"chat_orders" : 7,
+		"user" : "cukup untuk saat ini",
+		"avatar" : "Baik! Jika Anda memiliki pertanyaan lebih lanjut atau membutuhkan bantuan di masa mendatang, jangan ragu untuk menghubungi saya. Selamat belajar dan semoga sukses dengan kursus Anda di Learnext!",
+		"created_at" : "2025-04-26 11:22:46",
+		"updated_at" : "2025-04-26 11:22:46"
+	},
+	{
+		"chat_session_id" : "646866c5-231e-11f0-95b5-d63b0a2cd18b",
+		"user_email" : "eriyanochy.dian@petrokimia-gresik.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-27 11:16:55",
+		"updated_at" : "2025-04-27 11:16:55"
+	},
+	{
+		"chat_session_id" : "18cb0031-233b-11f0-b7e5-32bfca24a905",
+		"user_email" : "salmanmhyla@gmail.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-27 14:43:12",
+		"updated_at" : "2025-04-27 14:43:12"
+	},
+	{
+		"chat_session_id" : "625abba8-2355-11f0-869e-a6d743bfabe7",
+		"user_email" : "anshar.bakda@pupukkaltim.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-27 17:50:51",
+		"updated_at" : "2025-04-27 17:50:51"
+	},
+	{
+		"chat_session_id" : "fcebcfc0-236d-11f0-869e-a6d743bfabe7",
+		"user_email" : "meyrano.ariwako@pupukkaltim.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-27 20:47:16",
+		"updated_at" : "2025-04-27 20:47:16"
+	},
+	{
+		"chat_session_id" : "40d0418b-2374-11f0-9e9a-c24f15c624d2",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-27 21:31:15",
+		"updated_at" : "2025-04-27 21:31:15"
+	},
+	{
+		"chat_session_id" : "55ac10d8-2374-11f0-869e-a6d743bfabe7",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-27 21:31:50",
+		"updated_at" : "2025-04-27 21:31:50"
+	},
+	{
+		"chat_session_id" : "9679d2aa-239e-11f0-bf4c-7e3a96a570c5",
+		"user_email" : "muhammadkhaidiramin@gmail.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-28 02:34:32",
+		"updated_at" : "2025-04-28 02:34:32"
+	},
+	{
+		"chat_session_id" : "a4225137-239e-11f0-95b5-d63b0a2cd18b",
+		"user_email" : "muhammadkhaidiramin@gmail.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-28 02:34:45",
+		"updated_at" : "2025-04-28 02:34:45"
+	},
+	{
+		"chat_session_id" : "374869f8-23c9-11f0-869e-a6d743bfabe7",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-28 07:39:41",
+		"updated_at" : "2025-04-28 07:39:41"
+	},
+	{
+		"chat_session_id" : "a9495e7d-23d2-11f0-b048-0291eb85ff87",
+		"user_email" : "esdm-ares.test@learnext.ai",
+		"chat_orders" : 1,
+		"user" : "selamat pagi",
+		"avatar" : "Selamat pagi! 👋\n\nSaya GAIA, AI Career Coach GoKampus. Apakah Anda ingin mendapatkan rekomendasi pelatihan atau kursus terbaru di bidang pertambangan, energi, K3 (Keselamatan dan Kesehatan Kerja), atau topik lain yang relevan dengan pengembangan karier Anda? Silakan sebutkan kebutuhan atau minat Anda, dan saya akan membantu menemukan kursus GoKampus yang paling sesuai untuk Anda.\n\nContoh permintaan:\n- “Tunjukkan kursus K3 untuk pemula.”\n- “Apa pelatihan terbaik tentang inspeksi kilang?”\n- “Saya ingin meningkatkan pengetahuan tentang keselamatan kerja di sektor pertambangan.”\n\nSilakan informasikan kebutuhan Anda!",
+		"created_at" : "2025-04-28 08:47:15",
+		"updated_at" : "2025-04-28 08:47:15"
+	},
+	{
+		"chat_session_id" : "b64bc336-23d2-11f0-8a5c-0291eb85ff87",
+		"user_email" : "esdm-ares.test@learnext.ai",
+		"chat_orders" : 1,
+		"user" : "selamat pagi",
+		"avatar" : "Selamat pagi! 👋\n\nSaya GAIA, AI Career Coach dari GoKampus. Apakah Anda ingin mendapatkan rekomendasi kursus atau pelatihan untuk pengembangan karier dan keterampilan? Silakan sebutkan bidang atau skill yang ingin Anda kembangkan, dan saya akan membantu mencarikan kursus terbaik di GoKampus untuk Anda!",
+		"created_at" : "2025-04-28 08:47:54",
+		"updated_at" : "2025-04-28 08:47:54"
+	},
+	{
+		"chat_session_id" : "c2880c8a-23d4-11f0-bf4c-7e3a96a570c5",
+		"user_email" : "ux.test@learnext.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-28 09:02:15",
+		"updated_at" : "2025-04-28 09:02:15"
+	},
+	{
+		"chat_session_id" : "c2880c8a-23d4-11f0-bf4c-7e3a96a570c5",
+		"user_email" : "ux.test@learnext.com",
+		"chat_orders" : 2,
+		"user" : "Akun tidak ditemukanKarena",
+		"avatar" : "Masalah teknis Anda telah diteruskan ke tim dukungan Learnext. Mereka akan menghubungi Anda segera. Sementara itu, apakah Anda ingin menjelajahi kursus tentang manajemen digital atau topik terkait lainnya?",
+		"created_at" : "2025-04-28 09:02:15",
+		"updated_at" : "2025-04-28 09:02:15"
+	},
+	{
+		"chat_session_id" : "912e2b4f-23d9-11f0-87f6-0291eb85ff87",
+		"user_email" : "esdm-ares.test@learnext.ai",
+		"chat_orders" : 1,
+		"user" : "selamat pagi",
+		"avatar" : "Selamat pagi! 👋  \nSaya GAIA, AI Career Coach GoKampus. Ada yang bisa saya bantu hari ini? Apakah Anda ingin mendapatkan rekomendasi pelatihan atau kursus terbaru di bidang pertambangan, energi, K3, atau topik lain yang tersedia di GoKampus? Silakan sebutkan kebutuhan atau minat Anda, dan saya akan membantu mencarikan kursus yang paling relevan untuk pengembangan karier Anda!",
+		"created_at" : "2025-04-28 09:36:53",
+		"updated_at" : "2025-04-28 09:36:53"
+	},
+	{
+		"chat_session_id" : "912e2b4f-23d9-11f0-87f6-0291eb85ff87",
+		"user_email" : "esdm-ares.test@learnext.ai",
+		"chat_orders" : 2,
+		"user" : "apa kabar?",
+		"avatar" : "Selamat pagi! Terima kasih sudah menyapa. Saya GAIA, AI Career Coach GoKampus, selalu siap membantu Anda dalam pengembangan karier dan pelatihan berbasis kursus GoKampus.\n\nBagaimana kabar Anda hari ini? Apakah ada kebutuhan khusus terkait pelatihan, survei kepuasan layanan, atau ingin mendapatkan rekomendasi kursus di bidang energi, pertambangan, atau topik lain yang tersedia di GoKampus?  \nSilakan sampaikan kebutuhan Anda, saya siap membantu dengan rekomendasi kursus atau informasi pembelajaran yang relevan!",
+		"created_at" : "2025-04-28 09:36:53",
+		"updated_at" : "2025-04-28 09:36:53"
+	},
+	{
+		"chat_session_id" : "bdb2d0ba-23e4-11f0-893e-0291eb85ff87",
+		"user_email" : "esdm-ares.gk@yopmail.com",
+		"chat_orders" : 1,
+		"user" : "halo selamat pagi",
+		"avatar" : "Halo, selamat pagi! 👋  \nSaya GAIA, AI Career Coach dari GoKampus. Apakah Anda ingin mendapatkan rekomendasi kursus atau pelatihan untuk pengembangan karier dan keterampilan? Silakan sebutkan bidang atau skill yang ingin Anda tingkatkan, dan saya akan membantu mencarikan kursus terbaik di GoKampus untuk Anda!",
+		"created_at" : "2025-04-28 11:00:03",
+		"updated_at" : "2025-04-28 11:00:03"
+	},
+	{
+		"chat_session_id" : "92c54399-23e5-11f0-a1e0-0291eb85ff87",
+		"user_email" : "esdm-ares.gk@yopmail.com",
+		"chat_orders" : 1,
+		"user" : "berikan tips agar seseorang bisa bekerja sebagai akuntan",
+		"avatar" : "Tentu! Berikut adalah tips terstruktur agar Anda bisa bekerja sebagai akuntan, berdasarkan kompetensi dan persyaratan jabatan yang relevan dengan posisi akuntansi di lingkungan pemerintahan maupun korporasi (berdasarkan hasil pencarian vektor GoKampus):\n\n---\n\n### 1. Penuhi Syarat Pendidikan\n- Minimal S1 Akuntansi sangat diutamakan untuk posisi akuntan atau pengolah sistem akuntansi.\n- Alternatif: S1 Manajemen atau Teknik Informatika (terutama jika ingin fokus pada sistem akuntansi berbasis aplikasi).\n\n### 2. Ikuti Pelatihan Terkait\n- Ikuti pelatihan seperti:\n  - Perbendaharaan\n  - Sistem Akuntansi Instansi (SAI)\n  - Sistem Akuntansi Pemerintah (SAP)\n  - Pengelolaan kekayaan negara\n- Pelatihan auditor juga sangat bermanfaat.\n\n### 3. Bangun Pengetahuan Kerja\n- Kuasai standar akuntansi dan perbendaharaan.\n- Pahami manajemen aset dan proses administrasi keuangan.\n- Pelajari penggunaan aplikasi komputer akuntansi.\n\n### 4. Peroleh Pengalaman Praktis\n- Untuk PNS, pengalaman minimal 2 tahun di bidang akuntansi sangat diutamakan.\n- Bagi fresh graduate/CPNS, pengalaman tidak wajib, namun magang atau kerja praktek akan sangat membantu.\n\n### 5. Kuasai Tugas Teknis Akuntansi\n- Latih kemampuan berikut:\n  - Menelaah peraturan perundang-undangan terkait keuangan.\n  - Mengumpulkan dan mengolah data penerimaan/pengeluaran.\n  - Membuat laporan keuangan sesuai standar instansi/perusahaan.\n  - Memasukkan data ke dalam aplikasi komputer akuntansi.\n  - Melakukan verifikasi dokumen tagihan dan pertanggungjawaban.\n\n### 6. Kembangkan Soft Skills\n- Teliti, rapi, dan mampu bekerja dengan data detail.\n- Mampu bekerja mandiri maupun dalam tim.\n- Komunikasi tertulis dan lisan yang baik.\n\n### 7. Siapkan Fisik & Mental\n- Kondisi fisik umumnya tidak menjadi hambatan (laki-laki/perempuan).\n- Siap bekerja di ruangan, duduk, dan berjalan.\n\n---\n\n#### Rekomendasi Kursus GoKampus\nUntuk mendukung langkah di atas, berikut beberapa kursus yang dapat Anda ikuti di GoKampus:\n1. Dasar-dasar Akuntansi untuk Pemula  \n   Level: Beginner | Format: Video | Bahasa: Indonesia\n2. Sistem Akuntansi Instansi Pemerintah (SAI & SAP)  \n   Level: Intermediate | Format: Online Class | Bahasa: Indonesia\n3. Pelatihan Aplikasi Komputer Akuntansi  \n   Level: All Levels | Format: Workshop | Bahasa: Indonesia\n\nIngin daftar salah satu kursus di atas atau butuh rekomendasi lebih spesifik? Silakan informasikan kebutuhan atau level Anda!\n\n---\n\nSumber:  \n- [pdf_output_batch_18.md] – Rincian tugas, syarat jabatan, dan pelatihan untuk posisi akuntansi di instansi pemerintah.\n\nCatatan: Jika Anda ingin tips negosiasi gaji atau karier umum lainnya, saya sarankan mengikuti kursus terkait di GoKampus.",
+		"created_at" : "2025-04-28 11:07:04",
+		"updated_at" : "2025-04-28 11:07:04"
+	},
+	{
+		"chat_session_id" : "0642819b-23f3-11f0-bfb4-0291eb85ff87",
+		"user_email" : "esdm-ares.test@learnext.ai",
+		"chat_orders" : 1,
+		"user" : "selamat siang",
+		"avatar" : "Selamat siang! 👋  \nSaya GAIA, AI Career Coach GoKampus. Apakah Anda ingin mendapatkan rekomendasi pelatihan atau kursus terbaru di bidang energi, pertambangan, K3, atau topik lain yang tersedia di GoKampus? Silakan sebutkan kebutuhan pengembangan skill atau posisi pekerjaan Anda, dan saya akan membantu mencarikan program pembelajaran yang paling relevan untuk Anda.",
+		"created_at" : "2025-04-28 12:39:13",
+		"updated_at" : "2025-04-28 12:39:13"
+	},
+	{
+		"chat_session_id" : "1f1d78a4-23f3-11f0-a909-0291eb85ff87",
+		"user_email" : "esdm-ares.test@learnext.ai",
+		"chat_orders" : 1,
+		"user" : "selamat siang",
+		"avatar" : "Selamat siang! 👋  \nSaya GAIA, AI Career Coach dari GoKampus. Apakah Anda ingin mendapatkan rekomendasi pelatihan atau kursus untuk pengembangan karier di sektor energi, pertambangan, K3 (Keselamatan dan Kesehatan Kerja), atau bidang lainnya? Silakan sebutkan skill atau topik yang ingin Anda kembangkan, dan saya akan membantu mencarikan kursus GoKampus yang paling relevan untuk Anda!",
+		"created_at" : "2025-04-28 12:39:43",
+		"updated_at" : "2025-04-28 12:39:43"
+	},
+	{
+		"chat_session_id" : "1f1d78a4-23f3-11f0-a909-0291eb85ff87",
+		"user_email" : "esdm-ares.test@learnext.ai",
+		"chat_orders" : 2,
+		"user" : "selamat siang",
+		"avatar" : "Selamat siang! 👋  \nSaya GAIA, AI Career Coach dari GoKampus. Apakah Anda ingin mendapatkan rekomendasi pelatihan atau kursus untuk pengembangan karier di sektor energi, pertambangan, K3 (Keselamatan & Kesehatan Kerja), atau bidang lainnya? Silakan sebutkan skill atau topik yang ingin Anda kembangkan, dan saya akan membantu mencarikan kursus GoKampus yang paling relevan untuk Anda!",
+		"created_at" : "2025-04-28 12:39:43",
+		"updated_at" : "2025-04-28 12:39:43"
+	},
+	{
+		"chat_session_id" : "420dbf02-23f3-11f0-a13c-0291eb85ff87",
+		"user_email" : "esdm-ares.test@learnext.ai",
+		"chat_orders" : 1,
+		"user" : "selamat siang",
+		"avatar" : "Selamat siang! 👋  \nSaya GAIA, AI Career Coach dari GoKampus. Apakah Anda ingin mendapatkan rekomendasi pelatihan atau kursus untuk pengembangan karier di sektor energi, pertambangan, K3 (Keselamatan dan Kesehatan Kerja), atau bidang lainnya? Silakan sebutkan skill atau topik yang ingin Anda kembangkan, dan saya akan membantu mencarikan kursus terbaik di GoKampus untuk Anda!",
+		"created_at" : "2025-04-28 12:40:57",
+		"updated_at" : "2025-04-28 12:40:57"
+	},
+	{
+		"chat_session_id" : "420dbf02-23f3-11f0-a13c-0291eb85ff87",
+		"user_email" : "esdm-ares.test@learnext.ai",
+		"chat_orders" : 2,
+		"user" : "apa kabar",
+		"avatar" : "Selamat siang! Terima kasih sudah menyapa. Saya GAIA, AI Career Coach dari GoKampus, selalu siap membantu Anda mencari pelatihan atau kursus yang relevan untuk pengembangan karier dan kompetensi Anda.\n\nApakah ada topik atau skill tertentu di bidang pertambangan, energi, hukum perusahaan, atau pengadaan barang/jasa pemerintah yang ingin Anda pelajari? Silakan sebutkan kebutuhan Anda, dan saya akan merekomendasikan kursus terbaik dari GoKampus sesuai minat dan tujuan karier Anda!",
+		"created_at" : "2025-04-28 12:40:57",
+		"updated_at" : "2025-04-28 12:40:57"
+	},
+	{
+		"chat_session_id" : "8cbee995-23f6-11f0-be19-0291eb85ff87",
+		"user_email" : "esdm-ares.test@learnext.ai",
+		"chat_orders" : 1,
+		"user" : "Apa itu ESDM?",
+		"avatar" : "ESDM adalah singkatan dari Energi dan Sumber Daya Mineral.\n\nDi Indonesia, ESDM merujuk pada Kementerian Energi dan Sumber Daya Mineral (KESDM), yaitu kementerian yang bertanggung jawab dalam pengelolaan sektor energi (seperti listrik, minyak, gas, dan energi terbarukan) serta sumber daya mineral (seperti pertambangan dan mineral strategis).\n\n### Tugas dan Fungsi Utama KESDM:\n- Mengelola dan mengoptimalkan energi dan mineral untuk mendukung pembangunan nasional.\n- Menjamin ketersediaan energi nasional dengan harga terjangkau bagi seluruh masyarakat.\n- Mengakselerasi pemanfaatan energi baru, energi terbarukan, dan konservasi energi.\n- Meningkatkan pelayanan mitigasi bencana geologi (misalnya gunung api, gempa bumi, tsunami, likuifaksi).\n- Menyediakan data dan informasi kebencanaan geologi yang cepat dan akurat.\n\n### Visi KESDM:\n> “Menjadi Penggerak Utama Pembangunan Nasional Melalui Pengelolaan ESDM yang Optimal demi Terwujudnya Kemandirian dan Ketahanan Energi Untuk Kesejahteraan Rakyat Yang Adil dan Merata.”  \n> (Sumber: content-rencana-strategis-setjen-tahun-2020-2024.json)\n\n### Sasaran Strategis KESDM meliputi:\n1. Meningkatkan kemandirian dan ketahanan energi nasional.\n2. Optimalisasi pengelolaan energi dan mineral yang berkelanjutan.\n3. Penguatan kapasitas organisasi di sektor ESDM.\n4. Ketersediaan data dan informasi mitigasi serta penanggulangan kebencanaan geologi yang cepat dan akurat.\n\n---\n\nIngin belajar lebih lanjut tentang manajemen energi, kebijakan ESDM, atau pelatihan teknis di bidang energi dan mineral?  \nSaya dapat merekomendasikan kursus GoKampus yang relevan sesuai kebutuhan Anda!",
+		"created_at" : "2025-04-28 13:05:49",
+		"updated_at" : "2025-04-28 13:05:49"
+	},
+	{
+		"chat_session_id" : "beb63757-2405-11f0-95b5-d63b0a2cd18b",
+		"user_email" : "kasthalani@pupukkaltim.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-28 14:52:54",
+		"updated_at" : "2025-04-28 14:52:54"
+	},
+	{
+		"chat_session_id" : "3762afbc-2406-11f0-bf4c-7e3a96a570c5",
+		"user_email" : "gaia.test@gokampus.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-28 14:56:15",
+		"updated_at" : "2025-04-28 14:56:15"
+	},
+	{
+		"chat_session_id" : "eac1f08f-2407-11f0-bf4c-7e3a96a570c5",
+		"user_email" : "nexa.test@learnext.ai",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-28 15:10:36",
+		"updated_at" : "2025-04-28 15:10:36"
+	},
+	{
+		"chat_session_id" : "eac1f08f-2407-11f0-bf4c-7e3a96a570c5",
+		"user_email" : "nexa.test@learnext.ai",
+		"chat_orders" : 2,
+		"user" : "Iya saya mau tanya, kalau saya mau Markmarketing itu SEO itu apa ya tipsnya?",
+		"avatar" : "Saya fokus pada program pembelajaran di Learnext. Jika Anda tertarik, saya bisa merekomendasikan kursus tentang \"Digital Marketing\" yang mencakup SEO. Apakah Anda ingin informasi lebih lanjut tentang kursus tersebut?",
+		"created_at" : "2025-04-28 15:10:36",
+		"updated_at" : "2025-04-28 15:10:36"
+	},
+	{
+		"chat_session_id" : "eac1f08f-2407-11f0-bf4c-7e3a96a570c5",
+		"user_email" : "nexa.test@learnext.ai",
+		"chat_orders" : 3,
+		"user" : "Yes benar",
+		"avatar" : "Kursus \"Digital Marketing\" di Learnext mencakup berbagai topik penting, termasuk SEO (Search Engine Optimization). Dalam kursus ini, Anda akan belajar tentang:\n\n1. Dasar-dasar SEO dan bagaimana mesin pencari bekerja.\n2. Teknik optimasi on-page dan off-page.\n3. Strategi riset kata kunci untuk meningkatkan peringkat.\n4. Cara menganalisis dan melacak kinerja SEO menggunakan analitik.\n\nKursus ini dirancang untuk membantu Anda memahami dan menerapkan strategi SEO yang efektif untuk meningkatkan visibilitas online. Apakah Anda ingin saya membantu membuat rencana pembelajaran yang lebih terstruktur untuk Anda?",
+		"created_at" : "2025-04-28 15:10:36",
+		"updated_at" : "2025-04-28 15:10:36"
+	},
+	{
+		"chat_session_id" : "eac1f08f-2407-11f0-bf4c-7e3a96a570c5",
+		"user_email" : "nexa.test@learnext.ai",
+		"chat_orders" : 4,
+		"user" : "Halo iya, saya mau tanya bagaimana masak nasi goreng yang",
+		"avatar" : "Saya fokus pada program pembelajaran di Learnext. Jika Anda tertarik, saya bisa merekomendasikan kursus tentang \"Culinary Business Management\" yang mungkin bisa membantu Anda dalam bidang kuliner. Apakah Anda ingin informasi lebih lanjut tentang kursus tersebut?",
+		"created_at" : "2025-04-28 15:10:36",
+		"updated_at" : "2025-04-28 15:10:36"
+	},
+	{
+		"chat_session_id" : "cd2f2075-2406-11f0-86a5-0291eb85ff87",
+		"user_email" : "esdm-ares.gk@yopmail.com",
+		"chat_orders" : 1,
+		"user" : "berikan tips untuk seseorang yang ingin menjadi akuntan",
+		"avatar" : "Berikut adalah beberapa tips untuk seseorang yang ingin menjadi akuntan, berdasarkan standar kompetensi dan kebutuhan jabatan di lingkungan pemerintahan maupun organisasi modern:\n\nSatu. Pendidikan  \nUtamakan menempuh pendidikan minimal sarjana di bidang Akuntansi atau Manajemen. Latar belakang pendidikan ini akan memberikan dasar teori dan praktik yang kuat dalam akuntansi.\n\nDua. Pelatihan dan Sertifikasi  \nIkuti pelatihan terkait sistem akuntansi pemerintah, perbendaharaan, serta aplikasi sistem akuntansi instansi. Sertifikasi profesi seperti brevet pajak atau sertifikat akuntan publik juga sangat membantu meningkatkan kredibilitas.\n\nTiga. Penguasaan Pengetahuan Kerja  \nKuasai manajemen aset, standardisasi akuntansi, pengelolaan kekayaan negara, dan perbendaharaan. Pemahaman mendalam tentang peraturan perundang-undangan yang relevan sangat penting.\n\nEmpat. Pengalaman Praktis  \nBagi pegawai negeri sipil, pengalaman kerja dua tahun di bidang akuntansi sangat diutamakan. Namun, bagi calon pegawai baru, pengalaman tidak selalu menjadi syarat utama, sehingga aktiflah mencari magang atau proyek sukarela untuk membangun portofolio.\n\nLima. Keterampilan Teknis  \nLatih kemampuan menggunakan komputer dan aplikasi akuntansi, baik untuk pencatatan, pengolahan data, maupun pembuatan laporan keuangan.\n\nEnam. Soft Skills  \nKembangkan kemampuan analisis, ketelitian, komunikasi, dan integritas. Seorang akuntan harus mampu bekerja secara teliti, mematuhi prosedur, dan menjaga kerahasiaan data.\n\nTujuh. Pembelajaran Berkelanjutan  \nSelalu update dengan perubahan regulasi, standar akuntansi, dan teknologi terbaru di bidang keuangan.\n\nJika Anda ingin memperdalam pengetahuan atau mempersiapkan diri menjadi akuntan profesional, Learnext menawarkan kursus seperti Dasar-dasar Akuntansi, Sistem Akuntansi Pemerintah, dan Manajemen Aset. Apakah Anda ingin saya rekomendasikan jalur pembelajaran khusus sesuai tujuan karier Anda?",
+		"created_at" : "2025-04-28 15:14:50",
+		"updated_at" : "2025-04-28 15:14:50"
+	},
+	{
+		"chat_session_id" : "cd2f2075-2406-11f0-86a5-0291eb85ff87",
+		"user_email" : "esdm-ares.gk@yopmail.com",
+		"chat_orders" : 2,
+		"user" : "berikan tips untuk seseorang yang ingin menjadi akuntan",
+		"avatar" : "Berikut adalah beberapa tips untuk seseorang yang ingin menjadi akuntan, berdasarkan standar kompetensi dan kebutuhan jabatan di lingkungan pemerintahan maupun sektor profesional:\n\nSatu. Pendidikan  \nUtamakan menempuh pendidikan minimal sarjana di bidang Akuntansi atau Manajemen. Latar belakang pendidikan ini akan memberikan dasar teori dan praktik yang kuat dalam akuntansi.\n\nDua. Pelatihan dan Sertifikasi  \nIkuti pelatihan terkait sistem akuntansi instansi, perbendaharaan, serta aplikasi keuangan. Jika memungkinkan, ambil sertifikasi profesi seperti brevet pajak atau sertifikat akuntan publik untuk meningkatkan daya saing.\n\nTiga. Pengetahuan Kerja  \nKuasai manajemen aset, pengelolaan kekayaan negara, serta pemahaman tentang sistem akuntansi pemerintah (SAP, SAI, SABMN). Pahami juga peraturan perundang-undangan yang relevan dengan tugas akuntansi.\n\nEmpat. Pengalaman Praktis  \nBagi pegawai negeri sipil, pengalaman kerja dua tahun di bidang akuntansi sangat diutamakan. Namun, bagi calon pegawai baru, pengalaman tidak selalu menjadi syarat mutlak, sehingga aktiflah mencari magang atau proyek sukarela untuk membangun portofolio.\n\nLima. Keterampilan Teknis  \nLatih kemampuan menggunakan komputer dan aplikasi akuntansi. Kemampuan mengolah data, membuat laporan keuangan, serta melakukan verifikasi dokumen sangat penting.\n\nEnam. Soft Skills  \nKembangkan keterampilan komunikasi, ketelitian, integritas, dan kemampuan bekerja sama dalam tim. Seorang akuntan harus mampu menganalisis data secara detail dan menjaga kerahasiaan informasi.\n\nTujuh. Pembelajaran Berkelanjutan  \nSelalu update pengetahuan dengan mengikuti kursus atau pelatihan terbaru di bidang akuntansi dan keuangan. Dunia akuntansi terus berkembang seiring perubahan regulasi dan teknologi.\n\nJika Anda ingin memulai perjalanan sebagai akuntan, Learnext menawarkan kursus seperti Dasar-dasar Akuntansi, Sistem Akuntansi Pemerintah, dan Manajemen Aset. Apakah Anda ingin saya rekomendasikan jalur pembelajaran khusus sesuai tujuan karier Anda?",
+		"created_at" : "2025-04-28 15:14:50",
+		"updated_at" : "2025-04-28 15:14:50"
+	},
+	{
+		"chat_session_id" : "cd2f2075-2406-11f0-86a5-0291eb85ff87",
+		"user_email" : "esdm-ares.gk@yopmail.com",
+		"chat_orders" : 3,
+		"user" : "berikan tips untuk seseorang yang ingin menjadi programmer",
+		"avatar" : "Berikut adalah beberapa tips untuk seseorang yang ingin menjadi programmer, berdasarkan standar kompetensi dan kebutuhan jabatan di lingkungan profesional maupun pemerintahan:\n\nSatu. Pendidikan  \nUtamakan menempuh pendidikan minimal sarjana di bidang Teknik Informatika, Ilmu Komputer, atau Teknik Komputer. Dasar pendidikan ini akan sangat membantu dalam memahami teori dan praktik pemrograman.\n\nDua. Pelatihan dan Sertifikasi  \nIkuti pelatihan pemrograman, rancang bangun sistem operasi berbasis jaringan, serta pengelolaan basis data. Mengikuti kursus atau bootcamp pemrograman juga dapat mempercepat penguasaan keterampilan teknis.\n\nTiga. Pengetahuan Kerja  \nKuasai perangkat keras dan lunak komputer, teknologi jaringan, serta sistem operasi berbasis jaringan. Pahami juga proses analisis kebutuhan, perancangan aplikasi, pengujian, dan pembuatan dokumentasi (user manual).\n\nEmpat. Pengalaman Praktis  \nBangun portofolio dengan membuat proyek aplikasi sederhana hingga kompleks. Lakukan magang atau kerja praktek untuk mendapatkan pengalaman nyata di dunia kerja.\n\nLima. Keterampilan Teknis  \nLatih kemampuan menyusun program atau source code, menguji aplikasi, serta melakukan debugging. Kuasai bahasa pemrograman populer seperti Python, Java, atau lainnya sesuai kebutuhan industri.\n\nEnam. Soft Skills  \nKembangkan sikap bertanggung jawab, disiplin, teliti, mampu bekerja sama dalam tim, serta memiliki kepekaan sosial dan kepedulian terhadap lingkungan sekitar. Kemampuan komunikasi dan kolaborasi sangat penting dalam pengembangan perangkat lunak.\n\nTujuh. Pembelajaran Berkelanjutan  \nTeknologi selalu berkembang. Selalu update pengetahuan dengan mengikuti kursus terbaru, membaca literatur akademis, dan mempelajari tren teknologi informasi.\n\nDelapan. Etika dan Profesionalisme  \nJunjung tinggi etika profesi, integritas, dan semangat untuk mendahulukan kepentingan masyarakat luas. Hargai pendapat dan temuan original orang lain.\n\nLearnext menawarkan berbagai kursus seperti Pemrograman Dasar, Rancang Bangun Sistem Informasi, dan Manajemen Proyek TI. Apakah Anda ingin saya rekomendasikan jalur pembelajaran khusus sesuai tujuan karier Anda?",
+		"created_at" : "2025-04-28 15:14:50",
+		"updated_at" : "2025-04-28 15:14:50"
+	},
+	{
+		"chat_session_id" : "2ef09f99-2409-11f0-b63c-0291eb85ff87",
+		"user_email" : "esdm-ares.gk@yopmail.com",
+		"chat_orders" : 1,
+		"user" : "apa saja tanggung jawab seorang product manager?",
+		"avatar" : "Berikut adalah tanggung jawab utama seorang Product Manager berdasarkan referensi kursus dan materi di Learnext:\n\n1. Merumuskan visi dan strategi produk  \nProduct Manager bertanggung jawab untuk menentukan arah pengembangan produk, menetapkan tujuan jangka pendek dan panjang, serta memastikan strategi produk selaras dengan kebutuhan pasar dan visi perusahaan.\n\n2. Mengelola siklus hidup produk  \nMulai dari tahap perencanaan, pengembangan, peluncuran, hingga evaluasi kinerja produk di pasar. Product Manager harus memastikan setiap tahapan berjalan sesuai target.\n\n3. Mengidentifikasi kebutuhan pelanggan  \nMelakukan riset pasar, mengumpulkan masukan dari pengguna, dan menganalisis data untuk memahami kebutuhan serta masalah yang dihadapi pelanggan.\n\n4. Menyusun dan memprioritaskan backlog  \nMembuat daftar fitur atau perbaikan yang dibutuhkan, lalu memprioritaskan mana yang harus dikerjakan terlebih dahulu berdasarkan dampak bisnis dan sumber daya yang tersedia.\n\n5. Berkoordinasi dengan tim lintas fungsi  \nBekerja sama dengan tim pengembangan, pemasaran, penjualan, desain, dan stakeholder lain untuk memastikan produk dikembangkan dan dipasarkan secara efektif.\n\n6. Memantau dan mengevaluasi kinerja produk  \nMenggunakan data dan metrik untuk menilai keberhasilan produk, kemudian mengambil keputusan berbasis data untuk perbaikan berkelanjutan.\n\n7. Menjadi penghubung antara bisnis dan teknologi  \nProduct Manager menjembatani kebutuhan bisnis dengan solusi teknis, memastikan komunikasi berjalan lancar antara pihak internal maupun eksternal.\n\nJika Anda ingin mendalami peran dan keterampilan Product Manager, saya dapat merekomendasikan kursus “Product Management Fundamentals” di Learnext. Apakah Anda ingin mengetahui detail kursus tersebut?",
+		"created_at" : "2025-04-28 15:18:52",
+		"updated_at" : "2025-04-28 15:18:52"
+	},
+	{
+		"chat_session_id" : "2ef09f99-2409-11f0-b63c-0291eb85ff87",
+		"user_email" : "esdm-ares.gk@yopmail.com",
+		"chat_orders" : 2,
+		"user" : "apa saja tanggung jawab seorang product manager?",
+		"avatar" : "Berikut adalah tanggung jawab utama seorang Product Manager berdasarkan referensi kursus dan materi di Learnext:\n\n1. Merumuskan visi dan strategi produk  \nProduct Manager bertanggung jawab untuk menentukan arah pengembangan produk, menetapkan tujuan jangka pendek dan panjang, serta memastikan produk sesuai dengan kebutuhan pasar dan visi perusahaan.\n\n2. Mengelola siklus hidup produk  \nMulai dari tahap perencanaan, pengembangan, peluncuran, hingga evaluasi kinerja produk di pasar. Product Manager harus memastikan setiap fase berjalan efektif dan efisien.\n\n3. Berkoordinasi lintas tim  \nProduct Manager menjadi penghubung antara tim pengembangan, pemasaran, penjualan, dan layanan pelanggan untuk memastikan semua pihak memahami tujuan dan prioritas produk.\n\n4. Mengumpulkan dan menganalisis data pasar  \nMelakukan riset pasar, mengidentifikasi tren, serta memahami kebutuhan dan masalah pengguna untuk dijadikan dasar pengambilan keputusan produk.\n\n5. Menyusun dan memprioritaskan backlog  \nMembuat daftar fitur atau perbaikan yang akan dikembangkan, lalu memprioritaskan berdasarkan nilai bisnis, kebutuhan pengguna, dan sumber daya yang tersedia.\n\n6. Memastikan kualitas dan keberhasilan produk  \nBertanggung jawab terhadap mutu produk, melakukan pengujian, serta mengevaluasi feedback pengguna untuk perbaikan berkelanjutan.\n\n7. Menyusun laporan dan presentasi produk  \nMenyampaikan perkembangan, hasil, dan rencana produk kepada manajemen dan pemangku kepentingan lainnya secara terstruktur.\n\nJika Anda ingin mendalami keterampilan ini, Learnext menawarkan kursus seperti \"Product Management Fundamentals\" dan \"Strategic Product Development\". Apakah Anda ingin saya buatkan jalur pembelajaran khusus untuk peran Product Manager?",
+		"created_at" : "2025-04-28 15:18:52",
+		"updated_at" : "2025-04-28 15:18:52"
+	},
+	{
+		"chat_session_id" : "2ef09f99-2409-11f0-b63c-0291eb85ff87",
+		"user_email" : "esdm-ares.gk@yopmail.com",
+		"chat_orders" : 3,
+		"user" : "bagaimana caranya untuk menyelesaikan konflik di lingkungan kerja?",
+		"avatar" : "Berikut adalah langkah-langkah efektif untuk menyelesaikan konflik di lingkungan kerja, sesuai dengan materi pelatihan soft skills dan manajemen konflik di Learnext:\n\n1. Identifikasi sumber konflik  \nPahami akar permasalahan dengan mengumpulkan informasi dari semua pihak yang terlibat. Dengarkan secara aktif tanpa prasangka.\n\n2. Analisis situasi secara objektif  \nEvaluasi fakta dan data terkait konflik. Hindari mengambil keputusan berdasarkan asumsi atau emosi.\n\n3. Komunikasikan secara terbuka  \nAjak semua pihak berdiskusi dalam suasana yang kondusif. Gunakan komunikasi yang jelas, sopan, dan saling menghargai.\n\n4. Cari solusi bersama  \nDorong kolaborasi untuk menemukan alternatif penyelesaian yang adil dan dapat diterima semua pihak. Fokus pada kepentingan bersama, bukan pada individu.\n\n5. Buat kesepakatan tertulis  \nDokumentasikan hasil diskusi dan solusi yang disepakati agar menjadi acuan bersama ke depannya.\n\n6. Tindak lanjuti dan evaluasi  \nPantau implementasi solusi dan lakukan evaluasi berkala untuk memastikan konflik tidak terulang.\n\n7. Libatkan pihak ketiga jika diperlukan  \nJika konflik tidak bisa diselesaikan secara internal, libatkan mediator atau atasan sebagai penengah.\n\nUntuk meningkatkan kemampuan ini, Anda dapat mengikuti kursus \"Manajemen Konflik di Tempat Kerja\" dan \"Komunikasi Efektif\" di Learnext. Apakah Anda ingin saya rekomendasikan jalur pembelajaran khusus untuk pengembangan keterampilan manajemen konflik?",
+		"created_at" : "2025-04-28 15:18:52",
+		"updated_at" : "2025-04-28 15:18:52"
+	},
+	{
+		"chat_session_id" : "6450a3b6-2422-11f0-b7e5-32bfca24a905",
+		"user_email" : "rikson.halomoan.napitupulu@pupukkaltim.com",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-04-28 18:17:47",
+		"updated_at" : "2025-04-28 18:17:47"
 	}
 ]
