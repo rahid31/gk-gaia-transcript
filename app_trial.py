@@ -33,7 +33,7 @@ def fetch_summary_content(session_id):
     return [entry for entry in summary_data if entry.get("chat_session_id") == session_id]
 
 # Streamlit Page Configuration
-st.set_page_config(layout="centered", initial_sidebar_state="collapsed", page_icon=page_icon, page_title="goKampus - GAIA Transcript")
+st.set_page_config(layout="centered", initial_sidebar_state="collapsed", page_icon=page_icon, page_title="Learnext - NEXA Transcript")
 
 # Get session_id from URL
 query_params = st.query_params
@@ -88,7 +88,7 @@ if session_id:
                 st.download_button(
                     label="Download CSV",
                     data=csv,
-                    file_name=f"gaia_transcript_{session_id}.csv",
+                    file_name=f"nexa_transcript_{session_id}.csv",
                     mime="text/csv",
                 )
 
@@ -110,7 +110,7 @@ if session_id:
 
     with tabs[2]: # Session Details Tab
         st.write(f"**Session ID:** {session_id}")
-        st.write(f"**User:** test@gokampus.com")
+        st.write(f"**User:** test@learnext.ai")
         st.write(f"**Created At:** {created_at}")
 
     # Footer
