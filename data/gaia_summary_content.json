@@ -9220,5 +9220,125 @@
 		"summary_title" : "User Mengakses Konten",
 		"summary_content" : "User menyatakan bahwa mereka sudah berada di dalam suatu tempat atau sistem, namun avatar memberikan informasi bahwa data yang dimaksud tidak tersedia di indeks kursus Learnext.",
 		"created_at" : "2025-06-05 09:36:33"
+	},
+	{
+		"chat_session_id" : "de1ad75c-41bd-11f0-bed7-5649a8fd171e",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-05 10:37:43"
+	},
+	{
+		"chat_session_id" : "47c60592-41bf-11f0-bed7-5649a8fd171e",
+		"summary_title" : "Pengembangan Karir di Bidang Pemasaran",
+		"summary_content" : "Seorang pengguna yang bekerja di bidang pemasaran di Hong Kong bertanya kepada NEXA, AI coach dari Learnext, tentang cara meningkatkan keterampilan dan pengetahuan dalam pemasaran. NEXA menyarankan untuk terus memperbarui diri dengan tren terbaru dalam pemasaran digital, SEO, dan strategi pemasaran. Selain itu, NEXA merekomendasikan mengikuti kursus yang relevan di Learnext, seperti 'Strategi Pemasaran Digital' dan 'Dasar-dasar SEO', untuk mendapatkan wawasan lebih dalam mengenai teknik dan alat pemasaran.",
+		"created_at" : "2025-06-05 10:45:47"
+	},
+	{
+		"chat_session_id" : "a6b4dffc-41c5-11f0-825b-722a40dbf0de",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-05 11:31:44"
+	},
+	{
+		"chat_session_id" : "fb7471f1-41c7-11f0-825b-722a40dbf0de",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-05 11:48:09"
+	},
+	{
+		"chat_session_id" : "691592a5-41d1-11f0-93d2-a234feb6e486",
+		"summary_title" : "Penjelasan Tentang Digitalisasi",
+		"summary_content" : "User bertanya kepada avatar mengenai konsep digitalisasi dan apakah itu hanya mencakup pengembangan aplikasi. Avatar menjelaskan bahwa digitalisasi adalah proses mengubah informasi atau proses dari analog ke digital dan mencakup berbagai aspek seperti otomatisasi proses bisnis, pengelolaan data, transformasi layanan pelanggan, pemasaran digital, dan kolaborasi tim. Avatar juga merekomendasikan kursus di Learnext tentang Transformasi Digital dan Pemasaran Digital.",
+		"created_at" : "2025-06-05 12:56:11"
+	},
+	{
+		"chat_session_id" : "c24e3ee6-41d6-11f0-bed7-5649a8fd171e",
+		"summary_title" : "Diskusi tentang Kursus Pengembangan Karir di Industri Kimia",
+		"summary_content" : "User, yang bekerja sebagai 'jr avp bagian ammonia 1b', berinteraksi dengan AI bernama NEXA untuk mencari kursus yang relevan dengan pengembangan karir di industri kimia. NEXA merekomendasikan beberapa kursus seperti 'Dasar-Dasar Manajemen Proyek', 'Keselamatan dan Kesehatan Kerja di Industri Kimia', 'Teknik Proses Kimia', dan 'Keterampilan Kepemimpinan untuk Manajer'. User menunjukkan minat pada kursus 'Teknik Proses Kimia' dan 'Keselamatan dan Kesehatan Kerja di Industri', namun mengalami kesulitan menemukan kursus tersebut di platform Learnext. NEXA kemudian menawarkan alternatif kursus lain yang mungkin relevan.",
+		"created_at" : "2025-06-05 13:38:11"
+	},
+	{
+		"chat_session_id" : "b47f68d6-4274-11f0-8f02-6ad8f47fb943",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-06 08:22:36"
+	},
+	{
+		"chat_session_id" : "3c558dda-4299-11f0-9aa2-3e0ce2a247c9",
+		"summary_title" : "Masalah Pengiriman Esai dan Format Penulisan",
+		"summary_content" : "User mengalami masalah dalam mengirimkan jawaban esai dan meminta bantuan dari avatar, GAIA, yang merupakan AI Advisor dari goKampus. GAIA menjelaskan bahwa masalah tersebut mungkin disebabkan oleh masalah teknis atau format yang tidak sesuai. GAIA kemudian memberikan panduan tentang format esai yang baik, termasuk struktur pendahuluan, isi, dan kesimpulan, serta tips tambahan untuk penulisan esai. User berterima kasih atas bantuan tersebut.",
+		"created_at" : "2025-06-06 12:51:25"
+	},
+	{
+		"chat_session_id" : "90d2c388-42e0-11f0-9077-aac19cfecdb7",
+		"summary_title" : "Panduan Mencari Informasi Kesadaran Siber",
+		"summary_content" : "Percakapan ini membahas cara mencari informasi tentang kesadaran siber dan keamanan siber. Avatar menyarankan untuk mencari kursus atau materi terkait di platform goKampus dengan kata kunci 'kesadaran siber'. Untuk informasi terkait Angkasa Pura, disarankan mengunjungi situs resmi mereka atau mencari di platform kursus dengan kata kunci 'kesadaran keamanan siber Angkasa Pura'.",
+		"created_at" : "2025-06-06 21:17:36"
+	},
+	{
+		"chat_session_id" : "5efec04c-4301-11f0-93d2-a234feb6e486",
+		"summary_title" : "Percakapan Pengembangan Keterampilan Akuntansi",
+		"summary_content" : "User adalah seorang akuntan yang berinteraksi dengan NEXA, AI coach. NEXA menawarkan bantuan dalam pengembangan keterampilan dan merekomendasikan kursus di Learnext. User menyatakan memiliki banyak pertanyaan, tetapi tidak menyebutkan topik spesifik. NEXA menegaskan kembali kesediaannya untuk membantu kapan saja user membutuhkan informasi lebih lanjut.",
+		"created_at" : "2025-06-07 01:11:17"
+	},
+	{
+		"chat_session_id" : "a4c5a511-4301-11f0-8f02-6ad8f47fb943",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-07 01:11:39"
+	},
+	{
+		"chat_session_id" : "70885367-4335-11f0-aea2-4adf11c4a17b",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-07 07:22:14"
+	},
+	{
+		"chat_session_id" : "797a76da-433f-11f0-8818-0a78cca5dc1e",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-07 08:34:20"
+	},
+	{
+		"chat_session_id" : "ed9157af-43ba-11f0-b981-26c55e319713",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-07 23:17:45"
+	},
+	{
+		"chat_session_id" : "8cd1cfbf-4418-11f0-aea2-4adf11c4a17b",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-08 10:28:08"
+	},
+	{
+		"chat_session_id" : "97cd1421-4418-11f0-9125-b67088a5ce1e",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-08 10:28:24"
+	},
+	{
+		"chat_session_id" : "be6178d4-4472-11f0-9125-b67088a5ce1e",
+		"summary_title" : "Diskusi tentang Deforestasi dan Mitos Perlindungan Hutan di Indonesia",
+		"summary_content" : "Percakapan ini membahas tentang penyebab utama deforestasi di Indonesia, termasuk pembukaan lahan untuk pertanian, penebangan liar, konversi hutan, kebakaran hutan, perubahan iklim, dan urbanisasi. Selain itu, dibahas juga tentang mitos dan kepercayaan lokal yang berperan dalam perlindungan hutan, seperti hutan sebagai tempat keramat, larangan menebang pohon tertentu, dan cerita tentang penjaga hutan. Mitos-mitos ini sering kali membantu dalam upaya konservasi dengan menciptakan rasa hormat terhadap lingkungan.",
+		"created_at" : "2025-06-08 21:19:07"
+	},
+	{
+		"chat_session_id" : "666f8914-447a-11f0-bf5c-32b2858f0b6c",
+		"summary_title" : "Diskusi tentang Video dan Pengembangan Karir",
+		"summary_content" : "Pengguna meminta penjelasan ulang tentang video yang tidak dipahami. Avatar menjelaskan bahwa ia tidak dapat melihat atau menjelaskan isi video, tetapi siap membantu dalam pengembangan karir dan keterampilan profesional. Avatar meminta pengguna untuk menjelaskan lebih lanjut tentang topik atau keterampilan yang ingin dibahas.",
+		"created_at" : "2025-06-08 22:10:02"
+	},
+	{
+		"chat_session_id" : "e44a87d7-44cf-11f0-9125-b67088a5ce1e",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-09 08:20:30"
+	},
+	{
+		"chat_session_id" : "e41a0e1c-44d5-11f0-aea2-4adf11c4a17b",
+		"summary_title" : "Bantuan Teknis dan Kontak Learnext",
+		"summary_content" : "Pengguna mengalami kesulitan dengan mikrofon dan meminta bantuan. AI memberikan saran untuk memeriksa pengaturan mikrofon, koneksi, izin aplikasi, dan menyarankan untuk menghubungi dukungan teknis jika masalah berlanjut. Pengguna juga bertanya tentang menghubungi Learnext, dan AI menyarankan untuk mengunjungi situs web resmi mereka untuk informasi kontak.",
+		"created_at" : "2025-06-09 09:05:02"
 	}
 ]
