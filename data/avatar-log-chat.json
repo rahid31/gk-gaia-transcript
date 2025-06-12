@@ -2332,6 +2332,17 @@
 		"updated_at" : "2025-01-15 10:41:06"
 	},
 	{
+		"chat_session_id" : "0f34cf66-468e-11f0-8016-8a275c79dc68",
+		"user_id" : 1340008,
+		"tenant_id" : 612,
+		"summary_title" : "",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-11 13:34:19",
+		"updated_at" : "2025-06-11 13:34:19"
+	},
+	{
 		"chat_session_id" : "0f5d5477-40ea-11f0-8f02-6ad8f47fb943",
 		"user_id" : 1339453,
 		"tenant_id" : 1018,
@@ -2629,6 +2640,83 @@
 		"updated_at" : "2025-05-27 13:24:38"
 	},
 	{
+		"chat_session_id" : "10364131-45a5-11f0-8818-0a78cca5dc1e",
+		"user_id" : 1332307,
+		"tenant_id" : 896,
+		"summary_title" : "Percakapan tentang Fokus Pengembangan Karir",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya lebih fokus pada pengembangan karir dan topik profesional. Jika Anda memiliki pertanyaan atau membutuhkan bantuan terkait karir atau pengembangan di tempat kerja, saya dengan senang hati akan membantu!",
+		"created_at" : "2025-06-10 09:48:57",
+		"updated_at" : "2025-06-10 09:48:57"
+	},
+	{
+		"chat_session_id" : "10364131-45a5-11f0-8818-0a78cca5dc1e",
+		"user_id" : 1332307,
+		"tenant_id" : 896,
+		"summary_title" : "Percakapan tentang Fokus Pengembangan Karir",
+		"chat_orders" : 2,
+		"user" : "Dari kemarin mobilnya spam aja",
+		"avatar" : "Saya lebih fokus pada pengembangan karir dan topik profesional. Jika Anda memiliki pertanyaan atau membutuhkan bantuan terkait karir atau pengembangan di tempat kerja, saya dengan senang hati akan membantu!",
+		"created_at" : "2025-06-10 09:48:57",
+		"updated_at" : "2025-06-10 09:48:57"
+	},
+	{
+		"chat_session_id" : "10364131-45a5-11f0-8818-0a78cca5dc1e",
+		"user_id" : 1332307,
+		"tenant_id" : 896,
+		"summary_title" : "Percakapan tentang Fokus Pengembangan Karir",
+		"chat_orders" : 3,
+		"user" : "di sana aja",
+		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan atau masalah yang terkait dengan karir dan pengembangan profesional. Jika ada hal lain yang ingin Anda diskusikan atau tanyakan, silakan beri tahu saya!",
+		"created_at" : "2025-06-10 09:48:57",
+		"updated_at" : "2025-06-10 09:48:57"
+	},
+	{
+		"chat_session_id" : "10364131-45a5-11f0-8818-0a78cca5dc1e",
+		"user_id" : 1332307,
+		"tenant_id" : 896,
+		"summary_title" : "Percakapan tentang Fokus Pengembangan Karir",
+		"chat_orders" : 4,
+		"user" : "kemari dari situ?",
+		"avatar" : "Saya di sini untuk membantu Anda dalam hal-hal yang berkaitan dengan pengembangan karir dan profesionalisme. Jika Anda memiliki pertanyaan atau membutuhkan saran terkait karir, silakan beri tahu saya!",
+		"created_at" : "2025-06-10 09:48:57",
+		"updated_at" : "2025-06-10 09:48:57"
+	},
+	{
+		"chat_session_id" : "10364131-45a5-11f0-8818-0a78cca5dc1e",
+		"user_id" : 1332307,
+		"tenant_id" : 896,
+		"summary_title" : "Percakapan tentang Fokus Pengembangan Karir",
+		"chat_orders" : 5,
+		"user" : "10 katanya landing",
+		"avatar" : "Saya mengerti bahwa Anda mungkin sedang mencari informasi atau bantuan. Namun, saya lebih fokus pada topik yang berkaitan dengan pengembangan karir dan profesional. Jika Anda memiliki pertanyaan atau topik yang ingin dibahas terkait karir atau industri, silakan beri tahu saya!",
+		"created_at" : "2025-06-10 09:48:57",
+		"updated_at" : "2025-06-10 09:48:57"
+	},
+	{
+		"chat_session_id" : "10364131-45a5-11f0-8818-0a78cca5dc1e",
+		"user_id" : 1332307,
+		"tenant_id" : 896,
+		"summary_title" : "Percakapan tentang Fokus Pengembangan Karir",
+		"chat_orders" : 6,
+		"user" : "10 pas? Iya",
+		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan yang berkaitan dengan pengembangan karir atau profesionalisme. Jika Anda memiliki pertanyaan atau butuh saran dalam konteks tersebut, silakan ajukan!",
+		"created_at" : "2025-06-10 09:48:57",
+		"updated_at" : "2025-06-10 09:48:57"
+	},
+	{
+		"chat_session_id" : "10364131-45a5-11f0-8818-0a78cca5dc1e",
+		"user_id" : 1332307,
+		"tenant_id" : 896,
+		"summary_title" : "Percakapan tentang Fokus Pengembangan Karir",
+		"chat_orders" : 7,
+		"user" : "tergantung delay",
+		"avatar" : "Saya memahami bahwa mungkin Anda berbicara tentang pengalaman seputar perjalanan atau penundaan. Namun, saya lebih fokus pada dukungan untuk pengembangan karir dan profesional. Jika ada pertanyaan atau topik yang ingin Anda diskusikan terkait dengan karir atau industri, silakan beri tahu saya!",
+		"created_at" : "2025-06-10 09:48:57",
+		"updated_at" : "2025-06-10 09:48:57"
+	},
+	{
 		"chat_session_id" : "10829164-a037-11ef-90e6-caf3d469ab2d",
 		"user_id" : 1278043,
 		"tenant_id" : 822,
@@ -2781,6 +2869,28 @@
 		"avatar" : "Saya GAIA, AI Career Coach dan Trainer dari goKampus. Tujuan saya adalah membantu Anda mengidentifikasi celah keterampilan, memperkuat keahlian Anda, dan mencapai pertumbuhan karir yang berarti. Untuk memulai, apa area keterampilan yang ingin Anda kembangkan atau tingkatkan, dan di mana Anda merasa ada celah yang perlu diatasi?",
 		"created_at" : "2025-03-24 14:03:36",
 		"updated_at" : "2025-03-24 14:03:36"
+	},
+	{
+		"chat_session_id" : "114aeb4e-45b3-11f0-aea2-4adf11c4a17b",
+		"user_id" : 1331170,
+		"tenant_id" : 896,
+		"summary_title" : "Pelatihan untuk Usaha Mikro dan Kecil (UMK)",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya mengerti bahwa Anda tertarik dengan pelatihan untuk Usaha Mikro dan Kecil (UMK). Pelatihan ini biasanya bertujuan untuk meningkatkan keterampilan dan pengetahuan pengusaha kecil dalam mengelola usaha mereka secara efektif. \n\nJika Anda mencari informasi lebih lanjut tentang pelatihan UMK, saya dapat membantu Anda dengan memberikan saran atau rekomendasi terkait kursus yang relevan di platform Learnext. Silakan beri tahu saya jika Anda ingin saya merekomendasikan kursus atau topik tertentu yang mungkin bermanfaat untuk pengembangan keterampilan Anda dalam konteks UMK.",
+		"created_at" : "2025-06-10 11:29:19",
+		"updated_at" : "2025-06-10 11:29:19"
+	},
+	{
+		"chat_session_id" : "114aeb4e-45b3-11f0-aea2-4adf11c4a17b",
+		"user_id" : 1331170,
+		"tenant_id" : 896,
+		"summary_title" : "Pelatihan untuk Usaha Mikro dan Kecil (UMK)",
+		"chat_orders" : 2,
+		"user" : "pelatihan UMK",
+		"avatar" : "Saya mengerti bahwa Anda tertarik dengan pelatihan untuk Usaha Mikro dan Kecil (UMK). Pelatihan ini biasanya bertujuan untuk meningkatkan keterampilan dan pengetahuan pengusaha kecil dalam mengelola usaha mereka secara efektif. \n\nJika Anda mencari informasi lebih lanjut tentang pelatihan UMK, saya dapat membantu Anda dengan memberikan saran atau rekomendasi terkait kursus yang relevan di platform Learnext. Silakan beri tahu saya jika Anda ingin saya merekomendasikan kursus atau topik tertentu yang mungkin bermanfaat untuk pengembangan keterampilan Anda dalam konteks UMK.",
+		"created_at" : "2025-06-10 11:29:19",
+		"updated_at" : "2025-06-10 11:29:19"
 	},
 	{
 		"chat_session_id" : "116bb679-c1c4-11ef-9e4a-3ed073bfc18e",
@@ -4906,6 +5016,17 @@
 		"updated_at" : "2024-11-21 09:32:23"
 	},
 	{
+		"chat_session_id" : "1b0b869d-45d2-11f0-8def-76e0187e82a1",
+		"user_id" : 1313409,
+		"tenant_id" : 612,
+		"summary_title" : "",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-10 15:09:06",
+		"updated_at" : "2025-06-10 15:09:06"
+	},
+	{
 		"chat_session_id" : "1b1beb7e-37cf-11f0-803b-22a445a3eb63",
 		"user_id" : 1321988,
 		"tenant_id" : 988,
@@ -6204,6 +6325,17 @@
 		"updated_at" : "2025-01-14 10:42:10"
 	},
 	{
+		"chat_session_id" : "245187b0-4601-11f0-b981-26c55e319713",
+		"user_id" : 1327102,
+		"tenant_id" : 612,
+		"summary_title" : "",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-10 20:45:27",
+		"updated_at" : "2025-06-10 20:45:27"
+	},
+	{
 		"chat_session_id" : "2471a505-3f87-11f0-93d2-a234feb6e486",
 		"user_id" : 1339253,
 		"tenant_id" : 1018,
@@ -7434,6 +7566,17 @@
 		"avatar" : "Jika Anda memiliki pertanyaan lebih lanjut atau butuh penjelasan tentang topik tertentu, silakan sampaikan. Saya di sini untuk membantu!",
 		"created_at" : "2025-06-02 17:15:32",
 		"updated_at" : "2025-06-02 17:15:32"
+	},
+	{
+		"chat_session_id" : "29748d69-4665-11f0-89fc-6a86ebc0648e",
+		"user_id" : 1339995,
+		"tenant_id" : 612,
+		"summary_title" : "",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-11 08:41:33",
+		"updated_at" : "2025-06-11 08:41:33"
 	},
 	{
 		"chat_session_id" : "29a0e011-2be1-11f0-8e78-f60a45bdcdf5",
@@ -11682,6 +11825,17 @@
 		"updated_at" : "2025-05-30 15:58:47"
 	},
 	{
+		"chat_session_id" : "41fa0fa8-45d1-11f0-8818-0a78cca5dc1e",
+		"user_id" : 1313409,
+		"tenant_id" : 612,
+		"summary_title" : "",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-10 15:05:11",
+		"updated_at" : "2025-06-10 15:05:11"
+	},
+	{
 		"chat_session_id" : "4202cdc3-36a5-11f0-a54e-0291eb85ff87",
 		"user_id" : 1321768,
 		"tenant_id" : 987,
@@ -12373,6 +12527,17 @@
 		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
 		"created_at" : "2025-05-21 18:11:23",
 		"updated_at" : "2025-05-21 18:11:23"
+	},
+	{
+		"chat_session_id" : "450c01e8-4520-11f0-b981-26c55e319713",
+		"user_id" : 1256178,
+		"tenant_id" : 612,
+		"summary_title" : "",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-09 17:55:46",
+		"updated_at" : "2025-06-09 17:55:46"
 	},
 	{
 		"chat_session_id" : "45112b05-2032-11f0-9e9c-72ad66e0e7d7",
@@ -15312,6 +15477,17 @@
 		"updated_at" : "2025-05-26 14:45:17"
 	},
 	{
+		"chat_session_id" : "5789c0b3-46b1-11f0-89fc-6a86ebc0648e",
+		"user_id" : 1340105,
+		"tenant_id" : 807,
+		"summary_title" : "",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-11 17:46:50",
+		"updated_at" : "2025-06-11 17:46:50"
+	},
+	{
 		"chat_session_id" : "578ccbea-ead8-11ef-84cf-4ed9b9d42650",
 		"user_id" : 1257771,
 		"tenant_id" : 771,
@@ -16335,6 +16511,39 @@
 		"updated_at" : "2025-01-04 21:01:41"
 	},
 	{
+		"chat_session_id" : "5f3009b6-4699-11f0-ac39-96226adde338",
+		"user_id" : 1321817,
+		"tenant_id" : 988,
+		"summary_title" : "Masalah Teknis dan Saran Kursus",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-11 14:56:31",
+		"updated_at" : "2025-06-11 14:56:31"
+	},
+	{
+		"chat_session_id" : "5f3009b6-4699-11f0-ac39-96226adde338",
+		"user_id" : 1321817,
+		"tenant_id" : 988,
+		"summary_title" : "Masalah Teknis dan Saran Kursus",
+		"chat_orders" : 2,
+		"user" : "Tadi ituHalo, saya tidak bisamenyelesaikan kuisbisa bantu",
+		"avatar" : "Masalah teknis Anda telah diteruskan ke tim dukungan Learnext. Mereka akan menghubungi Anda segera. Sementara itu, apakah Anda ingin menjelajahi kursus tentang \"Pengembangan Keterampilan Digital\" untuk membantu Anda meningkatkan kemampuan Anda?",
+		"created_at" : "2025-06-11 14:56:31",
+		"updated_at" : "2025-06-11 14:56:31"
+	},
+	{
+		"chat_session_id" : "5f3009b6-4699-11f0-ac39-96226adde338",
+		"user_id" : 1321817,
+		"tenant_id" : 988,
+		"summary_title" : "Masalah Teknis dan Saran Kursus",
+		"chat_orders" : 3,
+		"user" : "Biji,Baik, terima kasih.",
+		"avatar" : "Sama-sama! Jika ada pertanyaan lain atau jika Anda butuh informasi lebih lanjut, jangan ragu untuk bertanya. Selamat belajar!",
+		"created_at" : "2025-06-11 14:56:31",
+		"updated_at" : "2025-06-11 14:56:31"
+	},
+	{
 		"chat_session_id" : "5f40caa0-cf05-11ef-99f5-2ae8b356b0e9",
 		"user_id" : 1238421,
 		"tenant_id" : 325,
@@ -17169,6 +17378,17 @@
 		"avatar" : "Menjaga lingkungan adalah tanggung jawab yang semakin penting dalam setiap industri, termasuk industri kopi di PT Sulotco Jaya Abadi. Berikut adalah beberapa keterampilan dan pendekatan yang dapat Anda kembangkan untuk berkontribusi dalam menjaga lingkungan:\n\n1. Pemahaman tentang Praktik Pertanian Berkelanjutan: Pelajari tentang teknik pertanian yang ramah lingkungan, seperti agroforestri, penggunaan pupuk organik, dan pengendalian hama secara alami. Ini akan membantu Anda dalam mendukung praktik yang mengurangi dampak negatif terhadap lingkungan.\n\n2. Pengelolaan Sumber Daya Air: Memahami cara mengelola sumber daya air dengan bijaksana, seperti teknik irigasi yang efisien, dapat membantu mengurangi penggunaan air dan menjaga keberlanjutan lingkungan.\n\n3. Kesadaran akan Jejak Karbon: Keterampilan dalam mengukur dan menganalisis jejak karbon dari proses produksi dan distribusi dapat membantu perusahaan dalam mengurangi emisi gas rumah kaca.\n\n4. Inovasi dalam Pengemasan Ramah Lingkungan: Memahami material pengemasan yang dapat terurai dan ramah lingkungan serta mencari cara untuk mengurangi penggunaan plastik.\n\n5. Keterampilan Komunikasi dan Edukasi: Mampu berkomunikasi dengan baik tentang pentingnya praktik ramah lingkungan kepada rekan kerja dan pelanggan akan membantu meningkatkan kesadaran dan dukungan terhadap inisiatif keberlanjutan.\n\n6. Partisipasi dalam Program Lingkungan: Terlibat dalam program komunitas dan inisiatif lingkungan, seperti penanaman pohon atau proyek pembersihan, untuk memberikan dampak positif secara langsung.\n\nJika Anda ingin memperdalam pemahaman tentang keberlanjutan dan lingkungan, goKampus menawarkan kursus yang dapat membantu Anda memperoleh pengetahuan dan keterampilan yang diperlukan. Anda bisa mencari kata kunci seperti \"keberlanjutan\" atau \"manajemen lingkungan\" di platform goKampus untuk menemukan kursus yang relevan.\n\nApakah ada hal lain yang ingin Anda diskusikan terkait karier atau kontribusi terhadap lingkungan?",
 		"created_at" : "2025-01-14 15:16:11",
 		"updated_at" : "2025-01-14 15:16:11"
+	},
+	{
+		"chat_session_id" : "6350f186-4602-11f0-8def-76e0187e82a1",
+		"user_id" : 1339940,
+		"tenant_id" : 612,
+		"summary_title" : "",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-10 20:54:40",
+		"updated_at" : "2025-06-10 20:54:40"
 	},
 	{
 		"chat_session_id" : "638381d5-40ee-11f0-bed7-5649a8fd171e",
@@ -20009,6 +20229,17 @@
 		"updated_at" : "2025-01-07 13:57:46"
 	},
 	{
+		"chat_session_id" : "7726cef0-45d7-11f0-aea2-4adf11c4a17b",
+		"user_id" : 1339365,
+		"tenant_id" : 612,
+		"summary_title" : "",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-10 15:47:16",
+		"updated_at" : "2025-06-10 15:47:16"
+	},
+	{
 		"chat_session_id" : "779bfce2-edd6-11ef-9078-6633f384d596",
 		"user_id" : 1257824,
 		"tenant_id" : 771,
@@ -21604,6 +21835,17 @@
 		"updated_at" : "2024-11-13 15:04:55"
 	},
 	{
+		"chat_session_id" : "8395ae5f-4600-11f0-b981-26c55e319713",
+		"user_id" : 1339547,
+		"tenant_id" : 612,
+		"summary_title" : "",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-10 20:40:59",
+		"updated_at" : "2025-06-10 20:40:59"
+	},
+	{
 		"chat_session_id" : "8398b5eb-0463-11f0-81ed-2e93c127b493",
 		"user_id" : 1315482,
 		"tenant_id" : 612,
@@ -21635,6 +21877,17 @@
 		"avatar" : "Saya di sini untuk membantu dengan informasi mengenai Universitas Kristen Krida Wacana (Ukrda). Namun, saya tidak dapat memberikan informasi spesifik tentang dosen di fakultas tertentu. Jika Anda ingin tahu tentang program studi yang ditawarkan di Fakultas Ekonomi dan Bisnis, atau informasi lain mengenai persyaratan pendaftaran dan kehidupan kampus di Ukrda, silakan tanyakan!",
 		"created_at" : "2024-11-11 20:41:55",
 		"updated_at" : "2024-11-11 20:41:55"
+	},
+	{
+		"chat_session_id" : "83e75fcd-45d7-11f0-b981-26c55e319713",
+		"user_id" : 1339365,
+		"tenant_id" : 612,
+		"summary_title" : "",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-10 15:47:48",
+		"updated_at" : "2025-06-10 15:47:48"
 	},
 	{
 		"chat_session_id" : "83f2b1ce-3d2c-11f0-825b-722a40dbf0de",
@@ -21888,6 +22141,83 @@
 		"avatar" : "Sama-sama! Jika ada pertanyaan lain atau jika Anda membutuhkan bantuan lebih lanjut di masa mendatang, jangan ragu untuk menghubungi saya. Semoga sukses dalam pengembangan karir Anda!",
 		"created_at" : "2025-01-07 14:04:31",
 		"updated_at" : "2025-01-07 14:04:31"
+	},
+	{
+		"chat_session_id" : "8566dfd5-46e9-11f0-89fc-6a86ebc0648e",
+		"user_id" : 1335720,
+		"tenant_id" : 896,
+		"summary_title" : "Meningkatkan Keterampilan Bahasa Inggris",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan terkait pengembangan karir dan profesional. Jika Anda tertarik membahas tentang bagaimana faktor-faktor tertentu dapat mempengaruhi kinerja dalam konteks profesional, saya akan senang hati memberikan informasi atau saran yang relevan. \n\nApakah Anda ingin membahas tentang manajemen kinerja, pengembangan keterampilan, atau faktor lain yang berkaitan dengan karir? Silakan beri tahu saya!",
+		"created_at" : "2025-06-12 00:33:10",
+		"updated_at" : "2025-06-12 00:33:10"
+	},
+	{
+		"chat_session_id" : "8566dfd5-46e9-11f0-89fc-6a86ebc0648e",
+		"user_id" : 1335720,
+		"tenant_id" : 896,
+		"summary_title" : "Meningkatkan Keterampilan Bahasa Inggris",
+		"chat_orders" : 2,
+		"user" : "Cara disini kalau misalkan mereka ini dapat mempengaruhikinerja jalan yang dapat melakukandimensi fundamental",
+		"avatar" : "Saya di sini untuk membantu Anda dengan pertanyaan terkait pengembangan karir dan profesional. Jika Anda tertarik membahas tentang bagaimana faktor-faktor tertentu dapat mempengaruhi kinerja dalam konteks profesional, saya akan senang hati memberikan informasi atau saran yang relevan. \n\nApakah Anda ingin membahas tentang manajemen kinerja, pengembangan keterampilan, atau faktor lain yang berkaitan dengan karir? Silakan beri tahu saya!",
+		"created_at" : "2025-06-12 00:33:10",
+		"updated_at" : "2025-06-12 00:33:10"
+	},
+	{
+		"chat_session_id" : "8566dfd5-46e9-11f0-89fc-6a86ebc0648e",
+		"user_id" : 1335720,
+		"tenant_id" : 896,
+		"summary_title" : "Meningkatkan Keterampilan Bahasa Inggris",
+		"chat_orders" : 3,
+		"user" : "Iya Halo",
+		"avatar" : "Halo! Apa yang bisa saya bantu untuk Anda hari ini? Jika Anda memiliki pertanyaan tentang pengembangan karir atau topik terkait profesional, silakan sampaikan!",
+		"created_at" : "2025-06-12 00:33:10",
+		"updated_at" : "2025-06-12 00:33:10"
+	},
+	{
+		"chat_session_id" : "8566dfd5-46e9-11f0-89fc-6a86ebc0648e",
+		"user_id" : 1335720,
+		"tenant_id" : 896,
+		"summary_title" : "Meningkatkan Keterampilan Bahasa Inggris",
+		"chat_orders" : 4,
+		"user" : "Bagaimana cara meningkatkanEnglish skill",
+		"avatar" : "Meningkatkan keterampilan bahasa Inggris adalah investasi penting dalam pengembangan karir Anda. Berikut adalah beberapa strategi yang bisa Anda terapkan:\n\n1. Kursus Bahasa Inggris: Pertimbangkan untuk mengikuti kursus bahasa Inggris, baik secara online maupun di lembaga pendidikan. Ini akan memberikan struktur dan panduan dari instruktur yang berpengalaman.\n\n2. Praktek Rutin: Luangkan waktu setiap hari untuk berlatih. Anda bisa membaca artikel, menulis jurnal, atau mendengarkan podcast dalam bahasa Inggris.\n\n3. Berbicara dengan Penutur Asli: Cari kesempatan untuk berbicara dengan penutur asli bahasa Inggris. Ini bisa melalui pertukaran bahasa, grup diskusi, atau aplikasi seperti Tandem atau HelloTalk.\n\n4. Menonton Film dan Acara TV: Menonton film atau acara TV berbahasa Inggris dengan subtitle dapat membantu Anda memahami cara pengucapan dan penggunaan bahasa sehari-hari.\n\n5. Mendengarkan Musik: Mendengarkan lagu-lagu berbahasa Inggris dan membaca liriknya dapat membantu Anda memahami kosakata dan pengucapan.\n\n6. Aplikasi Pembelajaran: Gunakan aplikasi pembelajaran bahasa seperti Duolingo, Babbel, atau Rosetta Stone untuk belajar secara interaktif.\n\n7. Membaca Buku: Mulailah dengan buku yang sesuai dengan tingkat kemampuan Anda dan secara bertahap tingkatkan ke buku yang lebih kompleks.\n\n8. Bergabung dengan Kelompok Belajar: Cari kelompok belajar lokal atau online di mana Anda dapat berlatih berbicara dan mendengarkan dalam bahasa Inggris.\n\n9. Menulis Secara Teratur: Latihan menulis dalam bahasa Inggris, seperti mengirim email atau membuat postingan di media sosial, bisa sangat membantu.\n\n10. Tentukan Tujuan: Tetapkan tujuan spesifik, seperti mempelajari sepuluh kata baru setiap minggu atau membaca satu buku berbahasa Inggris setiap bulan.\n\nJika Anda ingin memperdalam keterampilan tertentu, Learnext juga menawarkan kursus terkait yang dapat membantu. Anda dapat mencari kata kunci \"English language skills\" di platform Learnext untuk menemukan kursus yang relevan. \n\nSemoga tips ini bermanfaat! Jika Anda memiliki pertanyaan lebih lanjut, silakan tanyakan.",
+		"created_at" : "2025-06-12 00:33:10",
+		"updated_at" : "2025-06-12 00:33:10"
+	},
+	{
+		"chat_session_id" : "8566dfd5-46e9-11f0-89fc-6a86ebc0648e",
+		"user_id" : 1335720,
+		"tenant_id" : 896,
+		"summary_title" : "Meningkatkan Keterampilan Bahasa Inggris",
+		"chat_orders" : 5,
+		"user" : "untuk saya sendiri",
+		"avatar" : "Tentu, berikut adalah beberapa langkah yang lebih personal dan spesifik yang bisa Anda terapkan untuk meningkatkan keterampilan bahasa Inggris Anda sendiri:\n\n1. Tentukan Tujuan Pribadi: Apa yang ingin Anda capai dengan meningkatkan bahasa Inggris? Misalnya, apakah untuk keperluan pekerjaan, studi, atau perjalanan? Menetapkan tujuan yang jelas akan membantu Anda tetap fokus.\n\n2. Jadwalkan Waktu Belajar: Buatlah jadwal harian atau mingguan untuk belajar bahasa Inggris. Dedikasikan waktu tertentu setiap hari untuk membaca, menulis, mendengarkan, atau berbicara dalam bahasa Inggris.\n\n3. Praktik Berbicara Sendiri: Anda bisa berlatih berbicara sendiri, misalnya dengan menjelaskan hal-hal yang Anda lakukan dalam bahasa Inggris atau berbicara tentang topik yang Anda minati.\n\n4. Gunakan Sumber Daya yang Anda Suka: Jika Anda suka menonton film, pilih film berbahasa Inggris. Jika Anda suka membaca, pilih artikel atau buku dalam bahasa Inggris. Menggunakan sumber daya yang Anda nikmati membuat proses belajar lebih menyenangkan.\n\n5. Catat Kosakata Baru: Buat catatan atau jurnal untuk mencatat kata-kata baru yang Anda pelajari beserta artinya. Cobalah menggunakan kata-kata tersebut dalam kalimat.\n\n6. Follow Up dengan Pembelajaran Aktif: Cobalah untuk mengimplementasikan apa yang telah Anda pelajari. Misalnya, jika Anda belajar tentang frasa baru, gunakan dalam percakapan sehari-hari.\n\n7. Evaluasi Kemajuan Anda: Setiap beberapa minggu, luangkan waktu untuk mengevaluasi kemajuan Anda. Apakah Anda merasa lebih nyaman berbicara? Apakah kosakata Anda meningkat? Ini akan membantu Anda untuk tetap termotivasi.\n\n8. Jangan Takut untuk Berbuat Salah: Ingatlah bahwa kesalahan adalah bagian dari proses belajar. Jangan ragu untuk berbicara atau menulis, meskipun Anda merasa belum sempurna.\n\nJika Anda ingin mendapatkan lebih banyak pembelajaran terstruktur, Anda juga dapat mencari kursus bahasa Inggris di platform seperti Learnext. Cukup ketik \"English language skills\" di search bar untuk menemukan kursus yang sesuai.\n\nSemoga langkah-langkah ini membantu Anda dalam meningkatkan keterampilan bahasa Inggris Anda! Jika ada pertanyaan lebih lanjut, silakan bertanya.",
+		"created_at" : "2025-06-12 00:33:10",
+		"updated_at" : "2025-06-12 00:33:10"
+	},
+	{
+		"chat_session_id" : "8566dfd5-46e9-11f0-89fc-6a86ebc0648e",
+		"user_id" : 1335720,
+		"tenant_id" : 896,
+		"summary_title" : "Meningkatkan Keterampilan Bahasa Inggris",
+		"chat_orders" : 6,
+		"user" : "Halo",
+		"avatar" : "Halo! Ada yang bisa saya bantu hari ini? Jika Anda memiliki pertanyaan tentang pengembangan karir atau topik terkait profesional, silakan beri tahu saya!",
+		"created_at" : "2025-06-12 00:33:10",
+		"updated_at" : "2025-06-12 00:33:10"
+	},
+	{
+		"chat_session_id" : "8566dfd5-46e9-11f0-89fc-6a86ebc0648e",
+		"user_id" : 1335720,
+		"tenant_id" : 896,
+		"summary_title" : "Meningkatkan Keterampilan Bahasa Inggris",
+		"chat_orders" : 7,
+		"user" : "Iya, apakah terdengar suara saya?",
+		"avatar" : "Saya tidak dapat mendengar suara Anda, tetapi saya di sini untuk membantu dan menjawab pertanyaan Anda melalui teks. Jika Anda memiliki pertanyaan atau topik yang ingin dibahas, silakan sampaikan!",
+		"created_at" : "2025-06-12 00:33:10",
+		"updated_at" : "2025-06-12 00:33:10"
 	},
 	{
 		"chat_session_id" : "85917ba4-0a08-11f0-bbcf-b6277382955d",
@@ -24090,6 +24420,61 @@
 		"updated_at" : "2025-04-30 15:08:20"
 	},
 	{
+		"chat_session_id" : "884d192c-46b9-11f0-89fc-6a86ebc0648e",
+		"user_id" : 1340076,
+		"tenant_id" : 612,
+		"summary_title" : "Diskusi Karir dan Masalah Teknis",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-11 18:49:46",
+		"updated_at" : "2025-06-11 18:49:46"
+	},
+	{
+		"chat_session_id" : "884d192c-46b9-11f0-89fc-6a86ebc0648e",
+		"user_id" : 1340076,
+		"tenant_id" : 612,
+		"summary_title" : "Diskusi Karir dan Masalah Teknis",
+		"chat_orders" : 2,
+		"user" : "tanya esay kirim jawaban kok tidak bisa",
+		"avatar" : "Masalah teknis Anda telah diteruskan ke tim dukungan Learnext. Mereka akan menghubungi Anda segera. Sementara itu, apakah Anda ingin mengeksplorasi kursus terkait 'Pengembangan Digital' atau 'Manajemen Proyek'?",
+		"created_at" : "2025-06-11 18:49:46",
+		"updated_at" : "2025-06-11 18:49:46"
+	},
+	{
+		"chat_session_id" : "884d192c-46b9-11f0-89fc-6a86ebc0648e",
+		"user_id" : 1340076,
+		"tenant_id" : 612,
+		"summary_title" : "Diskusi Karir dan Masalah Teknis",
+		"chat_orders" : 3,
+		"user" : "cukup",
+		"avatar" : "Baiklah, jika ada pertanyaan lain atau jika Anda memerlukan bantuan tambahan, jangan ragu untuk menghubungi saya. Selamat beraktivitas!",
+		"created_at" : "2025-06-11 18:49:46",
+		"updated_at" : "2025-06-11 18:49:46"
+	},
+	{
+		"chat_session_id" : "884d192c-46b9-11f0-89fc-6a86ebc0648e",
+		"user_id" : 1340076,
+		"tenant_id" : 612,
+		"summary_title" : "Diskusi Karir dan Masalah Teknis",
+		"chat_orders" : 4,
+		"user" : "mbak rumahnya dimana??",
+		"avatar" : "Saya adalah AI dan tidak memiliki lokasi fisik atau rumah. Namun, saya di sini untuk membantu Anda dengan pertanyaan terkait pembelajaran atau karir. Jika ada yang ingin Anda tanyakan, silakan beri tahu saya!",
+		"created_at" : "2025-06-11 18:49:46",
+		"updated_at" : "2025-06-11 18:49:46"
+	},
+	{
+		"chat_session_id" : "884d192c-46b9-11f0-89fc-6a86ebc0648e",
+		"user_id" : 1340076,
+		"tenant_id" : 612,
+		"summary_title" : "Diskusi Karir dan Masalah Teknis",
+		"chat_orders" : 5,
+		"user" : "karir saya tidak naik-naik. apa yang harus saya lakukan?? nilai saya di perusahaan perfek",
+		"avatar" : "Jika karir Anda tidak mengalami kemajuan meskipun memiliki nilai yang baik di perusahaan, ada beberapa langkah yang dapat Anda lakukan:\n\n1. Tentukan Tujuan Karir: Identifikasi apa yang ingin Anda capai dalam karir Anda. Apakah Anda ingin naik jabatan, berpindah ke departemen lain, atau mengembangkan keterampilan baru?\n\n2. Bicarakan dengan Atasan: Diskusikan aspirasi karir Anda dengan atasan langsung atau mentor. Minta masukan tentang langkah-langkah yang perlu diambil untuk mencapai tujuan Anda.\n\n3. Kembangkan Keterampilan: Pertimbangkan untuk mengikuti kursus atau pelatihan yang dapat membantu Anda mengembangkan keterampilan yang relevan dengan posisi yang Anda inginkan. \n\n4. Jaringan: Bangun hubungan dengan rekan kerja dan profesional di bidang Anda. Networking dapat membuka peluang baru.\n\n5. Tunjukkan Inisiatif: Ambil inisiatif dalam proyek baru atau tawarkan diri untuk tugas tambahan. Ini dapat menunjukkan komitmen Anda terhadap pertumbuhan perusahaan dan karir Anda.\n\nUntuk mendukung pengembangan karir Anda, saya merekomendasikan beberapa kursus dari Learnext yang mungkin bermanfaat, seperti 'Pengembangan Kepemimpinan' atau 'Manajemen Kinerja'. Apakah Anda ingin informasi lebih lanjut tentang kursus tersebut?",
+		"created_at" : "2025-06-11 18:49:46",
+		"updated_at" : "2025-06-11 18:49:46"
+	},
+	{
 		"chat_session_id" : "8853c3a4-a0a6-11ef-b4f2-26c9d1228445",
 		"user_id" : 1257771,
 		"tenant_id" : 771,
@@ -25157,6 +25542,28 @@
 		"updated_at" : "2024-11-26 18:09:19"
 	},
 	{
+		"chat_session_id" : "8e3d4a52-46bf-11f0-ac39-96226adde338",
+		"user_id" : 1339297,
+		"tenant_id" : 612,
+		"summary_title" : "",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-11 19:28:29",
+		"updated_at" : "2025-06-11 19:28:29"
+	},
+	{
+		"chat_session_id" : "8e3d4a52-46bf-11f0-ac39-96226adde338",
+		"user_id" : 1339297,
+		"tenant_id" : 612,
+		"summary_title" : "",
+		"chat_orders" : 2,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-11 19:28:29",
+		"updated_at" : "2025-06-11 19:28:29"
+	},
+	{
 		"chat_session_id" : "8e510125-e9d2-11ef-8a3f-aadabdafea7e",
 		"user_id" : 1257771,
 		"tenant_id" : 771,
@@ -25569,193 +25976,6 @@
 		"tenant_id" : 893,
 		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
 		"chat_orders" : 1,
-		"user" : "-",
-		"avatar" : "Saya adalah GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_id" : 1316750,
-		"tenant_id" : 893,
-		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 2,
-		"user" : "Cek,Inicek",
-		"avatar" : "Saya adalah GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_id" : 1316750,
-		"tenant_id" : 893,
-		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 3,
-		"user" : "tolong carikanarti",
-		"avatar" : "Saya GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah ada pertanyaan atau topik tertentu yang ingin Anda diskusikan terkait karir atau pengembangan profesional Anda?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_id" : 1316750,
-		"tenant_id" : 893,
-		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 4,
-		"user" : "tolong carikanarti",
-		"avatar" : "Saya mengSaya mengkhususkhususkan dirikan diri dalam membantu dalam membantu profesional dengan profesional dengan pengetahuan terkait kar pengetahuanir dan terkait kar industri.ier dan Apakah industri. Apakah ada hal ada yang spesifik yang ingin bisa saya bantu terkait Anda ket dengan pengahui atauembangan kar diskusir Andaikan terkait atau karir topik profesional atau pengembangan profesional lainnya?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_id" : 1316750,
-		"tenant_id" : 893,
-		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 5,
-		"user" : "apa yang di bahas",
-		"avatar" : "Anda?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_id" : 1316750,
-		"tenant_id" : 893,
-		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 6,
-		"user" : "dan bisnis ritel",
-		"avatar" : "Saya dapat membantu Anda dengan berbagai topik terkait pengembangan karir, termasuk strategi pengembangan karir, keterampilan industri tertentu (seperti keuangan, teknologi, dan pemasaranDalam konteks bisnis), keter ritelampilan lun, terdapatak ( beberapa aspekseperti penting yang komunikasi dan perlu diper manajemenhatikan untuk waktu), pengembangan serta kesehatan mental di dan pert tempat kerjaumbuhan karir Anda. Ap. Berikut adalah beberapaakah ada poin yang topik dapat membantu:\n\n1 tertentu yang ingin Anda bahas. Pengetahuan lebih lanjut?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_id" : 1316750,
-		"tenant_id" : 893,
-		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 7,
-		"user" : "dimasukkan Bisnis ritel",
-		"avatar" : "Produk: Memahami berbagai produk yang dijual dalam ritel sangat penting. Ini termasuk mengetahui spesifikasi, manfaat, dan kebutuhan pelanggan.\n\n2. Keterampilan Layanan Pelanggan: Kemampuan untuk memberikan layanan pelanggan yang luar biasa akan membedakan Anda dari pesaing. Ini meliputiBisnis ritel adalah sektor yang sangat penting dalam ekonomi, terutama dalam menyediakan barang dan layanan kepada konsumen. Dalam konteks pengembangan karir di bisnis ritel, beberapa area yang bisa Anda fokuskan meliputi:\n\n1. Manajemen Ritel: Mempelajari keterampilan manajerial yang efisien untuk mengelola toko ritel, termasuk pengelolaan inventaris, penjualan, dan layanan pelanggan.\n\n2. Pemasaran Ritel: Mengembangkan strategi pemasaran yang efektif untuk menarik pelanggan, termasuk penggunaan media sosial dan promosi.\n\n3. Pengalaman Pelanggan: Memahami pentingnya menciptakan pengalaman berbelanja yang positif bagi pelanggan, yang dapat meningkatkan loyalitas dan penjualan.\n\n4. Analisis Data: Belajar bagaimana menggunakan data untuk memahami tren konsumen dan meningkatkan kinerja bisnis.\n\n5. E-commerce: Memahami bagaimana bisnis ritel bertransisi ke platform online dan strategi yang diperlukan untuk berhasil dalam lingkungan digital.\n\nJika Anda ingin mendalami topik ini lebih lanjut, goKampus menawarkan berbagai kursus yang dapat membantu Anda. Anda bisa mencari kata kunci seperti \"manajemen ritel\" atau \"pemasaran ritel\" di platform goKampus untuk menemukan kursus yang relevan. Apakah ada aspek tertentu dari bisnis ritel yang ingin Anda bahas lebih lanjut?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_id" : 1316750,
-		"tenant_id" : 893,
-		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 8,
-		"user" : "di restasinya",
-		"avatar" : "komunikasi yang efektif, kemampuan untuk menangani keluhan, dan menjalin hubungan baik dengan pelanggan.\n\n3. Strategi Pemasaran: Pengetahuan tentang strategi pemasaran yang efektif untuk menarik pelanggan ke toko atau platform online Anda sangat berharga. Ini mencakup promosi, diskon, dan penggunaan media sosial untuk pemasaran.\n\n4. Manajemen Inventaris: Memahami bagaimana mengelola inventaris dengan efisien dapat membantu mengurangi biaya dan meningkatkan kepuasan pelanggan. Ini termasuk pengendalian stok dan penggunaan perangkat lunak manajemen inventaris.\n\n5. Analisis Data: Kemampuan untuk menganalisis data penjualan dan perilaku pelanggan dapat memberikan wawasan berharga untuk pengambilan keputusan strategis.\n\nJika Anda ingin memperdalam pengetahuan Anda dalam salah satu area ini atau topik terkait lainnya, saya dapat merekomendasikan kursus di goKampus. Anda bisa mencari dengan kata kunci seperti \"bisnis ritel\" atau \"manajemen layanan pelanggan\" di platform goKampus untuk menemukan materi yang relevan. Apakah ada aspek tertentu yang ingin Anda bahas lebih lanjut?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_id" : 1316750,
-		"tenant_id" : 893,
-		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 9,
-		"user" : "ya? Satu miliar",
-		"avatar" : "Dalam konteks restoran, ada beberapa aspek penting yang perlu diperhatikan untuk kesuksesan bisnis dan pengembangan karir. Berikut adalah beberapa poin yang relevan:\n\n1. Pengelolaan Operasional: Memahami bagaimana mengelola operasional restoran dengan efisien, termasuk manajemen dapur, layanan meja, dan pengelolaan stok bahan makanan.\n\n2. Layanan Pelanggan: Memberikan pengalaman pelanggan yang luar biasa adalah kunci dalam industri restoran. Keterampilan komunikasi, penyelesaian masalah, dan kemampuan untuk memahami kebutuhan pelanggan sangat penting.\n\n3. Kreativitas Menu: Mengembangkan menu yang menarik dan sesuai dengan tren pasar. Ini juga mencakup pemahaman tentang makanan sehat dan keberlanjutan.\n\n4. Pemasaran dan Promosi: Mampu mempromosikan restoran Anda melalui media sosial, kampanye email, dan acara khusus dapat membantu menarik pelanggan baru.\n\n5. Manajemen Keuangan: Memahami aspek keuangan dari restoran, termasuk penganggaran, pengendalian biaya, dan analisis profitabilitas.\n\nJika Anda ingin mendalami salah satu topik ini atau topik lain yang terkait dengan restoran, saya dapat merekomendasikan kursus di goKampus. Anda bisa mencari dengan kata kunci seperti \"manajemen restoran\" atau \"layanan pelanggan di restoran\" di platform goKampus untuk menemukan materi yang relevan. Apakah ada topik khusus yang ingin Anda bahas lebih lanjut?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_id" : 1316750,
-		"tenant_id" : 893,
-		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 10,
-		"user" : "investasinya1 miliar",
-		"avatar" : "Saya mengkhususkan diri dalam membantu profesional dengan pengetahuan terkait karDalam konteier dan industri.ks investasi Apakah di bisnis ada yang ritel bisa saya, investasi bantu terkait sebesar satu dengan peng miliarembangan karir Anda atau topik profesional rupiah dapat digunakan untuk berbagai hal. Berikut adalah beberapa area investasi yang mungkin relevan:\n\n lainnya1. Pemb? Jikaukaan Toko Ritel: Invest Anda menyebutkan satu miliar, apakah itu terkait dengan pendanaan, investasi, atau aspekasi ini lain dalam dapat digunakan bisnis? Moh untuk membukaon jelaskan toko fis lebih lanjutik, termasuk biaya agar saya sewa dapat memberikan informasi yang, renov lebih tepat.asi, dan pengadaan inventaris.\n\n2. E-commerce: Uang tersebut dapat dialokasikan untuk mengembangkan platform e-commerce, termasuk website, aplikasi, dan pemasaran digital",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_id" : 1316750,
-		"tenant_id" : 893,
-		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 11,
-		"user" : "karena",
-		"avatar" : ".\n\n3. Pemasaran dan Promosi: Investasi dalam kampanye pemasaran untuk meningkatkan visibilitas merek dan menarik pelanggan baru, baik melalui media sosial, iklan online, atau promosi lokal.\n\n4. Teknologi dan Sistem Manajemen: Menerapkan sistem manajemen ritel dan teknologi yang dapat membantu dalam pengelolaan inventaris, analisis data penjualan, dan pengalaman pelanggan.\n\n5. Pelatihan Karyawan: Menginvestasikan dalam pelatihan dan pengembangan karyawan untuk meningkatkan layanan pelanggan dan keterampilan penjualan.\n\nJika Anda ingin mengeksplorasi lebih jauh tentang investasi di bidang ritel atau membutuhkan panduan lebih lanjut, saya dapat merekomendasikan kursus terkait di goKampus. Anda bisa mencari kata kunci seperti \"investasi ritel\" untuk menemukan materi yang relevan. Apakah ada hal lain yang ingin Anda diskusikan?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_id" : 1316750,
-		"tenant_id" : 893,
-		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 12,
-		"user" : "ini lebih gampang",
-		"avatar" : "Sepertinya Anda ingin menjelaskan lebih lanjut atau memberikan konteks tambahan terkait investasi di bisnis ritel. Jika ada pertanyaan spesifik atau informasi tambahan yang ingin Anda bahas, silakan beri tahu saya. Saya di sini untuk membantu Anda dengan semua yang berkaitan dengan pengembangan karir dan profesional. Apakah ada hal tertentu yang ingin Anda sampaikan?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_id" : 1316750,
-		"tenant_id" : 893,
-		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 13,
-		"user" : "bisa diterangkan terkait dengan Sosek",
-		"avatar" : "Saya memahami bahwa Anda mungkin mencari informasi yang lebih sederhana atau langsung mengenai topik tertentu. Jika Anda memiliki pertanyaan spesifik atau ingin mendiskusikan sesuatu yang lebih mudah dipahami terkait investasi di bisnis ritel atau topik profesional lainnya, silakan beri tahu saya. Saya di sini untuk membantu Anda!",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_id" : 1316750,
-		"tenant_id" : 893,
-		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 14,
-		"user" : "bisa diterangkan terkait dengan Sosech",
-		"avatar" : "\"Sosek\" biasanya merujuk pada istilah \"Sosial dan Ekonomi,\" yang mencakup berbagai aspek terkait interaksi sosial dan kondisi ekonomi dalam masyarakat. Dalam konteks bisnis ritel, berikut adalah beberapa poin yang dapat diterangkan:\n\n1. PengaruhSaya meng Sosialkhusus:kan diri Bisnis dalam membantu ritel profesional dengan pengetahuan sangat dip terkait karengaruhiier dan oleh tren sosial, industri. Namun, seperti perubahan saya tidak preferensi memiliki informasi spesifik tentang \"Sose konsumen, gaya hidup, dan perilch\".aku bel Jika \"anja. MemSosech\" adalah istilah yangahami faktor-faktor sosial ini penting untuk meng terkait dengan industri tertentuembangkan strategi pemasaran atau konsep yang efektif profesional, mohon.\n\n2.  berikanKond konteksisi Ek atau detail lebih lanjutonomi.\n\nAp: Kakah Anda ingin membinerja bisnisahas topik lain ritel yang relevan dengan pengembangan juga dip karirengaruhi oleh kondisi ekonomi, Anda atau seperti inflasi, tingkat pengangguran industri tertentu, dan? Saya di sini daya beli masyarakat. untuk membantu!",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_id" : 1316750,
-		"tenant_id" : 893,
-		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 15,
-		"user" : "yang",
-		"avatar" : "Dalam situasi ekonomi yang baik, konsumen cenderung lebih banyak berbelanja, sementara dalam kondisi buruk, mereka mungkin lebih berhati-hati dalam pengeluaran.\n\n3. Tanggung Jawab Sosial Perusahaan: Banyak perusahaan ritel kini berfokus pada tanggung jawab sosial, yang berarti mereka berusaha untuk memberikan dampak positif pada masyarakat. Ini bisa berupa praktik berkelanjutan, penyediaan lapangan kerja, atau kontribusi pada proyek komunitas.\n\n4. Tren Pemasaran Sosial: Pemasaran yang berfokus pada nilai-nilai sosial dan lingkungan semakin populer. Perusahaan ritel dapat menarik pelanggan dengan menunjukkan komitmen mereka terhadap isu-isu sosial, seperti keberlanjutan atau dukungan terhadap komunitas lokal.\n\nJika Anda ingin mendalami lebih lanjut tentang aspek tertentu dari sosial dan ekonomi dalam bisnis ritel, saya dapat merekomendasikan kursus yang relevan di goKampus. Silakan beri tahu saya jika ada topik spesifik yang ingin Anda eksplorasi lebih dalam!",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_id" : 1316750,
-		"tenant_id" : 893,
-		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 16,
-		"user" : "besok ini jam itu",
-		"avatar" : "Sepertinya Anda ingin memberikan penjelasan lebih lanjut atau menanyakan sesuatu yang lebih spesifik terkait \"Sosek\". Jika Anda dapat memberikan detail lebih lanjut tentang apa yang Anda maksud dengan \"yang,\" saya akan lebih mudah membantu Anda. Apakah Anda ingin menjelaskan lebih lanjut tentang aspek sosial dan ekonomi tertentu, atau ada topik lain yang ingin Anda diskusikan? Silakan beri tahu saya!",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_id" : 1316750,
-		"tenant_id" : 893,
-		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 17,
-		"user" : "ya ini klien kalau dari siapa ini tuh",
-		"avatar" : "Saya mengkhususkan diri dalam membantu profesional dengan pengetahuan terkait karir dan industri. Jika Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda, silakan beri tahu saya. Apakah ada hal spesifik yang ingin Anda bahas?",
-		"created_at" : "2025-03-25 13:54:06",
-		"updated_at" : "2025-03-25 13:54:06"
-	},
-	{
-		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
-		"user_id" : 1316750,
-		"tenant_id" : 893,
-		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 18,
 		"user" : "bagus sih tapi investasinya bagus,bagus sih investasinya bagus",
 		"avatar" : "Sepertinya Anda merujuk kepada klien atau perusahaan tertentu yang mungkin terkait dengan bisnis atau industri profesional. Namun, saya tidak memiliki informasi spesifik mengenai \"Sosech\" sebagai klien atau perusahaan.\n\nJika Anda dapat memberikan lebih banyak konteks atau detail tentang \"Sosech\" dan apa yang Anda ingin ketahui, saya akan berusaha membantu Anda dengan informasi yang relevan untuk pengembangan karir atau industri yang bersangkutan. Apakah ada aspek tertentu yang ingin Anda diskusikan?",
 		"created_at" : "2025-03-25 13:54:06",
@@ -25766,7 +25986,7 @@
 		"user_id" : 1316750,
 		"tenant_id" : 893,
 		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 19,
+		"chat_orders" : 2,
 		"user" : "1MSatuN",
 		"avatar" : "TerkSaya senait denganang mend investasi,engar bahwa terdapat beberapa Anda melihat potensi yang baik aspek yang perlu dipertimb dalam investasiangkan untuk, terutama memastikan bahwa di bidang bisnis r keputusan investasi Anda baikitel. dan ber Investasikelanj yang tepatutan. dapat membawa banyak manfaat Berikut adalah, seperti beberapa poin penting:\n\n peningkatan pendapatan1. Anal, pertumbuhan bisnis, danisis Pas peluang untuk memperluas jaringan.\n\nJika Anda tertar: Memahami trenarik untuk mengeksplorasi lebih jauh tentang pasar, permintaan, dan kondisi ekonomi strategi investasi dapat membantu Anda membuat yang efektif keputusan investasi yang lebih baik., tren pasar, Lakukan riset atau keter mengenai sektor atau industriampilan yang diperlukan untuk sukses di yang ingin Anda masuki.\n\n industri ritel,2. saya Divers dapat memberikanifikasi Portofolio informasi lebih lanjut atau merekomendas: Investasi yang baik harus mencikan kursus terkaitakup diversifikasi di goKampus untuk meng. Apurangi risiko. Janganakah ada area spesifik dalam investasi ritel yang ingin Anda ketahui lebih lanjut? mengandalkan satu jenis investasi; pertimbangkan untuk berinvestasi di berbagai aset seperti saham, obligasi, dan properti.\n\n3. Manajemen Risiko: Identifikasi risiko yang terkait dengan investasi Anda dan cari cara untuk mengelolanya. Ini bisa termasuk penggunaan instrumen hedging atau asuransi.\n\n4. Konsultasi dengan Ahli: Jika Anda tidak yakin tentang investasi tertentu, pertimbangkan untuk berkonsultasi dengan penasihat keuangan atau profesional investasi.\n\n5. Pendidikan Berkelanjutan: Mengikuti kursus atau pelatihan tentang investasi dapat membantu Anda meningkatkan pengetahuan dan keterampilan dalam membuat keputusan investasi yang lebih baik.\n\nJika Anda tertarik untuk mendalami lebih lanjut tentang investasi, saya dapat merekomendasikan kursus di goKampus yang relevan dengan topik ini. Anda bisa mencari dengan kata kunci seperti \"investasi\" atau \"manajemen keuangan",
 		"created_at" : "2025-03-25 13:54:06",
@@ -25777,7 +25997,7 @@
 		"user_id" : 1316750,
 		"tenant_id" : 893,
 		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 20,
+		"chat_orders" : 3,
 		"user" : "1M1M",
 		"avatar" : "\" di platform goKampus. Apakah ada aspek khusus dari investasi yang ingin Anda diskusikan lebih lanjut?",
 		"created_at" : "2025-03-25 13:54:06",
@@ -25788,7 +26008,7 @@
 		"user_id" : 1316750,
 		"tenant_id" : 893,
 		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 21,
+		"chat_orders" : 4,
 		"user" : "bisa di bisa di join ini sudah apa",
 		"avatar" : "Sepertinya Anda mengacu pada istilah \"1MSatuN.\" Namun, saya tidak memiliki informasi spesifik tentang istilah tersebut dalam konteks bisnis atau investasi. Jika Anda dapat memberikan sedikit lebih banyak konteks atau menjelaskan apa yang Anda maksud, saya akan lebih mampuSaya meng membantu.\n\nApakahkhusus Anda mengacu pada suatu programkan diri dalam membantu investasi, profesional dengan pengetahuan terkait kar produk,ier dan industri. Namun, atau konsep saya perlu klarifikasi lebih lanjut mengenai istil tertentu?ah \"1M1M\". Ap Silakanakah Anda merujuk pada investasi satu beri tahu miliar atau topik lainnya yang spes saya,ifik?\n\nMohon berikan lebih banyak konteks dan saya agar saya dapat memberikan informasi yang relevan akan ber dan bermanfaat bagi Anda. Apakah adausaha memberikan topik profesional lain yang ingin Anda diskusikan? informasi yang lebih relevan!",
 		"created_at" : "2025-03-25 13:54:06",
@@ -25799,9 +26019,196 @@
 		"user_id" : 1316750,
 		"tenant_id" : 893,
 		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
-		"chat_orders" : 22,
+		"chat_orders" : 5,
 		"user" : "bisa di bisa di join ini",
 		"avatar" : "Sepertinya Anda berbicara tentang bergabung dalam suatu program atau kegiatan tertentuSepert. Namuninya Anda meruj, sayauk pada memerlukan sebuah program atau kesempatan sedikit lebih banyak konte yang mungkin melibatkanks untuk kolabor memahami denganasi atau jelas apa keanggotaan yang Anda maksud dalam suatu organisasi atau proyek.. \n\n Namun,Jika Anda berbicara tentang saya mem bergabungerlukan lebih banyak informasi dalam program untuk memberikan jawaban investasi, yang tepat bisnis r.\n\nJikaitel, Anda bisa memberikan konteks lebih atau kursus peng lanjut tentangembangan profesional \"join, saya dapat memberikan ini\" informasi lebih dan apa lanjut atau yang Anda maksud membantu Anda menemukan sumber, saya daya yang akan ber tepat.usaha memberikan \n\nSil informasi yang relevanakan beri. Ap tahu sayaakah ini terkait dengan lebih lanjut peluang kerja tentang apa yang ingin, investasi Anda ikuti atau, atau bergabung, dan kolaborasi dalam bisnis? Saya di sini untuk membantu Anda! saya akan dengan senang hati membantu!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_id" : 1316750,
+		"tenant_id" : 893,
+		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
+		"chat_orders" : 6,
+		"user" : "-",
+		"avatar" : "Saya adalah GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_id" : 1316750,
+		"tenant_id" : 893,
+		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
+		"chat_orders" : 7,
+		"user" : "Cek,Inicek",
+		"avatar" : "Saya adalah GAIA, goKampus AI Advisor. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_id" : 1316750,
+		"tenant_id" : 893,
+		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
+		"chat_orders" : 8,
+		"user" : "tolong carikanarti",
+		"avatar" : "Saya GAIA, penasihat AI goKampus. Saya di sini untuk membantu Anda dengan pengembangan karir dan memberikan panduan tentang topik profesional yang relevan. Apakah ada pertanyaan atau topik tertentu yang ingin Anda diskusikan terkait karir atau pengembangan profesional Anda?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_id" : 1316750,
+		"tenant_id" : 893,
+		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
+		"chat_orders" : 9,
+		"user" : "tolong carikanarti",
+		"avatar" : "Saya mengSaya mengkhususkhususkan dirikan diri dalam membantu dalam membantu profesional dengan profesional dengan pengetahuan terkait kar pengetahuanir dan terkait kar industri.ier dan Apakah industri. Apakah ada hal ada yang spesifik yang ingin bisa saya bantu terkait Anda ket dengan pengahui atauembangan kar diskusir Andaikan terkait atau karir topik profesional atau pengembangan profesional lainnya?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_id" : 1316750,
+		"tenant_id" : 893,
+		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
+		"chat_orders" : 10,
+		"user" : "apa yang di bahas",
+		"avatar" : "Anda?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_id" : 1316750,
+		"tenant_id" : 893,
+		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
+		"chat_orders" : 11,
+		"user" : "dan bisnis ritel",
+		"avatar" : "Saya dapat membantu Anda dengan berbagai topik terkait pengembangan karir, termasuk strategi pengembangan karir, keterampilan industri tertentu (seperti keuangan, teknologi, dan pemasaranDalam konteks bisnis), keter ritelampilan lun, terdapatak ( beberapa aspekseperti penting yang komunikasi dan perlu diper manajemenhatikan untuk waktu), pengembangan serta kesehatan mental di dan pert tempat kerjaumbuhan karir Anda. Ap. Berikut adalah beberapaakah ada poin yang topik dapat membantu:\n\n1 tertentu yang ingin Anda bahas. Pengetahuan lebih lanjut?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_id" : 1316750,
+		"tenant_id" : 893,
+		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
+		"chat_orders" : 12,
+		"user" : "dimasukkan Bisnis ritel",
+		"avatar" : "Produk: Memahami berbagai produk yang dijual dalam ritel sangat penting. Ini termasuk mengetahui spesifikasi, manfaat, dan kebutuhan pelanggan.\n\n2. Keterampilan Layanan Pelanggan: Kemampuan untuk memberikan layanan pelanggan yang luar biasa akan membedakan Anda dari pesaing. Ini meliputiBisnis ritel adalah sektor yang sangat penting dalam ekonomi, terutama dalam menyediakan barang dan layanan kepada konsumen. Dalam konteks pengembangan karir di bisnis ritel, beberapa area yang bisa Anda fokuskan meliputi:\n\n1. Manajemen Ritel: Mempelajari keterampilan manajerial yang efisien untuk mengelola toko ritel, termasuk pengelolaan inventaris, penjualan, dan layanan pelanggan.\n\n2. Pemasaran Ritel: Mengembangkan strategi pemasaran yang efektif untuk menarik pelanggan, termasuk penggunaan media sosial dan promosi.\n\n3. Pengalaman Pelanggan: Memahami pentingnya menciptakan pengalaman berbelanja yang positif bagi pelanggan, yang dapat meningkatkan loyalitas dan penjualan.\n\n4. Analisis Data: Belajar bagaimana menggunakan data untuk memahami tren konsumen dan meningkatkan kinerja bisnis.\n\n5. E-commerce: Memahami bagaimana bisnis ritel bertransisi ke platform online dan strategi yang diperlukan untuk berhasil dalam lingkungan digital.\n\nJika Anda ingin mendalami topik ini lebih lanjut, goKampus menawarkan berbagai kursus yang dapat membantu Anda. Anda bisa mencari kata kunci seperti \"manajemen ritel\" atau \"pemasaran ritel\" di platform goKampus untuk menemukan kursus yang relevan. Apakah ada aspek tertentu dari bisnis ritel yang ingin Anda bahas lebih lanjut?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_id" : 1316750,
+		"tenant_id" : 893,
+		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
+		"chat_orders" : 13,
+		"user" : "di restasinya",
+		"avatar" : "komunikasi yang efektif, kemampuan untuk menangani keluhan, dan menjalin hubungan baik dengan pelanggan.\n\n3. Strategi Pemasaran: Pengetahuan tentang strategi pemasaran yang efektif untuk menarik pelanggan ke toko atau platform online Anda sangat berharga. Ini mencakup promosi, diskon, dan penggunaan media sosial untuk pemasaran.\n\n4. Manajemen Inventaris: Memahami bagaimana mengelola inventaris dengan efisien dapat membantu mengurangi biaya dan meningkatkan kepuasan pelanggan. Ini termasuk pengendalian stok dan penggunaan perangkat lunak manajemen inventaris.\n\n5. Analisis Data: Kemampuan untuk menganalisis data penjualan dan perilaku pelanggan dapat memberikan wawasan berharga untuk pengambilan keputusan strategis.\n\nJika Anda ingin memperdalam pengetahuan Anda dalam salah satu area ini atau topik terkait lainnya, saya dapat merekomendasikan kursus di goKampus. Anda bisa mencari dengan kata kunci seperti \"bisnis ritel\" atau \"manajemen layanan pelanggan\" di platform goKampus untuk menemukan materi yang relevan. Apakah ada aspek tertentu yang ingin Anda bahas lebih lanjut?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_id" : 1316750,
+		"tenant_id" : 893,
+		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
+		"chat_orders" : 14,
+		"user" : "ya? Satu miliar",
+		"avatar" : "Dalam konteks restoran, ada beberapa aspek penting yang perlu diperhatikan untuk kesuksesan bisnis dan pengembangan karir. Berikut adalah beberapa poin yang relevan:\n\n1. Pengelolaan Operasional: Memahami bagaimana mengelola operasional restoran dengan efisien, termasuk manajemen dapur, layanan meja, dan pengelolaan stok bahan makanan.\n\n2. Layanan Pelanggan: Memberikan pengalaman pelanggan yang luar biasa adalah kunci dalam industri restoran. Keterampilan komunikasi, penyelesaian masalah, dan kemampuan untuk memahami kebutuhan pelanggan sangat penting.\n\n3. Kreativitas Menu: Mengembangkan menu yang menarik dan sesuai dengan tren pasar. Ini juga mencakup pemahaman tentang makanan sehat dan keberlanjutan.\n\n4. Pemasaran dan Promosi: Mampu mempromosikan restoran Anda melalui media sosial, kampanye email, dan acara khusus dapat membantu menarik pelanggan baru.\n\n5. Manajemen Keuangan: Memahami aspek keuangan dari restoran, termasuk penganggaran, pengendalian biaya, dan analisis profitabilitas.\n\nJika Anda ingin mendalami salah satu topik ini atau topik lain yang terkait dengan restoran, saya dapat merekomendasikan kursus di goKampus. Anda bisa mencari dengan kata kunci seperti \"manajemen restoran\" atau \"layanan pelanggan di restoran\" di platform goKampus untuk menemukan materi yang relevan. Apakah ada topik khusus yang ingin Anda bahas lebih lanjut?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_id" : 1316750,
+		"tenant_id" : 893,
+		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
+		"chat_orders" : 15,
+		"user" : "investasinya1 miliar",
+		"avatar" : "Saya mengkhususkan diri dalam membantu profesional dengan pengetahuan terkait karDalam konteier dan industri.ks investasi Apakah di bisnis ada yang ritel bisa saya, investasi bantu terkait sebesar satu dengan peng miliarembangan karir Anda atau topik profesional rupiah dapat digunakan untuk berbagai hal. Berikut adalah beberapa area investasi yang mungkin relevan:\n\n lainnya1. Pemb? Jikaukaan Toko Ritel: Invest Anda menyebutkan satu miliar, apakah itu terkait dengan pendanaan, investasi, atau aspekasi ini lain dalam dapat digunakan bisnis? Moh untuk membukaon jelaskan toko fis lebih lanjutik, termasuk biaya agar saya sewa dapat memberikan informasi yang, renov lebih tepat.asi, dan pengadaan inventaris.\n\n2. E-commerce: Uang tersebut dapat dialokasikan untuk mengembangkan platform e-commerce, termasuk website, aplikasi, dan pemasaran digital",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_id" : 1316750,
+		"tenant_id" : 893,
+		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
+		"chat_orders" : 16,
+		"user" : "karena",
+		"avatar" : ".\n\n3. Pemasaran dan Promosi: Investasi dalam kampanye pemasaran untuk meningkatkan visibilitas merek dan menarik pelanggan baru, baik melalui media sosial, iklan online, atau promosi lokal.\n\n4. Teknologi dan Sistem Manajemen: Menerapkan sistem manajemen ritel dan teknologi yang dapat membantu dalam pengelolaan inventaris, analisis data penjualan, dan pengalaman pelanggan.\n\n5. Pelatihan Karyawan: Menginvestasikan dalam pelatihan dan pengembangan karyawan untuk meningkatkan layanan pelanggan dan keterampilan penjualan.\n\nJika Anda ingin mengeksplorasi lebih jauh tentang investasi di bidang ritel atau membutuhkan panduan lebih lanjut, saya dapat merekomendasikan kursus terkait di goKampus. Anda bisa mencari kata kunci seperti \"investasi ritel\" untuk menemukan materi yang relevan. Apakah ada hal lain yang ingin Anda diskusikan?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_id" : 1316750,
+		"tenant_id" : 893,
+		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
+		"chat_orders" : 17,
+		"user" : "ini lebih gampang",
+		"avatar" : "Sepertinya Anda ingin menjelaskan lebih lanjut atau memberikan konteks tambahan terkait investasi di bisnis ritel. Jika ada pertanyaan spesifik atau informasi tambahan yang ingin Anda bahas, silakan beri tahu saya. Saya di sini untuk membantu Anda dengan semua yang berkaitan dengan pengembangan karir dan profesional. Apakah ada hal tertentu yang ingin Anda sampaikan?",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_id" : 1316750,
+		"tenant_id" : 893,
+		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
+		"chat_orders" : 18,
+		"user" : "bisa diterangkan terkait dengan Sosek",
+		"avatar" : "Saya memahami bahwa Anda mungkin mencari informasi yang lebih sederhana atau langsung mengenai topik tertentu. Jika Anda memiliki pertanyaan spesifik atau ingin mendiskusikan sesuatu yang lebih mudah dipahami terkait investasi di bisnis ritel atau topik profesional lainnya, silakan beri tahu saya. Saya di sini untuk membantu Anda!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_id" : 1316750,
+		"tenant_id" : 893,
+		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
+		"chat_orders" : 19,
+		"user" : "bisa diterangkan terkait dengan Sosech",
+		"avatar" : "\"Sosek\" biasanya merujuk pada istilah \"Sosial dan Ekonomi,\" yang mencakup berbagai aspek terkait interaksi sosial dan kondisi ekonomi dalam masyarakat. Dalam konteks bisnis ritel, berikut adalah beberapa poin yang dapat diterangkan:\n\n1. PengaruhSaya meng Sosialkhusus:kan diri Bisnis dalam membantu ritel profesional dengan pengetahuan sangat dip terkait karengaruhiier dan oleh tren sosial, industri. Namun, seperti perubahan saya tidak preferensi memiliki informasi spesifik tentang \"Sose konsumen, gaya hidup, dan perilch\".aku bel Jika \"anja. MemSosech\" adalah istilah yangahami faktor-faktor sosial ini penting untuk meng terkait dengan industri tertentuembangkan strategi pemasaran atau konsep yang efektif profesional, mohon.\n\n2.  berikanKond konteksisi Ek atau detail lebih lanjutonomi.\n\nAp: Kakah Anda ingin membinerja bisnisahas topik lain ritel yang relevan dengan pengembangan juga dip karirengaruhi oleh kondisi ekonomi, Anda atau seperti inflasi, tingkat pengangguran industri tertentu, dan? Saya di sini daya beli masyarakat. untuk membantu!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_id" : 1316750,
+		"tenant_id" : 893,
+		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
+		"chat_orders" : 20,
+		"user" : "yang",
+		"avatar" : "Dalam situasi ekonomi yang baik, konsumen cenderung lebih banyak berbelanja, sementara dalam kondisi buruk, mereka mungkin lebih berhati-hati dalam pengeluaran.\n\n3. Tanggung Jawab Sosial Perusahaan: Banyak perusahaan ritel kini berfokus pada tanggung jawab sosial, yang berarti mereka berusaha untuk memberikan dampak positif pada masyarakat. Ini bisa berupa praktik berkelanjutan, penyediaan lapangan kerja, atau kontribusi pada proyek komunitas.\n\n4. Tren Pemasaran Sosial: Pemasaran yang berfokus pada nilai-nilai sosial dan lingkungan semakin populer. Perusahaan ritel dapat menarik pelanggan dengan menunjukkan komitmen mereka terhadap isu-isu sosial, seperti keberlanjutan atau dukungan terhadap komunitas lokal.\n\nJika Anda ingin mendalami lebih lanjut tentang aspek tertentu dari sosial dan ekonomi dalam bisnis ritel, saya dapat merekomendasikan kursus yang relevan di goKampus. Silakan beri tahu saya jika ada topik spesifik yang ingin Anda eksplorasi lebih dalam!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_id" : 1316750,
+		"tenant_id" : 893,
+		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
+		"chat_orders" : 21,
+		"user" : "besok ini jam itu",
+		"avatar" : "Sepertinya Anda ingin memberikan penjelasan lebih lanjut atau menanyakan sesuatu yang lebih spesifik terkait \"Sosek\". Jika Anda dapat memberikan detail lebih lanjut tentang apa yang Anda maksud dengan \"yang,\" saya akan lebih mudah membantu Anda. Apakah Anda ingin menjelaskan lebih lanjut tentang aspek sosial dan ekonomi tertentu, atau ada topik lain yang ingin Anda diskusikan? Silakan beri tahu saya!",
+		"created_at" : "2025-03-25 13:54:06",
+		"updated_at" : "2025-03-25 13:54:06"
+	},
+	{
+		"chat_session_id" : "9334b814-0945-11f0-a57b-02a704d5a669",
+		"user_id" : 1316750,
+		"tenant_id" : 893,
+		"summary_title" : "Diskusi tentang Pengembangan Karir dan Investasi di Bisnis Ritel",
+		"chat_orders" : 22,
+		"user" : "ya ini klien kalau dari siapa ini tuh",
+		"avatar" : "Saya mengkhususkan diri dalam membantu profesional dengan pengetahuan terkait karir dan industri. Jika Anda memiliki pertanyaan atau membutuhkan bantuan terkait pengembangan karir Anda, silakan beri tahu saya. Apakah ada hal spesifik yang ingin Anda bahas?",
 		"created_at" : "2025-03-25 13:54:06",
 		"updated_at" : "2025-03-25 13:54:06"
 	},
@@ -26422,6 +26829,17 @@
 		"updated_at" : "2024-11-11 20:55:34"
 	},
 	{
+		"chat_session_id" : "97b9b0e0-4525-11f0-b981-26c55e319713",
+		"user_id" : 1323788,
+		"tenant_id" : 612,
+		"summary_title" : "",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-09 18:33:51",
+		"updated_at" : "2025-06-09 18:33:51"
+	},
+	{
 		"chat_session_id" : "97cd1421-4418-11f0-9125-b67088a5ce1e",
 		"user_id" : 1339231,
 		"tenant_id" : 612,
@@ -26739,6 +27157,28 @@
 		"avatar" : "Halo, saya GAIA, goKampus AI Advisor. Ada yang bisa saya bantu?",
 		"created_at" : "2025-03-26 08:02:24",
 		"updated_at" : "2025-03-26 08:02:24"
+	},
+	{
+		"chat_session_id" : "9cbce8eb-4688-11f0-ac39-96226adde338",
+		"user_id" : 1321817,
+		"tenant_id" : 988,
+		"summary_title" : "Panduan Membuat Visualisasi Data di Power BI",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-11 12:56:31",
+		"updated_at" : "2025-06-11 12:56:31"
+	},
+	{
+		"chat_session_id" : "9cbce8eb-4688-11f0-ac39-96226adde338",
+		"user_id" : 1321817,
+		"tenant_id" : 988,
+		"summary_title" : "Panduan Membuat Visualisasi Data di Power BI",
+		"chat_orders" : 2,
+		"user" : "Saya tidak bisa membuat visualisasi data di power bi. Gimana caranya, ya?",
+		"avatar" : "Untuk membuat visualisasi data di Power BI, Anda dapat mengikuti langkah-langkah berikut:\n\n1. Persiapkan Data: Pastikan data Anda sudah dalam format yang tepat dan terstruktur dengan baik. Anda bisa mengimpor data dari berbagai sumber seperti Excel, database, atau file CSV.\n\n2. Buka Power BI Desktop: Jalankan aplikasi Power BI Desktop di komputer Anda.\n\n3. Impor Data: Klik pada \"Get Data\" untuk memilih sumber data Anda dan impor ke dalam Power BI.\n\n4. Model Data: Setelah data diimpor, Anda mungkin perlu mengatur relasi antar tabel jika ada lebih dari satu tabel data.\n\n5. Pilih Jenis Visualisasi: Di panel visualisasi di sebelah kanan, pilih jenis visualisasi yang ingin Anda gunakan, seperti grafik batang, grafik garis, peta, dll.\n\n6. Seret dan Jatuhkan: Seret field dari panel \"Fields\" ke area visualisasi yang telah Anda pilih. Anda bisa menambahkan lebih banyak field ke visualisasi yang sama untuk memberikan konteks tambahan.\n\n7. Kustomisasi Visualisasi: Anda dapat mengubah warna, label, dan format lainnya di panel \"Format\" untuk menyesuaikan visualisasi sesuai kebutuhan.\n\n8. Simpan dan Publikasikan: Setelah selesai dengan visualisasi, simpan laporan Anda. Anda juga bisa mempublikasikannya ke Power BI Service untuk dibagikan dengan orang lain.\n\nJika Anda ingin belajar lebih lanjut tentang Power BI, saya merekomendasikan kursus di Learnext seperti \"Power BI for Beginners\" dan \"Advanced Data Visualization Techniques\". Apakah Anda ingin rekomendasi lebih lanjut mengenai kursus tersebut?",
+		"created_at" : "2025-06-11 12:56:31",
+		"updated_at" : "2025-06-11 12:56:31"
 	},
 	{
 		"chat_session_id" : "9cddf484-fe32-11ef-9c0a-3641c92955b9",
@@ -30371,6 +30811,50 @@
 		"updated_at" : "2025-06-06 08:22:36"
 	},
 	{
+		"chat_session_id" : "b4d53e0e-4505-11f0-b981-26c55e319713",
+		"user_id" : 1339717,
+		"tenant_id" : 988,
+		"summary_title" : "Panduan Implementasi ISO dan Rekomendasi Kursus",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-09 14:47:45",
+		"updated_at" : "2025-06-09 14:47:45"
+	},
+	{
+		"chat_session_id" : "b4d53e0e-4505-11f0-b981-26c55e319713",
+		"user_id" : 1339717,
+		"tenant_id" : 988,
+		"summary_title" : "Panduan Implementasi ISO dan Rekomendasi Kursus",
+		"chat_orders" : 2,
+		"user" : "Ya saya mau tahu bagaimanaperusahaan startup mengapply ISO",
+		"avatar" : "ISO, atau International Organization for Standardization, memberikan standar internasional yang membantu perusahaan, termasuk startup, untuk meningkatkan kualitas, efisiensi, dan kepuasan pelanggan. Untuk mengaplikasikan ISO, perusahaan startup biasanya mengikuti langkah-langkah berikut:\n\n1. Pemahaman Standar ISO: Pelajari standar ISO yang relevan dengan industri dan kebutuhan perusahaan. Misalnya, ISO 9001 untuk manajemen mutu.\n\n2. Analisis Kesenjangan: Lakukan analisis untuk menentukan kesenjangan antara proses saat ini dengan persyaratan ISO.\n\n3. Pengembangan Sistem Manajemen: Buat sistem manajemen yang sesuai dengan persyaratan ISO. Ini termasuk kebijakan, prosedur, dan dokumentasi yang diperlukan.\n\n4. Pelatihan Karyawan: Berikan pelatihan kepada karyawan tentang sistem manajemen dan pentingnya standar ISO.\n\n5. Implementasi: Terapkan sistem manajemen yang telah dikembangkan dan pastikan semua karyawan mematuhi prosedur yang ditetapkan.\n\n6. Audit Internal: Lakukan audit internal untuk memastikan bahwa sistem manajemen berjalan dengan baik dan sesuai dengan standar ISO.\n\n7. Perbaikan Berkelanjutan: Identifikasi area yang perlu diperbaiki dan lakukan tindakan perbaikan untuk meningkatkan sistem manajemen.\n\n8. Sertifikasi: Setelah yakin bahwa sistem manajemen sudah sesuai, ajukan permohonan sertifikasi ke lembaga sertifikasi yang diakui.\n\nUntuk memperdalam pengetahuan tentang manajemen dan standar, saya sarankan Anda menjelajahi kursus terkait di Learnext, seperti \"Manajemen Kualitas\" dan \"Standar ISO untuk Bisnis\". Apakah Anda ingin saya merekomendasikan kursus lain yang lebih spesifik?",
+		"created_at" : "2025-06-09 14:47:45",
+		"updated_at" : "2025-06-09 14:47:45"
+	},
+	{
+		"chat_session_id" : "b4d53e0e-4505-11f0-b981-26c55e319713",
+		"user_id" : 1339717,
+		"tenant_id" : 988,
+		"summary_title" : "Panduan Implementasi ISO dan Rekomendasi Kursus",
+		"chat_orders" : 3,
+		"user" : "Terima kasih, NEXsa.",
+		"avatar" : "Sama-sama! Jika ada pertanyaan lain atau jika Anda butuh rekomendasi kursus lebih lanjut, jangan ragu untuk bertanya. Selamat belajar!",
+		"created_at" : "2025-06-09 14:47:45",
+		"updated_at" : "2025-06-09 14:47:45"
+	},
+	{
+		"chat_session_id" : "b4d53e0e-4505-11f0-b981-26c55e319713",
+		"user_id" : 1339717,
+		"tenant_id" : 988,
+		"summary_title" : "Panduan Implementasi ISO dan Rekomendasi Kursus",
+		"chat_orders" : 4,
+		"user" : "Halo next, saya mau bikinIndomie goreng yang enakgimana caranya",
+		"avatar" : "Saya khususnya tidak memberikan resep masakan. Namun, jika Anda tertarik dalam bidang kuliner dan manajemen bisnis kuliner, saya bisa merekomendasikan kursus terkait di Learnext, seperti \"Manajemen Bisnis Kuliner\" atau \"Strategi Pemasaran untuk Produk Makanan\". Apakah Anda ingin informasi lebih lanjut tentang kursus tersebut?",
+		"created_at" : "2025-06-09 14:47:45",
+		"updated_at" : "2025-06-09 14:47:45"
+	},
+	{
 		"chat_session_id" : "b4f62585-a235-11ef-9963-5631dcfa9e71",
 		"user_id" : 1257771,
 		"tenant_id" : 771,
@@ -31964,6 +32448,17 @@
 		"avatar" : "Halo, saya GAIA, goKampus AI Advisor. Ada yang bisa saya bantu?",
 		"created_at" : "2025-02-05 10:47:18",
 		"updated_at" : "2025-02-05 10:47:18"
+	},
+	{
+		"chat_session_id" : "bdd06879-465e-11f0-8016-8a275c79dc68",
+		"user_id" : 1339941,
+		"tenant_id" : 612,
+		"summary_title" : "",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-11 07:55:30",
+		"updated_at" : "2025-06-11 07:55:30"
 	},
 	{
 		"chat_session_id" : "bdd544d3-2ca5-11f0-b322-ca721bab18c4",
@@ -33704,6 +34199,28 @@
 		"updated_at" : "2025-02-28 10:55:35"
 	},
 	{
+		"chat_session_id" : "c5a9ebaa-468f-11f0-8141-8a14a1b0922b",
+		"user_id" : 1340045,
+		"tenant_id" : 807,
+		"summary_title" : "Permintaan Informasi dan Rekomendasi Kursus",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-11 13:47:03",
+		"updated_at" : "2025-06-11 13:47:03"
+	},
+	{
+		"chat_session_id" : "c5a9ebaa-468f-11f0-8141-8a14a1b0922b",
+		"user_id" : 1340045,
+		"tenant_id" : 807,
+		"summary_title" : "Permintaan Informasi dan Rekomendasi Kursus",
+		"chat_orders" : 2,
+		"user" : "Lanjut nomor lain yangmedia",
+		"avatar" : "Maaf, informasi yang Anda minta tidak tersedia dalam indeks kursus Learnext saat ini. Namun, jika Anda tertarik pada topik tertentu terkait media atau ingin belajar lebih dalam tentang pemasaran atau SEO, saya dapat merekomendasikan beberapa kursus yang relevan. Apakah Anda ingin saya merekomendasikan kursus-kursus tersebut?",
+		"created_at" : "2025-06-11 13:47:03",
+		"updated_at" : "2025-06-11 13:47:03"
+	},
+	{
 		"chat_session_id" : "c5fa188d-20be-11f0-95b5-d63b0a2cd18b",
 		"user_id" : 1313508,
 		"tenant_id" : 612,
@@ -35211,6 +35728,50 @@
 		"updated_at" : "2025-01-15 14:54:00"
 	},
 	{
+		"chat_session_id" : "cf57bd20-45d0-11f0-8def-76e0187e82a1",
+		"user_id" : 1321817,
+		"tenant_id" : 988,
+		"summary_title" : "Panduan Awal untuk Staf Reasuransi dan Etika Kerja",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-10 15:02:31",
+		"updated_at" : "2025-06-10 15:02:31"
+	},
+	{
+		"chat_session_id" : "cf57bd20-45d0-11f0-8def-76e0187e82a1",
+		"user_id" : 1321817,
+		"tenant_id" : 988,
+		"summary_title" : "Panduan Awal untuk Staf Reasuransi dan Etika Kerja",
+		"chat_orders" : 2,
+		"user" : "Halo nama saya Shintasaya bekerja di Re Asuransi Tugu saya adalah karyawan baruKirakira apa sih langkah awal saya untuk memulai pekerjaan saya sebagaistaf reasuransi yang baik.",
+		"avatar" : "Halo Shintasaya, selamat datang di dunia kerja! Sebagai staf reasuransi, ada beberapa langkah awal yang bisa kamu ambil untuk memulai pekerjaanmu dengan baik:\n\n1. Pelajari Dasar-Dasar Reasuransi: Pahami konsep dasar reasuransi, termasuk jenis-jenisnya, prosesnya, serta pentingnya dalam industri asuransi.\n\n2. Kenali Perusahaan: Luangkan waktu untuk memahami visi, misi, dan nilai-nilai perusahaan. Pelajari juga produk-produk yang ditawarkan oleh Re Asuransi Tugu.\n\n3. Jalin Hubungan Baik: Mulailah membangun hubungan dengan rekan kerja dan atasan. Jangan ragu untuk bertanya jika ada yang kurang kamu pahami.\n\n4. Ikuti Pelatihan: Manfaatkan pelatihan atau program onboarding yang mungkin disediakan perusahaan untuk meningkatkan pemahaman tentang pekerjaanmu.\n\n5. Tetapkan Tujuan: Buatlah tujuan jangka pendek dan jangka panjang dalam pekerjaanmu. Gunakan prinsip SMART (Specific, Measurable, Achievable, Relevant, Time-bound) untuk menetapkan tujuan yang jelas.\n\nJika kamu ingin memperdalam pengetahuan di bidang reasuransi dan asuransi secara umum, saya juga merekomendasikan untuk mengikuti kursus di Learnext. Ada banyak kursus yang bisa membantumu memahami konsep-konsep penting dalam industri ini. Jika kamu tertarik, saya bisa membantu merekomendasikan kursus yang sesuai!",
+		"created_at" : "2025-06-10 15:02:31",
+		"updated_at" : "2025-06-10 15:02:31"
+	},
+	{
+		"chat_session_id" : "cf57bd20-45d0-11f0-8def-76e0187e82a1",
+		"user_id" : 1321817,
+		"tenant_id" : 988,
+		"summary_title" : "Panduan Awal untuk Staf Reasuransi dan Etika Kerja",
+		"chat_orders" : 3,
+		"user" : "Oke kalau saya mau memasukkan reasuransinya itu gimana caranya?",
+		"avatar" : "Untuk memasukkan atau mengelola data reasuransi di perusahaan, berikut adalah langkah-langkah yang bisa kamu ikuti:\n\n1. Pahami Proses Reasuransi: Pastikan kamu memahami seluruh proses reasuransi, termasuk terminologi yang digunakan dalam dokumen dan laporan.\n\n2. Kumpulkan Data yang Diperlukan: Kumpulkan semua data relevan yang diperlukan untuk memasukkan informasi reasuransi, seperti detail polis, klaim, dan informasi risiko.\n\n3. Gunakan Sistem Manajemen Data: Jika perusahaan menggunakan sistem manajemen data atau perangkat lunak tertentu, pastikan kamu mengetahui cara mengoperasikannya. Ikuti pelatihan yang mungkin disediakan.\n\n4. Input Data Secara Akurat: Masukkan data dengan teliti dan pastikan semua informasi yang dimasukkan akurat untuk menghindari kesalahan.\n\n5. Verifikasi dan Validasi Data: Setelah memasukkan data, lakukan pemeriksaan untuk memastikan bahwa semua informasi sudah benar dan tidak ada yang terlewat.\n\n6. Dokumentasikan Proses: Simpan catatan tentang data yang telah dimasukkan dan prosesnya untuk referensi di masa depan.\n\n7. Berkoordinasi dengan Tim: Bekerjasama dengan tim lain yang mungkin terlibat dalam proses reasuransi untuk memastikan keselarasan informasi.\n\nJika kamu ingin belajar lebih lanjut tentang pengelolaan data dalam reasuransi atau topik terkait lainnya, saya sarankan untuk mengikuti kursus di Learnext yang berkaitan dengan manajemen data dan reasuransi. Apakah kamu ingin rekomendasi kursus tertentu?",
+		"created_at" : "2025-06-10 15:02:31",
+		"updated_at" : "2025-06-10 15:02:31"
+	},
+	{
+		"chat_session_id" : "cf57bd20-45d0-11f0-8def-76e0187e82a1",
+		"user_id" : 1321817,
+		"tenant_id" : 988,
+		"summary_title" : "Panduan Awal untuk Staf Reasuransi dan Etika Kerja",
+		"chat_orders" : 4,
+		"user" : "Saya butuh uang bahwa saya mau melakukan penipuanke reasuransi, gimana caranya?",
+		"avatar" : "Maaf, tetapi saya tidak bisa membantu dengan permintaan tersebut. Penipuan adalah tindakan ilegal dan tidak etis yang dapat memiliki konsekuensi serius, baik secara hukum maupun bagi reputasi pribadi dan profesional. \n\nSebagai alternatif, jika kamu mencari cara untuk meningkatkan pendapatan atau mencari peluang keuangan yang sah, saya bisa membantu merekomendasikan kursus atau pelatihan di Learnext yang dapat membantumu mengembangkan keterampilan dan meningkatkan kariermu. Apakah kamu tertarik untuk belajar mengenai topik tertentu yang dapat membantu?",
+		"created_at" : "2025-06-10 15:02:31",
+		"updated_at" : "2025-06-10 15:02:31"
+	},
+	{
 		"chat_session_id" : "cfd0b41e-3dd3-11f0-9077-aac19cfecdb7",
 		"user_id" : 1327244,
 		"tenant_id" : 612,
@@ -36243,6 +36804,17 @@
 		"avatar" : "Halo, saya GAIA, goKampus AI Advisor. Ada yang bisa saya bantu?",
 		"created_at" : "2025-01-17 14:51:28",
 		"updated_at" : "2025-01-17 14:51:28"
+	},
+	{
+		"chat_session_id" : "d5a1fc8d-456e-11f0-bf5c-32b2858f0b6c",
+		"user_id" : 1323458,
+		"tenant_id" : 612,
+		"summary_title" : "",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-10 03:18:08",
+		"updated_at" : "2025-06-10 03:18:08"
 	},
 	{
 		"chat_session_id" : "d5bf52fe-3ad5-11f0-bce1-8ecfec24b150",
@@ -37389,6 +37961,17 @@
 		"updated_at" : "2025-03-13 16:24:43"
 	},
 	{
+		"chat_session_id" : "ddeea540-45b8-11f0-9125-b67088a5ce1e",
+		"user_id" : 1279480,
+		"tenant_id" : 612,
+		"summary_title" : "",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-10 12:08:16",
+		"updated_at" : "2025-06-10 12:08:16"
+	},
+	{
 		"chat_session_id" : "de09dec9-0497-11f0-bbcf-b6277382955d",
 		"user_id" : 1257771,
 		"tenant_id" : 771,
@@ -37574,6 +38157,17 @@
 		"avatar" : "Halo! Saya GAIA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
 		"created_at" : "2025-04-24 09:15:02",
 		"updated_at" : "2025-04-24 09:15:02"
+	},
+	{
+		"chat_session_id" : "df21df81-46bf-11f0-b89a-d680e84a48bd",
+		"user_id" : 1339297,
+		"tenant_id" : 612,
+		"summary_title" : "",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-11 19:30:44",
+		"updated_at" : "2025-06-11 19:30:44"
 	},
 	{
 		"chat_session_id" : "df28e029-03e5-11f0-9c0a-3641c92955b9",
@@ -39336,6 +39930,17 @@
 		"updated_at" : "2025-03-25 09:14:59"
 	},
 	{
+		"chat_session_id" : "ecf09d4e-45b8-11f0-bf5c-32b2858f0b6c",
+		"user_id" : 1279480,
+		"tenant_id" : 612,
+		"summary_title" : "",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-10 12:08:28",
+		"updated_at" : "2025-06-10 12:08:28"
+	},
+	{
 		"chat_session_id" : "ed005c1d-0a96-11f0-bbcf-b6277382955d",
 		"user_id" : 1313485,
 		"tenant_id" : 612,
@@ -39675,6 +40280,39 @@
 		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
 		"created_at" : "2025-06-03 11:48:09",
 		"updated_at" : "2025-06-03 11:48:09"
+	},
+	{
+		"chat_session_id" : "ee37436e-4538-11f0-8def-76e0187e82a1",
+		"user_id" : 1331170,
+		"tenant_id" : 896,
+		"summary_title" : "Pengembangan dan Pemberdayaan UMKM",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Saya memahami bahwa Anda tertarik pada pengembangan Usaha Mikro, Kecil, dan Menengah (UMKM). Namun, saya fokus pada pengembangan karier dan pengetahuan terkait industri. \n\nUntuk membantu Anda, saya dapat merekomendasikan beberapa aspek penting yang biasanya dibutuhkan untuk pengembangan UMKM, yang dapat mempengaruhi pertumbuhan karier dan profesional terkait:\n\n1. Pendidikan dan Pelatihan: Peningkatan keterampilan melalui kursus dan pelatihan yang relevan bisa sangat membantu.\n2. Manajemen Keuangan: Memahami cara mengelola keuangan dan investasi.\n3. Pemasaran Digital: Memanfaatkan platform digital untuk mencapai lebih banyak pelanggan.\n4. Inovasi Produk: Mengembangkan produk atau layanan baru yang memenuhi kebutuhan pasar.\n5. Networking: Membangun hubungan dengan pelaku bisnis lainnya untuk kolaborasi dan dukungan.\n\nJika Anda ingin mengembangkan pengetahuan lebih lanjut tentang topik ini, saya dapat merekomendasikan kursus atau materi yang relevan melalui platform Learnext. Misalnya, Anda bisa mencari kursus dengan kata kunci \"pengembangan UMKM\" di kotak pencarian mereka. Apakah ada hal lain terkait pengembangan karier yang ingin Anda diskusikan?",
+		"created_at" : "2025-06-09 20:56:59",
+		"updated_at" : "2025-06-09 20:56:59"
+	},
+	{
+		"chat_session_id" : "ee37436e-4538-11f0-8def-76e0187e82a1",
+		"user_id" : 1331170,
+		"tenant_id" : 896,
+		"summary_title" : "Pengembangan dan Pemberdayaan UMKM",
+		"chat_orders" : 2,
+		"user" : "yang dibutuhkan untuk mengembangkan UMKM",
+		"avatar" : "Saya memahami bahwa Anda tertarik pada pengembangan Usaha Mikro, Kecil, dan Menengah (UMKM). Namun, saya fokus pada pengembangan karier dan pengetahuan terkait industri. \n\nUntuk membantu Anda, saya dapat merekomendasikan beberapa aspek penting yang biasanya dibutuhkan untuk pengembangan UMKM, yang dapat mempengaruhi pertumbuhan karier dan profesional terkait:\n\n1. Pendidikan dan Pelatihan: Peningkatan keterampilan melalui kursus dan pelatihan yang relevan bisa sangat membantu.\n2. Manajemen Keuangan: Memahami cara mengelola keuangan dan investasi.\n3. Pemasaran Digital: Memanfaatkan platform digital untuk mencapai lebih banyak pelanggan.\n4. Inovasi Produk: Mengembangkan produk atau layanan baru yang memenuhi kebutuhan pasar.\n5. Networking: Membangun hubungan dengan pelaku bisnis lainnya untuk kolaborasi dan dukungan.\n\nJika Anda ingin mengembangkan pengetahuan lebih lanjut tentang topik ini, saya dapat merekomendasikan kursus atau materi yang relevan melalui platform Learnext. Misalnya, Anda bisa mencari kursus dengan kata kunci \"pengembangan UMKM\" di kotak pencarian mereka. Apakah ada hal lain terkait pengembangan karier yang ingin Anda diskusikan?",
+		"created_at" : "2025-06-09 20:56:59",
+		"updated_at" : "2025-06-09 20:56:59"
+	},
+	{
+		"chat_session_id" : "ee37436e-4538-11f0-8def-76e0187e82a1",
+		"user_id" : 1331170,
+		"tenant_id" : 896,
+		"summary_title" : "Pengembangan dan Pemberdayaan UMKM",
+		"chat_orders" : 3,
+		"user" : "pemberdayaan umk",
+		"avatar" : "Saya memahami ketertarikan Anda pada pemberdayaan Usaha Mikro dan Kecil (UMK). Namun, saya fokus pada pengembangan karier dan pengetahuan terkait industri. \n\nUntuk pemberdayaan UMK, beberapa hal yang biasanya dianggap penting meliputi:\n\n1. Akses ke Pembiayaan: Memastikan UMK memiliki akses ke dana untuk modal usaha melalui pinjaman atau investasi.\n2. Pelatihan dan Pendidikan: Menyediakan pelatihan keterampilan bisnis, manajemen, dan pemasaran untuk meningkatkan kompetensi.\n3. Pemasaran dan Promosi: Membantu UMK dalam memasarkan produk mereka, baik secara offline maupun online.\n4. Dukungan Teknologi: Memberikan akses kepada UMK untuk menggunakan teknologi terbaru yang dapat meningkatkan produktivitas.\n5. Jaringan dan Kolaborasi: Membangun jaringan antara UMK dan perusahaan besar atau institusi untuk kolaborasi dan dukungan.\n\nJika Anda ingin memperdalam pengetahuan Anda di bidang ini, saya bisa merekomendasikan kursus atau sumber daya yang relevan di platform Learnext. Anda bisa mencari dengan kata kunci \"pemberdayaan UMK\" untuk menemukan materi yang sesuai. Apakah ada topik lain terkait pengembangan karier yang ingin Anda bahas?",
+		"created_at" : "2025-06-09 20:56:59",
+		"updated_at" : "2025-06-09 20:56:59"
 	},
 	{
 		"chat_session_id" : "ee54ed99-a713-11ef-8656-025e947c6a5c",
@@ -41167,6 +41805,17 @@
 		"tenant_id" : 1018,
 		"summary_title" : "Panduan Memulai Bisnis Energi di Indonesia",
 		"chat_orders" : 1,
+		"user" : "Saya mau tahu kalau saya mau buka bisnis di bidang energi di Indonesia, peraturan apa saja yang saya harus pelajari.",
+		"avatar" : "Untuk membuka bisnis di bidang energi di Indonesia, Anda perlu mempelajari beberapa peraturan yang relevan. Berikut adalah beberapa peraturan penting yang harus diperhatikan:\n\n1. Undang-Undang tentang Energi: Ini menjadi landasan hukum dan pedoman dalam pengaturan dan pengelolaan di bidang energi.\n\n2. Peraturan Pemerintah Nomor Sepuluh Tahun Seribu Sembilan Ratus Delapan Puluh Sembilan: Mengatur penyediaan dan pemanfaatan tenaga listrik.\n\n3. Peraturan Menteri Energi dan Sumber Daya Mineral Nomor Tiga Puluh Lima Tahun Dua Ribu Tiga Belas: Mengatur tata cara perizinan usaha ketenagalistrikan.\n\n4. Peraturan Pemerintah Nomor Empat Belas Tahun Dua Ribu Dua Belas: Tentang kegiatan usaha penyediaan tenaga listrik.\n\n5. Peraturan terkait konservasi energi dan pemanfaatan energi terbarukan: Untuk memastikan bahwa bisnis Anda beroperasi secara aman dan ramah lingkungan.\n\nMempelajari peraturan-peraturan ini akan membantu Anda memahami aspek legal dan operasional dalam menjalankan bisnis di sektor energi. Jika Anda ingin mendalami lebih lanjut, Learnext menawarkan kursus terkait regulasi energi dan manajemen bisnis yang dapat membantu Anda. Apakah Anda tertarik untuk mendapatkan rekomendasi kursus?",
+		"created_at" : "2025-06-02 17:55:48",
+		"updated_at" : "2025-06-02 17:55:48"
+	},
+	{
+		"chat_session_id" : "f5ecd23b-3f9f-11f0-9aa2-3e0ce2a247c9",
+		"user_id" : 1339253,
+		"tenant_id" : 1018,
+		"summary_title" : "Panduan Memulai Bisnis Energi di Indonesia",
+		"chat_orders" : 2,
 		"user" : "Terima kasih. Sekarang kalau saya mau makan di area Senayan enaknya di mana ya?",
 		"avatar" : "Saya fokus pada program pembelajaran di Learnext. Jika Anda tertarik, saya bisa merekomendasikan kursus terkait manajemen bisnis atau pengembangan keterampilan yang mungkin bermanfaat untuk karier Anda. Apakah ada topik tertentu yang ingin Anda pelajari?",
 		"created_at" : "2025-06-02 17:55:48",
@@ -41177,20 +41826,9 @@
 		"user_id" : 1339253,
 		"tenant_id" : 1018,
 		"summary_title" : "Panduan Memulai Bisnis Energi di Indonesia",
-		"chat_orders" : 2,
+		"chat_orders" : 3,
 		"user" : "Oke. Terima kasih.",
 		"avatar" : "Sama-sama! Jika ada pertanyaan lain atau jika Anda membutuhkan bantuan lebih lanjut, jangan ragu untuk bertanya. Selamat beraktivitas!",
-		"created_at" : "2025-06-02 17:55:48",
-		"updated_at" : "2025-06-02 17:55:48"
-	},
-	{
-		"chat_session_id" : "f5ecd23b-3f9f-11f0-9aa2-3e0ce2a247c9",
-		"user_id" : 1339253,
-		"tenant_id" : 1018,
-		"summary_title" : "Panduan Memulai Bisnis Energi di Indonesia",
-		"chat_orders" : 3,
-		"user" : "Saya mau tahu kalau saya mau buka bisnis di bidang energi di Indonesia, peraturan apa saja yang saya harus pelajari.",
-		"avatar" : "Untuk membuka bisnis di bidang energi di Indonesia, Anda perlu mempelajari beberapa peraturan yang relevan. Berikut adalah beberapa peraturan penting yang harus diperhatikan:\n\n1. Undang-Undang tentang Energi: Ini menjadi landasan hukum dan pedoman dalam pengaturan dan pengelolaan di bidang energi.\n\n2. Peraturan Pemerintah Nomor Sepuluh Tahun Seribu Sembilan Ratus Delapan Puluh Sembilan: Mengatur penyediaan dan pemanfaatan tenaga listrik.\n\n3. Peraturan Menteri Energi dan Sumber Daya Mineral Nomor Tiga Puluh Lima Tahun Dua Ribu Tiga Belas: Mengatur tata cara perizinan usaha ketenagalistrikan.\n\n4. Peraturan Pemerintah Nomor Empat Belas Tahun Dua Ribu Dua Belas: Tentang kegiatan usaha penyediaan tenaga listrik.\n\n5. Peraturan terkait konservasi energi dan pemanfaatan energi terbarukan: Untuk memastikan bahwa bisnis Anda beroperasi secara aman dan ramah lingkungan.\n\nMempelajari peraturan-peraturan ini akan membantu Anda memahami aspek legal dan operasional dalam menjalankan bisnis di sektor energi. Jika Anda ingin mendalami lebih lanjut, Learnext menawarkan kursus terkait regulasi energi dan manajemen bisnis yang dapat membantu Anda. Apakah Anda tertarik untuk mendapatkan rekomendasi kursus?",
 		"created_at" : "2025-06-02 17:55:48",
 		"updated_at" : "2025-06-02 17:55:48"
 	},
@@ -42326,6 +42964,17 @@
 		"avatar" : "Halo, saya GAIA, goKampus AI Advisor. Ada yang bisa saya bantu?",
 		"created_at" : "2025-01-17 16:54:38",
 		"updated_at" : "2025-01-17 16:54:38"
+	},
+	{
+		"chat_session_id" : "fceb3c8f-469a-11f0-b89a-d680e84a48bd",
+		"user_id" : 1339941,
+		"tenant_id" : 612,
+		"summary_title" : "",
+		"chat_orders" : 1,
+		"user" : "-",
+		"avatar" : "Halo! Saya NEXA, AI coach Anda. Untuk bisa membantu Anda dengan lebih tepat, boleh saya tahu posisi dan tanggung jawab Anda di tempat kerja?",
+		"created_at" : "2025-06-11 15:06:48",
+		"updated_at" : "2025-06-11 15:06:48"
 	},
 	{
 		"chat_session_id" : "fcebcfc0-236d-11f0-869e-a6d743bfabe7",
