@@ -9514,5 +9514,83 @@
 		"summary_title" : "Meningkatkan Keterampilan Bahasa Inggris",
 		"summary_content" : "Percakapan ini berfokus pada bagaimana cara meningkatkan keterampilan bahasa Inggris. Avatar memberikan berbagai saran kepada user, termasuk mengikuti kursus, berlatih rutin, berbicara dengan penutur asli, menonton film, mendengarkan musik, menggunakan aplikasi pembelajaran, membaca buku, bergabung dengan kelompok belajar, menulis secara teratur, dan menetapkan tujuan spesifik. Avatar juga memberikan tips yang lebih personal seperti menentukan tujuan pribadi, menjadwalkan waktu belajar, dan mengevaluasi kemajuan.",
 		"created_at" : "2025-06-12 00:33:10"
+	},
+	{
+		"chat_session_id" : "f606e32a-472f-11f0-bff5-22f26515f8a7",
+		"summary_title" : "Masalah Teknis Pengiriman Esai",
+		"summary_content" : "Pengguna mengalami masalah teknis saat mengirim jawaban di esai. NEXA, AI coach, menginformasikan bahwa masalah tersebut telah diteruskan ke tim dukungan Learnext dan mereka akan menghubungi pengguna segera. NEXA juga menawarkan kursus tentang 'Penulisan Esai yang Efektif', tetapi pengguna menolak tawaran tersebut.",
+		"created_at" : "2025-06-12 08:55:25"
+	},
+	{
+		"chat_session_id" : "ba6517f3-4735-11f0-81e1-ceb516b801d7",
+		"summary_title" : "Informasi Tidak Tersedia",
+		"summary_content" : "User menanyakan tentang waktu mulai, namun avatar menjawab bahwa informasi tersebut tidak tersedia di indeks kursus Learnext.",
+		"created_at" : "2025-06-12 09:34:26"
+	},
+	{
+		"chat_session_id" : "d7095dae-473b-11f0-b6e7-1e4d7ed2ea46",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-12 10:18:34"
+	},
+	{
+		"chat_session_id" : "9011db97-475a-11f0-bff5-22f26515f8a7",
+		"summary_title" : "Diskusi tentang Learnext",
+		"summary_content" : "User bertanya tentang 'learnext', dan avatar menjelaskan bahwa tidak memiliki informasi spesifik tentang 'learnext'. Avatar menyarankan bahwa jika 'learnext' adalah platform pembelajaran atau pengembangan keterampilan, avatar dapat membantu dengan informasi tentang pengembangan keterampilan atau perencanaan jalur pembelajaran. Avatar meminta user untuk memberikan lebih banyak konteks tentang 'learnext' agar dapat memberikan panduan yang lebih tepat.",
+		"created_at" : "2025-06-12 14:00:09"
+	},
+	{
+		"chat_session_id" : "e93e806a-475a-11f0-a22c-a27398b5767b",
+		"summary_title" : "Penjelasan tentang Learnext",
+		"summary_content" : "User bertanya tentang Learnext, dan avatar menjelaskan bahwa Learnext adalah platform pembelajaran yang membantu individu mengembangkan keterampilan dan pengetahuan secara efektif. Platform ini menawarkan kursus dan sumber daya online yang fleksibel dan dapat disesuaikan dengan kebutuhan pengguna.",
+		"created_at" : "2025-06-12 14:03:14"
+	},
+	{
+		"chat_session_id" : "635a113f-475b-11f0-b6e7-1e4d7ed2ea46",
+		"summary_title" : "Review and Debugging of Certificate Generation Code",
+		"summary_content" : "The user shared a code snippet for generating a certificate for a course, and the AI provided feedback on potential issues and improvements. Key points include ensuring proper user authentication, verifying the API endpoint and service initialization, handling API responses correctly, enhancing logging for debugging, and managing errors with detailed information. The AI also suggested checking the response format and validating data before returning it to the user.",
+		"created_at" : "2025-06-12 14:07:11"
+	},
+	{
+		"chat_session_id" : "d318e530-475e-11f0-bff5-22f26515f8a7",
+		"summary_title" : "Tips Menjaga Passion dalam Pekerjaan",
+		"summary_content" : "User adalah seorang marketing di Kweiyo Indonesia yang ingin mengetahui cara menjaga passion dalam pekerjaannya. Avatar memberikan beberapa saran, seperti menetapkan tujuan yang jelas, terus belajar dan berkembang, networking, menantang diri sendiri, serta refleksi dan evaluasi. Avatar juga merekomendasikan kursus 'Digital Marketing Essentials' dan 'SEO Fundamentals' di Learnext untuk meningkatkan keterampilan pemasaran user.",
+		"created_at" : "2025-06-12 14:30:58"
+	},
+	{
+		"chat_session_id" : "9e4567d0-4762-11f0-b6e7-1e4d7ed2ea46",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-12 14:56:05"
+	},
+	{
+		"chat_session_id" : "ce2d04bf-4770-11f0-b6e7-1e4d7ed2ea46",
+		"summary_title" : "Diskusi tentang Marketing dan Resep Masakan",
+		"summary_content" : "User adalah seorang marketing di perusahaan taksi dan bertanya kepada AI avatar tentang siapa yang harus dipelajari di dunia marketing saat ini. Avatar merekomendasikan untuk mempelajari strategi digital marketing, SEO, manajemen media sosial, dan analisis data, serta menyarankan beberapa kursus di Learnext. User kemudian mengalihkan topik ke resep nasi goreng untuk makan malam, tetapi avatar menjelaskan bahwa ia hanya dapat merekomendasikan kursus terkait manajemen bisnis kuliner atau pemasaran makanan.",
+		"created_at" : "2025-06-12 16:39:38"
+	},
+	{
+		"chat_session_id" : "b7fa975e-4776-11f0-97c7-b270459ee004",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-12 17:19:45"
+	},
+	{
+		"chat_session_id" : "8b7f4cdf-4781-11f0-a70b-6a95717ef9a3",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-12 18:38:17"
+	},
+	{
+		"chat_session_id" : "bcf8ed48-4781-11f0-b7fd-6632b8e547a5",
+		"summary_title" : "Menghadapi Senior dan Membuat Kopi di Tempat Kerja",
+		"summary_content" : "Dalam percakapan ini, seorang operator pabrik berbicara dengan NEXA, AI coach, tentang cara menghadapi senior di tempat kerja. NEXA memberikan beberapa tips, seperti mendengarkan dengan seksama, menunjukkan rasa hormat, dan menawarkan kolaborasi. Selain itu, operator pabrik juga mengungkapkan ketidaknyamanan ketika sering diminta membuat kopi oleh senior. NEXA menyarankan untuk mengkomunikasikan perasaan dengan sopan dan menawarkan alternatif bantuan. Jika masalah berlanjut, disarankan untuk membicarakannya dengan atasan. NEXA juga menawarkan rekomendasi kursus untuk meningkatkan keterampilan komunikasi dan manajemen konflik.",
+		"created_at" : "2025-06-12 18:43:21"
+	},
+	{
+		"chat_session_id" : "3d065519-47c0-11f0-a905-b2cf4135ca28",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-13 02:05:58"
 	}
 ]
