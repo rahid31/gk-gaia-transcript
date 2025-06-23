@@ -9970,5 +9970,527 @@
 		"summary_title" : "Diskusi tentang Pelatihan Guru dan Penggunaan Sistem",
 		"summary_content" : "Percakapan ini membahas tentang pelatihan guru yang melibatkan penilaian, penggunaan sistem seperti Learning Management System (LMS), dan pengembangan emosi. User tampaknya mengalami kebingungan terkait penilaian dan sistem yang digunakan dalam pelatihan. Avatar mencoba membantu dengan menanyakan posisi user dalam pelatihan dan menawarkan bantuan untuk memahami lebih lanjut tentang menu pelatihan, pengelolaan emosi, dan peran penyuluh serta pengawas. Selain itu, diskusi juga mencakup aplikasi besar dari pusat pengembangan ESDM dan layanan terkait uji kompetensi.",
 		"created_at" : "2025-06-17 10:31:44"
+	},
+	{
+		"chat_session_id" : "bf3f72f1-4b2c-11f0-97f9-6e2db0bded05",
+		"summary_title" : "Diskusi Teknologi yang Relevan untuk Marketer di Industri Petro",
+		"summary_content" : "Dalam percakapan ini, seorang pengguna yang bekerja sebagai marketer di perusahaan petro bertanya kepada AI avatar, NEXA, tentang teknologi yang relevan untuk dipelajari. NEXA merekomendasikan beberapa teknologi seperti alat pemasaran digital, automasi pemasaran, analitik data, sistem manajemen konten, CRM, dan dasar-dasar pemrograman. NEXA juga menyarankan beberapa kursus di Learnext untuk mendalami teknologi tersebut. Ketika pengguna bertanya tentang rekomendasi makanan siang, NEXA menyatakan bahwa fokusnya adalah pada program pembelajaran dan menawarkan informasi tentang kursus terkait industri makanan.",
+		"created_at" : "2025-06-17 10:43:11"
+	},
+	{
+		"chat_session_id" : "fd11e6bc-4b2c-11f0-ae96-8259c6cd8036",
+		"summary_title" : "Diskusi tentang Peran dan Tantangan Pengendali Dampak Lingkungan",
+		"summary_content" : "User adalah pengendali dampak lingkungan ahli pertama di Biro PPAS DMLH. AI coach, GAIA, menanyakan tantangan utama yang dihadapi user dalam pekerjaan dan keterampilan yang ingin ditingkatkan. User menyebutkan ketegangan yang dirasakan, dan GAIA menawarkan bantuan dalam pengembangan karier dan keterampilan profesional.",
+		"created_at" : "2025-06-17 10:44:38"
+	},
+	{
+		"chat_session_id" : "fee4a395-4b2d-11f0-96df-821537f2bd43",
+		"summary_title" : "Diskusi tentang KLHS",
+		"summary_content" : "User bertanya kepada AI tentang KLHS, yang dijelaskan oleh AI sebagai Kajian Lingkungan Hidup Strategis. AI menjelaskan bahwa KLHS adalah proses evaluasi dampak lingkungan dari kebijakan, rencana, atau program untuk memastikan aspek lingkungan diperhatikan dalam pengambilan keputusan. AI juga menawarkan bantuan lebih lanjut jika user tertarik mengeksplorasi keterampilan atau kursus terkait KLHS atau aspek lingkungan lainnya.",
+		"created_at" : "2025-06-17 10:50:57"
+	},
+	{
+		"chat_session_id" : "28978b1b-4b2e-11f0-b3da-5e0a6fe58bfa",
+		"summary_title" : "Diskusi tentang Konservasi Keanekaragaman Hayati",
+		"summary_content" : "Percakapan ini membahas tentang pentingnya konservasi keanekaragaman hayati di Indonesia. Avatar menjelaskan bahwa Kehati adalah upaya untuk melindungi dan melestarikan berbagai bentuk kehidupan, termasuk spesies flora dan fauna serta ekosistem mereka. Kegiatan Kehati meliputi perlindungan spesies terancam punah, pemeliharaan habitat alami, pengelolaan sumber daya alam secara berkelanjutan, dan pendidikan masyarakat. Avatar menawarkan untuk mendiskusikan lebih lanjut tentang kontribusi dalam konservasi atau relevansinya dengan karir pengguna.",
+		"created_at" : "2025-06-17 10:52:43"
+	},
+	{
+		"chat_session_id" : "9d951b97-4b2e-11f0-9d65-a218dfff7d5f",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-17 10:53:33"
+	},
+	{
+		"chat_session_id" : "f689b214-4b2f-11f0-be1b-7ad26b9d0c3e",
+		"summary_title" : "Diskusi tentang Kursus dan Sertifikat",
+		"summary_content" : "User, seorang Staf Inspeksi Teknik Statik, berdiskusi dengan AI avatar tentang tanggung jawab pekerjaannya dan menunjukkan minat pada kursus teknik sipil di Learnext. User juga menanyakan tentang sertifikat yang belum diterima setelah menyelesaikan Kelas Meta Spark - AR Fundamentals. Avatar menyarankan untuk menghubungi tim dukungan teknis dan menawarkan bantuan lebih lanjut setelah jam istirahat.",
+		"created_at" : "2025-06-17 11:08:11"
+	},
+	{
+		"chat_session_id" : "cefc9f56-4b30-11f0-b7e9-2ae51ba98a61",
+		"summary_title" : "Diskusi tentang Quality Assurance dan Pencarian Error",
+		"summary_content" : "Percakapan ini membahas tentang cara menemukan dan memperbaiki kesalahan dalam konteks quality assurance. Langkah-langkah yang disarankan meliputi analisis proses, identifikasi standar, pengujian, pengumpulan umpan balik dari pengguna, analisis data, dan perbaikan berkelanjutan. Tujuannya adalah untuk meningkatkan kualitas dan mencegah terulangnya kesalahan di masa depan.",
+		"created_at" : "2025-06-17 11:11:31"
+	},
+	{
+		"chat_session_id" : "5e4cf40c-4b31-11f0-97f9-6e2db0bded05",
+		"summary_title" : "Permintaan Mode Suara",
+		"summary_content" : "User meminta untuk mengubah ke mode voice, tetapi avatar menjelaskan bahwa saat ini hanya dapat berfungsi dalam mode teks. Avatar menekankan fokusnya pada dukungan pengembangan karier melalui percakapan tertulis dan siap membantu user dengan pertanyaan terkait karier.",
+		"created_at" : "2025-06-17 11:14:13"
+	},
+	{
+		"chat_session_id" : "3fd6499b-4b3a-11f0-96df-821537f2bd43",
+		"summary_title" : "Panduan Mendownload Sertifikat",
+		"summary_content" : "User bertanya tentang cara mendownload sertifikat dari sebuah situs web. Avatar, GAIA, meminta klarifikasi mengenai platform atau lembaga yang dimaksud untuk memberikan panduan yang tepat. Setelah user menyebutkan 'di web ini', GAIA menyarankan untuk mengunjungi bagian bantuan atau dukungan di situs tersebut karena fokusnya lebih pada pengembangan karir dan pelatihan profesional.",
+		"created_at" : "2025-06-17 12:17:43"
+	},
+	{
+		"chat_session_id" : "c6c80551-4b40-11f0-a0c0-f691470b75e2",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-17 13:03:31"
+	},
+	{
+		"chat_session_id" : "671e33f1-4b49-11f0-ae96-8259c6cd8036",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-17 14:05:49"
+	},
+	{
+		"chat_session_id" : "c2ff78d1-4b4c-11f0-97f9-6e2db0bded05",
+		"summary_title" : "Diskusi Pengembangan Karir dan Keterampilan",
+		"summary_content" : "Percakapan ini melibatkan seorang pengguna yang berinteraksi dengan AI bernama GAIA. Pengguna tampaknya mencari bantuan terkait pengembangan karir dan keterampilan profesional. GAIA berulang kali menanyakan posisi dan tanggung jawab pengguna di tempat kerja untuk memberikan panduan yang lebih tepat. Meskipun pengguna mengajukan beberapa pertanyaan yang tidak jelas, GAIA tetap fokus pada menawarkan bantuan dalam pengembangan keterampilan seperti komunikasi, kepemimpinan, atau keterampilan teknis, serta merencanakan langkah-langkah untuk mencapai tujuan karir.",
+		"created_at" : "2025-06-17 14:30:38"
+	},
+	{
+		"chat_session_id" : "f6064500-4b4c-11f0-ae96-8259c6cd8036",
+		"summary_title" : "Diskusi Pengembangan Karir dan Keterampilan",
+		"summary_content" : "Percakapan ini melibatkan diskusi antara pengguna dan AI tentang pengembangan karir dan keterampilan. Pengguna awalnya tidak memberikan informasi spesifik tentang posisi atau tanggung jawabnya di tempat kerja. AI memberikan panduan tentang bagaimana mendiskusikan pengembangan karir, termasuk menetapkan tujuan karir, mengidentifikasi keterampilan yang diperlukan, dan membuat rencana pembelajaran. AI juga menawarkan bantuan dalam mengembangkan keterampilan kepemimpinan dan memberikan langkah-langkah untuk meningkatkan keterampilan tersebut. Percakapan berakhir dengan AI meminta klarifikasi lebih lanjut dari pengguna tentang topik yang ingin dibahas.",
+		"created_at" : "2025-06-17 14:33:22"
+	},
+	{
+		"chat_session_id" : "93fe762c-4b52-11f0-b08d-227b28e9264f",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-17 15:12:59"
+	},
+	{
+		"chat_session_id" : "9a52b3a9-4b53-11f0-96df-821537f2bd43",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-17 15:19:20"
+	},
+	{
+		"chat_session_id" : "6b8884ed-4b53-11f0-ba0d-5e3b6a3b504d",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-17 15:19:39"
+	},
+	{
+		"chat_session_id" : "9d7e6f15-4b53-11f0-b3da-5e0a6fe58bfa",
+		"summary_title" : "Diskusi tentang Kebijakan RWP dan Rekomendasi Kursus",
+		"summary_content" : "Fadli, kepala unit divisi Human Capital, bertanya kepada NEXA, AI coach, tentang kebijakan RWP di perusahaannya. NEXA tidak memiliki informasi tentang kebijakan tersebut dalam indeks kursus Learnext, tetapi menawarkan untuk merekomendasikan kursus terkait manajemen sumber daya manusia atau kebijakan perusahaan yang mungkin bermanfaat.",
+		"created_at" : "2025-06-17 15:21:56"
+	},
+	{
+		"chat_session_id" : "6c94ba02-4b55-11f0-97f9-6e2db0bded05",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-17 15:32:37"
+	},
+	{
+		"chat_session_id" : "59a4a6b5-4b57-11f0-9d65-a218dfff7d5f",
+		"summary_title" : "Diskusi tentang Pemahaman Video dan Pembelajaran Interaktif",
+		"summary_content" : "Dalam percakapan ini, pengguna mengalami kesulitan dalam memahami konten video dan mencari bantuan dari AI avatar. Avatar menawarkan bantuan dengan menjelaskan topik atau bagian tertentu dari video jika pengguna memberikan detail lebih lanjut. Selain itu, avatar merekomendasikan kursus dari Learnext yang relevan dengan topik yang dibahas. Pengguna juga menyebutkan tentang pengalaman belajar interaktif atau real-time, dan avatar menawarkan informasi lebih lanjut tentang kursus yang menawarkan pengalaman belajar tersebut.",
+		"created_at" : "2025-06-17 15:45:56"
+	},
+	{
+		"chat_session_id" : "6ffc436f-4b5a-11f0-9d65-a218dfff7d5f",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-17 16:09:17"
+	},
+	{
+		"chat_session_id" : "9862c369-4b75-11f0-ae96-8259c6cd8036",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-17 19:23:54"
+	},
+	{
+		"chat_session_id" : "ff62eaf6-4b76-11f0-9b55-fa26dde95f01",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-17 19:33:22"
+	},
+	{
+		"chat_session_id" : "42d7bd15-4b77-11f0-b08d-227b28e9264f",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-17 19:33:32"
+	},
+	{
+		"chat_session_id" : "46c7580f-4b77-11f0-9d65-a218dfff7d5f",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-17 19:35:54"
+	},
+	{
+		"chat_session_id" : "9da4627d-4b77-11f0-be1b-7ad26b9d0c3e",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-17 19:38:29"
+	},
+	{
+		"chat_session_id" : "17f1d1ce-4b78-11f0-be1b-7ad26b9d0c3e",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-17 19:41:55"
+	},
+	{
+		"chat_session_id" : "1c070c40-4b7a-11f0-9b55-fa26dde95f01",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-17 19:55:55"
+	},
+	{
+		"chat_session_id" : "b9c3b63a-4bd9-11f0-be1b-7ad26b9d0c3e",
+		"summary_title" : "Diskusi tentang Pengembangan Karir dan Keterampilan",
+		"summary_content" : "Percakapan ini melibatkan pengguna yang berinteraksi dengan GAIA, AI coach, mengenai pengembangan karir dan keterampilan. Pengguna tampak bingung dan menanyakan beberapa hal seperti 'KRP' dan 'speakernya'. GAIA berusaha membantu dengan menawarkan informasi dan dukungan terkait pengembangan karir dan keterampilan berbicara di depan umum.",
+		"created_at" : "2025-06-18 07:19:33"
+	},
+	{
+		"chat_session_id" : "02e515ca-4bda-11f0-add4-22e17cfd7354",
+		"summary_title" : "Diskusi tentang KLHS dan Pengembangan Karier",
+		"summary_content" : "Percakapan ini dimulai dengan salam pagi dari user dan avatar. User kemudian menyebutkan 'KLHS', yang dijelaskan oleh avatar sebagai Kajian Lingkungan Hidup Strategis, sebuah proses penilaian dampak lingkungan dari rencana, program, atau kebijakan. Avatar menjelaskan pentingnya KLHS dalam pengambilan keputusan yang mempertimbangkan faktor lingkungan. Setelah penjelasan, user mengucapkan terima kasih, dan avatar menutup percakapan dengan menawarkan bantuan di masa depan.",
+		"created_at" : "2025-06-18 07:21:18"
+	},
+	{
+		"chat_session_id" : "27dc1a2a-4bda-11f0-ba0d-5e3b6a3b504d",
+		"summary_title" : "Diskusi tentang Kebijakan Rencana Pengelolaan (KRP)",
+		"summary_content" : "Percakapan ini dimulai dengan pertanyaan dari pengguna tentang apa itu KRP. Avatar menjelaskan bahwa KRP adalah kebijakan untuk mengatur dan merencanakan pengelolaan sumber daya alam dan lingkungan secara berkelanjutan. Avatar menawarkan bantuan lebih lanjut jika pengguna tertarik pada aspek tertentu dari KRP. Pengguna kemudian tampaknya ingin mengakhiri percakapan, dan avatar mengucapkan terima kasih serta menawarkan bantuan lebih lanjut jika diperlukan.",
+		"created_at" : "2025-06-18 07:21:59"
+	},
+	{
+		"chat_session_id" : "a135af26-4bda-11f0-ae96-8259c6cd8036",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-18 07:25:01"
+	},
+	{
+		"chat_session_id" : "b6cd5b15-4bda-11f0-97f9-6e2db0bded05",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-18 07:25:31"
+	},
+	{
+		"chat_session_id" : "67a30c97-4be0-11f0-ba0d-5e3b6a3b504d",
+		"summary_title" : "Pengembangan Keterampilan dan Daya Pikir Kritis",
+		"summary_content" : "Percakapan ini berfokus pada pengembangan karir dan keterampilan profesional, terutama dalam meningkatkan daya pikir kritis dan pemecahan masalah. Avatar memberikan saran tentang cara meningkatkan keterampilan berpikir kritis, termasuk mengajukan pertanyaan, mengumpulkan informasi, dan menggunakan model pemecahan masalah. Diskusi juga mencakup pentingnya pembelajaran sepanjang hayat, refleksi diri, dan berinteraksi dengan berbagai perspektif untuk meningkatkan daya pikir, terutama bagi individu yang berusia 54 tahun. Avatar menekankan pentingnya pendekatan sistematis dalam menghadapi masalah kompleks dan memberikan langkah-langkah praktis untuk mengembangkan kemampuan berpikir kritis.",
+		"created_at" : "2025-06-18 08:12:50"
+	},
+	{
+		"chat_session_id" : "17c9a8da-4bf2-11f0-97f9-6e2db0bded05",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-18 10:12:54"
+	},
+	{
+		"chat_session_id" : "b7697e9e-4c06-11f0-bd29-b65fc8124c3e",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-18 12:40:50"
+	},
+	{
+		"chat_session_id" : "d6d48826-4c06-11f0-be1b-7ad26b9d0c3e",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-18 12:42:31"
+	},
+	{
+		"chat_session_id" : "0844a918-4c07-11f0-9b55-fa26dde95f01",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-18 12:43:44"
+	},
+	{
+		"chat_session_id" : "40d7f33d-4c11-11f0-b5ee-269de5053776",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-18 13:55:51"
+	},
+	{
+		"chat_session_id" : "3d3f535c-4c1c-11f0-97f9-6e2db0bded05",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-18 15:14:48"
+	},
+	{
+		"chat_session_id" : "c4e421dd-4c1c-11f0-bd29-b65fc8124c3e",
+		"summary_title" : "Rekomendasi Kursus untuk Pekerja di Perusahaan Bimbingan Belajar",
+		"summary_content" : "Dalam percakapan ini, pengguna yang bekerja di perusahaan bimbingan belajar bertanya tentang kursus yang dapat diambil. Avatar NEXA merekomendasikan beberapa kursus di Learnext, termasuk Pengembangan Kurikulum Efektif, Metode Pengajaran Interaktif, Manajemen Kelas, dan Komunikasi dan Negosiasi. Kursus-kursus ini dirancang untuk meningkatkan keterampilan dalam menyusun kurikulum, mengajar, mengelola kelas, dan berkomunikasi dengan siswa serta orang tua.",
+		"created_at" : "2025-06-18 15:19:15"
+	},
+	{
+		"chat_session_id" : "2928e564-4c1d-11f0-ba0d-5e3b6a3b504d",
+		"summary_title" : "Rekomendasi Course untuk Pekerja di Bimbingan Belajar",
+		"summary_content" : "User bertanya kepada AI avatar mengenai course yang bisa diambil untuk pekerja di perusahaan bimbingan belajar. Avatar merekomendasikan beberapa course di Learnext, seperti Pengembangan Kurikulum, Teknik Mengajar yang Efektif, Manajemen Kelas, dan Penerapan Teknologi dalam Pendidikan. Avatar juga menawarkan bantuan untuk merekomendasikan jalur pembelajaran yang lebih spesifik berdasarkan jabatan dan tujuan karir user.",
+		"created_at" : "2025-06-18 15:23:57"
+	},
+	{
+		"chat_session_id" : "7248b240-4c3b-11f0-be1b-7ad26b9d0c3e",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-18 18:57:54"
+	},
+	{
+		"chat_session_id" : "07b6f556-4c8c-11f0-96ea-7a12f9ac5395",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-19 04:34:47"
+	},
+	{
+		"chat_session_id" : "2e0ad967-4cac-11f0-97f9-6e2db0bded05",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-19 08:25:10"
+	},
+	{
+		"chat_session_id" : "9f371c80-4cb2-11f0-a768-96083727654a",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-19 09:11:05"
+	},
+	{
+		"chat_session_id" : "4f56f692-4cb3-11f0-a768-96083727654a",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-19 09:16:14"
+	},
+	{
+		"chat_session_id" : "5ed37e7c-4cb3-11f0-ba0d-5e3b6a3b504d",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-19 09:16:48"
+	},
+	{
+		"chat_session_id" : "753ec457-4cb3-11f0-96ea-7a12f9ac5395",
+		"summary_title" : "Penjelasan KLHS",
+		"summary_content" : "User bertanya kepada AI tentang definisi KLHS. AI menjelaskan bahwa KLHS, atau Kajian Lingkungan Hidup Strategis, adalah proses evaluasi untuk menilai dampak lingkungan dari rencana, kebijakan, dan program yang akan diterapkan. Proses ini melibatkan identifikasi dan evaluasi dampak, partisipasi publik, dan pemberian rekomendasi untuk mitigasi dampak negatif dan memaksimalkan dampak positif.",
+		"created_at" : "2025-06-19 09:17:39"
+	},
+	{
+		"chat_session_id" : "91759d8d-4cb3-11f0-b08d-227b28e9264f",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-19 09:17:55"
+	},
+	{
+		"chat_session_id" : "183b342c-4cb7-11f0-96ea-7a12f9ac5395",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-19 09:43:25"
+	},
+	{
+		"chat_session_id" : "3271e425-4cb8-11f0-b7e9-2ae51ba98a61",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-19 09:50:59"
+	},
+	{
+		"chat_session_id" : "91b10fdb-4cb8-11f0-b5ee-269de5053776",
+		"summary_title" : "Diskusi tentang Posisi Kerja dan Keterampilan Keuangan",
+		"summary_content" : "Percakapan ini dimulai dengan NEXA, AI coach, yang menanyakan posisi dan tanggung jawab pengguna di tempat kerja untuk memberikan bantuan yang lebih tepat. Pengguna kemudian menanyakan tentang 'tindis', yang tidak jelas konteksnya, dan NEXA meminta klarifikasi lebih lanjut. Selanjutnya, pengguna bertanya tentang perbedaan antara kajian keuangan hidup strategis dan bantuan yang diberikan oleh NEXA. NEXA menjelaskan bahwa fokusnya adalah pada pengembangan karir dan keterampilan profesional, sementara kajian keuangan hidup strategis lebih berfokus pada perencanaan dan pengelolaan keuangan. NEXA menawarkan bantuan dalam meningkatkan keterampilan terkait keuangan dalam konteks karir pengguna.",
+		"created_at" : "2025-06-19 09:54:11"
+	},
+	{
+		"chat_session_id" : "bf1edd43-4cb8-11f0-a768-96083727654a",
+		"summary_title" : "Perbedaan Kajian Lingkungan Hidup Strategis dan NEXA",
+		"summary_content" : "Percakapan ini membahas perbedaan antara Kajian Lingkungan Hidup Strategis (KLHS) dan NEXA, sebuah AI Career Coach. KLHS bertujuan untuk menilai dampak lingkungan dari kebijakan dan program, dengan fokus pada keberlanjutan dan perlindungan lingkungan. Sementara itu, NEXA berfokus pada pengembangan karir dan keterampilan profesional, membantu individu merancang rencana pembelajaran dan mencapai tujuan karir.",
+		"created_at" : "2025-06-19 09:56:16"
+	},
+	{
+		"chat_session_id" : "41c4d8a9-4cb9-11f0-b08d-227b28e9264f",
+		"summary_title" : "Proses dan Keterampilan dalam Kajian Lingkungan Hidup Strategis (KLHS)",
+		"summary_content" : "Percakapan ini membahas tentang proses Kajian Lingkungan Hidup Strategis (KLHS) dalam konteks pembangunan di bidang lingkungan hidup. Langkah-langkah umum dalam proses KLHS meliputi identifikasi tujuan dan ruang lingkup, pengumpulan data awal, analisis dampak lingkungan, konsultasi publik, pengembangan rekomendasi, penyusunan laporan KLHS, serta monitoring dan evaluasi. Setiap langkah dikaitkan dengan keterampilan yang relevan, seperti analisis, komunikasi, dan pemecahan masalah. Avatar menawarkan bantuan untuk mengembangkan keterampilan di area ini atau menyusun rencana belajar.",
+		"created_at" : "2025-06-19 10:00:21"
+	},
+	{
+		"chat_session_id" : "e29eac7c-4cb9-11f0-b7e9-2ae51ba98a61",
+		"summary_title" : "Diskusi Pengembangan Karir",
+		"summary_content" : "User berinteraksi dengan AI coach bernama NEXA untuk mendiskusikan pengembangan karir. Namun, terdapat kebingungan dalam komunikasi, dan AI meminta klarifikasi lebih lanjut mengenai posisi dan tujuan karir user agar dapat memberikan bantuan yang lebih tepat. AI juga menanyakan keterampilan atau area yang ingin ditingkatkan oleh user untuk membantu merencanakan langkah-langkah yang tepat.",
+		"created_at" : "2025-06-19 10:03:38"
+	},
+	{
+		"chat_session_id" : "c1fbf758-4cc0-11f0-8104-e6b73f87ade7",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-19 10:52:09"
+	},
+	{
+		"chat_session_id" : "686c8453-4cd4-11f0-a768-96083727654a",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-19 13:14:01"
+	},
+	{
+		"chat_session_id" : "a4f5fc67-4ce7-11f0-b08d-227b28e9264f",
+		"summary_title" : "Diskusi tentang Rekomendasi Kendaraan",
+		"summary_content" : "Pengguna bertanya kepada AI avatar tentang perbandingan antara Yamaha Mio dan Honda Beat. Namun, AI avatar menjelaskan bahwa ia adalah spesialis dalam program pembelajaran Learnext dan tidak dapat memberikan saran tentang kendaraan. AI avatar menawarkan untuk merekomendasikan kursus terkait teknologi atau bisnis di Learnext jika pengguna tertarik.",
+		"created_at" : "2025-06-19 15:31:27"
+	},
+	{
+		"chat_session_id" : "e26c2150-4d75-11f0-a052-a61cac0e450e",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-20 08:28:56"
+	},
+	{
+		"chat_session_id" : "e9e231a4-4d86-11f0-b36a-aab5256707e8",
+		"summary_title" : "Diskusi tentang Laporan Satgas dan Kursus Pengembangan",
+		"summary_content" : "Dalam percakapan ini, Nisha, seorang ASN di Kementerian Perdagangan, bertanya kepada NEXA, AI coach, tentang cara membuat laporan satuan tugas (Satgas) di akhir tahun. NEXA memberikan langkah-langkah rinci untuk menyusun laporan tersebut, termasuk menentukan struktur laporan, mengumpulkan data, menganalisis kegiatan, menulis rekomendasi, menyusun kesimpulan, dan memastikan format yang baik. NEXA juga menawarkan rekomendasi kursus di Learnext untuk meningkatkan keterampilan manajemen proyek dan penulisan laporan. Selain itu, Nisha bertanya tentang resep rendang, namun NEXA mengarahkan fokus pada kursus terkait manajemen kuliner atau bisnis restoran di Learnext.",
+		"created_at" : "2025-06-20 10:33:08"
+	},
+	{
+		"chat_session_id" : "0e1c4c59-4d88-11f0-be75-ba20add94707",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-20 10:38:57"
+	},
+	{
+		"chat_session_id" : "f209a653-4d87-11f0-acfc-be3d074b54df",
+		"summary_title" : "Panduan Pengembangan Karir untuk Junior Engineer",
+		"summary_content" : "Dalam percakapan ini, seorang pengguna yang bekerja sebagai Junior Engineer berinteraksi dengan NEXA, AI coach. NEXA memberikan saran tentang langkah-langkah pengembangan karir, termasuk meningkatkan keterampilan teknis, mencari mentor, mengikuti pelatihan, berpartisipasi dalam proyek, dan mengembangkan soft skills. Pengguna juga menanyakan tentang file analisis data di Halotech Academy, namun NEXA tidak memiliki informasi tersebut dan menawarkan rekomendasi kursus analisis data dari Learnext.",
+		"created_at" : "2025-06-20 10:42:16"
+	},
+	{
+		"chat_session_id" : "c76e5151-4d88-11f0-9f84-ae32b2f27a15",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-20 10:44:08"
+	},
+	{
+		"chat_session_id" : "23200d3f-4d9f-11f0-9d47-f624c768c247",
+		"summary_title" : "Diskusi tentang Assignment dan Dukungan Teknis",
+		"summary_content" : "Pengguna mengalami masalah teknis dengan 'assignment cv styles' dan telah diteruskan ke tim dukungan Learnext. Avatar menawarkan bantuan lebih lanjut dengan merekomendasikan kursus terkait desain CV dan peningkatan profil profesional. Pengguna menyatakan keinginan untuk menjawab assignment, dan avatar meminta detail lebih lanjut untuk memberikan bantuan yang tepat.",
+		"created_at" : "2025-06-20 13:25:13"
+	},
+	{
+		"chat_session_id" : "bf8d1659-4da6-11f0-9d47-f624c768c247",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-20 14:18:41"
+	},
+	{
+		"chat_session_id" : "81b33440-4da7-11f0-9666-e6f3a540dc74",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-20 14:24:42"
+	},
+	{
+		"chat_session_id" : "acad1fcc-4da7-11f0-9d47-f624c768c247",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-20 14:25:19"
+	},
+	{
+		"chat_session_id" : "a8cf76d6-4da8-11f0-9666-e6f3a540dc74",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-20 14:32:23"
+	},
+	{
+		"chat_session_id" : "a803cfe2-4daa-11f0-87bf-d68ad56e05a8",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-20 14:46:29"
+	},
+	{
+		"chat_session_id" : "74239542-4db1-11f0-be75-ba20add94707",
+		"summary_title" : "Diskusi Tentang Perbedaan Kebijakan, Rencana, dan Program",
+		"summary_content" : "Percakapan ini melibatkan diskusi antara pengguna dan AI coach bernama NEXA. Pengguna bertanya tentang perbedaan antara kebijakan, rencana, dan program. NEXA menjelaskan bahwa kebijakan adalah panduan atau prinsip untuk mengatur keputusan, rencana adalah langkah-langkah terperinci untuk mencapai tujuan kebijakan, dan program adalah serangkaian kegiatan untuk mencapai tujuan dalam kerangka rencana. Setelah penjelasan, pengguna menyatakan pemahaman mereka dan NEXA menawarkan untuk mendiskusikan penerapan konsep ini dalam konteks pekerjaan pengguna.",
+		"created_at" : "2025-06-20 15:36:26"
+	},
+	{
+		"chat_session_id" : "d02050ee-4de8-11f0-9666-e6f3a540dc74",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-20 22:11:38"
+	},
+	{
+		"chat_session_id" : "08662b3b-4e97-11f0-acfa-1e5782568718",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-21 18:58:32"
+	},
+	{
+		"chat_session_id" : "2846b7ba-4ea8-11f0-9666-e6f3a540dc74",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-21 21:01:06"
+	},
+	{
+		"chat_session_id" : "a3f1ba2e-4eaf-11f0-87bf-d68ad56e05a8",
+		"summary_title" : "Tanggung Jawab Assistant Vice President (AVP)",
+		"summary_content" : "Percakapan ini membahas tanggung jawab seorang Assistant Vice President (AVP) yang meliputi pengawasan tim, strategi dan perencanaan, kepemimpinan, pengelolaan proyek, kolaborasi antar departemen, dan analisis kinerja. Avatar juga merekomendasikan kursus 'Leadership Essentials' dan 'Project Management Fundamentals' di Learnext untuk memperdalam pengetahuan tentang manajemen dan pengembangan kepemimpinan.",
+		"created_at" : "2025-06-21 21:56:40"
+	},
+	{
+		"chat_session_id" : "4a7095a1-4eb1-11f0-bc53-2a868925f88c",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-21 22:06:42"
+	},
+	{
+		"chat_session_id" : "5f9df8a9-4ed8-11f0-a65d-063911dac2ec",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-22 02:46:23"
+	},
+	{
+		"chat_session_id" : "7de5ff02-4efc-11f0-9d47-f624c768c247",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-22 07:05:09"
+	},
+	{
+		"chat_session_id" : "94248389-4efc-11f0-8aa3-b20114b6a4e2",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-22 07:05:25"
+	},
+	{
+		"chat_session_id" : "e8732c33-4f7a-11f0-a65d-063911dac2ec",
+		"summary_title" : "Diskusi Pengembangan Karier dan Motivasi",
+		"summary_content" : "Percakapan dimulai dengan avatar NEXA yang menanyakan posisi dan tanggung jawab user di tempat kerja untuk memberikan bantuan yang lebih tepat. User tampak tidak tertarik untuk membahas topik tersebut. NEXA kemudian menawarkan bantuan dalam pengembangan karier dan keterampilan profesional, serta mencoba memotivasi user yang merasa malas atau tidak termotivasi dengan menawarkan tips atau aktivitas kecil untuk membangkitkan semangat.",
+		"created_at" : "2025-06-22 22:10:48"
+	},
+	{
+		"chat_session_id" : "7e082ca9-4f7b-11f0-9d47-f624c768c247",
+		"summary_title" : "Percakapan tentang Posisi dan Tanggung Jawab di Tempat Kerja",
+		"summary_content" : "Dalam percakapan ini, NEXA, AI coach, menanyakan posisi dan tanggung jawab pengguna di tempat kerja untuk memberikan bantuan yang lebih tepat. Namun, pengguna merasa malas untuk menjawab. NEXA kemudian menawarkan bantuan dalam pengembangan karir atau keterampilan jika pengguna tertarik untuk mendiskusikan topik tertentu.",
+		"created_at" : "2025-06-22 22:14:57"
+	},
+	{
+		"chat_session_id" : "777e46c3-4f7d-11f0-9666-e6f3a540dc74",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-22 22:30:26"
+	},
+	{
+		"chat_session_id" : "dc0a0649-4fd3-11f0-816f-caaeb10c843d",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-23 08:46:26"
+	},
+	{
+		"chat_session_id" : "f10cf914-4fd6-11f0-8141-2a1e1db4bc6f",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-23 09:08:33"
+	},
+	{
+		"chat_session_id" : "16674096-4fd7-11f0-8aa3-b20114b6a4e2",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-23 09:09:35"
+	},
+	{
+		"chat_session_id" : "c42148a3-4fd7-11f0-b36a-aab5256707e8",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-23 09:15:34"
+	},
+	{
+		"chat_session_id" : "f4dfd1b6-4fd7-11f0-acfc-be3d074b54df",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-23 09:16:43"
+	},
+	{
+		"chat_session_id" : "db3f79be-4fd8-11f0-816f-caaeb10c843d",
+		"summary_title" : "",
+		"summary_content" : "",
+		"created_at" : "2025-06-23 09:22:37"
 	}
 ]
