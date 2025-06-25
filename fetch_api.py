@@ -3,15 +3,16 @@ import json
 import requests
 import pandas as pd
 from dotenv import load_dotenv
+import streamlit as st
 
 # Load environment variables
 load_dotenv()
 
 def fetch_and_flatten_chat_data():
     # Step 1: Fetch data from API
-    URL = os.getenv("URL")
+    URL = st.secret["URL"]
     HEADERS = {
-        "X-Course-Secret-Key": os.getenv("SECRET_KEY")
+        "X-Course-Secret-Key": st.secrets["SECRET_KEY"]
     }
 
     response = requests.get(URL, headers=HEADERS)
