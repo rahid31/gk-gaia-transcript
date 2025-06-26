@@ -49,8 +49,8 @@ def fetch_and_flatten_chat_data():
 
     # Step 7: Select relevant columns
     keep_columns = [
-        'chat_session_id', 'user_id', 'start_chat', 'end_chat',
-        'tenant_slug', 'user_id', 'user_email',
+        'chat_session_id', 'start_chat', 'end_chat', 'user_id',
+        'user_email', 'tenant_slug', 'summary_title', 'summary_content',
         'msg_user', 'msg_avatar'
     ]
     df_final = df_final[keep_columns]

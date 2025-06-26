@@ -23,6 +23,7 @@ st.markdown("""
     .st-emotion-cache-z5fcl4 { display: none; }
     .viewerBadge_container__1QSob {display: none !important;}
     .stDeployButton {display: none !important;}
+    [data-testid="stThemeToggle"] { display: none !important; } /* hides theme toggle */
     </style>
 """, unsafe_allow_html=True)
 
