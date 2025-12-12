@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from fetch_api import fetch_and_flatten_chat_data
+from fetch_api import fetch_and_flatten_chat_data_trial
 
 # Avatar/Icon paths
 user_url = "data/image/user-square-1024.webp"
@@ -33,7 +33,7 @@ session_id = query_params.get("session_id", [""])[0] if isinstance(query_params.
 # Load all chat data once
 @st.cache_data
 def load_chat_data():
-    return fetch_and_flatten_chat_data()
+    return fetch_and_flatten_chat_data_trial()
 
 df_all = load_chat_data()
 
