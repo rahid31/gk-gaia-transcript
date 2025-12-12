@@ -10,7 +10,7 @@ load_dotenv()
 
 def fetch_and_flatten_chat_data():
     # Step 1: Fetch data from API
-    URL = st.secrets(["URL"])
+    URL = st.secrets["URL"]
     # URL = os.getenv("URL")
     HEADERS = {
         "X-Course-Secret-Key": st.secrets["SECRET_KEY"]
